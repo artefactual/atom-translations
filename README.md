@@ -7,9 +7,9 @@ How this repo works
 -------------------
 
 Each non-master branch should correspond to an AtoM version. Switch to, or
-create, the appropriate branch for the AtoM version being worked with.
+create, the appropriate branch for the AtoM major version being worked with.
 
-Branch name example: `2.5`
+Branch name example: `2.5.x`
 
 Migration scripts
 -----------------
