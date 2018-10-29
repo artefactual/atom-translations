@@ -3,6 +3,14 @@
 XLIFF files for AtoM that have been converted so the style of the XLIFF is
 the same as the style Weblate produces.
 
+How this repo works
+-------------------
+
+Each non-master branch should correspond to an AtoM version. Switch to, or
+create, the appropriate branch for the AtoM version being worked with.
+
+Branch name example: `2.5`
+
 Migration scripts
 -----------------
 
