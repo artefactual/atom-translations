@@ -109,9 +109,9 @@
         <target>%1% área de metadatos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2a2ec2e234e4b8e3f8cc1c0e3e2156227487c5ac">
+      <trans-unit id="2a2ec2e234e4b8e3f8cc1c0e3e2156227487c5ac" approved="no">
         <source>%1% more</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/browse/templates/hierarchySuccess.php</note>
+        <target state="translated">%1% más</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/browse/templates/hierarchySuccess.php</note>
       </trans-unit>
       <trans-unit id="047ebf84377952fd73b938a0795d3bee17f8687c" approved="yes" translated="yes">
         <source>%1% name</source>
@@ -316,9 +316,9 @@
         <target>Agregar %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editRepositoryAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ad2d7898a708aa8ba66717f60d65641cb3ddb9e0">
+      <trans-unit id="ad2d7898a708aa8ba66717f60d65641cb3ddb9e0" approved="no">
         <source>Add alternative identifier(s)</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_identifierOptions.php</note>
+        <target state="translated">Añadir identificador(es) alternativo(s)</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_identifierOptions.php</note>
       </trans-unit>
       <trans-unit id="9f780ca0f3cbaf61d43c297030552bdee2a5bf50" approved="yes" translated="yes">
         <source>Add an alpha-numeric code to uniquely identify this particular OAI repository within its network domain to create a unique, OAI-compliant identifier, e.g. oai:foo.org:repositorycode_10001</source>
@@ -601,9 +601,9 @@
         <target>Notas del archivero</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c5c2e402c80913c5840061d9314cb274015c1e71">
+      <trans-unit id="c5c2e402c80913c5840061d9314cb274015c1e71" approved="no">
         <source>Are you sure you want to clear the %1 clipboard ?</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardClearSuccess.php</note>
+        <target state="translated">¿Está seguro de que quiere vaciar el %1 portapapeles?</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardClearSuccess.php</note>
       </trans-unit>
       <trans-unit id="3d973d2e6ab5791a4af8f60b4a75b0d86fb46a61" approved="yes" translated="yes">
         <source>Are you sure you want to delete %1% and all its descendants?</source>
@@ -615,9 +615,9 @@
         <target>¿Está seguro de que quiere borrar %1%?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/staticpage/templates/deleteSuccess.php</note>
       </trans-unit>
-      <trans-unit id="13ef212fe1093a2cfb9a53ab4fda5a5f442baf1e">
+      <trans-unit id="13ef212fe1093a2cfb9a53ab4fda5a5f442baf1e" approved="no">
         <source>Are you sure you want to delete the %1% linked to %2%?</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/deleteSuccess.php</note>
+        <target state="translated">¿Está seguro de que desea eliminar el %1% enlace a %2%?</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="871f7c9ccdc06c349daaa27cbddb8f4c05a0e6e4">
         <source>Are you sure you want to delete the finding aid of %1%?</source>
@@ -4930,17 +4930,17 @@
         <source>or, create a new date range</source>
         <target/>
       </trans-unit>
-      <trans-unit id="c6328f0c08059e2984280e71ef824e40f5761f9e">
+      <trans-unit id="c6328f0c08059e2984280e71ef824e40f5761f9e" approved="no">
         <source>Select the new date type:</source>
-        <target/>
+        <target state="translated">Seleccione el nuevo tipo de fecha:</target>
       </trans-unit>
-      <trans-unit id="36bfaa93cb2ca7a8791fe3dd4fb2370604a6b71a">
+      <trans-unit id="36bfaa93cb2ca7a8791fe3dd4fb2370604a6b71a" approved="no">
         <source>No entity type specified.</source>
-        <target/>
+        <target state="translated">Sin tipo de entidad especificada.</target>
       </trans-unit>
-      <trans-unit id="72d313b243d53986d85e7e01a166a56e9459e136">
+      <trans-unit id="72d313b243d53986d85e7e01a166a56e9459e136" approved="no">
         <source>%1% %2% results for %3%</source>
-        <target/>
+        <target state="translated">%1% %2% resultados de %3%</target>
       </trans-unit>
     </body>
   </file>
