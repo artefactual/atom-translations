@@ -504,9 +504,9 @@ Például: oai:foo.org:repositorycode_10001</target>
         <target>Engedélyez</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="20a61b49fb16be8008aef5aad33e3f6c1c0ebf5b">
+      <trans-unit id="20a61b49fb16be8008aef5aad33e3f6c1c0ebf5b" approved="no">
         <source>Allow any valid URI PATH segment character to appear in a slug, including UTF-8 glyphs. Restricted IRI characters ( /?#{} ) and literal spaces will be replaced with dashes</source>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Minden érvényes URI PATH szegmens karakter engedélyezése a slugban, beleértve UTF-8 jeleket is. Az IRI karakterek (/?#{} ) korlátozva vannak, és a szóközök kötőjelekre lesznek cserélve.</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="19c2371f978067e85c99e10fecb57b3438930f2f" approved="yes" translated="yes">
         <source>Allow unlimited uploads</source>
@@ -911,9 +911,9 @@ reference/thumbnail representation?</target>
         <target>Inaktív munkák/feladatok törlése</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b7b743f536d97b8573750e05b4ac448792b8f3bf">
+      <trans-unit id="b7b743f536d97b8573750e05b4ac448792b8f3bf" approved="no">
         <source>Click 'Calculate dates' to recalculate the start and end dates of a parent-level description. A job runs in the background, accounting for the earliest and most recent dates across all the child descriptions. The results display in the Start and End fields of the edit page.</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
+        <target state="translated">Klikkeljünk a "Dátumok kiszámolása"-ra, hogy újraszámoljuk a szülő levéltári leírás kezdő és záró dátumát. Ezzel egy munkafolyamat indul el a háttérben, ami számba veszi a gyermek leírások legkorábbi és legkésőbbi dátumait. Az eredmény a szerkesztő oldal Kezdet és Vég mezőiben látható.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
       </trans-unit>
       <trans-unit id="8018bc225b776673ea47049f6cd786103ef99324" approved="yes" translated="yes">
         <source>Click Confirm to delete this physical storage from the system. This will also remove the physical storage location from the following records:</source>
@@ -1145,9 +1145,9 @@ reference/thumbnail representation?</target>
         <target>DIP feltöltés beállítások</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/dipUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="cba10501958b88d3898d4628b83793d3586deebd">
+      <trans-unit id="cba10501958b88d3898d4628b83793d3586deebd" approved="no">
         <source>DIP upload settings saved.</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/dipUploadAction.class.php</note>
+        <target state="translated">DIP feltöltés elmentve.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/dipUploadAction.class.php</note>
       </trans-unit>
       <trans-unit id="eb9a4bc1c0c153e4e4b042a79113b815b7e3021d" approved="yes" translated="yes">
         <source>Date</source>
@@ -1159,13 +1159,13 @@ reference/thumbnail representation?</target>
         <target>Dátum (a kezdődátum alapján)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/itemOrFileListAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f40b04215da44b7efbff8487752bdfb118ff634f">
+      <trans-unit id="f40b04215da44b7efbff8487752bdfb118ff634f" approved="no">
         <source>Date calculation started.</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/calculateDatesAction.class.php</note>
+        <target state="translated">Dátum kalkuláció elkezdődött.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/calculateDatesAction.class.php</note>
       </trans-unit>
-      <trans-unit id="dcef8297cd84445acb4ad6b84e674163d3d9765e">
+      <trans-unit id="dcef8297cd84445acb4ad6b84e674163d3d9765e" approved="no">
         <source>Date modified</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/indexSuccess.php</note>
+        <target state="translated">Dátum módosítva</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="e7524489c7d79906fb0745b5b75b75931ba172c8" approved="yes" translated="yes">
         <source>Date of</source>
@@ -1217,9 +1217,9 @@ reference/thumbnail representation?</target>
         <target>Alapértelmezett oldal elemek</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="0d87d25d35fcc7ae2c75ba5bf7045732c1e9f408">
+      <trans-unit id="0d87d25d35fcc7ae2c75ba5bf7045732c1e9f408" approved="no">
         <source>Default page elements saved.</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/pageElementsAction.class.php</note>
+        <target state="translated">Alapértelmezett oldal összetevők elmentve.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/pageElementsAction.class.php</note>
       </trans-unit>
       <trans-unit id="7b11c709db14804c8850e83c01b6e7433423e830" approved="yes" translated="yes">
         <source>Default publication status</source>
@@ -1241,9 +1241,9 @@ reference/thumbnail representation?</target>
         <target>Alapértelmezett űrlap</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="2147a217c9f8f4d56b0b2e236ab2ae0f34662e5a">
+      <trans-unit id="2147a217c9f8f4d56b0b2e236ab2ae0f34662e5a" approved="no">
         <source>Default templates saved.</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/templateAction.class.php</note>
+        <target state="translated">Alapértelmezett minták elmentve.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/templateAction.class.php</note>
       </trans-unit>
       <trans-unit id="f6fdbe48dc54dd86f63097a03bd24094dedd713a" approved="yes" translated="yes">
         <source>Delete</source>
@@ -1285,9 +1285,9 @@ reference/thumbnail representation?</target>
         <target>Megtagad</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editInformationObjectAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="36377adf43984d298439110cf96f95529471c501">
+      <trans-unit id="36377adf43984d298439110cf96f95529471c501" approved="no">
         <source>Descending</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_sortPickers.php</note>
+        <target state="translated">Csökkenő</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_sortPickers.php</note>
       </trans-unit>
       <trans-unit id="a838ddbafbc0a8995e1379a957b61128964ffe4c" approved="yes" translated="yes">
         <source>Describe the nature of the relationship between the function and the related resource. (ISDF 6.2)</source>
@@ -1314,9 +1314,9 @@ reference/thumbnail representation?</target>
         <target>A leírás frissítve van.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/renameAction.class.php</note>
       </trans-unit>
-      <trans-unit id="a062a7b2869f26c0d3fc4bbd38941f3aa5be9457">
+      <trans-unit id="a062a7b2869f26c0d3fc4bbd38941f3aa5be9457" approved="no">
         <source>Determines whether to show a link to the browse hierarchy page on the information objects browse/search pages</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
+        <target state="translated">Meghatározza, hogy mutasson-e linket a hierarchikus oldalra az böngészés/keresés oldalakon</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="1960d8900caf58abb54302c86ed8315cfbc2d3d3" approved="yes" translated="yes">
         <source>Determines whether to sort siblings in the information object treeview control and, if so, what sort criteria to use</source>
