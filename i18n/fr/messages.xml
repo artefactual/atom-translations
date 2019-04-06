@@ -724,9 +724,9 @@
         <target>Base pour les autorisations ou pour les restrictions de droits</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="23fda70b6be2e72e7a8739da8feab5f4302718bd">
+      <trans-unit id="23fda70b6be2e72e7a8739da8feab5f4302718bd" approved="no">
         <source>Bind Lookup Attribute</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/ldapSuccess.php</note>
+        <target state="translated">Lier l'attribut de recherche</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/ldapSuccess.php</note>
       </trans-unit>
       <trans-unit id="bafa13b789066310abe28577644115741da38ed8" approved="yes" translated="yes">
         <source>Biographical history</source>
@@ -1602,9 +1602,9 @@
         <target>Activer la journalisation des modifications de description</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="d6395f068ba11d205da4a6492fefdd088ee4ecea">
+      <trans-unit id="d6395f068ba11d205da4a6492fefdd088ee4ecea" approved="no">
         <source>Enable institutional scoping</source>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Autoriser la détermination de la portée institutionnelle</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="fd2fd26a6dc130f42bca70c8faa57e4fb944c582" approved="yes" translated="yes">
         <source>Enable or disable the display of certain page elements. Unless they have been overridden by a specific theme, these settings will be used site wide.</source>
@@ -5140,21 +5140,21 @@
         <source>Please make a selection.</source>
         <target state="translated">Merci de faire un choix.</target>
       </trans-unit>
-      <trans-unit id="2a6b62e341e9619ada4d7b5545cde10e2d84aa07">
+      <trans-unit id="2a6b62e341e9619ada4d7b5545cde10e2d84aa07" approved="no">
         <source>Update an existing date range</source>
-        <target/>
+        <target state="translated">Mettre à jour une plage de dates existante</target>
       </trans-unit>
-      <trans-unit id="7da6e95c1b0869b6ebd19f3fe65e838aa569cc34">
+      <trans-unit id="7da6e95c1b0869b6ebd19f3fe65e838aa569cc34" approved="no">
         <source>Select a date range to overwrite:</source>
-        <target/>
+        <target state="translated">Sélectionnez une plage de dates à écraser :</target>
       </trans-unit>
-      <trans-unit id="809193e142e7b213b8853749f78aa4d47f200436">
+      <trans-unit id="809193e142e7b213b8853749f78aa4d47f200436" approved="no">
         <source>Updating an existing date range will permanently overwrite the current dates.</source>
-        <target/>
+        <target state="translated">La mise à jour d'une plage de dates existante écrase définitivement les dates actuelles.</target>
       </trans-unit>
-      <trans-unit id="1627dc1d38a74d13aae0d602bc56d416d0e53133">
+      <trans-unit id="1627dc1d38a74d13aae0d602bc56d416d0e53133" approved="no">
         <source>or, create a new date range</source>
-        <target/>
+        <target state="translated">ou, créer une nouvelle plage de dates</target>
       </trans-unit>
       <trans-unit id="c6328f0c08059e2984280e71ef824e40f5761f9e" approved="no">
         <source>Select the new date type:</source>
