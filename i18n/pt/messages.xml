@@ -112,9 +112,9 @@
         <target>%1% área de metadados</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2a2ec2e234e4b8e3f8cc1c0e3e2156227487c5ac">
+      <trans-unit id="2a2ec2e234e4b8e3f8cc1c0e3e2156227487c5ac" approved="no">
         <source>%1% more</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/browse/templates/hierarchySuccess.php</note>
+        <target state="translated">%1% mais</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/browse/templates/hierarchySuccess.php</note>
       </trans-unit>
       <trans-unit id="047ebf84377952fd73b938a0795d3bee17f8687c" approved="yes" translated="yes">
         <source>%1% name</source>
@@ -506,9 +506,9 @@
         <target>Permitir</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="20a61b49fb16be8008aef5aad33e3f6c1c0ebf5b">
+      <trans-unit id="20a61b49fb16be8008aef5aad33e3f6c1c0ebf5b" approved="no">
         <source>Allow any valid URI PATH segment character to appear in a slug, including UTF-8 glyphs. Restricted IRI characters ( /?#{} ) and literal spaces will be replaced with dashes</source>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Permitir no slug qualquer caracter válido de segmento URI PATH, incluindo glifos UTF-8. Caracteres IRI restritos ( /?#{} ) e espaços serão substituídos por traços</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="19c2371f978067e85c99e10fecb57b3438930f2f" approved="yes" translated="yes">
         <source>Allow unlimited uploads</source>
@@ -640,18 +640,18 @@
         <target>Tem a certeza que pretende apagar esta referência/miniatura?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/deleteSuccess.php</note>
       </trans-unit>
-      <trans-unit id="735bff4ff7d3ef4d14b72b98091a0c7b1d3ec01b">
+      <trans-unit id="735bff4ff7d3ef4d14b72b98091a0c7b1d3ec01b" approved="no">
         <source>Are you sure you want to delete this right?</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/deleteSuccess.php</note>
+        <target state="translated">Tem a certeza que pretende apagar este direito?</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="01850f0b38dbc0ccf240926c3bb291e710cdacc0" approved="yes" translated="yes">
         <source>Are you sure you want to replace "%1%" with "%2%" in %3%?</source>
         <target>Tem a certeza que pretende substituir "%1%" por "%2%" em "%3%"</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/globalReplaceAction.class.php</note>
       </trans-unit>
-      <trans-unit id="2b226c7948b48ad8f6ece8d91270c6915aba6b73">
+      <trans-unit id="2b226c7948b48ad8f6ece8d91270c6915aba6b73" approved="no">
         <source>Ascending</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_sortPickers.php</note>
+        <target state="translated">Ascendente</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_sortPickers.php</note>
       </trans-unit>
       <trans-unit id="5e62cba6c020a1b6eeb411885497fccedae6bf82" approved="yes" translated="yes">
         <source>Associated record</source>
@@ -828,13 +828,13 @@
         <target>Exportação da descrição da cache XML após a criação/modificação</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="c2f7ded18f69796b981cb853f42764f7beb96084">
+      <trans-unit id="c2f7ded18f69796b981cb853f42764f7beb96084" approved="no">
         <source>Calculate dates</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
+        <target state="translated">Calcular datas</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
       </trans-unit>
-      <trans-unit id="6c938d4539ddb4d0b53121776cd5cd73282c7fca">
+      <trans-unit id="6c938d4539ddb4d0b53121776cd5cd73282c7fca" approved="no">
         <source>Calculation failed</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/calculateDatesAction.class.php</note>
+        <target state="translated">Cálculo falhado</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/calculateDatesAction.class.php</note>
       </trans-unit>
       <trans-unit id="224eb4e8f95214d03efab98368e0a0c16949911a" approved="yes" translated="yes">
         <source>Can be text value or URI (e.g. to Creative Commons, GNU or other online licenses). Used to identify the granting agreement uniquely within the repository system.</source>
@@ -881,9 +881,9 @@
         <target>A escolha de "Incluir rascunhos" incluirá aqueles marcados com um estado de publicação preliminar na exportação. Nota: se você NÃO escolher esta opção, todos os descendentes de um rascunho serão excluídos, mesmo que estejam publicados.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e">
+      <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e" approved="no">
         <source>City</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
+        <target state="translated">Cidade</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
       </trans-unit>
       <trans-unit id="4fee7bab4188929f417cffc894d785b5aa121349" approved="yes" translated="yes">
         <source>Class of material specific details area</source>
