@@ -1521,9 +1521,9 @@
         <target>Editar senha</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/passwordEditSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ec2e306ec0869a064528aa5f9180d82f5d7a8cd1">
+      <trans-unit id="ec2e306ec0869a064528aa5f9180d82f5d7a8cd1" approved="no">
         <source>Editing history</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
+        <target state="translated">Editando histórico</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="71a1ca18209db3318a9dc4e4ed7ecc5a604fbc32" approved="yes" translated="yes">
         <source>Editing the description title will automatically update the slug field if the "Update slug" checkbox is selected - you can still edit it after.</source>
@@ -1560,9 +1560,9 @@
         <target>Vazio</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/reportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f01229120c68d5a8dd7826c901229cb90155096b">
+      <trans-unit id="f01229120c68d5a8dd7826c901229cb90155096b" approved="no">
         <source>Enable Markdown support</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/markdownSuccess.php</note>
+        <target state="translated">Ativar suporte Markdown</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/markdownSuccess.php</note>
       </trans-unit>
       <trans-unit id="703d28e72d95e4b8a8ffd46f41a8d51e0905532e" approved="yes" translated="yes">
         <source>Enable additional OAI sets</source>
@@ -1579,9 +1579,9 @@
         <target>Ativar declaração de direitos de autor</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="050b73babb390d98d6e0c6435784060a843927a1">
+      <trans-unit id="050b73babb390d98d6e0c6435784060a843927a1" approved="no">
         <source>Enable description change logging</source>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Ativar registo de alteração de descrição</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="d6395f068ba11d205da4a6492fefdd088ee4ecea" approved="yes" translated="yes">
         <source>Enable institutional scoping</source>
@@ -1608,9 +1608,9 @@
         <target>Inserir informação em texto livre, incluindo qualificadores ou símbolos tipográficos para expressar uma data incerta. Se este campo não for preenchido, apenas devem usar-se os campos das datas de início e fim.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/event/actions/editComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="04d1793779ef72e8e27870b9470275cc18616ea7">
+      <trans-unit id="04d1793779ef72e8e27870b9470275cc18616ea7" approved="no">
         <source>Enter the ID of the saved clipboard you would like to load.</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
+        <target state="translated">Introduza o ID da área de transferência guardada que deseja carregar.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
       </trans-unit>
       <trans-unit id="d186bd7f7c43e70b908e186473d02190ade84297" approved="yes" translated="yes">
         <source>Enter the copyright end date, if known. Acceptable date format: YYYY-MM-DD.</source>
@@ -2223,9 +2223,9 @@
         <target>Em progresso</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/calculateDatesLinkComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="46ac7d4191ce56511942267ed3fddd6d980fe7a6">
+      <trans-unit id="46ac7d4191ce56511942267ed3fddd6d980fe7a6" approved="no">
         <source>In the "Action" selector, indicate whether you want to &lt;strong&gt;merge&lt;/strong&gt; the saved clipboard with the entries on the current clipboard or &lt;strong&gt;replace&lt;/strong&gt; (overwrite) the current clipboard with the saved one.</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
+        <target state="translated">No seletor "Ação", indique se deseja &lt;strong&gt; fundir &lt;/ strong&gt; a área de transferência guardada com as entradas na área de transferência atual ou &lt;strong&gt; substituir &lt;/ strong&gt; (sobrepor) a área de transferência atual pela área de transferência guardada.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
       </trans-unit>
       <trans-unit id="1563c715de23e28b53c68ea7aac835dbcf5d7e3b">
         <source>Include all descendant levels of description</source>
@@ -2526,13 +2526,13 @@
         <target>Lista de utilizadores</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/listSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ddcb77ff769ea54ca622848f6bedd4004fa4f4fa">
+      <trans-unit id="ddcb77ff769ea54ca622848f6bedd4004fa4f4fa" approved="no">
         <source>Load</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
+        <target state="translated">Carregar</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="712d34daeb6370130057024748385f2b0c466f6f">
+      <trans-unit id="712d34daeb6370130057024748385f2b0c466f6f" approved="no">
         <source>Load clipboard</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
+        <target state="translated">Carregar área de transferência</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
       </trans-unit>
       <trans-unit id="530afa5bce434b05e3a10e83ff2567f7f8622af9" approved="yes" translated="yes">
         <source>Loading ...</source>
@@ -2559,18 +2559,18 @@
         <target>Log</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/reportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="43167fa327b2e9d201119a843a207aca9c2baafc">
+      <trans-unit id="43167fa327b2e9d201119a843a207aca9c2baafc" approved="no">
         <source>Log creation and change of descriptions</source>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Registar criação e alteração de descrições</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="f7c400ed695f898b8ee9d21664aa17b5bb693828" approved="yes" translated="yes">
         <source>Log in</source>
         <target>Entrar</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/loginSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3c6c2baa46acb5ee9c31492ffebb9dd0f3cd24dc">
+      <trans-unit id="3c6c2baa46acb5ee9c31492ffebb9dd0f3cd24dc" approved="no">
         <source>Login button</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
+        <target state="translated">Botão de login</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="83fce8327410848c9eb609acb21732c7c0fec96a" approved="yes" translated="yes">
         <source>Logo</source>
@@ -3951,9 +3951,9 @@
         <target>Informação do sítio</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="46014c119268d008829a7f64391712bac884f8a6">
+      <trans-unit id="46014c119268d008829a7f64391712bac884f8a6" approved="no">
         <source>Site information saved.</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/siteInformationAction.class.php</note>
+        <target state="translated">Informação do site guardada.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/siteInformationAction.class.php</note>
       </trans-unit>
       <trans-unit id="1bf9fa392429c4d539d4808dd4dae99e4c60b0e3" approved="yes" translated="yes">
         <source>Site menu list</source>
@@ -4150,13 +4150,13 @@
         <target>Assuntos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_subjectAccessPoints.php</note>
       </trans-unit>
-      <trans-unit id="2dacf65959849884a011f36f76a04eebea94c5ea">
+      <trans-unit id="2dacf65959849884a011f36f76a04eebea94c5ea" approved="no">
         <source>Submit</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
+        <target state="translated">Enviar</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
       </trans-unit>
-      <trans-unit id="090ec5f560fc50377fcd95e5cda128e91b276e98">
+      <trans-unit id="090ec5f560fc50377fcd95e5cda128e91b276e98" approved="no">
         <source>Tasks</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
+        <target state="translated">Tarefas</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
       </trans-unit>
       <trans-unit id="da33d8906282e9d4e451c9ca29955b8061e181e9" approved="yes" translated="yes">
         <source>Taxonomy</source>
