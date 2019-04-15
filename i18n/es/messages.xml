@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file datatype="plaintext" date="2019-03-07T13:04:36Z" original="messages" product-name="messages" source-language="en" target-language="es">
+  <file datatype="plaintext" date="2019-04-15T15:39:06Z" original="messages" product-name="messages" source-language="en" target-language="es">
     <header/>
     <body>
       <trans-unit id="f191b2120c9efa7b0c1411d6989e325561707ddb" approved="yes" translated="yes">
@@ -316,7 +316,7 @@
         <target>Agregar %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editRepositoryAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ad2d7898a708aa8ba66717f60d65641cb3ddb9e0" approved="yes">
+      <trans-unit id="ad2d7898a708aa8ba66717f60d65641cb3ddb9e0">
         <source>Add alternative identifier(s)</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_identifierOptions.php</note>
       </trans-unit>
@@ -637,9 +637,9 @@
         <target>¿Está seguro de que quiere reemplazar "%1%" por "%2%" en %3%?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/globalReplaceAction.class.php</note>
       </trans-unit>
-      <trans-unit id="2b226c7948b48ad8f6ece8d91270c6915aba6b73" approved="no">
+      <trans-unit id="2b226c7948b48ad8f6ece8d91270c6915aba6b73">
         <source>Ascending</source>
-        <target state="translated">Ascendente</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_sortPickers.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_sortPickers.php</note>
       </trans-unit>
       <trans-unit id="5e62cba6c020a1b6eeb411885497fccedae6bf82">
         <source>Associated record</source>
@@ -4927,6 +4927,10 @@
       </trans-unit>
       <trans-unit id="72d313b243d53986d85e7e01a166a56e9459e136">
         <source>%1% %2% results for %3%</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="07c0302bc855afec997f2889b2a72e5b425c64ed">
+        <source>Please clear the application cache and rebuild the search index if you are changing the reference code separator setting.</source>
         <target/>
       </trans-unit>
       <trans-unit id="0bf311845ee2a055302a5a1092afba22e08ccf57">
