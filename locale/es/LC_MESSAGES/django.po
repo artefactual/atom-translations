@@ -1,0 +1,546 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# artefactual <translate@artefactual.com>, 2013
+# Jesús García Crespo <jesus@sevein.com>, 2013
+# Picholeiro <info@picholeiro.info>, 2013
+# María Jesús Colmenero <mjcolmenero@gmail.com>, 2018
+# Mercedes Jiménez Bolivar <mmjimenez@uma.es>, 2017
+# Miguel Alfaro <miguelalfaroiglesias@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: AtoM\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-21 10:51-0700\n"
+"PO-Revision-Date: 2018-01-21 10:18+0000\n"
+"Last-Translator: María Jesús Colmenero <mjcolmenero@gmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/artefactual/atom/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: atom/settings/base.py:76
+msgid "English"
+msgstr "Inglés"
+
+#: atom/settings/base.py:77
+msgid "Spanish"
+msgstr "Español"
+
+#: atom/settings/base.py:78
+msgid "Italian"
+msgstr "Italiano"
+
+#: atom/settings/base.py:79
+msgid "French"
+msgstr "Francés"
+
+#: atom/settings/base.py:80
+msgid "Portuguese"
+msgstr "Portugués"
+
+#: atom/settings/base.py:81
+msgid "Slovenian"
+msgstr "Eslovaco"
+
+#: atom/settings/base.py:82
+msgid "Catalan"
+msgstr "Catalán"
+
+#: atom/settings/base.py:83
+msgid "Korean"
+msgstr "Koreano"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:5
+#: sphinxdoc/templates/sphinxdoc/project_list.html:4
+#: sphinxdoc/templates/sphinxdoc/project_list.html:8
+#: sphinxdoc/templates/sphinxdoc/search.html:4 templates/base.html:78
+#: templates/footer.html:36
+msgid "Documentation"
+msgstr "Documentación"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:11
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is a legacy release, and these documents are no longer being maintained.\n"
+"      "
+msgstr "\n%(project_name)ses una versión descatalogada y no se realiza mantenimiento."
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:16
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is an old release, and the documentation is in maintenance mode.\n"
+"      "
+msgstr "\n%(project_name)s es una versión antigua pero su documentación está en modo mantenimiento."
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:21
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is our latest release.\n"
+"      "
+msgstr "\n%(project_name)s es nuestra última actualización."
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:26
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is our latest release, and its documentation is a work in progress.\n"
+"      "
+msgstr "\n%(project_name)ses nuestra última actualización, y su documentación está en proceso de trabajo."
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:31
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s has not been released yet, and its documentation is a work in progress.\n"
+"      "
+msgstr "\n%(project_name)sno ha sido publicado todavía, y su documentación está en proceso de trabajo."
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:60
+msgid "Table of contents"
+msgstr "Tabla de contenidos"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:77
+msgid "Contents"
+msgstr "Contenidos"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:85
+#, python-format
+msgid ""
+"\n"
+"              <p>Open the <a href=\"%(genindex_url)s\">general index</a> or type your search in the search box.</p>\n"
+"            "
+msgstr "\n<p>Abre el <a href=\"%(genindex_url)s\">índice general </a>o introduce tu búsqueda en el campo de búsqueda.</p>"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:98
+msgid "Available documents"
+msgstr "Documentación disponible"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:108
+msgid "Edit this document"
+msgstr "Edita este documento"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:110
+msgid "Source code"
+msgstr "Código fuente"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:113
+msgid "Latest update:"
+msgstr "Ultima actualización:"
+
+#: sphinxdoc/templates/sphinxdoc/genindex.html:5
+msgid "General Index"
+msgstr "Índice general"
+
+#: sphinxdoc/templates/sphinxdoc/genindex.html:30
+msgid "[Link]"
+msgstr "[Enlace]"
+
+#: sphinxdoc/templates/sphinxdoc/modindex.html:5
+msgid "Module Index"
+msgstr "Índice de módulos"
+
+#: sphinxdoc/templates/sphinxdoc/project_list.html:4
+#: sphinxdoc/templates/sphinxdoc/project_list.html:9
+msgid "Project list"
+msgstr "Lista de proyectos"
+
+#: sphinxdoc/templates/sphinxdoc/search.html:4
+msgid "Search"
+msgstr "Buscar :"
+
+#: sphinxdoc/templates/sphinxdoc/search.html:8
+msgid "Search results"
+msgstr "Resultados de la búsqueda"
+
+#: sphinxdoc/templates/sphinxdoc/search.html:12
+#, python-format
+msgid "Showing results matching \"%(query)s\"..."
+msgstr "Mostrando resultados que coinciden con \"%(query)s\"..."
+
+#: sphinxdoc/templates/sphinxdoc/search.html:20
+msgid "No results found."
+msgstr "No se han encontrado resultados."
+
+#: sphinxdoc/templates/sphinxdoc/search.html:31
+msgid "No search query entered."
+msgstr "No se ha introducido la consulta de búsqueda."
+
+#: templates/base.html:75 templates/footer.html:19
+msgid "Home"
+msgstr "Inicio"
+
+#: templates/base.html:76 templates/footer.html:20
+#: templates/pages/download.html:4 templates/pages/download.html.py:10
+msgid "Downloads"
+msgstr "Descargas"
+
+#: templates/base.html:92
+msgid "Other resources (wiki)"
+msgstr "Otros recursos (wiki)"
+
+#: templates/base.html:99 templates/footer.html:26
+#: templates/pages/community.html:4 templates/pages/community.html.py:10
+#: templates/pages/community/_menu.html:3
+#: templates/pages/community/support.html:4
+msgid "Community"
+msgstr "Comunidad"
+
+#: templates/base.html:101 templates/footer.html:28
+#: templates/pages/community/_menu.html:5
+#: templates/pages/community/support.html:4
+msgid "Get support"
+msgstr "Soporte"
+
+#: templates/base.html:102 templates/footer.html:29
+#: templates/pages/community/_menu.html:6
+msgid "Translate"
+msgstr "Traducir"
+
+#: templates/base.html:105 templates/footer.html:51
+msgid "News"
+msgstr "Noticias"
+
+#: templates/base.html:106 templates/footer.html:37
+msgid "Wiki"
+msgstr "Wiki"
+
+#: templates/base.html:108 templates/footer.html:21
+msgid "Demo"
+msgstr "Demo"
+
+#: templates/base.html:110
+msgid "Try it now!"
+msgstr "¡Pruébalo ahora!"
+
+#: templates/base.html:113
+msgid "Other sites"
+msgstr "Otros sitios"
+
+#: templates/footer.html:12
+msgid "Language"
+msgstr "Idioma"
+
+#: templates/footer.html:17
+msgid "Explore"
+msgstr "Explorar"
+
+#: templates/footer.html:34
+msgid "Help"
+msgstr "Ayuda"
+
+#: templates/footer.html:49
+msgid "About"
+msgstr "Introducción"
+
+#: templates/footer.html:50
+msgid "Services"
+msgstr "Servicios"
+
+#: templates/footer.html:53
+msgid "Artefactual is the lead developer of Archivematica and AtoM."
+msgstr "Artefactual es el desarrollador de Archivematica y AtoM."
+
+#: templates/footer.html:55
+msgid "Access to Memory documentation"
+msgstr "Documentación de Access to Memory"
+
+#: templates/footer.html:55
+msgid "is licensed under a"
+msgstr "Autorizado bajo una"
+
+#: templates/footer.html:55
+msgid "Creative Commons Attribution-ShareAlike 4.0 International License"
+msgstr "Licencia Internacional Creative Commons Attribution-ShareAlike 4.0"
+
+#: templates/footer.html:57
+msgid "© 2015 Artefactual Systems Inc. All rights reserved."
+msgstr "© 2015 Artefactual Systems Inc. Todos los derechos reservados."
+
+#: templates/pages/community/develop.html:13
+#: templates/pages/community/participate.html:13
+msgid ""
+"\n"
+"          <p>Work in progress!</p>\n"
+"        "
+msgstr "\n<p>En construcción.</p>"
+
+#: templates/pages/community/support.html:19
+msgid "User forum"
+msgstr "Foro de usuarios"
+
+#: templates/pages/community/support.html:20
+msgid ""
+"\n"
+"              <p>Our <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">User Forum</a> is the main place where user come to seek help, make announcements, share resources, and discuss issues relevant to the software and the community.</p>\n"
+"            "
+msgstr "\n<p>Nuestro <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">foro de usuarios</a> es el principal sitio donde los usuarios acuden en busca de ayuda, publicar noticias, compartir recursos y discutir cualquier problema relacionado con la aplicación y la comunidad.</p>"
+
+#: templates/pages/community/support.html:26
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/pages/community/support.html:27
+msgid ""
+"\n"
+"              <p>Follow <a href=\"https://twitter.com/accesstomemory\">AtoM on Twitter (@accesstomemory)</a> to keep up with the latest announcements and connect with other users.</p>\n"
+"            "
+msgstr "\n<p>Sigue las noticias de AtoM en <a href=\"https://twitter.com/accesstomemory\">Twitter (@accesstomemory.org)</a> para estar al día y conectar con otros usuarios.</p>"
+
+#: templates/pages/community/support.html:37
+msgid "Github"
+msgstr "Github"
+
+#: templates/pages/community/support.html:38
+msgid ""
+"\n"
+"              <p>AtoM's code is hosted on <a href=\"https://github.com/artefactual/atom\">Github</a>. We welcome pull requests and comments related to our code. For further information, please see <a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">Contribute Code.</a> </p>\n"
+"            "
+msgstr "\n              <p>El código de AtoM's está alojado en <a href=\"https://github.com/artefactual/atom\">Github</a>. Son bienvenidos los pull requests y comentarios relacionados con nuestro código. Para más información, por favor vea   <a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">Contribuir al Código.</a> </p>\n            "
+
+#: templates/pages/community/support.html:44
+msgid "Redmine issue tracker"
+msgstr "Redmine, gestor de incidentes"
+
+#: templates/pages/community/support.html:45
+msgid ""
+"\n"
+"              <p>Found a bug and want to know if it's already been reported? Want to see the status of a current release under development? Checkout our Issue tracker <a href=\"https://projects.artefactual.com/\">here</a>.</p>\n"
+"            "
+msgstr "\n<p>¿Has encontrado un fallo y quieres saber si ya ha sido reportado? ¿O quieres ver el estado actual de una versión en desarrollo? Visita <a href=\"https://projects.artefactual.com/\">el gestor de incidentes</a>.</p>"
+
+#: templates/pages/community/support.html:53
+msgid "Before requesting support"
+msgstr "Antes de pedir ayuda"
+
+#: templates/pages/community/support.html:55
+#, python-format
+msgid ""
+"\n"
+"            <p>Before requesting support, please try to make use of the available online resources, where the answers to a large number of questions can already be found. The most important is the <a href=\"%(url_doclist)s\">documentation</a>. A great majority of questions asked in the AtoM User Forum are easily answered through simple searches of our documentation, or via the documentation <a href=\"%(url_doclist)s\">index page</a>. We are also working hard to improve our documentation, and currently it is changing on a daily basis, sometimes dramatically so. Please be sure to look around at the latest before requesting support.</p>\n"
+"            <p>Other places to check for information include the <a href=\"https://wiki.accesstomemory.org/FAQ\">FAQ</a> (note the FAQ is also undergoing an upgrade soon!), and of course, <strong>previous questions asked by users in our User Forum</strong>, which have been answered by <a href=\"http://www.artefactual.com/\">Artefactual</a> team members and/or knowledgeable community participants. We've answered a LOT of questions over the years, and the odds are good that someone has run into the same problem as you!</p>\n"
+"          "
+msgstr "\n<p>Antes de solicitar soporte técnico, intente utilizar los recursos disponibles en línea, donde se pueden encontrar las respuestas a un gran número de preguntas. Lo más importante es la <a href=\"%(url_doclist)s\">documentación</a>. Una gran mayoría de las preguntas formuladas en el Foro de Usuarios de AtoM se pueden responder fácilmente a través de búsquedas sencillas en nuestra documentación o en el <a href=\"%(url_doclist)s\">índice</a> de la documentación. También estamos trabajando para mejorar nuestra documentación, y actualmente está cambiando a diario. Por favor asegúrese de mirar lo más reciente antes de solicitar soporte</p>.\n<p>Otros lugares para comprobar la información incluyen las <a href=\"https://wiki.accesstomemory.org/FAQ\">FAQ</a> (¡tenga en cuenta que las FAQ también están experimentando una mejora importante!) y, por supuesto, las <strong>preguntas previas realizadas por los usuarios en nuestro Foro de Usuarios</strong>, que han sido contestadas por los miembros del equipo <a href=\"http://www.artefactual.com/\">Artefactual</a> y/o expertos de la comunidad. Hemos respondido a un montón de preguntas a través de los años, y las probabilidades de que alguien haya tenido el el mismo problema que usted son altas!</p>"
+
+#: templates/pages/community/support.html:62
+msgid "Posting to the User forum"
+msgstr "Publicar en el foro de usuarios"
+
+#: templates/pages/community/support.html:65
+msgid ""
+"\n"
+"                <p>The <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">AtoM User Forum</a> is the best place to get interactive feedback from other AtoM users and developers. <a href=\"http://www.artefactual.com/\">Artefactual</a>, the lead developers of AtoM, moderates the user forum, and we try whenever possible to post responses to straight-forward user questions within 24 hours of their posting (during M-F business hours - we are in the Pacific time zone). This is a freely offered service we provide as we are able, and we hope to see more community users become active over time in answering each others' questions. When we think a particular query is beyond these free support parameters we will inform the user that it may be necessary to address it as paid, commercial support. Examples include questions that are too in-depth and time-consuming to investigate and answer or questions that involve unsupported tools or platforms. Please keep in mind that we have to prioritize our client assignments so that we can pay our bills and continue to provide free software and free community support.</p>\n"
+"                <p>If you are interested in commercial support from Artefactual, please see <a href=\"http://www.artefactual.com/services/atom-2/\">our website</a> for the services we offer.</p>\n"
+"              "
+msgstr "\n<p>El <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">foro de usuarios</a> es el mejor lugar para recibir ayuda e interactuar con otros usuarios y desarrolladores de AtoM. <a href=\"http://www.artefactual.com/\">Artefactual</a>, el desarrollador líder del proyecto moderará el uso de éste y responderá a las preguntas en menos de 24 horas siempre que sea posible (durante horario de oficina, con horario del Pacífico). Este servicio lo ofrecemos de manera gratuita y siempre que nos sea posible, con la esperanza de que otros miembros de la comunidad también colaboren. En aquellos casos en los que las cuestiones realizadas vayan más allá de lo que podemos ofrecer de manera gratuita, el usuario será informado de ello y se le ofrecerá una alternativa comercial. Un ejemplo sería cuando se abarca un tema de gran complejidad que de ser tratado consumiría más tiempo del habitual o cuando herramientas o plataformas que no soportamos de inicio están involucradas. Ten en cuenta que entre nuestras prioridades, atender a nuestros clientes es lo más importante de forma que podamos pagar las facturas y continuar ofreciendo un producto gratis, libre y con soporte.</p>\n<p>Si estás interesado en contratar nuestro servicio comercial de soporte, por favor echa un vistazo a <a href=\"http://www.artefactual.com/services/atom-2/\">nuestro sitio web</a> y los servicios ofrecidos.</p>"
+
+#: templates/pages/community/support.html:71
+msgid ""
+"\n"
+"                    <p>Subscribe to the list or <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">visit the online version</a>!</p>\n"
+"                  "
+msgstr "\n<p>Suscríbete al foro de usuarios o <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">accede en línea</a>.</p>"
+
+#: templates/pages/community/support.html:75
+msgid "Enter your e-mail address"
+msgstr "Introduce tu dirección de e-mail"
+
+#: templates/pages/community/support.html:77
+msgid "Subscribe"
+msgstr "Subscribir"
+
+#: templates/pages/community/support.html:84
+msgid "Details to include in a User Forum post"
+msgstr "Detalles a incluir cuando escribes al foro"
+
+#: templates/pages/community/support.html:85
+msgid ""
+"\n"
+"                <p>Depending on the nature of your issue, here's a few ideas of the information that will help us respond to you more quickly and in more precise detail:</p>\n"
+"                <ul>\n"
+"                  <li>What version of AtoM are you using?</li>\n"
+"                  <li>What have you tried already to resolve the problem?</li>\n"
+"                  <li>What operating system is AtoM installed on (Linux, Windows, Apple, etc.)?\n"
+"                  <li>What version of PHP do you have installed?</li>\n"
+"                  <li>Do you have a stack trace of the error message you received?</li>\n"
+"                  <li>Are you hosting your own instance, or are you using an external hosting provider?</li>\n"
+"                </ul>\n"
+"                <p>We find it easiest to clearly answer posts that are <strong>complete</strong> and <strong>succinct</strong> - that is, posts that include all important details about the software environment and what led to the error, but that also trim away any details  or code snippets that aren't directly relevant to the mater at hand. Thanks for helping us to make the User Forum a vibrant and positive place!</p>\n"
+"              "
+msgstr "\n<p>Dependiendo de la naturaleza del incidente, aquí tienes algunas ideas sobre los datos que nos ayudarán a responderte raipdamente y con más detalle:</p>\n<ul>\n<li>¿Qué versión de AtoM estás utilizando?</li>\n<li>¿Ya has intentando resolver el problem por tu parte?</li>\n<li>¿Qué sistema operativo utilizas? Linux, Windows, Apple, etc...</li>\n<li>¿Qué versión de PHP tienes instalada en tu sistema?</li>\n<li>¿Tienes una traza del error recibido?</li>\n<li>¿Usas un servicio de hosting externo o llevas el alojamiento por tu cuenta?</li>\n</ul>\n<p>Nos resulta más fácil responder a las preguntas cuando son <strong>claras</strong> y <strong>completas</strong>. Es importante incluir todos los detalles importantes como información sobre el entorno (servidor web, base de datos, etc...) pero también otros detalles más pequeños que no estén directamente realizanados. ¡Gracias por ayudanos por hacer del foro de usuarios un lugar lleno de entusiasmo y positividad!</p>"
+
+#: templates/pages/download.html:17
+msgid "Stable releases"
+msgstr "Versiones estables"
+
+#: templates/pages/download.html:21 templates/pages/download.html.py:43
+#: templates/pages/download.html:65 templates/pages/download.html.py:117
+msgid "Release version"
+msgstr "Versión"
+
+#: templates/pages/download.html:22 templates/pages/download.html.py:44
+#: templates/pages/download.html:66 templates/pages/download.html.py:118
+msgid "Release date"
+msgstr "Fecha de lanzamiento"
+
+#: templates/pages/download.html:23 templates/pages/download.html.py:31
+#: templates/pages/download.html:45 templates/pages/download.html.py:67
+#: templates/pages/download.html:75 templates/pages/download.html.py:81
+#: templates/pages/download.html:87 templates/pages/download.html.py:93
+#: templates/pages/download.html:99 templates/pages/download.html.py:105
+#: templates/pages/download.html:119 templates/pages/download.html.py:127
+#: templates/pages/download.html:133 templates/pages/download.html.py:139
+#: templates/pages/home.html:13
+msgctxt "Download button"
+msgid "Download"
+msgstr "Descargar"
+
+#: templates/pages/download.html:24 templates/pages/download.html.py:46
+#: templates/pages/download.html:68 templates/pages/download.html.py:120
+msgid "Changes"
+msgstr "Cambios"
+
+#: templates/pages/download.html:32 templates/pages/download.html.py:54
+#: templates/pages/download.html:76 templates/pages/download.html.py:82
+#: templates/pages/download.html:88 templates/pages/download.html.py:100
+#: templates/pages/download.html:106 templates/pages/download.html.py:134
+#: templates/pages/download.html:140
+msgid "Issue list"
+msgstr "Lista de cambios"
+
+#: templates/pages/download.html:39
+msgid "Development releases"
+msgstr "Versiones en desarrollo"
+
+#: templates/pages/download.html:52
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: templates/pages/download.html:53
+msgid "Not available yet"
+msgstr "Todavía no disponible"
+
+#: templates/pages/download.html:61 templates/pages/download.html.py:113
+msgid "Legacy releases"
+msgstr "Versiones anteriores"
+
+#: templates/pages/download.html:151
+msgid "Download and install AtoM on your webserver"
+msgstr "Descarga e instala AtoM en tu servidor web"
+
+#: templates/pages/download.html:154
+#, python-format
+msgid ""
+"\n"
+"            <p>AtoM is web-based software. You can download and install it on your own webserver to make your copy of AtoM available to anyone with an internet connection. AtoM comes with an installer that helps you through this process.</p>\n"
+"            <p>Once you have downloaded this file, consult the online <a href=\"%(url_installation)s\">installation documentation</a>. See also the <a href=\"%(url_upgrade)s\">upgrading guide</a>.</p>\n"
+"          "
+msgstr "\n<p>AtoM es una aplicación web. Puedes descargarla e instalarla en tu propio servidor web para hacer que ésta sea accessible para cualquier persona con acceso a Internet. AtoM incluye un instalador que te ayudará en el proceso de configuración.</p>\n<p>Una vez te hayas descagado el fichero, consulta el <a href=\"%(url_installation)s\">manual de instalación</a>. También existe una <a href=\"%(url_upgrade)s\">guía de actualización</a>.</p>"
+
+#: templates/pages/download.html:163
+msgid "Test AtoM locally using Vagrant"
+msgstr "Pruebe AtoM de forma local usando Vagrant"
+
+#: templates/pages/download.html:164
+msgid ""
+"\n"
+"            <p>Run AtoM as a virtual machine (VM) on any operating system, using <a href=\"https://www.virtualbox.org/\">Virtualbox</a> and <a href=\"http://www.vagrantup.com/\">Vagrant</a>. This option allows you to try AtoM on your personal computer if you don't have access to your own webserver on which to install AtoM, or if you're a developer looking to work with the code.</p>\n"
+"            <p>Virtualbox is an open source, easy to use general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use, and Vagrant is an open source automation tool for building complete development environments. Artefactual has created an AtoM VM that can be easily used with Virtualbox, which will virtualize the installation environment for you so you can easily run a test instance of AtoM on your personal computer. For more information, see our <a href=\"https://www.accesstomemory.org/docs/2.1/admin-manual/installation/vagrant/#installation-vagrant\">Vagrant installation instructions</a> in the AtoM Administrator's Manual.</p>\n"
+"          "
+msgstr "\n            <p>Use AtoM como máquina virtual (VM) en cualquier sistema operativo, usando <a href=\"https://www.virtualbox.org/\">Virtualbox</a> y <a href=\"http://www.vagrantup.com/\">Vagrant</a>. Esta opción te permite probar AtoM en tu ordenador personal si no tienes acceso a tu propio servidor web en el que instalar AtoM, o eres un desarrollador interesado en trabajar con el código.</p>\n            <p>Virtualbox es un virtualizador completo de propósito general para hardware  x86 , de código abierto y fácil uso, destinado a ser usado como servidor, de escritorio e integrado, y Vagrant es una herramienta de automatización de código abierto para crear ambientes de desarrollo integrales. Artefactual  ha creado una máquina virtual AtoM  que puede ser usada fácilmente con Virtualbox, lo que te virtualizará el entorno de instalación de forma que podrás hacer funcionar sin dificultad AtoM en tu ordenador personal. Para más información, consulte nuestras <a href=\"https://www.accesstomemory.org/docs/2.1/admin-manual/installation/vagrant/#installation-vagrant\">instrucciones de instalación de Vagrant </a> en el  Manual del Administrador de AtoM.</p>\n          "
+
+#: templates/pages/home.html:7
+msgid "Providing access to memory since 2007"
+msgstr "Ofreciendo acceso a la memoria desde 2007"
+
+#: templates/pages/home.html:8
+msgid ""
+"AtoM stands for <span>Access to Memory</span>. It is a web-based, open "
+"source application for standards-based archival description and access in a "
+"multilingual, multi-repository environment."
+msgstr "AtoM, o <span>Access to Memory</span>, es una aplicación web y Código abierto, basada en estándares de descripción archivística, multilingüe y capaz de gestionar múltiples repositorios."
+
+#: templates/pages/home.html:56
+msgid "Web-based"
+msgstr "Diseñado para la web"
+
+#: templates/pages/home.html:58
+msgid ""
+"\n"
+"            Access your AtoM installation from anywhere you have an internet connection. All core AtoM functions take place via a web browser, with minimal assumptions about end-user requirements for access. No more synching multiple installations on a per-machine basis – install AtoM once, and access it from anywhere.\n"
+"          "
+msgstr "\nAccede a tu instalación de AtoM desde cualquier lugar donde haya acceso a Internet. Todas las funciones principales de AtoM se pueden controlar desde un navegador y los requisitons en el lado del usuario son mínimos. Instala AtoM en un servidor y accede desde cualquier parte del mundo."
+
+#: templates/pages/home.html:65
+msgid "Open source"
+msgstr "Software libre"
+
+#: templates/pages/home.html:67
+msgid ""
+"\n"
+"            All AtoM code is released under a GNU Affero General Public License (A-GPL 3.0) – giving you the freedom to study, modify, improve, and distribute it. We believe that an important part of access is accessibility, and that everyone should have access to the tools they need to preserve cultural heritage materials. AtoM code is always freely available, and our documentation is also released under a Creative Commons Share-alike license. Check out our <a href=\"https://github.com/artefactual/atom\">code repository</a>!\n"
+"          "
+msgstr "\nTodo el código que forma parte de AtoM es distribuido bajo los términos de la licencia GNU Affero General Public License (A-GPL 3.0), dándote toda la libertad para estudiarlo, modificarlo, mejorarlo y distribuirlo. Creemos que una parte importante del acceso es la accesibilidad, cualquier persona debería de tener acceso a las herramientas que te permiten preservar los materiales culturales del pasado. El código de AtoM está disponible de manera gratuita y libre y toda la documentación es distribuida bajo los términos de la licencia Creative Commons Share-alike. ¡Descubre nuestro <a href=\"https://github.com/artefactual/atom\">repositorio público</a>!"
+
+#: templates/pages/home.html:74
+msgid "Standards-based"
+msgstr "Basado en estándares"
+
+#: templates/pages/home.html:76
+msgid ""
+"\n"
+"            AtoM was originally built with support from the <a href=\"http://www.ica.org\">International Council on Archives</a>, to encourage broader international standards adoption. We've built standards-compliance into the core of AtoM, and offer easy-to-use, web-based edit templates that conform to a wide variety of international and national standards.</p>\n"
+"          "
+msgstr "\nAtoM fue originalmente creado con la ayuda y el soporte del <a href=\"http://www.ica.org\">International Council on Archives</a> con el objetivo de estimular una amplia adopción de los estándares internacionales. AtoM fue diseñado desde su origen en base a los estándares disponibles, ofreciendo un conjunto de servicios que se ajustan a una amplia variedad de estándares nacionales e internacionales.</p>"
+
+#: templates/pages/home.html:82
+msgid "Import/export friendly"
+msgstr "Importación/Exportación"
+
+#: templates/pages/home.html:83
+msgid ""
+"\n"
+"          <p>Your data will never be locked into AtoM – we implement a number of metadata exchange standards to support easy import and export through the AtoM user interface.</p>\n"
+"          <p>Currently AtoM supports the following import/export formats: <abbr title=\"Encoded Archival Description (EAD) – 2002 edition, for descriptions\">EAD</abbr>, <abbr title=\"Encoded Archival Context Corporate Bodies, Persons, and Families (EAC-CPF) – 2010 edition, for authority records\">EAC-CPF</abbr>, <abbr title=\"Comma Separated Values (CSV) import for accessions, descriptions, authority records, institutions, and more\">CSV</abbr> and <abbr title=\"Simple Knowledge Organization System (SKOS) - W3C Recommendation 18 August 2009, for terms and taxonomies\">SKOS</abbr>. Find out more in our <a href=\"https://www.accesstomemory.org/docs/\">user manual</a>.</p>\n"
+"        "
+msgstr "\n          <p>Tus datos nunca se quedarán bloqueados dentro de AtoM – implementamos varios estándares de intercambio de metadatos para facilitar una importación y exportación  fácil a través de la interfaz de usuario de AtoM.</p>\n          <p>  AtoM soporta actualmente los siguientes formatos de importación/exportación: <abbr title=\"Encoded Archival Description (EAD) – 2002 edition, for descriptions\">EAD</abbr>, <abbr title=\"Encoded Archival Context Corporate Bodies, Persons, and Families (EAC-CPF) – 2010 edition, for authority records\">EAC-CPF</abbr>, <abbr title=\"Comma Separated Values (CSV) import for accessions, descriptions, authority records, institutions, and more\">CSV</abbr> y <abbr title=\"Simple Knowledge Organization System (SKOS) - W3C Recommendation 18 August 2009, for terms and taxonomies\">SKOS</abbr>. Más información en nuestro <a href=\"https://www.accesstomemory.org/docs/\">manual de usuario</a>.</p>\n        "
+
+#: templates/pages/home.html:94
+msgid "Multilingual"
+msgstr "Multilingüe"
+
+#: templates/pages/home.html:96
+msgid ""
+"\n"
+"            All user interface elements and database content can be translated into multiple languages, using our built-in translation interface. Our translations are all generously provided by volunteer translators from the AtoM User Community. Want to see AtoM available in your language? Help us translate!\n"
+"          "
+msgstr "\nTodos los elementos de la interfaz de usuario y los contenidos de la base de datos pueden ser traducidos en múltiples idiomas gracias a la herramienta de traducción incluida. Las traducciones iniciales han sido realizadas generosamente por voluntarios. ¿Quieres que AtoM sea traducido a tu propio idioma? ¡Ayúdanos!"
+
+#: templates/pages/home.html:103
+msgid "Multirepository"
+msgstr "Multirepositorio"
+
+#: templates/pages/home.html:105
+msgid ""
+"\n"
+"            Built for use by a single institution for its own descriptions, or as a multi-repository “union list” (network, portal) accepting descriptions from any number of contributing institutions, AtoM is flexible enough to accommodate your needs. See our list of community users for a better sense of all the ways AtoM is being used.\n"
+"          "
+msgstr "\nDiseñado para trabajar con una institución y sus descripciones archivísticas o bien en entornos multi-institucionales (red, portal) acceptando descripciones para un número ilimitado de institutciones. AtoM es suficientemente flexible para acomodarse a tus necesidades. Echa un vistazo a la lista de usuarios para tener una idea de las diferentes formas en las que nuestro producto es utilizado."
+
+#: templates/pages/home.html:112
+msgid "Constantly improving"
+msgstr "Mejorando constantemente"
+
+#: templates/pages/home.html:114
+msgid ""
+"\n"
+"            AtoM is an active, dynamic open-source project with a broad user base. We're constantly working with our community to improve the application, and all enhancements are bundled into our public releases. This means that whenever one person contributes, the entire community benefits. Find out more about how you can help improve AtoM.</p>\n"
+"          "
+msgstr "\nAtoM es un activo proyecto de código abierto con un amplio número de usuarios. Estamos constantemente trabajando junto con la comunidad de usuarios para mejorar la aplicación, todas las mejoras son publicadas. Esto significa que cualquier contribución individual beneficiará al resto de usuarios. Infórmate sobre las diferentes formas en las que puedes colaborar en AtoM."

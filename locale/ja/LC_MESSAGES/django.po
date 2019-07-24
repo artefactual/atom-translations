@@ -1,0 +1,541 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Naosuke Okamoto, 2018-2019
+msgid ""
+msgstr ""
+"Project-Id-Version: AtoM\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-21 10:51-0700\n"
+"PO-Revision-Date: 2019-02-04 21:05+0000\n"
+"Last-Translator: Naosuke Okamoto\n"
+"Language-Team: Japanese (http://www.transifex.com/artefactual/atom/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: atom/settings/base.py:76
+msgid "English"
+msgstr "英語"
+
+#: atom/settings/base.py:77
+msgid "Spanish"
+msgstr "スペイン語"
+
+#: atom/settings/base.py:78
+msgid "Italian"
+msgstr "イタリア語"
+
+#: atom/settings/base.py:79
+msgid "French"
+msgstr "フランス語"
+
+#: atom/settings/base.py:80
+msgid "Portuguese"
+msgstr "ポルトガル語"
+
+#: atom/settings/base.py:81
+msgid "Slovenian"
+msgstr "スロベニア語"
+
+#: atom/settings/base.py:82
+msgid "Catalan"
+msgstr "カタロニア語"
+
+#: atom/settings/base.py:83
+msgid "Korean"
+msgstr "韓国語"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:5
+#: sphinxdoc/templates/sphinxdoc/project_list.html:4
+#: sphinxdoc/templates/sphinxdoc/project_list.html:8
+#: sphinxdoc/templates/sphinxdoc/search.html:4 templates/base.html:78
+#: templates/footer.html:36
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:11
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is a legacy release, and these documents are no longer being maintained.\n"
+"      "
+msgstr "\n        %(project_name)s は過去のリリースであり、これらのドキュメントはもう保守されていません。\n      "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:16
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is an old release, and the documentation is in maintenance mode.\n"
+"      "
+msgstr "\n        %(project_name)s は古いリリースであり、ドキュメントはメンテナンスモードです。\n      "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:21
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is our latest release.\n"
+"      "
+msgstr "\n        %(project_name)s は最新のリリースです。\n      "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:26
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is our latest release, and its documentation is a work in progress.\n"
+"      "
+msgstr "\n        %(project_name)s は最新のリリースで、ドキュメントは作業中です。\n      "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:31
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s has not been released yet, and its documentation is a work in progress.\n"
+"      "
+msgstr "\n        %(project_name)s はまだリリースしておらず、ドキュメントは作業中です。\n      "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:60
+msgid "Table of contents"
+msgstr "目次"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:77
+msgid "Contents"
+msgstr "内容"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:85
+#, python-format
+msgid ""
+"\n"
+"              <p>Open the <a href=\"%(genindex_url)s\">general index</a> or type your search in the search box.</p>\n"
+"            "
+msgstr "\n              <p><a href=\"%(genindex_url)s\">索引</a>を開くか、検索ボックスに入力して検索してください。</p>\n            "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:98
+msgid "Available documents"
+msgstr "利用可能なドキュメント"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:108
+msgid "Edit this document"
+msgstr "このドキュメントを編集する"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:110
+msgid "Source code"
+msgstr "ソースコード"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:113
+msgid "Latest update:"
+msgstr "最新のアップデート："
+
+#: sphinxdoc/templates/sphinxdoc/genindex.html:5
+msgid "General Index"
+msgstr "索引"
+
+#: sphinxdoc/templates/sphinxdoc/genindex.html:30
+msgid "[Link]"
+msgstr "[リンク]"
+
+#: sphinxdoc/templates/sphinxdoc/modindex.html:5
+msgid "Module Index"
+msgstr "モジュールの索引"
+
+#: sphinxdoc/templates/sphinxdoc/project_list.html:4
+#: sphinxdoc/templates/sphinxdoc/project_list.html:9
+msgid "Project list"
+msgstr "プロジェクトのリスト"
+
+#: sphinxdoc/templates/sphinxdoc/search.html:4
+msgid "Search"
+msgstr "検索"
+
+#: sphinxdoc/templates/sphinxdoc/search.html:8
+msgid "Search results"
+msgstr "検索結果"
+
+#: sphinxdoc/templates/sphinxdoc/search.html:12
+#, python-format
+msgid "Showing results matching \"%(query)s\"..."
+msgstr "\"%(query)s\"に一致する結果を表示しています..."
+
+#: sphinxdoc/templates/sphinxdoc/search.html:20
+msgid "No results found."
+msgstr "結果がありません。"
+
+#: sphinxdoc/templates/sphinxdoc/search.html:31
+msgid "No search query entered."
+msgstr "検索クエリが入力されていません。"
+
+#: templates/base.html:75 templates/footer.html:19
+msgid "Home"
+msgstr "ホーム"
+
+#: templates/base.html:76 templates/footer.html:20
+#: templates/pages/download.html:4 templates/pages/download.html.py:10
+msgid "Downloads"
+msgstr "ダウンロード"
+
+#: templates/base.html:92
+msgid "Other resources (wiki)"
+msgstr "その他の資料（wiki）"
+
+#: templates/base.html:99 templates/footer.html:26
+#: templates/pages/community.html:4 templates/pages/community.html.py:10
+#: templates/pages/community/_menu.html:3
+#: templates/pages/community/support.html:4
+msgid "Community"
+msgstr "コミュニティ"
+
+#: templates/base.html:101 templates/footer.html:28
+#: templates/pages/community/_menu.html:5
+#: templates/pages/community/support.html:4
+msgid "Get support"
+msgstr "サポートを得る"
+
+#: templates/base.html:102 templates/footer.html:29
+#: templates/pages/community/_menu.html:6
+msgid "Translate"
+msgstr "翻訳"
+
+#: templates/base.html:105 templates/footer.html:51
+msgid "News"
+msgstr "ニュース"
+
+#: templates/base.html:106 templates/footer.html:37
+msgid "Wiki"
+msgstr "Wiki"
+
+#: templates/base.html:108 templates/footer.html:21
+msgid "Demo"
+msgstr "デモ"
+
+#: templates/base.html:110
+msgid "Try it now!"
+msgstr "今すぐ試す"
+
+#: templates/base.html:113
+msgid "Other sites"
+msgstr "その他のサイト"
+
+#: templates/footer.html:12
+msgid "Language"
+msgstr "言語"
+
+#: templates/footer.html:17
+msgid "Explore"
+msgstr "探索"
+
+#: templates/footer.html:34
+msgid "Help"
+msgstr "ヘルプ"
+
+#: templates/footer.html:49
+msgid "About"
+msgstr "このウェブサイトについて"
+
+#: templates/footer.html:50
+msgid "Services"
+msgstr "サービス"
+
+#: templates/footer.html:53
+msgid "Artefactual is the lead developer of Archivematica and AtoM."
+msgstr "Artefactualは、ArchivematicaとAtoMの開発者のリーダーです。"
+
+#: templates/footer.html:55
+msgid "Access to Memory documentation"
+msgstr "Access to Memory ドキュメント"
+
+#: templates/footer.html:55
+msgid "is licensed under a"
+msgstr "は以下の元でライセンスされています："
+
+#: templates/footer.html:55
+msgid "Creative Commons Attribution-ShareAlike 4.0 International License"
+msgstr "クリエイティブコモンズ表示 - 継承4.0国際ライセンス"
+
+#: templates/footer.html:57
+msgid "© 2015 Artefactual Systems Inc. All rights reserved."
+msgstr "© 2015 Artefactual Systems Inc. All rights reserved."
+
+#: templates/pages/community/develop.html:13
+#: templates/pages/community/participate.html:13
+msgid ""
+"\n"
+"          <p>Work in progress!</p>\n"
+"        "
+msgstr "\n          <p>進行中の作業中です！</p>\n        "
+
+#: templates/pages/community/support.html:19
+msgid "User forum"
+msgstr "ユーザーフォーラム"
+
+#: templates/pages/community/support.html:20
+msgid ""
+"\n"
+"              <p>Our <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">User Forum</a> is the main place where user come to seek help, make announcements, share resources, and discuss issues relevant to the software and the community.</p>\n"
+"            "
+msgstr "\n              <p><a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">ユーザーフォーラム</a>は、ユーザーが助けを求めたり、発表したり、リソースを共有したり、ソフトウェアやコミュニティに関連する問題について話し合うための主要な場所です。</p>\n            "
+
+#: templates/pages/community/support.html:26
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/pages/community/support.html:27
+msgid ""
+"\n"
+"              <p>Follow <a href=\"https://twitter.com/accesstomemory\">AtoM on Twitter (@accesstomemory)</a> to keep up with the latest announcements and connect with other users.</p>\n"
+"            "
+msgstr "\n              TwitterのAtomを<p>フォロー <a href=\"https://twitter.com/accesstomemory\"> (@accesstomemory)</a> し最新のアナウンスを参照し、他のユーザーとつながりましょう。</p>\n            "
+
+#: templates/pages/community/support.html:37
+msgid "Github"
+msgstr "Github"
+
+#: templates/pages/community/support.html:38
+msgid ""
+"\n"
+"              <p>AtoM's code is hosted on <a href=\"https://github.com/artefactual/atom\">Github</a>. We welcome pull requests and comments related to our code. For further information, please see <a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">Contribute Code.</a> </p>\n"
+"            "
+msgstr "\n              <p>AtoMのコードは<a href=\"https://github.com/artefactual/atom\">Github</a>でホストされています。 私達は私達のコードに関するプルリクエストやコメントを歓迎します。 詳しくは<a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">Contribute Code</a>をご覧ください。 </p>\n            "
+
+#: templates/pages/community/support.html:44
+msgid "Redmine issue tracker"
+msgstr "Redmineの課題追跡システム"
+
+#: templates/pages/community/support.html:45
+msgid ""
+"\n"
+"              <p>Found a bug and want to know if it's already been reported? Want to see the status of a current release under development? Checkout our Issue tracker <a href=\"https://projects.artefactual.com/\">here</a>.</p>\n"
+"            "
+msgstr "\n              <p>バグを見つけ、それがすでに報告されているかどうか知りたいですか？ 開発中の現在のリリースの状況を確認したいですか？  <a href=\"https://projects.artefactual.com/\">ここ</a>で私たちの問題追跡をチェックしてください。</p>\n            "
+
+#: templates/pages/community/support.html:53
+msgid "Before requesting support"
+msgstr "サポートを依頼する前に"
+
+#: templates/pages/community/support.html:55
+#, python-format
+msgid ""
+"\n"
+"            <p>Before requesting support, please try to make use of the available online resources, where the answers to a large number of questions can already be found. The most important is the <a href=\"%(url_doclist)s\">documentation</a>. A great majority of questions asked in the AtoM User Forum are easily answered through simple searches of our documentation, or via the documentation <a href=\"%(url_doclist)s\">index page</a>. We are also working hard to improve our documentation, and currently it is changing on a daily basis, sometimes dramatically so. Please be sure to look around at the latest before requesting support.</p>\n"
+"            <p>Other places to check for information include the <a href=\"https://wiki.accesstomemory.org/FAQ\">FAQ</a> (note the FAQ is also undergoing an upgrade soon!), and of course, <strong>previous questions asked by users in our User Forum</strong>, which have been answered by <a href=\"http://www.artefactual.com/\">Artefactual</a> team members and/or knowledgeable community participants. We've answered a LOT of questions over the years, and the odds are good that someone has run into the same problem as you!</p>\n"
+"          "
+msgstr "\n            <p>サポートを要請する前に、利用可能なオンラインリソースを利用してみてください。そこでは、多数の質問に対する答えがすでに見つかっています。 最も重要なのは<a href=\"%(url_doclist)s\">ドキュメント</a>です。 AtoMユーザーフォーラムで寄せられる質問の大多数は、当社のドキュメントを単純に検索するか、またはドキュメントの<a href=\"%(url_doclist)s\">索引ページ</a>から簡単に回答できます。 私達はまた私達のドキュメンテーションを改良するために一生懸命取り組んでいます、そして現在それは日々、時に劇的に変化しています。 サポートを要請する前に、必ず最新の情報を見てください。</p>\n            <p>情報をチェックするための他の場所には<a href=\"https://wiki.accesstomemory.org/FAQ\">FAQ</a>があります（FAQもまもなくアップグレードされることに注意してください）、そしてもちろん、<strong>知識豊富なコミュニティ参加者によって回答されたユーザーフォーラムでユーザーが尋ねた以前の質問</strong>や、 <a href=\"http://www.artefactual.com/\">Artefactualチームメンバー</a>による回答があります 。 私達は長年にわたり多くの質問に答えてきました、そして誰かがあなたと同じ問題にぶつかったという可能性があります！</p>\n          "
+
+#: templates/pages/community/support.html:62
+msgid "Posting to the User forum"
+msgstr "ユーザーフォーラムに投稿"
+
+#: templates/pages/community/support.html:65
+msgid ""
+"\n"
+"                <p>The <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">AtoM User Forum</a> is the best place to get interactive feedback from other AtoM users and developers. <a href=\"http://www.artefactual.com/\">Artefactual</a>, the lead developers of AtoM, moderates the user forum, and we try whenever possible to post responses to straight-forward user questions within 24 hours of their posting (during M-F business hours - we are in the Pacific time zone). This is a freely offered service we provide as we are able, and we hope to see more community users become active over time in answering each others' questions. When we think a particular query is beyond these free support parameters we will inform the user that it may be necessary to address it as paid, commercial support. Examples include questions that are too in-depth and time-consuming to investigate and answer or questions that involve unsupported tools or platforms. Please keep in mind that we have to prioritize our client assignments so that we can pay our bills and continue to provide free software and free community support.</p>\n"
+"                <p>If you are interested in commercial support from Artefactual, please see <a href=\"http://www.artefactual.com/services/atom-2/\">our website</a> for the services we offer.</p>\n"
+"              "
+msgstr "\n                <p><a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">AtoMユーザーフォーラム</a>は、他のAtoMユーザーや開発者からのインタラクティブなフィードバックを得るのに最適な場所です。AtoMの開発リーダーである<a href=\"http://www.artefactual.com/\">Artefactual</a> はユーザーフォーラムをモデレートし、可能な限り投稿から24時間以内にユーザーからの簡単な質問に対する回答を投稿するようにしています（M-F営業時間中 - 私たちは太平洋時間帯です）。これは私たちが可能な限り無料で提供するサービスであり、時間をかけてより多くのコミュニティユーザーが互いの質問に答えることに積極的になることを望んでいます。私たちが特定の質問がこれらの無料サポートパラメータを超えていると思うとき、我々はそれを有料で商業的なサポートとして扱うことが必要であるかもしれないことをユーザーに知らせます。例としては、調査して答えるには深すぎ、時間がかかりすぎる質問や、サポートされていないツールやプラットフォームに関する質問があります。支払いを行い、引き続き無料ソフトウェアと無料コミュニティサポートを提供できるように、クライアントの割り当てに優先順位を付ける必要があることに注意してください。.</p>\n                <p>Artefactualからの商業的サポートに興味がある場合は、当社の提供するサービスについて<a href=\"http://www.artefactual.com/services/atom-2/\">当社のWebサイト</a>を参照してください</p>\n              "
+
+#: templates/pages/community/support.html:71
+msgid ""
+"\n"
+"                    <p>Subscribe to the list or <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">visit the online version</a>!</p>\n"
+"                  "
+msgstr "\n                    <p>リストを購読するか、または<a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">オンライン版 </a>にアクセスしてください。</p>\n                  "
+
+#: templates/pages/community/support.html:75
+msgid "Enter your e-mail address"
+msgstr "メールアドレスを入力"
+
+#: templates/pages/community/support.html:77
+msgid "Subscribe"
+msgstr "申し込む"
+
+#: templates/pages/community/support.html:84
+msgid "Details to include in a User Forum post"
+msgstr "ユーザーフォーラムの投稿に含める詳細"
+
+#: templates/pages/community/support.html:85
+msgid ""
+"\n"
+"                <p>Depending on the nature of your issue, here's a few ideas of the information that will help us respond to you more quickly and in more precise detail:</p>\n"
+"                <ul>\n"
+"                  <li>What version of AtoM are you using?</li>\n"
+"                  <li>What have you tried already to resolve the problem?</li>\n"
+"                  <li>What operating system is AtoM installed on (Linux, Windows, Apple, etc.)?\n"
+"                  <li>What version of PHP do you have installed?</li>\n"
+"                  <li>Do you have a stack trace of the error message you received?</li>\n"
+"                  <li>Are you hosting your own instance, or are you using an external hosting provider?</li>\n"
+"                </ul>\n"
+"                <p>We find it easiest to clearly answer posts that are <strong>complete</strong> and <strong>succinct</strong> - that is, posts that include all important details about the software environment and what led to the error, but that also trim away any details  or code snippets that aren't directly relevant to the mater at hand. Thanks for helping us to make the User Forum a vibrant and positive place!</p>\n"
+"              "
+msgstr "\n                <p>あなたの問題の性質に応じて、私たちがあなたにもっと早くそしてより正確に対応するのを助ける情報のいくつかの考えがここにあります：</p>\n                <ul>\n                  <li>AtoMのどのバージョンを使用していますか？</li>\n                  <li>問題を解決するためにすでに何を試みましたか？</li>\n                  <li>AtoMにはどのようなオペレーティングシステムがインストールされていますか（Linux、Windows、Appleなど）。\n                  <li>どのバージョンのPHPをインストールしましたか？</li>\n                  <li>受け取ったエラーメッセージのスタックトレースはありますか。</li>\n                  <li>あなたはあなた自身のインスタンスをホストしていますか、それともあなたは外部のホスティングプロバイダを使用していますか？</li>\n                </ul>\n                <p><strong>完全</strong>で<strong>簡潔</strong>な投稿に、明瞭に答えることが最も簡単です。つまり、ソフトウェア環境とエラーの原因となったことに関するすべての重要な詳細を含む投稿ですが、当面の問題に直接関連しない詳細やコードスニペットも削除するのです。 ユーザーフォーラムを活気に満ちたポジティブな場所にするために私たちを助けてくれてありがとう！</p>\n              "
+
+#: templates/pages/download.html:17
+msgid "Stable releases"
+msgstr "安定版リリース"
+
+#: templates/pages/download.html:21 templates/pages/download.html.py:43
+#: templates/pages/download.html:65 templates/pages/download.html.py:117
+msgid "Release version"
+msgstr "リリースバージョン"
+
+#: templates/pages/download.html:22 templates/pages/download.html.py:44
+#: templates/pages/download.html:66 templates/pages/download.html.py:118
+msgid "Release date"
+msgstr "リリース日"
+
+#: templates/pages/download.html:23 templates/pages/download.html.py:31
+#: templates/pages/download.html:45 templates/pages/download.html.py:67
+#: templates/pages/download.html:75 templates/pages/download.html.py:81
+#: templates/pages/download.html:87 templates/pages/download.html.py:93
+#: templates/pages/download.html:99 templates/pages/download.html.py:105
+#: templates/pages/download.html:119 templates/pages/download.html.py:127
+#: templates/pages/download.html:133 templates/pages/download.html.py:139
+#: templates/pages/home.html:13
+msgctxt "Download button"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: templates/pages/download.html:24 templates/pages/download.html.py:46
+#: templates/pages/download.html:68 templates/pages/download.html.py:120
+msgid "Changes"
+msgstr "変更"
+
+#: templates/pages/download.html:32 templates/pages/download.html.py:54
+#: templates/pages/download.html:76 templates/pages/download.html.py:82
+#: templates/pages/download.html:88 templates/pages/download.html.py:100
+#: templates/pages/download.html:106 templates/pages/download.html.py:134
+#: templates/pages/download.html:140
+msgid "Issue list"
+msgstr "課題リスト"
+
+#: templates/pages/download.html:39
+msgid "Development releases"
+msgstr "開発リリース"
+
+#: templates/pages/download.html:52
+msgid "Unknown"
+msgstr "不明"
+
+#: templates/pages/download.html:53
+msgid "Not available yet"
+msgstr "まだ利用できません"
+
+#: templates/pages/download.html:61 templates/pages/download.html.py:113
+msgid "Legacy releases"
+msgstr "過去のリリース"
+
+#: templates/pages/download.html:151
+msgid "Download and install AtoM on your webserver"
+msgstr "AtoMをダウンロードしてWebサーバーにインストールする"
+
+#: templates/pages/download.html:154
+#, python-format
+msgid ""
+"\n"
+"            <p>AtoM is web-based software. You can download and install it on your own webserver to make your copy of AtoM available to anyone with an internet connection. AtoM comes with an installer that helps you through this process.</p>\n"
+"            <p>Once you have downloaded this file, consult the online <a href=\"%(url_installation)s\">installation documentation</a>. See also the <a href=\"%(url_upgrade)s\">upgrading guide</a>.</p>\n"
+"          "
+msgstr "\n            <p>AtoMはWebベースのソフトウェアです。 あなたはあなたのAtoMのコピーをインターネットに接続している誰にでも利用可能にするためにあなた自身のウェブサーバーにそれをダウンロードしてインストールすることができます。 AtoMには、このプロセスを支援するインストーラが付属しています。</p>\n            <p>\nこのファイルをダウンロードしたら、オンライン <a href=\"%(url_installation)s\">インストールマニュアル</a>を参照してください。  <a href=\"%(url_upgrade)s\">アップグレードガイド</a>も参照してください。</p>\n          "
+
+#: templates/pages/download.html:163
+msgid "Test AtoM locally using Vagrant"
+msgstr "Vagrantを使ってローカルでAtoMをテストする"
+
+#: templates/pages/download.html:164
+msgid ""
+"\n"
+"            <p>Run AtoM as a virtual machine (VM) on any operating system, using <a href=\"https://www.virtualbox.org/\">Virtualbox</a> and <a href=\"http://www.vagrantup.com/\">Vagrant</a>. This option allows you to try AtoM on your personal computer if you don't have access to your own webserver on which to install AtoM, or if you're a developer looking to work with the code.</p>\n"
+"            <p>Virtualbox is an open source, easy to use general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use, and Vagrant is an open source automation tool for building complete development environments. Artefactual has created an AtoM VM that can be easily used with Virtualbox, which will virtualize the installation environment for you so you can easily run a test instance of AtoM on your personal computer. For more information, see our <a href=\"https://www.accesstomemory.org/docs/2.1/admin-manual/installation/vagrant/#installation-vagrant\">Vagrant installation instructions</a> in the AtoM Administrator's Manual.</p>\n"
+"          "
+msgstr "\n            <p><a href=\"https://www.virtualbox.org/\">Virtualbox</a> と <a href=\"http://www.vagrantup.com/\">Vagrant</a> を使用して、任意のオペレーティングシステム上で仮想マシン（VM）としてAtoMを実行します。 AtoMをインストールするWebサーバーにアクセスできない場合、またはコードを操作したい開発者の場合は、このオプションを使用して、パーソナルコンピューターでAtoMを試すことができます。</p>\n            <p>Virtualboxは、サーバー、デスクトップおよび組み込み用途を対象とした、x86ハードウェア用のオープンソースの使いやすい汎用フルバーチャライザーです。Vagrantは、完全な開発環境を構築するためのオープンソース自動化ツールです。 Artefactualは、Virtualboxで簡単に使用できるAtoM VMを作成しました。これにより、インストール環境が仮想化され、パーソナルコンピューターでAtoMのテストインスタンスを簡単に実行できるようになります。 詳細は、AtoM管理者マニュアルの <a href=\"https://www.accesstomemory.org/docs/2.1/admin-manual/installation/vagrant/#installation-vagrant\">Vagrantのインストール手順</a> を参照してください。</p>\n          "
+
+#: templates/pages/home.html:7
+msgid "Providing access to memory since 2007"
+msgstr "2007年から access to memory を提供"
+
+#: templates/pages/home.html:8
+msgid ""
+"AtoM stands for <span>Access to Memory</span>. It is a web-based, open "
+"source application for standards-based archival description and access in a "
+"multilingual, multi-repository environment."
+msgstr "AtoMは<span>Access to Memory</span>の略です。 これはWebベースの標準ベースのアーカイブ記述と多言語、マルチリポジトリ環境でのアクセスのためのオープンソースアプリケーションです。"
+
+#: templates/pages/home.html:56
+msgid "Web-based"
+msgstr "Webベース"
+
+#: templates/pages/home.html:58
+msgid ""
+"\n"
+"            Access your AtoM installation from anywhere you have an internet connection. All core AtoM functions take place via a web browser, with minimal assumptions about end-user requirements for access. No more synching multiple installations on a per-machine basis – install AtoM once, and access it from anywhere.\n"
+"          "
+msgstr "\n            インターネットに接続している場所ならどこからでもAtoMインストールにアクセスできます。 AtoMの中核機能はすべて、Webブラウザを介して行われます。エンドユーザーのアクセス要件については、最小限の前提条件です。 マシンごとに複数のインストールを同期する必要はもうありません - 一度AtoMをインストールし、どこからでもアクセスできます。\n          "
+
+#: templates/pages/home.html:65
+msgid "Open source"
+msgstr "オープンソース"
+
+#: templates/pages/home.html:67
+msgid ""
+"\n"
+"            All AtoM code is released under a GNU Affero General Public License (A-GPL 3.0) – giving you the freedom to study, modify, improve, and distribute it. We believe that an important part of access is accessibility, and that everyone should have access to the tools they need to preserve cultural heritage materials. AtoM code is always freely available, and our documentation is also released under a Creative Commons Share-alike license. Check out our <a href=\"https://github.com/artefactual/atom\">code repository</a>!\n"
+"          "
+msgstr "\n            すべてのAtoMコードはGNU Affero一般公衆利用許諾契約書（A-GPL 3.0）の下でリリースされています - あなたにそれを研究し、修正し、改良し、そして配布する自由を与えます。 私たちは、アクセスの重要な部分はアクセシビリティであり、そして誰もが文化遺産の資料を保護するために必要な道具へのアクセスを持つべきであると信じています。 AtoMコードはいつでも無料で入手できます。また、当社のドキュメントもCreative Commons Share-likeライセンスの下で公開されています。 <a href=\"https://github.com/artefactual/atom\">コードリポジトリ</a>をチェックしてください！\n          "
+
+#: templates/pages/home.html:74
+msgid "Standards-based"
+msgstr "標準ベース"
+
+#: templates/pages/home.html:76
+msgid ""
+"\n"
+"            AtoM was originally built with support from the <a href=\"http://www.ica.org\">International Council on Archives</a>, to encourage broader international standards adoption. We've built standards-compliance into the core of AtoM, and offer easy-to-use, web-based edit templates that conform to a wide variety of international and national standards.</p>\n"
+"          "
+msgstr "\n            AtoMはもともと、より広い国際標準の採用を奨励するために、 <a href=\"http://www.ica.org\">国際公文書評議会（International Council on Archives）</a>の支援を受けて構築されました。 私たちはAtoMの中核に標準準拠を構築し、さまざまな国際標準および国内標準に準拠する使いやすいWebベースの編集テンプレートを提供しています。</p>\n          "
+
+#: templates/pages/home.html:82
+msgid "Import/export friendly"
+msgstr "細やかなインポート／エクスポート"
+
+#: templates/pages/home.html:83
+msgid ""
+"\n"
+"          <p>Your data will never be locked into AtoM – we implement a number of metadata exchange standards to support easy import and export through the AtoM user interface.</p>\n"
+"          <p>Currently AtoM supports the following import/export formats: <abbr title=\"Encoded Archival Description (EAD) – 2002 edition, for descriptions\">EAD</abbr>, <abbr title=\"Encoded Archival Context Corporate Bodies, Persons, and Families (EAC-CPF) – 2010 edition, for authority records\">EAC-CPF</abbr>, <abbr title=\"Comma Separated Values (CSV) import for accessions, descriptions, authority records, institutions, and more\">CSV</abbr> and <abbr title=\"Simple Knowledge Organization System (SKOS) - W3C Recommendation 18 August 2009, for terms and taxonomies\">SKOS</abbr>. Find out more in our <a href=\"https://www.accesstomemory.org/docs/\">user manual</a>.</p>\n"
+"        "
+msgstr "\n          <p>あなたのデータはAtoMにロックされることは決してありません - 私たちはAtoMユーザーインターフェースを通して簡単なインポートとエクスポートをサポートするために多くのメタデータ交換標準を実装します。</p>\n          <p>現在AtoMは次のインポート/エクスポートフォーマットをサポートしています：<abbr title=\"Encoded Archival Description (EAD) – 2002 edition, for descriptions\">EAD</abbr>、<abbr title=\"Encoded Archival Context Corporate Bodies, Persons, and Families (EAC-CPF) – 2010 edition, for authority records\">EAC-CPF</abbr>、<abbr title=\"Comma Separated Values (CSV) import for accessions, descriptions, authority records, institutions, and more\">CSV</abbr> および <abbr title=\"Simple Knowledge Organization System (SKOS) - W3C Recommendation 18 August 2009, for terms and taxonomies\">SKOS</abbr>。 詳細は当社の<a href=\"https://www.accesstomemory.org/docs/\">ユーザーマニュアル</a>をご覧ください。</p>\n        "
+
+#: templates/pages/home.html:94
+msgid "Multilingual"
+msgstr "多言語"
+
+#: templates/pages/home.html:96
+msgid ""
+"\n"
+"            All user interface elements and database content can be translated into multiple languages, using our built-in translation interface. Our translations are all generously provided by volunteer translators from the AtoM User Community. Want to see AtoM available in your language? Help us translate!\n"
+"          "
+msgstr "\n            すべてのユーザーインターフェース要素とデータベースコンテンツは、弊社の内蔵翻訳インターフェースを使用して、多言語に翻訳することができます。 私たちの翻訳はすべてAtoMユーザーコミュニティのボランティア翻訳者によって寛大に提供されています。 AtoMをあなたの言語で利用可能にしたいですか？ 翻訳を手伝ってください！\n          "
+
+#: templates/pages/home.html:103
+msgid "Multirepository"
+msgstr "複数のリポジトリ"
+
+#: templates/pages/home.html:105
+msgid ""
+"\n"
+"            Built for use by a single institution for its own descriptions, or as a multi-repository “union list” (network, portal) accepting descriptions from any number of contributing institutions, AtoM is flexible enough to accommodate your needs. See our list of community users for a better sense of all the ways AtoM is being used.\n"
+"          "
+msgstr "\n            AtoMは、独自の記述する1つの機関が使用するために構築され、または多数の貢献機関からの記述を受け入れる複数リポジトリの「共用体リスト」（ネットワーク、ポータル）として使用するために構築しています。 コミュニティユーザーのリストを参照してAtoMを使用する方法のより良い意味を確認してください。\n          "
+
+#: templates/pages/home.html:112
+msgid "Constantly improving"
+msgstr "常に改善"
+
+#: templates/pages/home.html:114
+msgid ""
+"\n"
+"            AtoM is an active, dynamic open-source project with a broad user base. We're constantly working with our community to improve the application, and all enhancements are bundled into our public releases. This means that whenever one person contributes, the entire community benefits. Find out more about how you can help improve AtoM.</p>\n"
+"          "
+msgstr "\n            AtoMは、幅広いユーザーベースを持つアクティブで動的なオープンソースプロジェクトです。 私たちはアプリケーションを改善するために私たちのコミュニティと絶えず取り組んでいます、そしてすべての機能強化は私たちの公開リリースにまとめられています。 これは、一人の人が貢献するときはいつでも、コミュニティ全体が利益を得ることを意味します。 AtoMの改善にどのように役立つかについての詳細をご覧ください。</p>\n          "

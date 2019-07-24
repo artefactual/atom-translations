@@ -1,0 +1,541 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Iona Bailey, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: AtoM\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-21 10:51-0700\n"
+"PO-Revision-Date: 2019-02-04 21:05+0000\n"
+"Last-Translator: artefactual <translate@artefactual.com>\n"
+"Language-Team: Welsh (http://www.transifex.com/artefactual/atom/language/cy/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+
+#: atom/settings/base.py:76
+msgid "English"
+msgstr "Saesneg"
+
+#: atom/settings/base.py:77
+msgid "Spanish"
+msgstr "Sbaeneg"
+
+#: atom/settings/base.py:78
+msgid "Italian"
+msgstr "Eidaleg"
+
+#: atom/settings/base.py:79
+msgid "French"
+msgstr "Ffrangeg"
+
+#: atom/settings/base.py:80
+msgid "Portuguese"
+msgstr "Portiwgaleg"
+
+#: atom/settings/base.py:81
+msgid "Slovenian"
+msgstr "Slovenian"
+
+#: atom/settings/base.py:82
+msgid "Catalan"
+msgstr "Catalan"
+
+#: atom/settings/base.py:83
+msgid "Korean"
+msgstr "Corëeg"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:5
+#: sphinxdoc/templates/sphinxdoc/project_list.html:4
+#: sphinxdoc/templates/sphinxdoc/project_list.html:8
+#: sphinxdoc/templates/sphinxdoc/search.html:4 templates/base.html:78
+#: templates/footer.html:36
+msgid "Documentation"
+msgstr "Dogfennaeth"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:11
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is a legacy release, and these documents are no longer being maintained.\n"
+"      "
+msgstr "\n        %(project_name)s yn rhyddhad etifeddol, ac nid yw'r dogfennau hyn yn cael eu cynnal mwyach.\n      "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:16
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is an old release, and the documentation is in maintenance mode.\n"
+"      "
+msgstr "\n        %(project_name)s yn hen ryddhad, ac mae'r ddogfennaeth mewn modd dull cynnal a chadw.\n      "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:21
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is our latest release.\n"
+"      "
+msgstr "\n        %(project_name)s yw'r rhyddhad diweddaraf.\n      "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:26
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s is our latest release, and its documentation is a work in progress.\n"
+"      "
+msgstr "\n        %(project_name)s yw'r rhyddhad diweddaraf, ac mae ei ddogfennaeth ar y gweill.\n      "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:31
+#, python-format
+msgid ""
+"\n"
+"        %(project_name)s has not been released yet, and its documentation is a work in progress.\n"
+"      "
+msgstr "\n        %(project_name)s heb ei ryddhau eto, ac mae'r ddogfennaeth ar y gweill.\n      "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:60
+msgid "Table of contents"
+msgstr "Tabl cynnwys"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:77
+msgid "Contents"
+msgstr "Cynnwys"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:85
+#, python-format
+msgid ""
+"\n"
+"              <p>Open the <a href=\"%(genindex_url)s\">general index</a> or type your search in the search box.</p>\n"
+"            "
+msgstr "\n              <p>Agorwch <a href=\"%(genindex_url)s\">mynegai cyffredinol</a> neu teipiwch eich chwiiiad yn y bocs chwilio.</p>\n            "
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:98
+msgid "Available documents"
+msgstr "Dogfennau sydd ar gael"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:108
+msgid "Edit this document"
+msgstr "Golygu'r dogfen"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:110
+msgid "Source code"
+msgstr "Cod ffynhonnell"
+
+#: sphinxdoc/templates/sphinxdoc/documentation.html:113
+msgid "Latest update:"
+msgstr "Diweddariad diweddaraf:"
+
+#: sphinxdoc/templates/sphinxdoc/genindex.html:5
+msgid "General Index"
+msgstr "Mynegai Cyffredinol"
+
+#: sphinxdoc/templates/sphinxdoc/genindex.html:30
+msgid "[Link]"
+msgstr "[Dolen]"
+
+#: sphinxdoc/templates/sphinxdoc/modindex.html:5
+msgid "Module Index"
+msgstr "Mynegai Modiwlau"
+
+#: sphinxdoc/templates/sphinxdoc/project_list.html:4
+#: sphinxdoc/templates/sphinxdoc/project_list.html:9
+msgid "Project list"
+msgstr "Rhestr prosiect"
+
+#: sphinxdoc/templates/sphinxdoc/search.html:4
+msgid "Search"
+msgstr "Chwilio"
+
+#: sphinxdoc/templates/sphinxdoc/search.html:8
+msgid "Search results"
+msgstr "Canlyniadau chwilio"
+
+#: sphinxdoc/templates/sphinxdoc/search.html:12
+#, python-format
+msgid "Showing results matching \"%(query)s\"..."
+msgstr "Dangos canlyniadau sy'n cyfateb \"%(query)s\"..."
+
+#: sphinxdoc/templates/sphinxdoc/search.html:20
+msgid "No results found."
+msgstr "Ni chafwyd canlyniadau"
+
+#: sphinxdoc/templates/sphinxdoc/search.html:31
+msgid "No search query entered."
+msgstr "Dim ymholiad chwilio wedi'i gofnodi."
+
+#: templates/base.html:75 templates/footer.html:19
+msgid "Home"
+msgstr "Hafan"
+
+#: templates/base.html:76 templates/footer.html:20
+#: templates/pages/download.html:4 templates/pages/download.html.py:10
+msgid "Downloads"
+msgstr "Lawrlwythiadau"
+
+#: templates/base.html:92
+msgid "Other resources (wiki)"
+msgstr "Adnoddau arall (wiki)"
+
+#: templates/base.html:99 templates/footer.html:26
+#: templates/pages/community.html:4 templates/pages/community.html.py:10
+#: templates/pages/community/_menu.html:3
+#: templates/pages/community/support.html:4
+msgid "Community"
+msgstr "Cymuned"
+
+#: templates/base.html:101 templates/footer.html:28
+#: templates/pages/community/_menu.html:5
+#: templates/pages/community/support.html:4
+msgid "Get support"
+msgstr "Cael cymorth"
+
+#: templates/base.html:102 templates/footer.html:29
+#: templates/pages/community/_menu.html:6
+msgid "Translate"
+msgstr "Cyfieithu"
+
+#: templates/base.html:105 templates/footer.html:51
+msgid "News"
+msgstr "Newyddion"
+
+#: templates/base.html:106 templates/footer.html:37
+msgid "Wiki"
+msgstr "Wiki"
+
+#: templates/base.html:108 templates/footer.html:21
+msgid "Demo"
+msgstr "Demo"
+
+#: templates/base.html:110
+msgid "Try it now!"
+msgstr "Rhowch gynnig arni nawr!"
+
+#: templates/base.html:113
+msgid "Other sites"
+msgstr "Safleoedd eraill"
+
+#: templates/footer.html:12
+msgid "Language"
+msgstr "Iaith"
+
+#: templates/footer.html:17
+msgid "Explore"
+msgstr "Archwilio"
+
+#: templates/footer.html:34
+msgid "Help"
+msgstr "Cymorth"
+
+#: templates/footer.html:49
+msgid "About"
+msgstr "Ynghylch"
+
+#: templates/footer.html:50
+msgid "Services"
+msgstr "Gwasanaethau"
+
+#: templates/footer.html:53
+msgid "Artefactual is the lead developer of Archivematica and AtoM."
+msgstr "Artefactual yw'r datblygwr arweiniol o Archivematica ac AtoM."
+
+#: templates/footer.html:55
+msgid "Access to Memory documentation"
+msgstr "Mynediad at ddogfennau Cof"
+
+#: templates/footer.html:55
+msgid "is licensed under a"
+msgstr "Wedi'i drwyddedu o dan"
+
+#: templates/footer.html:55
+msgid "Creative Commons Attribution-ShareAlike 4.0 International License"
+msgstr "Trwydded rhyngwladol Creative Commons Attribution-ShareAlike 4.0 "
+
+#: templates/footer.html:57
+msgid "© 2015 Artefactual Systems Inc. All rights reserved."
+msgstr "© 2015 Artefactual Systems Inc. Cedwir pob hawl."
+
+#: templates/pages/community/develop.html:13
+#: templates/pages/community/participate.html:13
+msgid ""
+"\n"
+"          <p>Work in progress!</p>\n"
+"        "
+msgstr "\n          <p>Gwaith ar y gweill!</p>\n        "
+
+#: templates/pages/community/support.html:19
+msgid "User forum"
+msgstr "Fforwm defnyddwyr"
+
+#: templates/pages/community/support.html:20
+msgid ""
+"\n"
+"              <p>Our <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">User Forum</a> is the main place where user come to seek help, make announcements, share resources, and discuss issues relevant to the software and the community.</p>\n"
+"            "
+msgstr "\n              <p>Ein <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">Fforwm Defnyddwyr</a> yw'r prif lle mae defnyddwyr yn dod i ofyn am gymorth, yn gwneud cyhoeddiadau, rhannu adnoddau, a thrafod materion sy'n berthnasol i'r meddalwedd a'r gymuned.</p>\n            "
+
+#: templates/pages/community/support.html:26
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/pages/community/support.html:27
+msgid ""
+"\n"
+"              <p>Follow <a href=\"https://twitter.com/accesstomemory\">AtoM on Twitter (@accesstomemory)</a> to keep up with the latest announcements and connect with other users.</p>\n"
+"            "
+msgstr "\n              <p>Dilynwch <a href=\"https://twitter.com/accesstomemory\">AtoM ar Twitter (@accesstomemory)</a> i gadw i fyny gyda'r cyhoeddiadau diweddaraf a chysylltu gyda defnyddwyr eraill.</p>\n            "
+
+#: templates/pages/community/support.html:37
+msgid "Github"
+msgstr "Github"
+
+#: templates/pages/community/support.html:38
+msgid ""
+"\n"
+"              <p>AtoM's code is hosted on <a href=\"https://github.com/artefactual/atom\">Github</a>. We welcome pull requests and comments related to our code. For further information, please see <a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">Contribute Code.</a> </p>\n"
+"            "
+msgstr "\n              <p>Mae cod AtoM yn cael ei gynnal ar <a href=\"https://github.com/artefactual/atom\">Github</a>. Rydym yn croesawu ceisiadau tynnu a sylwadau yn ymwneud â'n cod. Am wybodaeth pellach, gweler <a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">Cod Cyfrannu.</a> </p>\n            "
+
+#: templates/pages/community/support.html:44
+msgid "Redmine issue tracker"
+msgstr "Pecyn olrhain materion Redmine"
+
+#: templates/pages/community/support.html:45
+msgid ""
+"\n"
+"              <p>Found a bug and want to know if it's already been reported? Want to see the status of a current release under development? Checkout our Issue tracker <a href=\"https://projects.artefactual.com/\">here</a>.</p>\n"
+"            "
+msgstr "\n              <p>Wedi dod o hyd i byg ac eisiau gwybod os yw eisoes wedi cael ei hadrodd? Eisiau gweld statws rhyddhad cyfredol sy'n cael eu datblygu ? Gwiriwch ein pecyn olrhain materion <a href=\"https://projects.artefactual.com/\">yma</a>.</p>\n            "
+
+#: templates/pages/community/support.html:53
+msgid "Before requesting support"
+msgstr "Cyn gofyn am gymorth"
+
+#: templates/pages/community/support.html:55
+#, python-format
+msgid ""
+"\n"
+"            <p>Before requesting support, please try to make use of the available online resources, where the answers to a large number of questions can already be found. The most important is the <a href=\"%(url_doclist)s\">documentation</a>. A great majority of questions asked in the AtoM User Forum are easily answered through simple searches of our documentation, or via the documentation <a href=\"%(url_doclist)s\">index page</a>. We are also working hard to improve our documentation, and currently it is changing on a daily basis, sometimes dramatically so. Please be sure to look around at the latest before requesting support.</p>\n"
+"            <p>Other places to check for information include the <a href=\"https://wiki.accesstomemory.org/FAQ\">FAQ</a> (note the FAQ is also undergoing an upgrade soon!), and of course, <strong>previous questions asked by users in our User Forum</strong>, which have been answered by <a href=\"http://www.artefactual.com/\">Artefactual</a> team members and/or knowledgeable community participants. We've answered a LOT of questions over the years, and the odds are good that someone has run into the same problem as you!</p>\n"
+"          "
+msgstr "\n            <p>Cyn gofyn am gymorth, ceisiwch wneud defnydd o'r adnoddau ar-lein sydd ar gael, lle gellir dod o hyd i atebion i nifer fawr o gwestiynau eisoes. Y pwysicaf yw'r <a href=\"%(url_doclist)s\">dogfennaeth</a>. Mae mwyafrif helaeth o gwestiynau a ofynnir yn Fforwm Defnyddwyr AtoM yn hawdd eu hateb trwy chwiliadau syml o'n dogfennaeth, neu trwy <a href=\"%(url_doclist)s\">tudalen mynegai</a> y dogfennaeth. Rydym hefyd yn gweithio'n galed i wella ein dogfennaeth, ac ar hyn o bryd mae'n newid o ddydd i ddydd, weithiau'n ddramatig. Byddwch yn siŵr i edrych ar y diweddaraf cyn gofyn am gymorth.</p>\n            <p>Mae llefydd eraill i chwilio am wybodaeth yn cynnwys <a href=\"https://wiki.accesstomemory.org/FAQ\">FAQ</a> (noder mae'r FAQ yn cael ei uwchraddio'n fuan!), hefyd, <strong>cwestiynau blaenorol a ofynnwyd gan ddefnyddwyr yn ein Fforwm Defnyddwyr</strong>, sydd wedi eu hateb gan aelodau tîm <a href=\"http://www.artefactual.com/\">Artefactual</a> a/neu cyfranogwyr cymunedol gwybodus. Rydym wedi ateb llawer o gwestiynau dros y blynyddoedd, ac mae'r ods yn dda bod rhywun wedi cael yr un broblem â chi!</p>\n          "
+
+#: templates/pages/community/support.html:62
+msgid "Posting to the User forum"
+msgstr "Postio i'r Fforwm Defnyddwyr"
+
+#: templates/pages/community/support.html:65
+msgid ""
+"\n"
+"                <p>The <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">AtoM User Forum</a> is the best place to get interactive feedback from other AtoM users and developers. <a href=\"http://www.artefactual.com/\">Artefactual</a>, the lead developers of AtoM, moderates the user forum, and we try whenever possible to post responses to straight-forward user questions within 24 hours of their posting (during M-F business hours - we are in the Pacific time zone). This is a freely offered service we provide as we are able, and we hope to see more community users become active over time in answering each others' questions. When we think a particular query is beyond these free support parameters we will inform the user that it may be necessary to address it as paid, commercial support. Examples include questions that are too in-depth and time-consuming to investigate and answer or questions that involve unsupported tools or platforms. Please keep in mind that we have to prioritize our client assignments so that we can pay our bills and continue to provide free software and free community support.</p>\n"
+"                <p>If you are interested in commercial support from Artefactual, please see <a href=\"http://www.artefactual.com/services/atom-2/\">our website</a> for the services we offer.</p>\n"
+"              "
+msgstr "\n                <p><a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">Fforwm Defnyddwyr AtoM</a> yw'r lle gorau i gael adborth rhyngweithiol gan ddefnyddwyr eraill a datblygwyr AtoM. <a href=\"http://www.artefactual.com/\">Artefactual</a>, datblygwyr arweiniol AtoM, sy'n cymedroli'r fforwm defnyddwyr, ac rydym yn ceisio pryd bynnag y bo modd i bostio ymatebion i gwestiynau syml defnyddiwr o fewn 24 awr ar ôl eu postio (yn ystod oriau busnes Ll-G - rydym yng nghylchfa amser y Môr Tawel). Mae hwn yn wasanaeth a gynigir yn rhad ac am ddim a ddarparwn fel y medrwn, a gobeithiwn weld mwy o ddefnyddwyr cymunedol yn dod yn weithredol dros amser yn ateb cwestiynau ei gilydd. Pan fyddwn yn meddwl bod ymholiad penodol y tu hwnt i'r paramedrau cymorth rhad ac am ddim, rhoddir gwybod i'r defnyddiwr y gall fod yn angenrheidiol i roi sylw iddo am dâl cymorth masnachol. Mae enghreifftiau yn cynnwys cwestiynau sy'n rhy fanwl ac sy'n gofyn amser i ymchwilio ac ateb neu gwestiynau sy'n cynnwys offer neu lwyfannau sydd heb gymorth. Cadwch mewn cof bod rhaid i ni flaenoriaethu aseiniadau ein cleientiaid fel y gallwn dalu ein biliau a pharhau i ddarparu meddalwedd am ddim a chymorth cymunedol am ddim.</p>\n                <p>Os oes gennych ddiddordeb mewn cefnogaeth fasnachol gan Artefactual, gweler<a href=\"http://www.artefactual.com/services/atom-2/\">ein gwefan</a> am y gwasanaethau a ddarperir gennym.</p>\n              "
+
+#: templates/pages/community/support.html:71
+msgid ""
+"\n"
+"                    <p>Subscribe to the list or <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">visit the online version</a>!</p>\n"
+"                  "
+msgstr "\n                    <p>Tanysgrifio i'r rhestr neu <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">gweld y fersiwn ar-lein</a>!</p>\n                  "
+
+#: templates/pages/community/support.html:75
+msgid "Enter your e-mail address"
+msgstr "Rhowch eich cyfeiriad e-bost"
+
+#: templates/pages/community/support.html:77
+msgid "Subscribe"
+msgstr "Tanysgrifio"
+
+#: templates/pages/community/support.html:84
+msgid "Details to include in a User Forum post"
+msgstr "Manylion i'w gynnwys ym mhost Fforwm Defnyddwyr"
+
+#: templates/pages/community/support.html:85
+msgid ""
+"\n"
+"                <p>Depending on the nature of your issue, here's a few ideas of the information that will help us respond to you more quickly and in more precise detail:</p>\n"
+"                <ul>\n"
+"                  <li>What version of AtoM are you using?</li>\n"
+"                  <li>What have you tried already to resolve the problem?</li>\n"
+"                  <li>What operating system is AtoM installed on (Linux, Windows, Apple, etc.)?\n"
+"                  <li>What version of PHP do you have installed?</li>\n"
+"                  <li>Do you have a stack trace of the error message you received?</li>\n"
+"                  <li>Are you hosting your own instance, or are you using an external hosting provider?</li>\n"
+"                </ul>\n"
+"                <p>We find it easiest to clearly answer posts that are <strong>complete</strong> and <strong>succinct</strong> - that is, posts that include all important details about the software environment and what led to the error, but that also trim away any details  or code snippets that aren't directly relevant to the mater at hand. Thanks for helping us to make the User Forum a vibrant and positive place!</p>\n"
+"              "
+msgstr "\n                <p>Yn dibynnu ar natur y mater, dyma rai syniadau o'r wybodaeth a fydd yn ein helpu i ymateb yn gyflymach ac yn fwy manwl:</p>\n                <ul>\n                  <li>Pa fersiwn o AtoM ydych chi'n ei defnyddio?</li>\n                  <li>Beth ydych chi wedi ei wneud eisoes i geisio datrys y broblem?</li>\n                  <li>Ar ba system weithredu y mae AtoM wedi ei osod (Linux, Windows, Apple, ayyb.)?\n                  <li>Pa fersiwn o PHP sydd wedi ei osod?</li>\n                  <li>A oes gennych stac olrhain o'r neges wall a gawsoch?</li>\n                  <li>A ydych yn cynnal eich achos eich hun, neu a ydych yn defnyddio gwesteiwr allanol?</li>\n                </ul>\n                <p>Rydym yn ei chael yn haws i ateb yn glir postiadau sydd yn <strong>gyflawn</strong> a <strong>chryno</strong> - hynny yw, postiadau sy'n cynnwys yr holl fanylion pwysig am amgylchedd y meddalwedd a beth arweiniodd at y gwall, ond bod hefyd eithrio unrhyw fanylion neu bytiau cod nad ydynt yn uniongyrchol berthnasol i'r mater dan sylw. Diolch am ein helpu i wneud y Fforwm Defnyddwyr yn lle bywiog a chadarnhaol!</p>\n              "
+
+#: templates/pages/download.html:17
+msgid "Stable releases"
+msgstr "Rhyddhad sefydlog"
+
+#: templates/pages/download.html:21 templates/pages/download.html.py:43
+#: templates/pages/download.html:65 templates/pages/download.html.py:117
+msgid "Release version"
+msgstr "Fersiwn rhyddhad"
+
+#: templates/pages/download.html:22 templates/pages/download.html.py:44
+#: templates/pages/download.html:66 templates/pages/download.html.py:118
+msgid "Release date"
+msgstr "Dyddiad rhyddhad"
+
+#: templates/pages/download.html:23 templates/pages/download.html.py:31
+#: templates/pages/download.html:45 templates/pages/download.html.py:67
+#: templates/pages/download.html:75 templates/pages/download.html.py:81
+#: templates/pages/download.html:87 templates/pages/download.html.py:93
+#: templates/pages/download.html:99 templates/pages/download.html.py:105
+#: templates/pages/download.html:119 templates/pages/download.html.py:127
+#: templates/pages/download.html:133 templates/pages/download.html.py:139
+#: templates/pages/home.html:13
+msgctxt "Download button"
+msgid "Download"
+msgstr "Lawrlwytho"
+
+#: templates/pages/download.html:24 templates/pages/download.html.py:46
+#: templates/pages/download.html:68 templates/pages/download.html.py:120
+msgid "Changes"
+msgstr "Newidiadau"
+
+#: templates/pages/download.html:32 templates/pages/download.html.py:54
+#: templates/pages/download.html:76 templates/pages/download.html.py:82
+#: templates/pages/download.html:88 templates/pages/download.html.py:100
+#: templates/pages/download.html:106 templates/pages/download.html.py:134
+#: templates/pages/download.html:140
+msgid "Issue list"
+msgstr "Rhestr materion"
+
+#: templates/pages/download.html:39
+msgid "Development releases"
+msgstr "Rhyddhad datblygiedig"
+
+#: templates/pages/download.html:52
+msgid "Unknown"
+msgstr "Anhysbys"
+
+#: templates/pages/download.html:53
+msgid "Not available yet"
+msgstr "Ddim ar gael eto"
+
+#: templates/pages/download.html:61 templates/pages/download.html.py:113
+msgid "Legacy releases"
+msgstr "Rhyddhad etifeddol"
+
+#: templates/pages/download.html:151
+msgid "Download and install AtoM on your webserver"
+msgstr "Lawrlwythwch a gosod AtoM ar eich gweinydd gwe"
+
+#: templates/pages/download.html:154
+#, python-format
+msgid ""
+"\n"
+"            <p>AtoM is web-based software. You can download and install it on your own webserver to make your copy of AtoM available to anyone with an internet connection. AtoM comes with an installer that helps you through this process.</p>\n"
+"            <p>Once you have downloaded this file, consult the online <a href=\"%(url_installation)s\">installation documentation</a>. See also the <a href=\"%(url_upgrade)s\">upgrading guide</a>.</p>\n"
+"          "
+msgstr "\n            <p>Mae AtoM yn feddalwedd ar y we. Gellir ei lawrlwytho a'i osod ar eich gweinydd we eich hun er mwyn gwneud copi o AtoM ar gael i unrhyw un sydd â chysylltiad i'r we. Daw AtoM gyda gosodwr sydd yn eich helpu drwy'r broses.</p>\n            <p>Unwaith y byddwch wedi lawrlwytho'r ffeil, ymgynghorwch ar-lein â'r <a href=\"%(url_installation)s\">dogfennaeth gosodiadau</a>. Gweler hefyd <a href=\"%(url_upgrade)s\">canllawiau uwchraddio</a>.</p>\n          "
+
+#: templates/pages/download.html:163
+msgid "Test AtoM locally using Vagrant"
+msgstr "Profi AtoM yn lleol gan ddefnyddio Vagrant"
+
+#: templates/pages/download.html:164
+msgid ""
+"\n"
+"            <p>Run AtoM as a virtual machine (VM) on any operating system, using <a href=\"https://www.virtualbox.org/\">Virtualbox</a> and <a href=\"http://www.vagrantup.com/\">Vagrant</a>. This option allows you to try AtoM on your personal computer if you don't have access to your own webserver on which to install AtoM, or if you're a developer looking to work with the code.</p>\n"
+"            <p>Virtualbox is an open source, easy to use general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use, and Vagrant is an open source automation tool for building complete development environments. Artefactual has created an AtoM VM that can be easily used with Virtualbox, which will virtualize the installation environment for you so you can easily run a test instance of AtoM on your personal computer. For more information, see our <a href=\"https://www.accesstomemory.org/docs/2.1/admin-manual/installation/vagrant/#installation-vagrant\">Vagrant installation instructions</a> in the AtoM Administrator's Manual.</p>\n"
+"          "
+msgstr "\n            <p>Rhedwch AtoM fel peiriant rhithiol (VM) ar unrhyw system weithredu, gan ddefnyddio <a href=\"https://www.virtualbox.org/\">Virtualbox</a> a <a href=\"http://www.vagrantup.com/\">Vagrant</a>. Mae'r opsiwn hwn yn eich galluogi i brofi ATOM ar eich cyfrifiadur personol os nad oes gennych fynediad at weinydd gwe eich hun i osod AtoM, neu os ydych yn ddatblygwr sydd am weithio â'r cod.</p>\n            <p>Mae VirtualBox yn rhithiwr llawn, ffynhonnell agored, at bwrpas cyffredinol ar gyfer caledwedd x86, wedi'i dargedu at ddefnydd gweinydd, cyfrifiadur desg a defnydd wreiddio, ac mae Vagrant yn declyn awtomeiddio ffynhonnell agored ar gyfer adeiladu amgylcheddau datblygu cyflawn. Mae Artefactual wedi creu VM AtoM y gellir eu defnyddio yn hawdd gyda VirtualBox, a fydd yn rhithio'r amgylchedd gosod ar eich cyfer fel y gallwch redeg enghraifft brawf o AtoM yn hawdd ar eich cyfrifiadur personol. Am fwy o wybodaeth, gweler ein <a href=\"https://www.accesstomemory.org/docs/2.1/admin-manual/installation/vagrant/#installation-vagrant\">Cyfarwyddiadau Gosod Vagrant</a> yn Llawlyfr Gweinyddwr AtoM.</p>\n          "
+
+#: templates/pages/home.html:7
+msgid "Providing access to memory since 2007"
+msgstr "Yn darparu mynediad i gof ers 2007"
+
+#: templates/pages/home.html:8
+msgid ""
+"AtoM stands for <span>Access to Memory</span>. It is a web-based, open "
+"source application for standards-based archival description and access in a "
+"multilingual, multi-repository environment."
+msgstr "Mae AtoM yn golygu<span>Access to Memory</span>. Mae'n rhaglen ar y we, ffynhonnell agored ar gyfer disgrifiad archifol seiliedig ar safonau a mynediad mewn amgylchedd amlieithog, cadwrfa luosog."
+
+#: templates/pages/home.html:56
+msgid "Web-based"
+msgstr "Ar y we"
+
+#: templates/pages/home.html:58
+msgid ""
+"\n"
+"            Access your AtoM installation from anywhere you have an internet connection. All core AtoM functions take place via a web browser, with minimal assumptions about end-user requirements for access. No more synching multiple installations on a per-machine basis – install AtoM once, and access it from anywhere.\n"
+"          "
+msgstr "\n            Cysylltwch ag ATOM o unrhyw le, lle mae gennych gysylltiad â'r rhyngrwyd. Mae pob ffwythiant craidd Atom yn cael eu cynnal trwy borwr gwe, gydag ychydig iawn o ragdybiaethau am ofynion y defnyddiwr ar gyfer mynediad. Dim rhagor o gydamseru gosodiadau lluosog ar sail peiriant - gosod AtoM unwaith, a chael mynediad iddo o unrhyw le.\n          "
+
+#: templates/pages/home.html:65
+msgid "Open source"
+msgstr "Ffynhonnell agored"
+
+#: templates/pages/home.html:67
+msgid ""
+"\n"
+"            All AtoM code is released under a GNU Affero General Public License (A-GPL 3.0) – giving you the freedom to study, modify, improve, and distribute it. We believe that an important part of access is accessibility, and that everyone should have access to the tools they need to preserve cultural heritage materials. AtoM code is always freely available, and our documentation is also released under a Creative Commons Share-alike license. Check out our <a href=\"https://github.com/artefactual/atom\">code repository</a>!\n"
+"          "
+msgstr "\n            Mae pob cod ATOM yn cael ei ryddhau o dan Drwydded Gyhoeddus Gyffredinol GNU Affero (A-GPL 3.0) - gan roi rhyddid i chi astudio, addasu, gwella, a'i ddosbarthu. Credwn mai rhan bwysig o fynediad yw hygyrchedd, ac y dylai pawb gael gafael ar yr offer sydd eu hangen arnynt i ddiogelu deunyddiau treftadaeth ddiwylliannol. Mae cod AtoM bob amser ar gael yn rhad ac am ddim, ac mae ein dogfennaeth yn cael ei ryddhau hefyd o dan drwydded Creative Commons Share-alike. Gweler ein <a href=\"https://github.com/artefactual/atom\">cadwrfa cod</a>!\n          "
+
+#: templates/pages/home.html:74
+msgid "Standards-based"
+msgstr "Seiliedig ar safonau"
+
+#: templates/pages/home.html:76
+msgid ""
+"\n"
+"            AtoM was originally built with support from the <a href=\"http://www.ica.org\">International Council on Archives</a>, to encourage broader international standards adoption. We've built standards-compliance into the core of AtoM, and offer easy-to-use, web-based edit templates that conform to a wide variety of international and national standards.</p>\n"
+"          "
+msgstr "\n            Adeiladwyd AtoM yn wreiddiol gyda chefnogaeth o'r <a href=\"http://www.ica.org\"> Cyngor Rhyngwladol ar Archifau</a>, er mwyn annog mabwysiadu safonau rhyngwladol ehangach. Rydym wedi adeiladu safonau cydsyniol i graidd AtoM, ac yn cynnig templedi golygu, hawdd ei ddefnyddio, ar y we, sy'n cydymffurfio i amrywiaeth eang o safonau rhyngwladol a chenedlaethol.</p>\n          "
+
+#: templates/pages/home.html:82
+msgid "Import/export friendly"
+msgstr "Mewnforio/allforio gyfeillgar"
+
+#: templates/pages/home.html:83
+msgid ""
+"\n"
+"          <p>Your data will never be locked into AtoM – we implement a number of metadata exchange standards to support easy import and export through the AtoM user interface.</p>\n"
+"          <p>Currently AtoM supports the following import/export formats: <abbr title=\"Encoded Archival Description (EAD) – 2002 edition, for descriptions\">EAD</abbr>, <abbr title=\"Encoded Archival Context Corporate Bodies, Persons, and Families (EAC-CPF) – 2010 edition, for authority records\">EAC-CPF</abbr>, <abbr title=\"Comma Separated Values (CSV) import for accessions, descriptions, authority records, institutions, and more\">CSV</abbr> and <abbr title=\"Simple Knowledge Organization System (SKOS) - W3C Recommendation 18 August 2009, for terms and taxonomies\">SKOS</abbr>. Find out more in our <a href=\"https://www.accesstomemory.org/docs/\">user manual</a>.</p>\n"
+"        "
+msgstr "\n          <p>Ni fydd eich data byth yn cael ei gloi i mewn i AtoM - rydym yn gweithredu nifer o safonau cyfnewid metadata i gefnogi mewnforio ac allforio hawdd drwy ryngwyneb defnyddiwr AtoM.</p>\n          <p>Ar hyn o bryd mae AtoM yn cefnogi'r fformatau allforio/mewnforio canlynol: <abbr title=\"Encoded Archival Description (EAD) – 2002 edition, for descriptions\">EAD</abbr>, <abbr title=\"Encoded Archival Context Corporate Bodies, Persons, and Families (EAC-CPF) – 2010 edition, for authority records\">EAC-CPF</abbr>, <abbr title=\"Comma Separated Values (CSV) import for accessions, descriptions, authority records, institutions, and more\">CSV</abbr> a <abbr title=\"Simple Knowledge Organization System (SKOS) - W3C Recommendation 18 August 2009, for terms and taxonomies\">SKOS</abbr>. Dysgwch mwy yn ein <a href=\"https://www.accesstomemory.org/docs/\">llawlyfr defnyddiwr</a>.</p>\n        "
+
+#: templates/pages/home.html:94
+msgid "Multilingual"
+msgstr "Amlieithog"
+
+#: templates/pages/home.html:96
+msgid ""
+"\n"
+"            All user interface elements and database content can be translated into multiple languages, using our built-in translation interface. Our translations are all generously provided by volunteer translators from the AtoM User Community. Want to see AtoM available in your language? Help us translate!\n"
+"          "
+msgstr "\n            Gall holl elfennau'r rhyngwyneb a chynnwys cronfa ddata cael ei gyfieithu i nifer o ieithoedd, gan ddefnyddio ein rhyngwyneb cyfieithu gosodedig. Mae ein cyfieithiadau i gyd yn cael eu darparu'n hael gan gyfieithwyr gwirfoddol o Gymuned Defnyddwyr AtoM. Eisiau gweld AtoM ar gael yn eich iaith? Helpwch ni cyfieithu!\n          "
+
+#: templates/pages/home.html:103
+msgid "Multirepository"
+msgstr "Cadwrfa lluosog"
+
+#: templates/pages/home.html:105
+msgid ""
+"\n"
+"            Built for use by a single institution for its own descriptions, or as a multi-repository “union list” (network, portal) accepting descriptions from any number of contributing institutions, AtoM is flexible enough to accommodate your needs. See our list of community users for a better sense of all the ways AtoM is being used.\n"
+"          "
+msgstr "\n            Adeiladwyd i'w defnyddio gan sefydliad unigol ar gyfer ei disgrifiadau hun, neu fel aml-gadwrfa \"rhestr undeb\" (rhwydwaith, porth) sy'n derbyn disgrifiadau o nifer o sefydliadau sy'n cyfrannu, mae AtoM yn ddigon hyblyg i gwrdd â'ch anghenion. Gweler ein rhestr o ddefnyddwyr cymunedol ar gyfer gwell ymdeimlad o'r holl ffyrdd y defnyddir AtoM.\n          "
+
+#: templates/pages/home.html:112
+msgid "Constantly improving"
+msgstr "Yn gwella o hyd"
+
+#: templates/pages/home.html:114
+msgid ""
+"\n"
+"            AtoM is an active, dynamic open-source project with a broad user base. We're constantly working with our community to improve the application, and all enhancements are bundled into our public releases. This means that whenever one person contributes, the entire community benefits. Find out more about how you can help improve AtoM.</p>\n"
+"          "
+msgstr "\n            Mae AtoM yn brosiect ffynhonnell agored egnïol, deinamig gyda sylfaen defnyddiwr eang. Rydym yn gweithio'n gyson gyda'n cymuned i wella'r pecyn, a'r holl welliannau yn cael eu bwndelu i mewn i'r rhyddhad cyhoeddus. Golyga hyn bod pryd bynnag y cyfrannir gan un person, mae'r gymuned gyfan yn manteisio. Er mwyn cael gwybod mwy am sut y gallwch helpu i wella AtoM.</p>\n          "
