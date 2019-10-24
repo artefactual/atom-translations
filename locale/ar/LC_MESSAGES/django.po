@@ -9,20 +9,21 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-24 02:09-0700\n"
-"PO-Revision-Date: 2019-02-04 21:05+0000\n"
-"Last-Translator: Omar Anwar <omaraglan91@yahoo.com>\n"
-"Language-Team: Arabic (http://www.transifex.com/artefactual/atom/language/"
-"ar/)\n"
+"PO-Revision-Date: 2019-12-19 00:06+0000\n"
+"Last-Translator: mahmoudmohamed145 <mahmoud55432@yahoo.com>\n"
+"Language-Team: Arabic <http://translations.artefactual.com/projects/atom/"
+"website/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.2.2\n"
 
 #: atom/settings/base.py:76
 msgid "English"
-msgstr "أنجليزي"
+msgstr "إنجليزي"
 
 #: atom/settings/base.py:77
 msgid "Spanish"
@@ -34,7 +35,7 @@ msgstr "كتالونية"
 
 #: atom/settings/base.py:79
 msgid "Italian"
-msgstr "أيطالي"
+msgstr "إيطالي"
 
 #: atom/settings/base.py:80
 msgid "French"
@@ -45,10 +46,8 @@ msgid "Portuguese"
 msgstr "بورتغالى"
 
 #: atom/settings/base.py:82
-#, fuzzy
-#| msgid "Portuguese"
 msgid "Brazilian Portuguese"
-msgstr "بورتغالى"
+msgstr "البرتغالية البرازيلية"
 
 #: atom/settings/base.py:83
 msgid "Korean"
@@ -60,7 +59,7 @@ msgstr "سلوفينيي"
 
 #: atom/settings/base.py:85
 msgid "Hungarian"
-msgstr ""
+msgstr "الهنغارية"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:5
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
@@ -79,7 +78,8 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-" %(project_name)s هو اصدار عتيق، وهذه المستندات لم تُجدد."
+"        %(project_name)s هو اصدار عتيق، وهذه المستندات لم تُجدد.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:16
 #, python-format
@@ -90,7 +90,8 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-" %(project_name)s أصدار قديم، والمستندات فى طور الصيانة."
+"        %(project_name)s أصدار قديم، والمستندات فى طور الصيانة.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:21
 #, python-format
@@ -100,7 +101,8 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-" %(project_name)s هو أصدرانا الاخير."
+"        %(project_name)s هو أصدرانا الاخير.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:26
 #, python-format
@@ -111,7 +113,9 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-" %(project_name)s هو أصدرانا الاخير، والمستندات ما زالت فى طور العمل."
+"        %(project_name)s هو أصدرانا الاخير، والمستندات ما زالت فى طور العمل."
+"\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:31
 #, python-format
@@ -122,7 +126,8 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-" %(project_name)s لم يصدر بعد، والمستندات ما زالت فى طور العمل."
+"        %(project_name)s لم يصدر بعد، والمستندات ما زالت فى طور العمل.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:60
 msgid "Table of contents"
@@ -163,7 +168,7 @@ msgstr "التحديث الاخير:"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:5
 msgid "General Index"
-msgstr "الصفحة الرئيسية"
+msgstr "الفهرس العام"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:30
 msgid "[Link]"
@@ -193,7 +198,7 @@ msgstr "أظهر النتائج المشابهة \"%(query)s\"..."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:20
 msgid "No results found."
-msgstr "لا نتائج وجدت."
+msgstr "لا توجد نتائج."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:31
 msgid "No search query entered."
@@ -268,7 +273,7 @@ msgstr "الخدمات"
 
 #: templates/footer.html:53
 msgid "Artefactual is the lead developer of Archivematica and AtoM."
-msgstr ""
+msgstr "شركة Artefactual هي المطور الرئيسي ل Archivematica و AtoM."
 
 #: templates/footer.html:55
 msgid "Access to Memory documentation"
@@ -280,11 +285,11 @@ msgstr "هو مرخص تحت"
 
 #: templates/footer.html:55
 msgid "Creative Commons Attribution-ShareAlike 4.0 International License"
-msgstr ""
+msgstr "ترخيص Creative Commons Attribution-ShareAlike 4.0 الدولي"
 
 #: templates/footer.html:57
 msgid "© 2019 Artefactual Systems Inc. All rights reserved."
-msgstr ""
+msgstr "جميع الحقوق محفوظة لشركة © 2019 Artefactual Systems Inc."
 
 #: templates/pages/community/develop.html:13
 #: templates/pages/community/participate.html:13
@@ -310,6 +315,12 @@ msgid ""
 "software and the community.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>لنا<a href=\"https://groups.google.com/forum/#!forum/ica-"
+"atom-users\">منتدى المستخدم</a>هو المكان الرئيسي حيث يأتي المستخدم لطلب "
+"المساعدة ، وإصدار الإعلانات ، ومشاركة الموارد ، ومناقشة القضايا ذات الصلة "
+"بالبرنامج والمجتمع.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:26
 msgid "Twitter"
@@ -323,10 +334,15 @@ msgid ""
 "and connect with other users.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>إتبع<a href=\"https://twitter.com/accesstomemory\">AtoM على "
+"Twitter (@ accesstomemory)</a>لمواكبة أحدث الإعلانات والتواصل مع المستخدمين "
+"الآخرين.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:37
 msgid "Github"
-msgstr "Github"
+msgstr "جيت هاب"
 
 #: templates/pages/community/support.html:38
 msgid ""
@@ -337,6 +353,13 @@ msgid ""
 "accesstomemory.org/Development/Contribute_code\">Contribute Code</a>.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>تتم استضافة رمز AtoM على<a href=\"https://github.com/"
+"artefactual/atom\">Github</a>. نرحب بطلبات السحب والتعليقات المتعلقة بالشفرة "
+"الخاصة بنا. لمزيد من المعلومات ، يرجى الاطلاع\n"
+"<a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">رمز "
+"المساهمة</a>.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:44
 msgid "Redmine issue tracker"
@@ -350,6 +373,11 @@ msgid ""
 "Issue tracker <a href=\"https://projects.artefactual.com/\">here</a>.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>العثور على خطأ وتريد معرفة ما إذا كان تم الإبلاغ بالفعل؟ هل "
+"تريد رؤية حالة الإصدار الحالي قيد التطوير؟ تحقق لدينا تعقب القضية<a href=\""
+"https://projects.artefactual.com/\">هنا</a>.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:53
 msgid "Before requesting support"
@@ -378,6 +406,20 @@ msgid ""
 "as you!</p>\n"
 "          "
 msgstr ""
+"\n"
+"            <p>قبل طلب الدعم ، يرجى محاولة جعل الموارد التالية. الأهم هو<a "
+"href=\"%(url_doclist)s\">توثيق</a>. يتم الرد بسهولة على AtoM User Forums من "
+"خلال وثائق التوثيق ، أو عبر الوثائق<a href=\"%(url_doclist)s\">صفحة "
+"الفهرس</a>. نحن نعمل أيضا على أساس يومي ، وأحيانا بشكل كبير. يرجى التأكد من "
+"إلقاء نظرة على أقصى ما في الأمر قبل طلب الدعم.</p>\n"
+"<p>أماكن أخرى للتحقق من المعلومات تشمل<a href=\"https://wiki.accesstomemory."
+"org/FAQ\">FAQ</a>(لاحظ أن الأسئلة الشائعة تخضع أيضًا للترقية قريبًا!) ، "
+"وبالطبع ،<strong>الأسئلة السابقة التي طرحها المستخدمون في منتدى المستخدم "
+"الخاص بنا</strong>، والتي تم الرد عليها من قبل<a href=\""
+"http://www.artefactual.com/\">Artefactual</a>أعضاء الفريق و / أو المشاركين "
+"المجتمعيين ذوي المعرفة. لقد أجبنا على الكثير من الأسئلة على مر السنين ، "
+"والاحتمالات جيدة أن شخصًا ما واجه نفس المشكلة التي تواجهك</p>\n"
+"          "
 
 #: templates/pages/community/support.html:62
 msgid "Posting to the User forum"
@@ -407,6 +449,25 @@ msgid ""
 "\">our website</a> for the services we offer.</p>\n"
 "              "
 msgstr ""
+"\n"
+"                ...................<p>ال<a href=\"https://groups.google.com/"
+"forum/#!forum/ica-atom-users\">منتدى مستخدم AtoM</a>هو أفضل مكان للحصول على "
+"تعليقات تفاعلية من مستخدمي ومطوري AtoM الآخرين.<a href=\""
+"http://www.artefactual.com/\">4Artefactual</a>، المطورين الرئيسيين لـ AtoM ، "
+"يديرون منتدى المستخدم ، ونحاول كلما أمكن ذلك نشر ردود على أسئلة المستخدمين "
+"المباشرة في غضون 24 ساعة من نشرهم (خلال ساعات عمل M-F - نحن في منطقة التوقيت "
+"الباسيفيكي). هذه خدمة مقدمة بحرية نقدمها ونحن قادرون ، ونأمل أن نرى المزيد "
+"من مستخدمي المجتمع ينشطون بمرور الوقت في الإجابة على أسئلة بعضهم البعض. "
+"عندما نعتقد أن استعلامًا معينًا يتجاوز معلمات الدعم المجانية هذه ، سنبلغ "
+"المستخدم أنه قد يكون من الضروري معالجتها كدعم تجاري مدفوع. تتضمن الأمثلة "
+"الأسئلة المتعمقة والمستهلكة للوقت للتحقيق والإجابة أو الأسئلة التي تتضمن "
+"أدوات أو منصات غير مدعومة. يرجى الانتباه إلى أنه يتعين علينا تحديد أولويات "
+"مهام عملائنا حتى نتمكن من دفع فواتيرنا ومواصلة تقديم البرامج المجانية ودعم "
+"المجتمع المجاني.</p>\n"
+"<p>إذا كنت مهتمًا بالدعم التجاري من Artefactual ، يرجى الاطلاع<a href=\""
+"http://www.artefactual.com/services/atom-2/\">موقعنا</a>للخدمة  التي "
+"نقدمها.</p>    ...........................\n"
+"              "
 
 #: templates/pages/community/support.html:71
 msgid ""
@@ -415,10 +476,14 @@ msgid ""
 "google.com/forum/#!forum/ica-atom-users\">visit the online version</a>!</p>\n"
 "                  "
 msgstr ""
+"\n"
+"                    <p>اشترك في القائمة أو<a href=\"https://groups.google."
+"com/forum/#!forum/ica-atom-users\">زيارة النسخة على الانترنت</a>!</p>\n"
+"                  "
 
 #: templates/pages/community/support.html:75
 msgid "Enter your e-mail address"
-msgstr "أدخل إيميلك الالكتروني"
+msgstr "أدخل بريدك الالكتروني"
 
 #: templates/pages/community/support.html:77
 msgid "Subscribe"
@@ -454,6 +519,25 @@ msgid ""
 "the User Forum a vibrant and positive place!</p>\n"
 "              "
 msgstr ""
+"\n"
+"                <p> بناءً على طبيعة مشكلتك ، إليك بعض الأفكار المتعلقة "
+"بالمعلومات التي ستساعدنا في الرد عليك بسرعة أكبر وبتفاصيل أكثر دقة: </ p>\n"
+"                <UL>\n"
+"                  <li> ما إصدار AtoM الذي تستخدمه؟ </ li>\n"
+"                  <li> ماذا حاولت بالفعل حل المشكلة؟ </ li>\n"
+"                  <li> ما هو نظام التشغيل المثبت على(Linux  AtoM أو Windows "
+"أو Apple أو ما إلى ذلك؟\n"
+"                  <li> ما إصدار PHP الذي قمت بتثبيته؟ </ li>\n"
+"                  <li> هل لديك تتبع مخزن لرسالة الخطأ التي تلقيتها؟ </ li>\n"
+"                  <li> هل تستضيف المحاكي الخاص بك ، أم أنك تستخدم موفر "
+"استضافة خارجي؟ </ li>\n"
+"                </ UL>\n"
+"                <p> لقد وجدنا أنه من الأسهل الإجابة بوضوح على المشاركات التي "
+"<strong> كاملة </ strong> و <strong> مختصرة </ strong> - أي المنشورات التي "
+"تتضمن جميع التفاصيل المهمة حول بيئة البرنامج وما أدى إلى الخطأ ، ولكن هذا "
+"يقطع أيضًا أي تفاصيل أو مقتطفات برمجية غير ذات صلة مباشرة بالأمر المتاح. شكرً"
+"ا لمساعدتنا في جعل منتدى المستخدم مكانًا نشطًا وإيجابيًا! </ p>\n"
+"              "
 
 #: templates/pages/download.html:17
 msgid "Stable releases"
@@ -533,10 +617,18 @@ msgid ""
 "<a href=\"%(url_upgrade)s\">upgrading guide</a>.</p>\n"
 "          "
 msgstr ""
+"\n"
+"            <p>AtoM هو برنامج قائم على الويب. يمكنك تنزيله وتثبيته على خادم "
+"الويب الخاص بك لجعل نسختك من AtoM متاحة لأي شخص لديه اتصال بالإنترنت. AtoM "
+"يأتي مع المثبت الذي يساعدك من خلال هذه العملية.</p>\n"
+"<p>بمجرد تنزيل هذا الملف ، راجع الإنترنت<a href=\"%(url_installation)s\">"
+"وثائق التثبيت</a>. انظر أيضا<a href=\"%(url_upgrade)s\">دليل الترقية</a>.</p>"
+"\n"
+"          "
 
 #: templates/pages/download.html:205
 msgid "Test AtoM locally using Vagrant"
-msgstr ""
+msgstr "اختبار AtoM محليا باستخدام فاجرنت"
 
 #: templates/pages/download.html:206
 msgid ""
@@ -559,10 +651,26 @@ msgid ""
 "</p>\n"
 "          "
 msgstr ""
+"\n"
+"            <p>شغّل AtoM كجهاز ظاهري (VM) على أي نظام تشغيل ، باستخدام<a "
+"href=\"https://www.virtualbox.org/\">المحاكاة الإفتراضية</a>و<a href=\""
+"http://www.vagrantup.com/\">فارجانت</a>. يتيح لك هذا الخيار تجربة AtoM على "
+"جهاز الكمبيوتر الشخصي الخاص بك إذا لم يكن لديك حق الوصول إلى خادم الويب "
+"الخاص بك الذي تريد تثبيت AtoM عليه، أو إذا كنت مطورًا يبحث عن العمل باستخدام "
+"الكود.</p>\n"
+"<p>المحاكاة الإفتراضية مصدر مفتوح وسهل الاستخدام للمحاكاة الافتراضية الكاملة "
+"للأجهزة x86 ، ويستهدف الخادم وسطح المكتب والاستخدام المضمن ، و Vagrant هي "
+"أداة أتمتة مفتوحة المصدر لبناء بيئات تطوير كاملة. قامت Artefactual بإنشاء "
+"AtoM VM والتي يمكن استخدامها بسهولة مع Virtualbox ، والتي ستعمل على محاكاة "
+"بيئة التثبيت لك بحيث يمكنك بسهولة تشغيل مثيل اختبار AtoM على جهاز الكمبيوتر "
+"الشخصي الخاص بك. لمزيد من المعلومات ، انظر موقعنا<a href=\""
+"https://www.accesstomemory.org/en/docs/latest/dev-manual/env/vagrant/#dev-"
+"env-vagrant\">تعليمات التثبيت فارجنت</a>في دليل المسؤول AtoM.</p>\n"
+"          "
 
 #: templates/pages/home.html:7
 msgid "Providing some access to memory since 2007"
-msgstr ""
+msgstr "توفير بعض الوصول إلى الذاكرة منذ عام 2007"
 
 #: templates/pages/home.html:8
 msgid ""
@@ -570,10 +678,13 @@ msgid ""
 "source application for standards-based archival description and access in a "
 "multilingual, multi-repository environment."
 msgstr ""
+"AtoM لتقف على<span>الوصول إلى الذاكرة</span>. إنه تطبيق مفتوح المصدر قائم "
+"على الويب لوصف المحفوظات المستندة إلى المعايير والوصول إليها في بيئة متعددة "
+"اللغات ومستودعات التخزين."
 
 #: templates/pages/home.html:56
 msgid "Web-based"
-msgstr ""
+msgstr "على شبكة الإنترنت"
 
 #: templates/pages/home.html:58
 msgid ""
@@ -585,10 +696,17 @@ msgid ""
 "access it from anywhere.\n"
 "          "
 msgstr ""
+"\n"
+"            الوصول إلى تثبيت AtoM الخاص بك من أي مكان لديك اتصال بالإنترنت. "
+"تتم جميع وظائف AtoM الأساسية عبر متصفح ويب ، مع الحد الأدنى من الافتراضات "
+"حول متطلبات المستخدم النهائي للوصول. لا مزيد من مزامنة عمليات التثبيت "
+"المتعددة على أساس كل جهاز - قم بتثبيت AtoM مرة واحدة ، والوصول إليها من أي "
+"مكان.\n"
+"          "
 
 #: templates/pages/home.html:65
 msgid "Open source"
-msgstr ""
+msgstr "المصدر المفتوح"
 
 #: templates/pages/home.html:67
 msgid ""
@@ -603,10 +721,19 @@ msgid ""
 "repository</a>!\n"
 "          "
 msgstr ""
+"\n"
+"            يتم إصدار جميع أكواد AtoM تحت رخصة جنو أفيرو العمومية (A-GPL 3.0)"
+" - مما يتيح لك حرية الدراسة وتعديلها وتحسينها وتوزيعها. نحن نؤمن بأن الوصول "
+"إلى جزء مهم من إمكانية الوصول هو أنه يجب على كل شخص الوصول إلى الأدوات التي "
+"يحتاجونها للحفاظ على مواد التراث الثقافي. كود AtoM متاح دائمًا مجانًا ، ويتم "
+"إصدار وثائقنا أيضًا بموجب ترخيص Creative Commons Share-alike. تحقق من\n"
+"          <a href=\"https://github.com/artefactual/atom\">مستودع الأكواد</a>"
+"\n"
+"          "
 
 #: templates/pages/home.html:74
 msgid "Standards-based"
-msgstr ""
+msgstr "المعايير المستندة"
 
 #: templates/pages/home.html:76
 msgid ""
@@ -618,10 +745,17 @@ msgid ""
 "to a wide variety of international and national standards.</p>\n"
 "          "
 msgstr ""
+"\n"
+"            تم بناء AtoM في الأصل بدعم من <a href=\"http://www.ica.org\"> "
+"المجلس الدولي للأرشيف </a> ، لتشجيع اعتماد المعايير الدولية على نطاق أوسع. "
+"لقد قمنا ببناء الامتثال للمعايير في صلب AtoM ، ونقدم قوالب تحرير سهلة "
+"الاستخدام على الويب تتوافق مع مجموعة واسعة من المعايير الدولية والوطنية. </ "
+"p>\n"
+"          "
 
 #: templates/pages/home.html:82
 msgid "Import/export friendly"
-msgstr ""
+msgstr "استيراد / تصدير ودي"
 
 #: templates/pages/home.html:83
 msgid ""
@@ -641,10 +775,25 @@ msgid ""
 "manual</a>.</p>\n"
 "        "
 msgstr ""
+"\n"
+"          <p>لن يتم تأمين بياناتك مطلقًا في AtoM - نحن نطبق عددًا من معايير "
+"تبادل البيانات الوصفية لدعم الاستيراد والتصدير بسهولة من خلال واجهة مستخدم "
+"AtoM.\n"
+"</p>\n"
+"<p>يدعم AtoM حاليًا تنسيقات الاستيراد / التصدير التالية:<abbr title=\""
+"Encoded Archival Description (EAD) – 2002 edition, for descriptions\""
+">EAD</abbr>,<abbr title=\"Encoded Archival Context Corporate Bodies, "
+"Persons, and Families (EAC-CPF) – 2010 edition, for authority records\">EAC-"
+"CPF</abbr>,<abbr title=\"Comma Separated Values (CSV) import for accessions, "
+"descriptions, authority records, institutions, and more\">CSV</abbr>و<abbr "
+"title=\"Simple Knowledge Organization System (SKOS) - W3C Recommendation 18 "
+"August 2009, for terms and taxonomies\">SKOS</abbr>. معرفة المزيد في موقعنا<"
+"a href=\"https://www.accesstomemory.org/docs/\">استخدم الدليل</a>.</p>\n"
+"        "
 
 #: templates/pages/home.html:94
 msgid "Multilingual"
-msgstr ""
+msgstr "متعدد اللغات"
 
 #: templates/pages/home.html:96
 msgid ""
@@ -656,10 +805,16 @@ msgid ""
 "language? Help us translate!\n"
 "          "
 msgstr ""
+"\n"
+"            يمكن ترجمة جميع عناصر واجهة المستخدم ومحتوى قاعدة البيانات إلى "
+"لغات متعددة، باستخدام واجهة الترجمة المدمجة لدينا. يتم توفير ترجماتنا بسخاء "
+"بواسطة مترجمين متطوعين من مجتمع مستخدمي AtoM. هل تريد أن ترى AtoM متاحة "
+"بلغتك؟ ساعدنا في الترجمة!\n"
+"          "
 
 #: templates/pages/home.html:103
 msgid "Multirepository"
-msgstr ""
+msgstr "متعدد المستودعات"
 
 #: templates/pages/home.html:105
 msgid ""
@@ -671,10 +826,17 @@ msgid ""
 "better sense of all the ways AtoM is being used.\n"
 "          "
 msgstr ""
+"\n"
+"            صُمم AtoM بحيث تستخدمها مؤسسة واحدة لتوصيفاتها الخاصة، أو "
+"باعتبارها \"قائمة نقابية\" متعددة المستودعات (شبكة، بوابة) تقبل أوصافًا من "
+"أي عدد من المؤسسات المساهمة، ويتسم AtoM بالمرونة الكافية لتلبية احتياجاتك. "
+"اطلع على قائمتنا لمستخدمي المجتمع لمعرفة أفضل لجميع الطرق التي يتم بها "
+"استخدام AtoM.\n"
+"          "
 
 #: templates/pages/home.html:112
 msgid "Constantly improving"
-msgstr ""
+msgstr "يتحسن باستمرار"
 
 #: templates/pages/home.html:114
 msgid ""
@@ -686,6 +848,12 @@ msgid ""
 "Find out more about how you can help improve AtoM.</p>\n"
 "          "
 msgstr ""
+"\n"
+"            AtoM هو مشروع نشط وديناميكي مفتوح المصدر مع قاعدة مستخدم واسعة. "
+"نحن نعمل باستمرار مع مجتمعنا لتحسين التطبيق ، ويتم تجميع جميع التحسينات في "
+"إصداراتنا العامة. هذا يعني أنه كلما شارك شخص واحد ، يستفيد المجتمع بأكمله. "
+"تعرف على المزيد حول كيف يمكنك المساعدة في تحسين AtoM. </p>\n"
+"          "
 
 #~ msgid "Other sites"
 #~ msgstr "مواقع أخرى"
