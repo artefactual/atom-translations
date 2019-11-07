@@ -823,9 +823,9 @@
         <target>exportation en format CSV</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="37de6dc5ff70e0bef344db7a7465025677c58ef8">
+      <trans-unit id="37de6dc5ff70e0bef344db7a7465025677c58ef8" approved="no">
         <source>Cache description XML exports upon creation/modification</source>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Exportation XML de la description du cache lors de la création/modification</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="c2f7ded18f69796b981cb853f42764f7beb96084" approved="yes" translated="yes">
         <source>Calculate dates</source>
@@ -1604,7 +1604,7 @@
       </trans-unit>
       <trans-unit id="d6395f068ba11d205da4a6492fefdd088ee4ecea" approved="no">
         <source>Enable institutional scoping</source>
-        <target state="translated">Autoriser la détermination de la portée institutionnelle</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Activer la détermination de la portée institutionnelle</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="fd2fd26a6dc130f42bca70c8faa57e4fb944c582" approved="yes" translated="yes">
         <source>Enable or disable the display of certain page elements. Unless they have been overridden by a specific theme, these settings will be used site wide.</source>
@@ -5136,9 +5136,9 @@
         <target>vous</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b09c13d9215513e4ac66885d96eeef266a0ba0b8">
+      <trans-unit id="b09c13d9215513e4ac66885d96eeef266a0ba0b8" approved="no">
         <source>Please make a selection.</source>
-        <target/>
+        <target state="translated">Merci de faire une sélection.</target>
       </trans-unit>
       <trans-unit id="2a6b62e341e9619ada4d7b5545cde10e2d84aa07" approved="no">
         <source>Update an existing date range</source>
@@ -5156,73 +5156,73 @@
         <source>or, create a new date range</source>
         <target state="translated">ou, créer une nouvelle plage de dates</target>
       </trans-unit>
-      <trans-unit id="c6328f0c08059e2984280e71ef824e40f5761f9e">
+      <trans-unit id="c6328f0c08059e2984280e71ef824e40f5761f9e" approved="no">
         <source>Select the new date type:</source>
-        <target/>
+        <target state="translated">Sélectionner le nouveau type de date :</target>
       </trans-unit>
-      <trans-unit id="36bfaa93cb2ca7a8791fe3dd4fb2370604a6b71a">
+      <trans-unit id="36bfaa93cb2ca7a8791fe3dd4fb2370604a6b71a" approved="no">
         <source>No entity type specified.</source>
-        <target/>
+        <target state="translated">Aucun type d'entité spécifié.</target>
       </trans-unit>
-      <trans-unit id="72d313b243d53986d85e7e01a166a56e9459e136">
+      <trans-unit id="72d313b243d53986d85e7e01a166a56e9459e136" approved="no">
         <source>%1% %2% results for %3%</source>
-        <target/>
+        <target state="translated">%1% %2% résultats pour %3%</target>
       </trans-unit>
-      <trans-unit id="07c0302bc855afec997f2889b2a72e5b425c64ed">
+      <trans-unit id="07c0302bc855afec997f2889b2a72e5b425c64ed" approved="no">
         <source>Please clear the application cache and rebuild the search index if you are changing the reference code separator setting.</source>
-        <target/>
+        <target state="translated">Merci de vider le cache de l'application et de reconstruire l'index de recherche si vous modifiez le paramètre du séparateur de code de référence.</target>
       </trans-unit>
-      <trans-unit id="0bf311845ee2a055302a5a1092afba22e08ccf57">
+      <trans-unit id="0bf311845ee2a055302a5a1092afba22e08ccf57" approved="no">
         <source>Empty: %1%</source>
-        <target/>
+        <target state="translated">Vide: %1%</target>
       </trans-unit>
-      <trans-unit id="f47662c4b4f347568109abb7156af1e9635bd024">
+      <trans-unit id="f47662c4b4f347568109abb7156af1e9635bd024" approved="no">
         <source>Parallel form(s) of name</source>
-        <target/>
+        <target state="translated">forme(s) parallèle(s) du nom</target>
       </trans-unit>
-      <trans-unit id="b8ec205d5f5e5f9ed845ee939b3ee68f75bc08a0">
+      <trans-unit id="b8ec205d5f5e5f9ed845ee939b3ee68f75bc08a0" approved="no">
         <source>Other form(s) of name</source>
-        <target/>
+        <target state="translated">Autre(s) forme(s) du nom</target>
       </trans-unit>
-      <trans-unit id="985341facf04a645e773fa882b3cdbf1da451075">
+      <trans-unit id="985341facf04a645e773fa882b3cdbf1da451075" approved="no">
         <source>Dates of existence</source>
-        <target/>
+        <target state="translated">Dates d’existence</target>
       </trans-unit>
-      <trans-unit id="90ccd6497400b5576aeca1bd94af74aae1e0a250">
+      <trans-unit id="90ccd6497400b5576aeca1bd94af74aae1e0a250" approved="no">
         <source>History</source>
-        <target/>
+        <target state="translated">Historique</target>
       </trans-unit>
-      <trans-unit id="cd99209678785b0ead9cdd294d4739ed5a7f169c">
+      <trans-unit id="cd99209678785b0ead9cdd294d4739ed5a7f169c" approved="no">
         <source>Legal status</source>
-        <target/>
+        <target state="translated">Statut légal</target>
       </trans-unit>
-      <trans-unit id="2659d16623a972ef5639e32c11749f8cea1f1e53">
+      <trans-unit id="2659d16623a972ef5639e32c11749f8cea1f1e53" approved="no">
         <source>General context</source>
-        <target/>
+        <target state="translated">Contexte général</target>
       </trans-unit>
-      <trans-unit id="b1ed85afdf9f6abd49984ba4c106f5063742d096">
+      <trans-unit id="b1ed85afdf9f6abd49984ba4c106f5063742d096" approved="no">
         <source>Occupation access points</source>
-        <target/>
+        <target state="translated">Points d'accès - occupation</target>
       </trans-unit>
-      <trans-unit id="81ec5237e04caca5e5ef44eae38f90ba5ae28264">
+      <trans-unit id="81ec5237e04caca5e5ef44eae38f90ba5ae28264" approved="no">
         <source>Occupation access point notes</source>
-        <target/>
+        <target state="translated">Notes de points d'accès - occupation</target>
       </trans-unit>
-      <trans-unit id="5f8a32349b6b13e78f20a6c92111bd667380ecfc">
+      <trans-unit id="5f8a32349b6b13e78f20a6c92111bd667380ecfc" approved="no">
         <source>Authority record identifier</source>
-        <target/>
+        <target state="translated">Identifiant de notice d'autorité</target>
       </trans-unit>
-      <trans-unit id="e055961c6756a34479798c483a60800c7e4c96f7">
+      <trans-unit id="e055961c6756a34479798c483a60800c7e4c96f7" approved="no">
         <source>Maintenance notes</source>
-        <target/>
+        <target state="translated">Notes de maintenance</target>
       </trans-unit>
-      <trans-unit id="9ea77181ac6a721f1181cacbc3707cd24c6a1b38">
+      <trans-unit id="9ea77181ac6a721f1181cacbc3707cd24c6a1b38" approved="no">
         <source>Empty field</source>
-        <target/>
+        <target state="translated">Champ vide</target>
       </trans-unit>
-      <trans-unit id="f978200b112084eef0c088e1d0075ad2fbca39cf">
+      <trans-unit id="f978200b112084eef0c088e1d0075ad2fbca39cf" approved="no">
         <source>Alt text</source>
-        <target/>
+        <target state="translated">Texte alternatif</target>
       </trans-unit>
     </body>
   </file>

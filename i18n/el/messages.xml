@@ -22,9 +22,9 @@
         <source>"Record, when relevant, the start and the end date of the relationship." (ISDF 6.3) Enter the date as you would like it to appear in the show page for the function, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/relation/actions/editComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="3308662b1f4c5a2c34a0e55b104e02ddcac6e5b8">
+      <trans-unit id="3308662b1f4c5a2c34a0e55b104e02ddcac6e5b8" approved="no">
         <source>"Use for" labels</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
+        <target state="translated">Ετικέτες "Χρήση για"</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="64fd8c42c5f1e293434c6df28ed6b3aaa8b66ce0">
         <source>"Use this note to record any other descriptive information considered important but not falling within the definitions of the other notes." (RAD 1.8B21)</source>
@@ -71,13 +71,13 @@
         <source>%1% derivatives settings</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/digitalObjectDerivativesSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b94c3c73d832ed9062866be05ca2dae2578c33dd">
+      <trans-unit id="b94c3c73d832ed9062866be05ca2dae2578c33dd" approved="no">
         <source>%1% draft(s) available (visit %2%newest additions%3% page to browse them)</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/loginAction.class.php</note>
+        <target state="translated">%1% σχέδιο(α) διαθέσιμα (επισκεφτείτε τη σελίδα %2%νέων εισαγωγών%3% για να περιηγηθείτε σε αυτά)</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/loginAction.class.php</note>
       </trans-unit>
-      <trans-unit id="894d18fa01c49de60cf24e84b9ead9a0c4ce6bc3">
+      <trans-unit id="894d18fa01c49de60cf24e84b9ead9a0c4ce6bc3" approved="no">
         <source>%1% file</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/uploadFindingAidSuccess.php</note>
+        <target state="translated">%1% αρχείο</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/uploadFindingAidSuccess.php</note>
       </trans-unit>
       <trans-unit id="aba1688a12bae84c1deb52d38fe22084a8acff39" approved="yes" translated="yes">
         <source>%1% hierarchy</source>
@@ -146,9 +146,9 @@
         <source>%1%Export initiated.%2% Check %3%job management%4% page to download the results when it has completed.</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="73c0f876111616e52a79975df6ee70518eb61b7a">
+      <trans-unit id="73c0f876111616e52a79975df6ee70518eb61b7a" approved="no">
         <source>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Unlimited&lt;/em&gt;&amp;nbsp;</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
+        <target state="translated">%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; από &lt;em&gt;Απεριόριστα&lt;/em&gt;&amp;nbsp;</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
       <trans-unit id="06fa8301c9a6972b241494929371df4b8d8a0c73">
         <source>%du% of %limit% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; (%percent%%)</source>
