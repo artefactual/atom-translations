@@ -163,9 +163,9 @@
         <target>%1% visitas</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_popular.php</note>
       </trans-unit>
-      <trans-unit id="e3d1028b31fadd55009d342064c067a627b8cbc4">
+      <trans-unit id="e3d1028b31fadd55009d342064c067a627b8cbc4" approved="no">
         <source>%1%Export initiated.%2% Check %3%job management%4% page to download the results when it has completed.</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/exportAction.class.php</note>
+        <target state="translated">%1%Se ha iniciado la exportación.%2% Revise %3%la página de procesos%4% para descargar los resultados cuando han terminado los procesos.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="73c0f876111616e52a79975df6ee70518eb61b7a" approved="yes" translated="yes">
         <source>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Unlimited&lt;/em&gt;&amp;nbsp;</source>
@@ -267,9 +267,9 @@
         <target>Máscara de identificación del ingreso</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
-      <trans-unit id="03d8af3f341ba381c5c2f254fb24097203321a52">
+      <trans-unit id="03d8af3f341ba381c5c2f254fb24097203321a52" approved="no">
         <source>Accession mask enabled</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
+        <target state="translated">Máscara de identificación de entrada activada</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="138a104b733f5424727a30db2adbf5fb72f3cc6b" approved="yes" translated="yes">
         <source>Act</source>
@@ -316,9 +316,9 @@
         <target>Agregar %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editRepositoryAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ad2d7898a708aa8ba66717f60d65641cb3ddb9e0">
+      <trans-unit id="ad2d7898a708aa8ba66717f60d65641cb3ddb9e0" approved="no">
         <source>Add alternative identifier(s)</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_identifierOptions.php</note>
+        <target state="translated">Añada un identificador alternativo</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_identifierOptions.php</note>
       </trans-unit>
       <trans-unit id="9f780ca0f3cbaf61d43c297030552bdee2a5bf50" approved="yes" translated="yes">
         <source>Add an alpha-numeric code to uniquely identify this particular OAI repository within its network domain to create a unique, OAI-compliant identifier, e.g. oai:foo.org:repositorycode_10001</source>
@@ -637,13 +637,13 @@
         <target>¿Está seguro de que quiere reemplazar "%1%" por "%2%" en %3%?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/globalReplaceAction.class.php</note>
       </trans-unit>
-      <trans-unit id="2b226c7948b48ad8f6ece8d91270c6915aba6b73">
+      <trans-unit id="2b226c7948b48ad8f6ece8d91270c6915aba6b73" approved="no">
         <source>Ascending</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_sortPickers.php</note>
+        <target state="translated">Clasificación en orden ascendente</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_sortPickers.php</note>
       </trans-unit>
-      <trans-unit id="5e62cba6c020a1b6eeb411885497fccedae6bf82">
+      <trans-unit id="5e62cba6c020a1b6eeb411885497fccedae6bf82" approved="no">
         <source>Associated record</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/reportSuccess.php</note>
+        <target state="translated">los registros asociados</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/reportSuccess.php</note>
       </trans-unit>
       <trans-unit id="89d68168e981f63bb398b8bb04cab3a961f2b486" approved="yes" translated="yes">
         <source>Associated terms</source>
@@ -860,9 +860,9 @@
         <target>Elegir "Incluir borradores de registros" incorporará aquellos marcados con el estado de Borrador de publicación en la exportación. Nota: si NO elige esta opción cualquier descendiente de un registro en fase de borrador será excluido también, incluso si ya están publicados.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e">
+      <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e" approved="no">
         <source>City</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
+        <target state="translated">Ciudad</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
       </trans-unit>
       <trans-unit id="4fee7bab4188929f417cffc894d785b5aa121349" approved="yes" translated="yes">
         <source>Class of material specific details area</source>
@@ -874,9 +874,9 @@
         <target>Limpiar</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardClearSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3245fb41d9f78c0a6ebe2dedc45704db711e0956">
+      <trans-unit id="3245fb41d9f78c0a6ebe2dedc45704db711e0956" approved="no">
         <source>Clear %1 clipboard</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardSuccess.php</note>
+        <target state="translated">Borre %1 de los portapapeles</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="3025489d722e421c7a7acfd6c2604b1478df8f72" approved="yes" translated="yes">
         <source>Clear inactive jobs</source>
@@ -964,9 +964,9 @@
         <target>Persona de contacto</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
       </trans-unit>
-      <trans-unit id="aa4691423e103952ce7b051afdbd46a69f51929e">
+      <trans-unit id="aa4691423e103952ce7b051afdbd46a69f51929e" approved="no">
         <source>Contact type</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
+        <target state="translated">El tipo de información de contacto</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
       </trans-unit>
       <trans-unit id="e040a458f46532a90ec69fa0b4bfc33ba151c98b" approved="yes" translated="yes">
         <source>Containers</source>
@@ -1488,9 +1488,9 @@
         <target>Edita tu contraseña</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/passwordEditSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ec2e306ec0869a064528aa5f9180d82f5d7a8cd1">
+      <trans-unit id="ec2e306ec0869a064528aa5f9180d82f5d7a8cd1" approved="no">
         <source>Editing history</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
+        <target state="translated">La historia de revisión</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="71a1ca18209db3318a9dc4e4ed7ecc5a604fbc32" approved="yes" translated="yes">
         <source>Editing the description title will automatically update the slug field if the "Update slug" checkbox is selected - you can still edit it after.</source>
@@ -3736,9 +3736,9 @@
         <target>Estableca si desea combinar el conjunto actual de los derechos con los derechos existentes o eliminar los derechos existentes y aplicar estos nuevos derechos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/manageSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9e7f0fff4642398e44450be436025cad2d260328">
+      <trans-unit id="9e7f0fff4642398e44450be436025cad2d260328" approved="no">
         <source>Set the default view template when browsing archival descriptions</source>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Puede configurar la plantilla predeterminada mientras navega por fondos documentales</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="72e5df6aa2e5bba6fe3df1d5c607ea1f65d7d338">
         <source>Set the default view template when browsing repositories</source>
