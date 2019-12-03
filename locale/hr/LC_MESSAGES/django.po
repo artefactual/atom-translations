@@ -8,46 +8,49 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 10:51-0700\n"
-"PO-Revision-Date: 2019-02-04 21:05+0000\n"
-"Last-Translator: artefactual <translate@artefactual.com>\n"
-"Language-Team: Croatian (http://www.transifex.com/artefactual/atom/language/hr/)\n"
+"PO-Revision-Date: 2019-12-13 20:15+0000\n"
+"Last-Translator: Vedran Serbu <vedran.serbu@gmail.com>\n"
+"Language-Team: Croatian <http://translations.artefactual.com/projects/atom/"
+"website/hr/>\n"
+"Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hr\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.2.2\n"
 
 #: atom/settings/base.py:76
 msgid "English"
-msgstr ""
+msgstr "Engleski"
 
 #: atom/settings/base.py:77
 msgid "Spanish"
-msgstr ""
+msgstr "Španjolski"
 
 #: atom/settings/base.py:78
 msgid "Italian"
-msgstr ""
+msgstr "Talijanski"
 
 #: atom/settings/base.py:79
 msgid "French"
-msgstr ""
+msgstr "Francuski"
 
 #: atom/settings/base.py:80
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugalski"
 
 #: atom/settings/base.py:81
 msgid "Slovenian"
-msgstr ""
+msgstr "Slovenski"
 
 #: atom/settings/base.py:82
 msgid "Catalan"
-msgstr ""
+msgstr "Katalanski"
 
 #: atom/settings/base.py:83
 msgid "Korean"
-msgstr ""
+msgstr "Korejski"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:5
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
@@ -55,7 +58,7 @@ msgstr ""
 #: sphinxdoc/templates/sphinxdoc/search.html:4 templates/base.html:78
 #: templates/footer.html:36
 msgid "Documentation"
-msgstr ""
+msgstr "Dokumentacija"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:11
 #, python-format
@@ -64,6 +67,10 @@ msgid ""
 "        %(project_name)s is a legacy release, and these documents are no longer being maintained.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s je stari projekt, i ovi dokumenti ne više ne čuvaju."
+"\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:16
 #, python-format
@@ -72,6 +79,9 @@ msgid ""
 "        %(project_name)s is an old release, and the documentation is in maintenance mode.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s je staro izdanje, ali se dokumentacija održava.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:21
 #, python-format
@@ -80,6 +90,9 @@ msgid ""
 "        %(project_name)s is our latest release.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s je naše posljednje izdanje.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:26
 #, python-format
@@ -88,6 +101,10 @@ msgid ""
 "        %(project_name)s is our latest release, and its documentation is a work in progress.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s je naše posljednje izdanje, i njegova dokumentacija "
+"je u postupku izrade.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:31
 #, python-format
@@ -96,14 +113,18 @@ msgid ""
 "        %(project_name)s has not been released yet, and its documentation is a work in progress.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s još nije dostupan, i njegova dokumentacija je u "
+"postupku izrade.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:60
 msgid "Table of contents"
-msgstr ""
+msgstr "Kazalo"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:77
 msgid "Contents"
-msgstr ""
+msgstr "Sadržaj"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:85
 #, python-format
@@ -112,151 +133,155 @@ msgid ""
 "              <p>Open the <a href=\"%(genindex_url)s\">general index</a> or type your search in the search box.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>Otvorite <a href=\"%(genindex_url)s\">generalni indeks</a> "
+"ili utipkajte vašu pretragu u okvir za pretraživanje.</p>\n"
+"            "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:98
 msgid "Available documents"
-msgstr ""
+msgstr "Dostupni dokumenti"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:108
 msgid "Edit this document"
-msgstr ""
+msgstr "Uredi ovaj dokument"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:110
 msgid "Source code"
-msgstr ""
+msgstr "Izvorni kod"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:113
 msgid "Latest update:"
-msgstr ""
+msgstr "Posljednje ažuriranje:"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:5
 msgid "General Index"
-msgstr ""
+msgstr "Opći inventar"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:30
 msgid "[Link]"
-msgstr ""
+msgstr "[Poveznica]"
 
 #: sphinxdoc/templates/sphinxdoc/modindex.html:5
 msgid "Module Index"
-msgstr ""
+msgstr "Inventar modula"
 
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
 #: sphinxdoc/templates/sphinxdoc/project_list.html:9
 msgid "Project list"
-msgstr ""
+msgstr "Lista projekata"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:4
 msgid "Search"
-msgstr ""
+msgstr "Pretraga"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:8
 msgid "Search results"
-msgstr ""
+msgstr "Rezultati pretrage"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:12
 #, python-format
 msgid "Showing results matching \"%(query)s\"..."
-msgstr ""
+msgstr "Prikaz rezultata koji odgovaraju \"%(query)s\"..."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:20
 msgid "No results found."
-msgstr ""
+msgstr "Nije pronađeno."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:31
 msgid "No search query entered."
-msgstr ""
+msgstr "Nikakav upit nije unesen."
 
 #: templates/base.html:75 templates/footer.html:19
 msgid "Home"
-msgstr ""
+msgstr "Početna"
 
 #: templates/base.html:76 templates/footer.html:20
 #: templates/pages/download.html:4 templates/pages/download.html.py:10
 msgid "Downloads"
-msgstr ""
+msgstr "Preuzimanja"
 
 #: templates/base.html:92
 msgid "Other resources (wiki)"
-msgstr ""
+msgstr "Ostali izvori (wiki)"
 
 #: templates/base.html:99 templates/footer.html:26
 #: templates/pages/community.html:4 templates/pages/community.html.py:10
 #: templates/pages/community/_menu.html:3
 #: templates/pages/community/support.html:4
 msgid "Community"
-msgstr ""
+msgstr "Zajednica"
 
 #: templates/base.html:101 templates/footer.html:28
 #: templates/pages/community/_menu.html:5
 #: templates/pages/community/support.html:4
 msgid "Get support"
-msgstr ""
+msgstr "Podrška"
 
 #: templates/base.html:102 templates/footer.html:29
 #: templates/pages/community/_menu.html:6
 msgid "Translate"
-msgstr ""
+msgstr "Lokalizacija"
 
 #: templates/base.html:105 templates/footer.html:51
 msgid "News"
-msgstr ""
+msgstr "Novosti"
 
 #: templates/base.html:106 templates/footer.html:37
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: templates/base.html:108 templates/footer.html:21
 msgid "Demo"
-msgstr ""
+msgstr "Demo"
 
 #: templates/base.html:110
 msgid "Try it now!"
-msgstr ""
+msgstr "Isprobajte sada!"
 
 #: templates/base.html:113
 msgid "Other sites"
-msgstr ""
+msgstr "Druga web mjesta"
 
 #: templates/footer.html:12
 msgid "Language"
-msgstr ""
+msgstr "Jezik"
 
 #: templates/footer.html:17
 msgid "Explore"
-msgstr ""
+msgstr "Istraži"
 
 #: templates/footer.html:34
 msgid "Help"
-msgstr ""
+msgstr "Pomoć"
 
 #: templates/footer.html:49
 msgid "About"
-msgstr ""
+msgstr "O programu"
 
 #: templates/footer.html:50
 msgid "Services"
-msgstr ""
+msgstr "Usluge"
 
 #: templates/footer.html:53
 msgid "Artefactual is the lead developer of Archivematica and AtoM."
-msgstr ""
+msgstr "Artefactual  je projektni tim za  Archivematicu i AtoM."
 
 #: templates/footer.html:55
 msgid "Access to Memory documentation"
-msgstr ""
+msgstr "Access to Memory dokumentacija"
 
 #: templates/footer.html:55
 msgid "is licensed under a"
-msgstr ""
+msgstr "je licenciran pod"
 
 #: templates/footer.html:55
 msgid "Creative Commons Attribution-ShareAlike 4.0 International License"
-msgstr ""
+msgstr "Creative Commons Attribution-ShareAlike 4.0 International License"
 
 #: templates/footer.html:57
 msgid "© 2015 Artefactual Systems Inc. All rights reserved."
-msgstr ""
+msgstr "© 2015 Artefactual Systems Inc. Sva prava pridržana."
 
 #: templates/pages/community/develop.html:13
 #: templates/pages/community/participate.html:13
@@ -265,10 +290,13 @@ msgid ""
 "          <p>Work in progress!</p>\n"
 "        "
 msgstr ""
+"\n"
+"          <p>Radovi u tijeku!</p>\n"
+"        "
 
 #: templates/pages/community/support.html:19
 msgid "User forum"
-msgstr ""
+msgstr "Korisnički forum"
 
 #: templates/pages/community/support.html:20
 msgid ""
@@ -276,10 +304,16 @@ msgid ""
 "              <p>Our <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">User Forum</a> is the main place where user come to seek help, make announcements, share resources, and discuss issues relevant to the software and the community.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>Our <a href=\"https://groups.google.com/forum/#!forum/ica-"
+"atom-users\">User Forum</a> je glavno mjesto na koje korisnik dolazi "
+"potražiti pomoć, podijeliti obavijesti i iskustva te razgovarati o pitanjima "
+"koja su važna za program i zajednicu.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:26
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: templates/pages/community/support.html:27
 msgid ""
@@ -287,10 +321,15 @@ msgid ""
 "              <p>Follow <a href=\"https://twitter.com/accesstomemory\">AtoM on Twitter (@accesstomemory)</a> to keep up with the latest announcements and connect with other users.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>Follow <a href=\"https://twitter.com/accesstomemory\">AtoM "
+"na Twitteru (@accesstomemory)</a> za biti u toku s najnovijim objavama i za "
+"povezati se s drugim korisnicima.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:37
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: templates/pages/community/support.html:38
 msgid ""
@@ -298,10 +337,17 @@ msgid ""
 "              <p>AtoM's code is hosted on <a href=\"https://github.com/artefactual/atom\">Github</a>. We welcome pull requests and comments related to our code. For further information, please see <a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">Contribute Code.</a> </p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>AtoM kod nalazi se na <a href=\"https://github.com/"
+"artefactual/atom\">Github</a>. Pozdravljamo sve zahtjeve i komentare koji se "
+"odnose na naš kod. Za dodatne informacije pogledajte <a href=\""
+"https://wiki.accesstomemory.org/Development/Contribute_code\">Contribute "
+"Code.</a> </p>\n"
+"            "
 
 #: templates/pages/community/support.html:44
 msgid "Redmine issue tracker"
-msgstr ""
+msgstr "Praćenje problema pomoću Redmine"
 
 #: templates/pages/community/support.html:45
 msgid ""
@@ -309,10 +355,16 @@ msgid ""
 "              <p>Found a bug and want to know if it's already been reported? Want to see the status of a current release under development? Checkout our Issue tracker <a href=\"https://projects.artefactual.com/\">here</a>.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>Pronašli ste bug i želite znati je li već prijavljen? "
+"Želite znati status trenutnog razvojnog izdanja? Provjerite naš sustav za "
+"praćenje problema<a href=\"https://projects.artefactual.com/\">ovdje</a>.</p>"
+"\n"
+"            "
 
 #: templates/pages/community/support.html:53
 msgid "Before requesting support"
-msgstr ""
+msgstr "Prije nego što zatražite podršku"
 
 #: templates/pages/community/support.html:55
 #, python-format
@@ -322,10 +374,27 @@ msgid ""
 "            <p>Other places to check for information include the <a href=\"https://wiki.accesstomemory.org/FAQ\">FAQ</a> (note the FAQ is also undergoing an upgrade soon!), and of course, <strong>previous questions asked by users in our User Forum</strong>, which have been answered by <a href=\"http://www.artefactual.com/\">Artefactual</a> team members and/or knowledgeable community participants. We've answered a LOT of questions over the years, and the odds are good that someone has run into the same problem as you!</p>\n"
 "          "
 msgstr ""
+"\n"
+"            <p>Prije nego što zatražite podršku, provjerite sve online "
+"resurse, gdje već možete nać odgovore na mnoga pitanja. Najvažnija je <a "
+"href=\"%(url_doclist)s\">dokumentacija</a>. Na većinu pitanja koji se "
+"postavljaju na korisničkom forumu lako se može odgovoriti jednostavnim "
+"pretraživanjem naše dokumentacije ili putem dokumentacije <a href=\""
+"%(url_doclist)s\">Kazalo</a>. Naporno radimo na poboljšanju naše "
+"dokumentacije, a ona se trenutno svakodnevno mijenja, ponekad i dramatično. "
+"Obavezno je pregledajte prije nego što zatražite podršku.</p>\n"
+"            <p>Ostala mjesta za provjeru informacija uključuju <a href=\""
+"https://wiki.accesstomemory.org/FAQ\">FAQ</a> (uzmite u obzir da će se i FAQ "
+"brzo nadograditi !), i naravno, <strong>prethodno postavljena pitanja na "
+"našem Forumu</strong>, na koja su odgovorili članovi tima <a href=\""
+"http://www.artefactual.com/\">Artefactual</a> te iskusni članovi foruma. "
+"Odgovorili smo na jako puno pitanja tokom godina, i vjerojatno je netko "
+"naletio na sličan problem i prije!</p>\n"
+"          "
 
 #: templates/pages/community/support.html:62
 msgid "Posting to the User forum"
-msgstr ""
+msgstr "Objava na korisničkom forumu"
 
 #: templates/pages/community/support.html:65
 msgid ""
@@ -334,6 +403,28 @@ msgid ""
 "                <p>If you are interested in commercial support from Artefactual, please see <a href=\"http://www.artefactual.com/services/atom-2/\">our website</a> for the services we offer.</p>\n"
 "              "
 msgstr ""
+"\n"
+"                <p>The <a href=\"https://groups.google.com/forum/#!forum/ica-"
+"atom-users\">AtoM korisnički Forum</a> najbolje je mjesto za dobivanje "
+"interaktivnih povratnih informacija od ostalih korisnika i programera "
+"AtoM-a.<a href=\"http://www.artefactual.com/\">Artefactual</a>, projektni "
+"tim AtoM-a, moderira korisnički forum, a mi pokušavamo što prije moguće "
+"postavljati odgovore na otvorena korisnička pitanja u roku unutar 24 sata od "
+"njihovog objavljivanja (tijekom radnog vremena od ponedjeljka do petka - mi "
+"smo u pacifičkoj vremenskoj zoni). Ovo je usluga koja se besplatno nudi i "
+"pružamo je koliko nam mogućnosti dopuštaju, a nadamo se da ćemo s vremenom "
+"vidjeti i više korisnika zajednice  koji će odgovarati na pitanja. Kad "
+"mislimo da je određeni upit izvan ovih parametara besplatne podrške, "
+"obavijestit ćemo korisnika da će mu možda trebati plaćena, komercijalna "
+"podršku. Primjeri uključuju pitanja koja su previše detaljna i dugotrajna da "
+"bi se istražili i odgovorili na njih ili pitanja koja uključuju nepodržane "
+"alate ili platforme. Imajte na umu da moramo dati prednost zadacima naših "
+"klijenata kako bismo plaćali račune i nastavili pružati besplatni softver i "
+"besplatnu podršku zajednice.</p>\n"
+"                <p>Ako ste zainteresirani za komercijalnu podršku od "
+"Artefactuala, molimo pogledajte<a href=\"http://www.artefactual.com/services/"
+"atom-2/\">our website</a>  za usluge koje nudimo.</p>\n"
+"              "
 
 #: templates/pages/community/support.html:71
 msgid ""
@@ -341,18 +432,23 @@ msgid ""
 "                    <p>Subscribe to the list or <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">visit the online version</a>!</p>\n"
 "                  "
 msgstr ""
+"\n"
+"                    <p>Pretplatite se na listu ili <a href=\""
+"https://groups.google.com/forum/#!forum/ica-atom-users\">posjetite online "
+"inačicu</a>!</p>\n"
+"                  "
 
 #: templates/pages/community/support.html:75
 msgid "Enter your e-mail address"
-msgstr ""
+msgstr "Unesite adresu vaše e-pošte"
 
 #: templates/pages/community/support.html:77
 msgid "Subscribe"
-msgstr ""
+msgstr "Pretplatite se"
 
 #: templates/pages/community/support.html:84
 msgid "Details to include in a User Forum post"
-msgstr ""
+msgstr "Pojedinosti koje treba uključiti u objavu na Korisničkom Forumu"
 
 #: templates/pages/community/support.html:85
 msgid ""
@@ -369,20 +465,40 @@ msgid ""
 "                <p>We find it easiest to clearly answer posts that are <strong>complete</strong> and <strong>succinct</strong> - that is, posts that include all important details about the software environment and what led to the error, but that also trim away any details  or code snippets that aren't directly relevant to the mater at hand. Thanks for helping us to make the User Forum a vibrant and positive place!</p>\n"
 "              "
 msgstr ""
+"\n"
+"                <p>Ovisno o prirodi vašeg problema, evo nekoliko ideja o "
+"informacijama koje će nam pomoći da vam brže i preciznije odgovorimo:</p>\n"
+"                <ul>\n"
+"                  <li>Koju inačicu AtoM-a koristite?</li>\n"
+"                  <li>Jeste li već pokušali riješiti problem?</li>\n"
+"                  <li>Na kojem operacijskom sustavu je AtoM instaliran ("
+"Linux, Windows, Apple, itd.)?\n"
+"                  <li>Koju inačicu PHP-a ste instalirali?</li>\n"
+"                  <li>Imate li broj greške?</li>\n"
+"                  <li>Je li program instaliran na vašem serveru ili "
+"koristite vanjskog pružatelja usluga?</li>\n"
+"                </ul>\n"
+"                <p>Najlakše nam je jasno odgovoriti na pitanja koja "
+"su<strong>potpuna</strong> i <strong>sažeta</strong> - tj., pitanja koji "
+"uključuju sve važne detalje o softverskom okruženju i onome što je dovelo do "
+"pogreške, ali također gdje su izbjegnuti svi detalji ili isječci koda koji "
+"nisu izravno relevantni upit. Hvala što ste nam pomogli da korisnički Forum "
+"učinimo dinamičnim i pozitivnim mjestom!</p>\n"
+"              "
 
 #: templates/pages/download.html:17
 msgid "Stable releases"
-msgstr ""
+msgstr "Stabilna izdanja"
 
 #: templates/pages/download.html:21 templates/pages/download.html.py:43
 #: templates/pages/download.html:65 templates/pages/download.html.py:117
 msgid "Release version"
-msgstr ""
+msgstr "Inačica za javnost"
 
 #: templates/pages/download.html:22 templates/pages/download.html.py:44
 #: templates/pages/download.html:66 templates/pages/download.html.py:118
 msgid "Release date"
-msgstr ""
+msgstr "Datum objave"
 
 #: templates/pages/download.html:23 templates/pages/download.html.py:31
 #: templates/pages/download.html:45 templates/pages/download.html.py:67
@@ -394,12 +510,12 @@ msgstr ""
 #: templates/pages/home.html:13
 msgctxt "Download button"
 msgid "Download"
-msgstr ""
+msgstr "Preuzimanje"
 
 #: templates/pages/download.html:24 templates/pages/download.html.py:46
 #: templates/pages/download.html:68 templates/pages/download.html.py:120
 msgid "Changes"
-msgstr ""
+msgstr "Izmjene"
 
 #: templates/pages/download.html:32 templates/pages/download.html.py:54
 #: templates/pages/download.html:76 templates/pages/download.html.py:82
@@ -407,27 +523,27 @@ msgstr ""
 #: templates/pages/download.html:106 templates/pages/download.html.py:134
 #: templates/pages/download.html:140
 msgid "Issue list"
-msgstr ""
+msgstr "Lista problema"
 
 #: templates/pages/download.html:39
 msgid "Development releases"
-msgstr ""
+msgstr "Razvojna inačica"
 
 #: templates/pages/download.html:52
 msgid "Unknown"
-msgstr ""
+msgstr "Nepoznato"
 
 #: templates/pages/download.html:53
 msgid "Not available yet"
-msgstr ""
+msgstr "Nije još dostupno"
 
 #: templates/pages/download.html:61 templates/pages/download.html.py:113
 msgid "Legacy releases"
-msgstr ""
+msgstr "Zastarjele inačice"
 
 #: templates/pages/download.html:151
 msgid "Download and install AtoM on your webserver"
-msgstr ""
+msgstr "Preuzmite i instalirajte AtoM na vašem web poslužitelju."
 
 #: templates/pages/download.html:154
 #, python-format
@@ -437,10 +553,19 @@ msgid ""
 "            <p>Once you have downloaded this file, consult the online <a href=\"%(url_installation)s\">installation documentation</a>. See also the <a href=\"%(url_upgrade)s\">upgrading guide</a>.</p>\n"
 "          "
 msgstr ""
+"\n"
+"            <p>AtoM je web orijentiran software. Možete ga preuzeti i "
+"instalirati na vaš web poslužitelj i dati pristup svima sa internetskom "
+"vezom. Atom dolazi sa instalacijskom programom koji će vam pomoći kroz "
+"cijeli proces.</p>\n"
+"            <p>Nakon što ste preuzeli datoteku, pregledajte online <a href=\""
+"%(url_installation)s\">instalacijsku dokumentaciju</a>. Također pogledajte <"
+"a href=\"%(url_upgrade)s\">vodič za ažuriranje</a>.</p>\n"
+"          "
 
 #: templates/pages/download.html:163
 msgid "Test AtoM locally using Vagrant"
-msgstr ""
+msgstr "Testirajte AtoM lokalno koristeći Vagrant"
 
 #: templates/pages/download.html:164
 msgid ""
@@ -449,10 +574,28 @@ msgid ""
 "            <p>Virtualbox is an open source, easy to use general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use, and Vagrant is an open source automation tool for building complete development environments. Artefactual has created an AtoM VM that can be easily used with Virtualbox, which will virtualize the installation environment for you so you can easily run a test instance of AtoM on your personal computer. For more information, see our <a href=\"https://www.accesstomemory.org/docs/2.1/admin-manual/installation/vagrant/#installation-vagrant\">Vagrant installation instructions</a> in the AtoM Administrator's Manual.</p>\n"
 "          "
 msgstr ""
+"\n"
+"            <p>Pokrenite AtoM kao virtualni stroj (VM) na bilo kojem "
+"operacijskom sustavu koristeći <a href=\"https://www.virtualbox.org/\""
+">Virtualbox</a> i <a href=\"http://www.vagrantup.com/\">Vagrant</a>. Ova "
+"opcija omogućuje vam isprobavanje AtoM-a na vašem osobnom računalu ako "
+"nemate pristup vlastitom web poslužitelju na koji biste instalirali AtoM ili "
+"ako ste programer koji želi raditi s kodom.</p>\n"
+"            <p>Virtualbox jednostavan za uporabu, otvorenog koda, kompletan "
+"virtualizator opće namjene za hardver x86, namijenjen za poslužitelje "
+"iosobna računala, a Vagrant je alat otvorenog koda za automatizaciju i "
+"izgradnju cjelovitih razvojnih okruženja. Artefactual je stvorio AtoM VM "
+"koji se može lako koristiti s Virtualboxom, što će virtualizirati "
+"instalacijsko okruženje za vas tako da lako možete pokrenuti testni primjer "
+"AtoM-a na vašem osobnom računalu. Za više informacija pogledajte naše<a href="
+"\"https://www.accesstomemory.org/docs/2.1/admin-manual/installation/vagrant/"
+"#installation-vagrant\">Vagrant instalacijske instrukcije</a> u "
+"administratorskim uputama za AtoM.</p>\n"
+"          "
 
 #: templates/pages/home.html:7
 msgid "Providing access to memory since 2007"
-msgstr ""
+msgstr "Pružanje pristupa memoriji od 2007"
 
 #: templates/pages/home.html:8
 msgid ""
@@ -460,10 +603,13 @@ msgid ""
 "source application for standards-based archival description and access in a "
 "multilingual, multi-repository environment."
 msgstr ""
+"AtoM je skraćenica za <span>Access to Memory</span>. To je internetska "
+"aplikacija otvorenog koda koja služi za standardizirana arhivska opisivanja "
+"i pristup u višejezičnom okruženju s više spremišta."
 
 #: templates/pages/home.html:56
 msgid "Web-based"
-msgstr ""
+msgstr "Zasnovano na web-u"
 
 #: templates/pages/home.html:58
 msgid ""
@@ -471,10 +617,17 @@ msgid ""
 "            Access your AtoM installation from anywhere you have an internet connection. All core AtoM functions take place via a web browser, with minimal assumptions about end-user requirements for access. No more synching multiple installations on a per-machine basis – install AtoM once, and access it from anywhere.\n"
 "          "
 msgstr ""
+"\n"
+"            Pristupite vašoj AtoM installaciji sa bilo kojeg mjesta ako "
+"imate internetski pristup. Sve osnovne funkcije AtoM-a odvijaju se putem web "
+"preglednika, s minimalnim  zahtjevima na krajnjeg korisnika. Nema više "
+"sinkroniziranja više instalacija po računalima - instalirajte AtoM jednom i "
+"pristupite mu odasvud.\n"
+"          "
 
 #: templates/pages/home.html:65
 msgid "Open source"
-msgstr ""
+msgstr "Otvoreni kod"
 
 #: templates/pages/home.html:67
 msgid ""
@@ -482,10 +635,20 @@ msgid ""
 "            All AtoM code is released under a GNU Affero General Public License (A-GPL 3.0) – giving you the freedom to study, modify, improve, and distribute it. We believe that an important part of access is accessibility, and that everyone should have access to the tools they need to preserve cultural heritage materials. AtoM code is always freely available, and our documentation is also released under a Creative Commons Share-alike license. Check out our <a href=\"https://github.com/artefactual/atom\">code repository</a>!\n"
 "          "
 msgstr ""
+"\n"
+"            Sav AtoM kôd objavljen je pod GNU Affero General Public License "
+"(A-GPL 3.0) - omogućava vam da ga proučavate, modificirate, poboljšate i "
+"distribuirate. Vjerujemo da je važan dio pristupa dostupnost i da bi svi "
+"trebali imati pristup alatima koji su im potrebni za očuvanje materijala o "
+"kulturnoj baštini. AtoM kôd uvijek je slobodno dostupan, a naša "
+"dokumentacija također je objavljena pod Creative Commons Share-alike "
+"licencom. Pogledajte naše <a href=\"https://github.com/artefactual/atom\">"
+"spremište kôda </a>!\n"
+"          "
 
 #: templates/pages/home.html:74
 msgid "Standards-based"
-msgstr ""
+msgstr "Zasnovano na standardima"
 
 #: templates/pages/home.html:76
 msgid ""
@@ -493,10 +656,18 @@ msgid ""
 "            AtoM was originally built with support from the <a href=\"http://www.ica.org\">International Council on Archives</a>, to encourage broader international standards adoption. We've built standards-compliance into the core of AtoM, and offer easy-to-use, web-based edit templates that conform to a wide variety of international and national standards.</p>\n"
 "          "
 msgstr ""
+"\n"
+"            AtoM je izvorno napravljen uz podršku <a href=\"http://www.ica."
+"org\">International Council on Archives</a>, kako bi se potaknulo šire "
+"prihvaćanje međunarodnih standarda. U jezgru AtoM-a ugradili smo usklađenost "
+"sa standardima i ponudili predloške za uređivanje koji su jednostavni za "
+"upotrebu te  u skladu s velikim brojem međunarodnih i nacionalnih "
+"standarda.</p>\n"
+"          "
 
 #: templates/pages/home.html:82
 msgid "Import/export friendly"
-msgstr ""
+msgstr "Jednostavan uvoz/izvoz podataka"
 
 #: templates/pages/home.html:83
 msgid ""
@@ -505,10 +676,24 @@ msgid ""
 "          <p>Currently AtoM supports the following import/export formats: <abbr title=\"Encoded Archival Description (EAD) – 2002 edition, for descriptions\">EAD</abbr>, <abbr title=\"Encoded Archival Context Corporate Bodies, Persons, and Families (EAC-CPF) – 2010 edition, for authority records\">EAC-CPF</abbr>, <abbr title=\"Comma Separated Values (CSV) import for accessions, descriptions, authority records, institutions, and more\">CSV</abbr> and <abbr title=\"Simple Knowledge Organization System (SKOS) - W3C Recommendation 18 August 2009, for terms and taxonomies\">SKOS</abbr>. Find out more in our <a href=\"https://www.accesstomemory.org/docs/\">user manual</a>.</p>\n"
 "        "
 msgstr ""
+"\n"
+"          <p>Vaši podaci nikada neće biti ograničeni samo na AtoM - "
+"implementiramo brojne standarde razmjene metapodataka kako bismo podržali "
+"jednostavan uvoz i izvoz putem AtoM korisničkog sučelja.</p>\n"
+"          <p>Trenutno AtoM podržava sljedeće formate uvoza / izvoza: <abbr "
+"title=\"Encoded Archival Description (EAD) – 2002 izdanje, za opise\""
+">EAD</abbr>, <abbr title=\"Encoded Archival Context Corporate Bodies, "
+"Persons, and Families (EAC-CPF) – 2010 izdanje, za vjerodostojne zapise\""
+">EAC-CPF</abbr>, <abbr title=\"Comma Separated Values (CSV) uvoz za "
+"akvizicije, vjerodostojne zapise, institucije i ostalo>CSV</abbr> and <abbr "
+"title=\"Simple Knowledge Organization System (SKOS) - W3C preporuka od 18. "
+"Kolovoza 2009., za pojmove i taksonomiju\">SKOS</abbr>. Doznajte više u <a "
+"href=\"https://www.accesstomemory.org/docs/\">korisničkim uputama</a>.</p>\n"
+"        "
 
 #: templates/pages/home.html:94
 msgid "Multilingual"
-msgstr ""
+msgstr "Višejezični"
 
 #: templates/pages/home.html:96
 msgid ""
@@ -516,10 +701,17 @@ msgid ""
 "            All user interface elements and database content can be translated into multiple languages, using our built-in translation interface. Our translations are all generously provided by volunteer translators from the AtoM User Community. Want to see AtoM available in your language? Help us translate!\n"
 "          "
 msgstr ""
+"\n"
+"            Svi elementi korisničkog sučelja i sadržaj baze podataka mogu se "
+"prevesti na više jezika pomoću našeg ugrađenog sučelja za prijevod. Naši su "
+"prijevodi velikodušno pruženi od strane dobrovoljaca prevoditeljia iz "
+"korisničke zajednice AtoM-a. Želite li vidjeti AtoM dostupan i na vašem "
+"jeziku? Pomozite nam prevesti!\n"
+"          "
 
 #: templates/pages/home.html:103
 msgid "Multirepository"
-msgstr ""
+msgstr "Za više institucija"
 
 #: templates/pages/home.html:105
 msgid ""
@@ -527,10 +719,17 @@ msgid ""
 "            Built for use by a single institution for its own descriptions, or as a multi-repository “union list” (network, portal) accepting descriptions from any number of contributing institutions, AtoM is flexible enough to accommodate your needs. See our list of community users for a better sense of all the ways AtoM is being used.\n"
 "          "
 msgstr ""
+"\n"
+"            Napravljen za upotrebu od strane jedne ili više ustanova (mreža, "
+"portal) koji prihvaća popise bilo kojeg broja institucija koje daju "
+"doprinos, AtoM je dovoljno fleksibilan da udovolji vašim potrebama. "
+"Pogledajte naš popis korisnika kako biste bolje razumjeli sve načine na koji "
+"se AtoM koristi.\n"
+"          "
 
 #: templates/pages/home.html:112
 msgid "Constantly improving"
-msgstr ""
+msgstr "Stalno se unapređuje"
 
 #: templates/pages/home.html:114
 msgid ""
@@ -538,3 +737,10 @@ msgid ""
 "            AtoM is an active, dynamic open-source project with a broad user base. We're constantly working with our community to improve the application, and all enhancements are bundled into our public releases. This means that whenever one person contributes, the entire community benefits. Find out more about how you can help improve AtoM.</p>\n"
 "          "
 msgstr ""
+"\n"
+"            AtoM je aktivni, dinamičan projekt otvorenog koda sa širokom "
+"korisničkom bazom. Konstantno radimo sa našom zajednicom na poboljšanju "
+"aplikacije, a sva poboljšanja su dio naših javnih izdanja. To znači da kad "
+"god jedna osoba daje svoj doprinos, cijela zajednica ima koristi. Saznajte "
+"više o tome kako možete poboljšati AtoM.</p>\n"
+"          "
