@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-21 10:51-0700\n"
+"POT-Creation-Date: 2019-12-31 12:22-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,33 +26,49 @@ msgid "Spanish"
 msgstr ""
 
 #: atom/settings/base.py:78
-msgid "Italian"
+msgid "Catalan"
 msgstr ""
 
 #: atom/settings/base.py:79
-msgid "French"
+msgid "Italian"
 msgstr ""
 
 #: atom/settings/base.py:80
-msgid "Portuguese"
+msgid "French"
 msgstr ""
 
 #: atom/settings/base.py:81
-msgid "Slovenian"
+msgid "Portuguese"
 msgstr ""
 
 #: atom/settings/base.py:82
-msgid "Catalan"
+msgid "Brazilian Portuguese"
 msgstr ""
 
 #: atom/settings/base.py:83
 msgid "Korean"
 msgstr ""
 
+#: atom/settings/base.py:84
+msgid "Slovenian"
+msgstr ""
+
+#: atom/settings/base.py:85
+msgid "Hungarian"
+msgstr ""
+
+#: atom/settings/base.py:86
+msgid "German"
+msgstr ""
+
+#: atom/settings/base.py:87
+msgid "Croatian"
+msgstr ""
+
 #: sphinxdoc/templates/sphinxdoc/documentation.html:5
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
 #: sphinxdoc/templates/sphinxdoc/project_list.html:8
-#: sphinxdoc/templates/sphinxdoc/search.html:4 templates/base.html:78
+#: sphinxdoc/templates/sphinxdoc/search.html:4 templates/base.html:67
 #: templates/footer.html:36
 msgid "Documentation"
 msgstr ""
@@ -172,55 +188,51 @@ msgstr ""
 msgid "No search query entered."
 msgstr ""
 
-#: templates/base.html:75 templates/footer.html:19
+#: templates/base.html:64 templates/footer.html:19
 msgid "Home"
 msgstr ""
 
-#: templates/base.html:76 templates/footer.html:20
+#: templates/base.html:65 templates/footer.html:20
 #: templates/pages/download.html:4 templates/pages/download.html.py:10
 msgid "Downloads"
 msgstr ""
 
-#: templates/base.html:92
+#: templates/base.html:85
 msgid "Other resources (wiki)"
 msgstr ""
 
-#: templates/base.html:99 templates/footer.html:26
+#: templates/base.html:91 templates/footer.html:26
 #: templates/pages/community.html:4 templates/pages/community.html.py:10
 #: templates/pages/community/_menu.html:3
 #: templates/pages/community/support.html:4
 msgid "Community"
 msgstr ""
 
-#: templates/base.html:101 templates/footer.html:28
+#: templates/base.html:93 templates/footer.html:28
 #: templates/pages/community/_menu.html:5
 #: templates/pages/community/support.html:4
 msgid "Get support"
 msgstr ""
 
-#: templates/base.html:102 templates/footer.html:29
+#: templates/base.html:94 templates/footer.html:29
 #: templates/pages/community/_menu.html:6
 msgid "Translate"
 msgstr ""
 
-#: templates/base.html:105 templates/footer.html:51
+#: templates/base.html:97 templates/footer.html:51
 msgid "News"
 msgstr ""
 
-#: templates/base.html:106 templates/footer.html:37
+#: templates/base.html:98 templates/footer.html:37
 msgid "Wiki"
 msgstr ""
 
-#: templates/base.html:108 templates/footer.html:21
+#: templates/base.html:100 templates/footer.html:21
 msgid "Demo"
 msgstr ""
 
-#: templates/base.html:110
+#: templates/base.html:102
 msgid "Try it now!"
-msgstr ""
-
-#: templates/base.html:113
-msgid "Other sites"
 msgstr ""
 
 #: templates/footer.html:12
@@ -260,7 +272,7 @@ msgid "Creative Commons Attribution-ShareAlike 4.0 International License"
 msgstr ""
 
 #: templates/footer.html:57
-msgid "© 2015 Artefactual Systems Inc. All rights reserved."
+msgid "© 2019 Artefactual Systems Inc. All rights reserved."
 msgstr ""
 
 #: templates/pages/community/develop.html:13
@@ -308,7 +320,7 @@ msgid ""
 "              <p>AtoM's code is hosted on <a href=\"https://github.com/"
 "artefactual/atom\">Github</a>. We welcome pull requests and comments related "
 "to our code. For further information, please see <a href=\"https://wiki."
-"accesstomemory.org/Development/Contribute_code\">Contribute Code.</a> </p>\n"
+"accesstomemory.org/Development/Contribute_code\">Contribute Code</a>.</p>\n"
 "            "
 msgstr ""
 
@@ -434,12 +446,12 @@ msgid "Stable releases"
 msgstr ""
 
 #: templates/pages/download.html:21 templates/pages/download.html.py:43
-#: templates/pages/download.html:65 templates/pages/download.html.py:117
+#: templates/pages/download.html:65 templates/pages/download.html.py:171
 msgid "Release version"
 msgstr ""
 
 #: templates/pages/download.html:22 templates/pages/download.html.py:44
-#: templates/pages/download.html:66 templates/pages/download.html.py:118
+#: templates/pages/download.html:66 templates/pages/download.html.py:172
 msgid "Release date"
 msgstr ""
 
@@ -448,23 +460,31 @@ msgstr ""
 #: templates/pages/download.html:75 templates/pages/download.html.py:81
 #: templates/pages/download.html:87 templates/pages/download.html.py:93
 #: templates/pages/download.html:99 templates/pages/download.html.py:105
-#: templates/pages/download.html:119 templates/pages/download.html.py:127
-#: templates/pages/download.html:133 templates/pages/download.html.py:139
-#: templates/pages/home.html:13
+#: templates/pages/download.html:111 templates/pages/download.html.py:117
+#: templates/pages/download.html:123 templates/pages/download.html.py:129
+#: templates/pages/download.html:135 templates/pages/download.html.py:141
+#: templates/pages/download.html:147 templates/pages/download.html.py:153
+#: templates/pages/download.html:159 templates/pages/download.html.py:173
+#: templates/pages/download.html:181 templates/pages/download.html.py:187
+#: templates/pages/download.html:193 templates/pages/home.html:13
 msgctxt "Download button"
 msgid "Download"
 msgstr ""
 
 #: templates/pages/download.html:24 templates/pages/download.html.py:46
-#: templates/pages/download.html:68 templates/pages/download.html.py:120
+#: templates/pages/download.html:68 templates/pages/download.html.py:174
 msgid "Changes"
 msgstr ""
 
 #: templates/pages/download.html:32 templates/pages/download.html.py:54
 #: templates/pages/download.html:76 templates/pages/download.html.py:82
-#: templates/pages/download.html:88 templates/pages/download.html.py:100
-#: templates/pages/download.html:106 templates/pages/download.html.py:134
-#: templates/pages/download.html:140
+#: templates/pages/download.html:88 templates/pages/download.html.py:94
+#: templates/pages/download.html:100 templates/pages/download.html.py:106
+#: templates/pages/download.html:112 templates/pages/download.html.py:118
+#: templates/pages/download.html:124 templates/pages/download.html.py:130
+#: templates/pages/download.html:136 templates/pages/download.html.py:142
+#: templates/pages/download.html:154 templates/pages/download.html.py:160
+#: templates/pages/download.html:188 templates/pages/download.html.py:194
 msgid "Issue list"
 msgstr ""
 
@@ -480,15 +500,15 @@ msgstr ""
 msgid "Not available yet"
 msgstr ""
 
-#: templates/pages/download.html:61 templates/pages/download.html.py:113
+#: templates/pages/download.html:61 templates/pages/download.html.py:167
 msgid "Legacy releases"
 msgstr ""
 
-#: templates/pages/download.html:151
+#: templates/pages/download.html:205
 msgid "Download and install AtoM on your webserver"
 msgstr ""
 
-#: templates/pages/download.html:154
+#: templates/pages/download.html:208
 #, python-format
 msgid ""
 "\n"
@@ -502,11 +522,11 @@ msgid ""
 "          "
 msgstr ""
 
-#: templates/pages/download.html:163
+#: templates/pages/download.html:217
 msgid "Test AtoM locally using Vagrant"
 msgstr ""
 
-#: templates/pages/download.html:164
+#: templates/pages/download.html:218
 msgid ""
 "\n"
 "            <p>Run AtoM as a virtual machine (VM) on any operating system, "
@@ -522,9 +542,9 @@ msgid ""
 "easily used with Virtualbox, which will virtualize the installation "
 "environment for you so you can easily run a test instance of AtoM on your "
 "personal computer. For more information, see our <a href=\"https://www."
-"accesstomemory.org/docs/2.1/admin-manual/installation/vagrant/#installation-"
-"vagrant\">Vagrant installation instructions</a> in the AtoM Administrator's "
-"Manual.</p>\n"
+"accesstomemory.org/en/docs/latest/dev-manual/env/vagrant/#dev-env-vagrant"
+"\">Vagrant installation instructions</a> in the AtoM Administrator's Manual."
+"</p>\n"
 "          "
 msgstr ""
 
