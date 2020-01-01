@@ -11,6 +11,8 @@ create, the appropriate branch for the AtoM major version being worked with.
 
 Branch name example: `2.5.x`
 
+The exception to this is the "website" branch, intended for the AtoM website.
+
 Migration scripts
 -----------------
 
