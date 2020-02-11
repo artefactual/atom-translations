@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file source-language="en" target-language="ta" datatype="plaintext" original="messages" date="2019-12-29T19:04:40Z" product-name="messages">
+  <file source-language="en" target-language="ta" datatype="plaintext" original="messages" date="2020-02-11T11:41:49Z" product-name="messages">
     <header/>
     <body>
-      <trans-unit id="1">
+      <trans-unit id="1" approved="no">
         <source>Please configure your site base URL</source>
-        <target/>
+        <target state="translated">உங்கள் தள முகவரியைத் தயந்து உருவமைக்குக</target>
       </trans-unit>
       <trans-unit id="2" approved="no">
         <source>Home</source>
@@ -66,7 +66,7 @@
       </trans-unit>
       <trans-unit id="16" approved="no">
         <source>Application version</source>
-        <target state="translated">பயன்பாட்டுச் செயலி பதிப்புரு?</target>
+        <target state="translated">பயன்பாட்டுச் செயலி பதிப்புரு</target>
       </trans-unit>
       <trans-unit id="17" approved="no">
         <source>Check for updates</source>
@@ -94,7 +94,7 @@
       </trans-unit>
       <trans-unit id="23" approved="no">
         <source>Default archival description browse view</source>
-        <target state="translated">இயல்/ இயற் தேர்வு ஆவண விவரிப்பு உலவு உருத்தோற்றம்?</target>
+        <target state="translated">இயற் தேர்வு ஆவண விவரிப்பு உலவு உருத்தோற்றம்</target>
       </trans-unit>
       <trans-unit id="24" approved="no">
         <source>Multiple repositories</source>
@@ -102,7 +102,7 @@
       </trans-unit>
       <trans-unit id="25" approved="no">
         <source>Enable institutional scoping</source>
-        <target state="translated">நிறுவன செயற்பரப்பை இயல்வி?</target>
+        <target state="translated">நிறுவன செயற்பரப்பை இயல்வி</target>
       </trans-unit>
       <trans-unit id="26" approved="no">
         <source>Default %1% upload limit (GB)</source>
@@ -120,21 +120,21 @@
         <source>Upload multi-page files as multiple descriptions</source>
         <target/>
       </trans-unit>
-      <trans-unit id="30">
+      <trans-unit id="30" approved="no">
         <source>Show tooltips</source>
-        <target/>
+        <target state="translated">கருவிக் குறிப்புகளைக் காண்பி</target>
       </trans-unit>
       <trans-unit id="31" approved="no">
         <source>Default publication status</source>
-        <target state="translated">இயல் வெளியீட்டு நிகழ்நிலை?</target>
+        <target state="translated">இயல் வெளியீட்டு தகுநிலை</target>
       </trans-unit>
       <trans-unit id="32" approved="no">
         <source>Show available drafts notification upon user login</source>
         <target state="translated">பயனர் புகுபதிகையின் பிற்பாடு கிடைப்பிலுள்ள வரைவுகள் அறிவிக்கையைக் காண்பி</target>
       </trans-unit>
-      <trans-unit id="33">
+      <trans-unit id="33" approved="no">
         <source>SWORD deposit directory</source>
-        <target/>
+        <target state="translated">ஸ்வோர்ட் வைப்பு கோப்பகம்</target>
       </trans-unit>
       <trans-unit id="34">
         <source>Require SSL for all administrator funcionality</source>
@@ -4261,26 +4261,30 @@
         <target/>
       </trans-unit>
       <trans-unit id="1069">
-        <source>Note: Incorrect security settings can result in the AtoM web UI becoming inaccessible.</source>
+        <source>Inherit reference code (DC XML)</source>
         <target/>
       </trans-unit>
       <trans-unit id="1070">
-        <source>DACS template - area headings</source>
+        <source>Note: Incorrect security settings can result in the AtoM web UI becoming inaccessible.</source>
         <target/>
       </trans-unit>
       <trans-unit id="1071">
-        <source>Acquisition and appraisal area</source>
+        <source>DACS template - area headings</source>
         <target/>
       </trans-unit>
       <trans-unit id="1072">
-        <source>Related materials area</source>
+        <source>Acquisition and appraisal area</source>
         <target/>
       </trans-unit>
       <trans-unit id="1073">
-        <source>DACS template - elements</source>
+        <source>Related materials area</source>
         <target/>
       </trans-unit>
       <trans-unit id="1074">
+        <source>DACS template - elements</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1075">
         <source>Physical access</source>
         <target/>
       </trans-unit>
