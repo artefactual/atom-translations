@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 10:51-0700\n"
-"PO-Revision-Date: 2019-12-19 00:06+0000\n"
-"Last-Translator: milotype <mail@milotype.de>\n"
+"PO-Revision-Date: 2020-11-23 12:14+0000\n"
+"Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <http://translations.artefactual.com/projects/atom/"
 "website/hr/>\n"
 "Language: hr\n"
@@ -152,7 +152,7 @@ msgstr "Izvorni kȏd"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:113
 msgid "Latest update:"
-msgstr "Posljednje ažuriranje:"
+msgstr "Zadnje aktualiziranje:"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:5
 msgid "General Index"
@@ -221,7 +221,7 @@ msgstr "Podrška"
 #: templates/base.html:102 templates/footer.html:29
 #: templates/pages/community/_menu.html:6
 msgid "Translate"
-msgstr "Lokalizacija"
+msgstr "Prevodi"
 
 #: templates/base.html:105 templates/footer.html:51
 msgid "News"
@@ -269,7 +269,7 @@ msgstr "Artefactual je glavni razvojni tim za Archivematic i AtoM."
 
 #: templates/footer.html:55
 msgid "Access to Memory documentation"
-msgstr "Access to Memory dokumentacija"
+msgstr "Dokumentacija za „Pristup memoriji”"
 
 #: templates/footer.html:55
 msgid "is licensed under a"
@@ -339,11 +339,11 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"              <p>Programski kȏd za AtoM se nalazi na <a href=\""
+"              <p>Programski kȏd za AtoM nalazi se na <a href=\""
 "https://github.com/artefactual/atom\">Githubu</a>. Pozdravljamo slanje "
-"prijedloga i komentara u vezi s našim kodom. Za dodatne informacije pogledaj "
-"stranicu <a href=\"https://wiki.accesstomemory.org/Development/"
-"Contribute_code\">Doprinesi kodu.</a> </p>\n"
+"prijedloga i komentara u vezi s našim kodom. Za dodatne informacije, "
+"pogledaj stranicu <a href=\"https://wiki.accesstomemory.org/Development/"
+"Contribute_code\">Doprinesi kodu</a>. </p>\n"
 "            "
 
 #: templates/pages/community/support.html:44
@@ -395,7 +395,7 @@ msgstr ""
 
 #: templates/pages/community/support.html:62
 msgid "Posting to the User forum"
-msgstr "Objava na korisničkom forumu"
+msgstr "Slanje poruka na korisnički forum"
 
 #: templates/pages/community/support.html:65
 msgid ""
@@ -407,10 +407,10 @@ msgstr ""
 "\n"
 "                <p><a href=\"https://groups.google.com/forum/#!forum/ica-"
 "atom-users\">AtoM korisnički forum</a> je najbolje mjesto za dobivanje "
-"interaktivnih povratnih informacija od ostalih korisnika i programera "
-"AtoM-a.<a href=\"http://www.artefactual.com/\">Artefactual</a>, glavni "
-"razvojni tim AtoM-a, moderira korisnički forum, a mi pokušavamo što prije "
-"moguće objaviti odgovore na otvorena korisnička pitanja u roku od 24 sata od "
+"interaktivnih povratnih informacija od ostalih korisnika i programera AtoM-"
+"a. <a href=\"http://www.artefactual.com/\">Artefactual</a>, glavni razvojni "
+"tim AtoM-a, moderira korisnički forum, a mi pokušavamo što prije moguće "
+"objaviti odgovore na otvorena korisnička pitanja u roku od 24 sata od "
 "njihovog objavljivanja (tijekom radnog vremena od ponedjeljka do petka – mi "
 "smo u pacifičkoj vremenskoj zoni). Ovo je usluga koja se besplatno nudi i "
 "pružamo je koliko nam mogućnosti dopuštaju, a nadamo se da ćemo s vremenom "
@@ -481,9 +481,9 @@ msgstr ""
 "                  <li>Je li program instaliran na tvom vlastitom "
 "poslužitelju ili koristiš vanjskog pružatelja usluga?</li>\n"
 "                </ul>\n"
-"                <p>Najlakše nam je jasno odgovoriti na pitanja koja "
-"su<strong>potpuna</strong> i <strong>sažeta</strong> – uključuju sve važne "
-"detalje o softverskom okruženju i onome što je dovelo do pogreške, ali bez "
+"                <p>Najlakše nam je jasno odgovoriti na pitanja koja su "
+"<strong>potpuna</strong> i <strong>sažeta</strong> – uključuju sve važne "
+"detalje o softverskom okruženju i onome što je dovelo do greške, ali bez "
 "pojedinosti ili isječaka koda koji nisu izravno relevantni. Hvala što nam "
 "pomažeš učiniti korisnički forum dinamičnim i pozitivnim mjestom!</p>\n"
 "              "
@@ -495,12 +495,12 @@ msgstr "Stabilna izdanja"
 #: templates/pages/download.html:21 templates/pages/download.html.py:43
 #: templates/pages/download.html:65 templates/pages/download.html.py:117
 msgid "Release version"
-msgstr "Objavljena verzija"
+msgstr "Verzija izdanja"
 
 #: templates/pages/download.html:22 templates/pages/download.html.py:44
 #: templates/pages/download.html:66 templates/pages/download.html.py:118
 msgid "Release date"
-msgstr "Datum objavljivanja"
+msgstr "Datum izdanja"
 
 #: templates/pages/download.html:23 templates/pages/download.html.py:31
 #: templates/pages/download.html:45 templates/pages/download.html.py:67
@@ -512,12 +512,12 @@ msgstr "Datum objavljivanja"
 #: templates/pages/home.html:13
 msgctxt "Download button"
 msgid "Download"
-msgstr "Preuzimanje"
+msgstr "Preuzmi"
 
 #: templates/pages/download.html:24 templates/pages/download.html.py:46
 #: templates/pages/download.html:68 templates/pages/download.html.py:120
 msgid "Changes"
-msgstr "Izmjene"
+msgstr "Promjene"
 
 #: templates/pages/download.html:32 templates/pages/download.html.py:54
 #: templates/pages/download.html:76 templates/pages/download.html.py:82
@@ -529,7 +529,7 @@ msgstr "Popis problema"
 
 #: templates/pages/download.html:39
 msgid "Development releases"
-msgstr "Razvojna verzija"
+msgstr "Razvojna izdanja"
 
 #: templates/pages/download.html:52
 msgid "Unknown"
@@ -541,11 +541,11 @@ msgstr "Još nije dostupno"
 
 #: templates/pages/download.html:61 templates/pages/download.html.py:113
 msgid "Legacy releases"
-msgstr "Zastarjele verzije"
+msgstr "Zastarjela izdanja"
 
 #: templates/pages/download.html:151
 msgid "Download and install AtoM on your webserver"
-msgstr "Preuzmi i instaliraj AtoM na svom web poslužitelju"
+msgstr "Preuzmi i instaliraj AtoM na svoj web poslužitelj"
 
 #: templates/pages/download.html:154
 #, python-format
@@ -557,16 +557,17 @@ msgid ""
 msgstr ""
 "\n"
 "            <p>AtoM je web-bazirani softver. Možeš ga preuzeti i instalirati "
-"na svoj web poslužitelj i omogućiti pristup svima s internetskom vezom. Atom "
-"dolazi s instalacijskim programom koji pomaže tijekom instaliranja.</p>\n"
-"            <p>Nakon preuzimanja datoteke, pregledaj online <a href=\""
-"%(url_installation)s\">instalacijsku dokumentaciju</a>. Također pogledaj <a "
-"href=\"%(url_upgrade)s\">priručnik za ažuriranje</a>.</p>\n"
+"na svoj web poslužitelj i omogućiti pristup svima s internetskom vezom. AtoM "
+"sadrži instalacijski program, koji pomaže tijekom instaliranja.</p>\n"
+"            <p>Nakon preuzimanja datoteke, pregledaj <a href=\""
+"%(url_installation)s\">dokumentaciju za instaliranje</a> na internetu. "
+"Također pogledaj <a href=\"%(url_upgrade)s\">priručnik za "
+"nadogradnju</a>.</p>\n"
 "          "
 
 #: templates/pages/download.html:163
 msgid "Test AtoM locally using Vagrant"
-msgstr "Testiraj AtoM lokalno koristeći Vagrant"
+msgstr "Isprobaj AtoM lokalno, koristeći Vagrant"
 
 #: templates/pages/download.html:164
 msgid ""
@@ -604,10 +605,9 @@ msgid ""
 "source application for standards-based archival description and access in a "
 "multilingual, multi-repository environment."
 msgstr ""
-"AtoM je skraćenica za <span>Access to Memory</span> (pristup memoriji). Radi "
-"se o internetskoj aplikaciji otvorenog koda koja služi za standardizirana "
-"arhivska opisivanja i za pristup u višejezičnom okruženju s višestrukim "
-"spremištima."
+"AtoM je skraćenica za <span>Access to Memory</span> (Pristup memoriji). Radi "
+"se o internetskom programu otvorenog koda za standardizirana arhivska "
+"opisivanja i za pristup u višejezičnom okruženju s višestrukim spremištima."
 
 #: templates/pages/home.html:56
 msgid "Web-based"
@@ -621,7 +621,7 @@ msgid ""
 msgstr ""
 "\n"
 "            Pristupi tvojoj AtoM installaciji s bilo kojeg mjesta na kojem "
-"imate internetsku vezu. Sve osnovne funkcije AtoM-a odvijaju se putem web "
+"imaš internetsku vezu. Sve osnovne funkcije AtoM-a odvijaju se putem web "
 "preglednika, s minimalnim pretpostavkama o zahtjevima krajnjeg korisnika za "
 "pristup. Sinkroniziranje višestrukih instalacija na raznim računalima otpada "
 "– instaliraj AtoM jednom i pristupi mu odasvud.\n"
@@ -707,13 +707,13 @@ msgstr ""
 "\n"
 "            Svi elementi korisničkog sučelja i sadržaj baze podataka mogu se "
 "prevesti na razne jezike pomoću našeg ugrađenog sučelja za prijevod. "
-"Prijevode su izradili dobrovoljni prevoditelji korisničke zajednice AtoM-a. "
-"Želi li vidjeti, je li AtoM dostupan i na tvom jeziku? Pomozi prevoditi!\n"
+"Prijevode su izradili dobrovoljni prevodioci korisničke zajednice AtoM-a. "
+"Želiš koristiti AtoM i na tvom jeziku? Pomogni prevoditi AtoM!\n"
 "          "
 
 #: templates/pages/home.html:103
 msgid "Multirepository"
-msgstr "Višestruka spremištima"
+msgstr "Višestruka spremišta"
 
 #: templates/pages/home.html:105
 msgid ""
@@ -723,10 +723,10 @@ msgid ""
 msgstr ""
 "\n"
 "            Napravljen kako bi ga pojedinačne ustanove koristile za vlastite "
-"opise ili kao „ujedinjeni popis” višestrukih spremišta (mreža, portal) "
+"opise ili kao „ujedinjeni popis” višestrukih spremišta (mreža, portal), "
 "prihvaćajući opise bilo kojeg broja ustanova koje doprinose, AtoM je "
 "dovoljno fleksibilan da udovolji tvojim potrebama. U našem popisu korisnika "
-"zajednice dobit ćeš uvid u razne načine na koji se AtoM koristi.\n"
+"zajednice dobit ćeš uvid u razne načine upotrebe AtoM-a.\n"
 "          "
 
 #: templates/pages/home.html:112
@@ -741,8 +741,8 @@ msgid ""
 msgstr ""
 "\n"
 "            AtoM je aktivan, dinamičan projekt otvorenog koda s velikim "
-"brojem korisnika. Konstantno radimo s našom zajednicom na poboljšanju "
-"aplikacije, a sva poboljšanja su dio naših javnih izdanja. To znači da kad "
-"god netko nešto doprinese, to koristi cijeloj zajednici. Saznaj više o tome "
-"kako možeš poboljšati AtoM.</p>\n"
+"brojem korisnika. Zajedno s našom zajednicom stalno usavršavamo program, a "
+"sve te promjene su dio naših javnih izdanja. To znači, da kad god netko "
+"nešto doprinese, to koristi cijeloj zajednici. Saznaj više o tome kako "
+"pomoći poboljšati AtoM.</p>\n"
 "          "
