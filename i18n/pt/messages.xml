@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="73c0f876111616e52a79975df6ee70518eb61b7a" approved="yes" translated="yes">
         <source>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Unlimited&lt;/em&gt;&amp;nbsp;</source>
-        <target>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; de &lt;em&gt;Ilimitado&lt;/em&gt;</target>
+        <target>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Ilimitado&lt;/em&gt;&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
       <trans-unit id="06fa8301c9a6972b241494929371df4b8d8a0c73" approved="yes" translated="yes">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="61b6167ae576ea47ed09f764ce5c466d052e214e" approved="yes" translated="yes">
         <source>A list of special chars, separated by coma, to be escaped in string queries</source>
-        <target>Uma lista de caracteres especiais, separados por vírgula, para serem usados nas expressões de pesquisa. </target>
+        <target>Uma lista de caracteres especiais, separados por vírgula, para serem ignorados na pesquisa de palavras</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="f8610ae6f588c77e1f6d3b0de66cb784203d6305" approved="yes" translated="yes">
@@ -646,7 +646,7 @@
       </trans-unit>
       <trans-unit id="01850f0b38dbc0ccf240926c3bb291e710cdacc0" approved="yes" translated="yes">
         <source>Are you sure you want to replace "%1%" with "%2%" in %3%?</source>
-        <target>Tem a certeza que pretende substituir "%1%" por "%2%" em "%3%"</target>
+        <target>Tem a certeza que pretende substituir "%1%" por "%2%" em %3%?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/globalReplaceAction.class.php</note>
       </trans-unit>
       <trans-unit id="2b226c7948b48ad8f6ece8d91270c6915aba6b73" approved="no">
@@ -670,7 +670,7 @@
       </trans-unit>
       <trans-unit id="62ac114dc46b3c0887890d6d57e1ee933416e2ed" approved="yes" translated="yes">
         <source>Authorized form of name - This is a mandatory element.</source>
-        <target>Forma autorizada do nome - é um elemento obrigatório</target>
+        <target>Forma autorizada do nome - É um elemento obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/rightsholder/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="0f68996a1730404b5626fc68c5b440b147fad9f0" approved="yes" translated="yes">
@@ -700,7 +700,7 @@
       </trans-unit>
       <trans-unit id="c8af83fb4c1ea103238bcdedb758767604d9423c" approved="yes" translated="yes">
         <source>Banner</source>
-        <target>Banner</target>
+        <target>Faixa</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/actions/editThemeAction.class.php</note>
       </trans-unit>
       <trans-unit id="caeef13930f0be27ce1a2f747aeafa3dee338d8a" approved="yes" translated="yes">
@@ -745,7 +745,7 @@
       </trans-unit>
       <trans-unit id="9a5f21c8f5cd4940eec3fb9eece5ad218d289f2b" approved="yes" translated="yes">
         <source>Both source and replacement fields are required.</source>
-        <target>Ambos os campos fonte e substituição são obrigatórios</target>
+        <target>Ambos os campos fonte e substituição são obrigatórios.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/globalReplaceAction.class.php</note>
       </trans-unit>
       <trans-unit id="bf2326169ad578e95a8b116e52dd2dd5d8202a6e" approved="yes" translated="yes">
@@ -785,7 +785,7 @@
       </trans-unit>
       <trans-unit id="2c9abb550a6c7b975efff8480d8b9587dc7366fa" approved="yes" translated="yes">
         <source>Browse %1%:</source>
-        <target>Navegar %1%</target>
+        <target>Navegar %1%:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="ae2f8272fa7ed3652061336906f093a9447422f3" approved="yes" translated="yes">
@@ -1280,9 +1280,7 @@
       </trans-unit>
       <trans-unit id="a838ddbafbc0a8995e1379a957b61128964ffe4c" approved="yes" translated="yes">
         <source>Describe the nature of the relationship between the function and the related resource. (ISDF 6.2)</source>
-        <target>&lt;b&gt;ISDF 6.2&lt;/b&gt;&lt;br /&gt;
-&lt;strong&gt;Objetivo:&lt;/strong&gt; Identificar a natureza da relação entre a função e o recurso relacionado.&lt;br /&gt;
-&lt;strong&gt;Regra:&lt;/strong&gt; Descreva a natureza da relação entre a função e o recurso relacionado. Para relações com entidades coletivas, registe informações sobre como a entidade coletiva realiza a função, por exemplo, de forma integral ou parcial, de acordo com a legislação e seu mandato.</target>
+        <target>Descreva a natureza da relação entre a função e o recurso relacionado. (ISDF 6.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/relation/actions/editComponent.class.php</note>
       </trans-unit>
       <trans-unit id="55f8ebc805e65b5b71ddafdae390e3be2bcd69af" approved="yes" translated="yes">
@@ -1302,7 +1300,7 @@
       </trans-unit>
       <trans-unit id="c490453d6c970206d1d92775c6f544e99afa1c30" approved="yes" translated="yes">
         <source>Description updated.</source>
-        <target>Descrição atualizada</target>
+        <target>Descrição atualizada.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/renameAction.class.php</note>
       </trans-unit>
       <trans-unit id="a062a7b2869f26c0d3fc4bbd38941f3aa5be9457">
@@ -1614,12 +1612,12 @@
       </trans-unit>
       <trans-unit id="d186bd7f7c43e70b908e186473d02190ade84297" approved="yes" translated="yes">
         <source>Enter the copyright end date, if known. Acceptable date format: YYYY-MM-DD.</source>
-        <target>Digitar a data final dos direitos de autor, se conhecida. Formato recomendado: AAAA-MM-DD</target>
+        <target>Introduza a data final dos direitos de autor, se conhecida. Formato de data aceite: AAAA-MM-DD.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="eeb7969637498f3b3a365a9ca17c1c96f58a5400" approved="yes" translated="yes">
         <source>Enter the copyright start date, if known. Acceptable date format: YYYY-MM-DD.</source>
-        <target>Digitar a date inicial dos direitos de autor, se conhecida. Formato recomendado: AAAA-MM-DD</target>
+        <target>Introduza a date inicial dos direitos de autor, se conhecida. Formato de data aceite: AAAA-MM-DD.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="cdddf0d0bd5b6859a807aa96dd11f7acbbb95164" approved="yes" translated="yes">
@@ -1629,17 +1627,17 @@
       </trans-unit>
       <trans-unit id="4f83d31d66cec4d3a556ed4055976117d787540e" approved="yes" translated="yes">
         <source>Enter the end year. Do not use any qualifiers or typographical symbols to express uncertainty. Acceptable date formats: YYYYMMDD, YYYY-MM-DD, YYYY-MM, YYYY.</source>
-        <target>Indicar o ano de fim. Não utilize quaisquer qualificadores ou símbolos tipográficos para expressar uma data incerta. Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.</target>
+        <target>Introduza o ano de fim. Não utilize quaisquer qualificadores ou símbolos tipográficos para expressar uma data incerta. Formatos de data aceites: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/event/actions/editComponent.class.php</note>
       </trans-unit>
       <trans-unit id="29c58a5024104dca6fe572960fd838d5b4311e87" approved="yes" translated="yes">
         <source>Enter the end year. Do not use any qualifiers or typographical symbols to express uncertainty. If the start and end years are the same, enter data only in the "Date" field and leave the "End date" blank.</source>
-        <target>Indicar o ano de fim. Não utilize quaisquer qualificadores ou símbolos tipográficos para expressar uma data incerta. Se a data de início e fim forem idênticas, apenas deve preencher o campo &lt;strong&gt;Data&lt;/strong&gt; e deixar em branco o campo &lt;strong&gt;Data fim&lt;/strong&gt;. Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.</target>
+        <target>Introduza o ano de fim. Não utilize quaisquer qualificadores ou símbolos tipográficos para expressar uma data incerta. Se a data de início e fim forem iguais, apenas deve preencher o campo "Data" e deixar em branco o campo "Data fim".</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/relation/actions/editComponent.class.php</note>
       </trans-unit>
       <trans-unit id="ab2246356f61b6c431dbdfe3d565066133a908c0" approved="yes" translated="yes">
         <source>Enter the start year. Do not use any qualifiers or typographical symbols to express uncertainty.</source>
-        <target>Indicar o ano de início. Não utilize quaisquer qualificadores ou símbolos tipográficos para expressar uma data incerta. Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.</target>
+        <target>Introduza o ano de início. Não utilize quaisquer qualificadores ou símbolos tipográficos para expressar uma data incerta.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/relation/actions/editComponent.class.php</note>
       </trans-unit>
       <trans-unit id="0ac6d5a441b1d832ad41718e5d727ed5bf4743f7" approved="yes" translated="yes">

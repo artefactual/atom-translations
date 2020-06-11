@@ -161,7 +161,7 @@
       </trans-unit>
       <trans-unit id="73c0f876111616e52a79975df6ee70518eb61b7a" approved="yes" translated="yes">
         <source>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Unlimited&lt;/em&gt;&amp;nbsp;</source>
-        <target>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; von &lt;em&gt;Unbegrenzt&lt;/em&gt;</target>
+        <target>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; von &lt;em&gt;Unbegrenzt&lt;/em&gt;&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
       <trans-unit id="06fa8301c9a6972b241494929371df4b8d8a0c73" approved="yes" translated="yes">
@@ -397,9 +397,9 @@
         <source>Additional information about the license, such as contact persons, action dates, or interpretations. The note may also indicated the location of the license, if it is available online or embedded in the object itself.</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8b427b8ef15d6530a2e92102068a23eef98bd26d" approved="yes" translated="yes">
+      <trans-unit id="8b427b8ef15d6530a2e92102068a23eef98bd26d" approved="no" translated="yes">
         <source>Additional information about the statute.</source>
-        <target>Zusätzliche Informationen zum Statut</target>
+        <target>Zusätzliche Informationen zum Statut.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d70f93df5e8f9b55be44fbeee9d203972e3383d4" approved="yes" translated="yes">
@@ -2281,7 +2281,7 @@
       </trans-unit>
       <trans-unit id="583c9e23574a88177a3d4dee17f36f82081ab201" approved="yes" translated="yes">
         <source>Last updated</source>
-        <target>Letzte Aktualisierung:</target>
+        <target>Letzte Aktualisierung</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_adminInfo.php</note>
       </trans-unit>
       <trans-unit id="ced3905ec8220a51e0d47124fc2d0549ce7c8472">
@@ -2721,7 +2721,7 @@
       </trans-unit>
       <trans-unit id="e9cc6d0e9a61da7cff0e049a68c0ecfd422d901c" approved="yes" translated="yes">
         <source>No results found.</source>
-        <target>Keine Ergebnisse gefunden</target>
+        <target>Keine Ergebnisse gefunden.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_treeView.php</note>
       </trans-unit>
       <trans-unit id="e7c3d2225afaba2338575edd35fc684a608bc519" approved="yes" translated="yes">

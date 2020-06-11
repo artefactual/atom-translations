@@ -187,7 +187,7 @@
       </trans-unit>
       <trans-unit id="4bc18f6bb33a2e46f543669342dc568810d5d3ce" approved="yes">
         <source>A condition or limitation on the act.</source>
-        <target state="translated">Uvjet ili ograničenje radnje.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Uvjet ili ograničenje za radnju.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="61b6167ae576ea47ed09f764ce5c466d052e214e" approved="yes">
         <source>A list of special chars, separated by coma, to be escaped in string queries</source>
@@ -215,11 +215,11 @@
       </trans-unit>
       <trans-unit id="0b53e24d8bbbf86c671acad4c5608335b619874d" approved="yes">
         <source>Access restrictions</source>
-        <target state="translated">Ograničenja za pristup</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
+        <target state="translated">Ograničenja pristupa</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
       <trans-unit id="0ce06899dd3df3731cde9ae09d1fccfc68c461cc" approved="yes">
         <source>Accession</source>
-        <target state="translated">Akvizicija/pribavljeno gradivo</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
+        <target state="translated">Pribavljeno gradivo</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
       <trans-unit id="377e7551fae8a7c156e47224e07b4560f6ddd2c7" approved="yes">
         <source>Accession counter</source>
@@ -239,7 +239,7 @@
       </trans-unit>
       <trans-unit id="b340d40c175b54c515cfb6afccc865cb3f06a8b4" approved="yes">
         <source>Act / Granted rights</source>
-        <target state="translated">Radnja / Dodijeljena prava</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Radnja / Odobrena prava</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="97c89a4d6630adeb18fa12ba9976a31413fe293e" approved="yes">
         <source>Action</source>
@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="f44520a307ea623d198d7dab8e4931a736fd3dde" approved="yes">
         <source>Add granted right</source>
-        <target state="translated">Dodaj dodijeljeno pravo</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Dodaj odobreno pravo</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5f5149f5b9f196c386869ca306d3baaed8712177" approved="yes">
         <source>Add lowercase letters</source>
@@ -363,7 +363,7 @@
       </trans-unit>
       <trans-unit id="af4d14fa8e03c293207d7c9553e870c93b6037dd" approved="yes">
         <source>Administrative history</source>
-        <target state="translated">Kronologija administracije</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_creatorDetail.php</note>
+        <target state="translated">Administrativna kronologija</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_creatorDetail.php</note>
       </trans-unit>
       <trans-unit id="9aee8ee33d825fcfa698e2d6ae0e4bc7859a5062" approved="yes">
         <source>Administrator email(s)</source>
@@ -371,11 +371,11 @@
       </trans-unit>
       <trans-unit id="6db75ea6a0b04a4ef96fc7537561215bfe20a5fa" approved="yes">
         <source>Advanced search</source>
-        <target state="translated">Napredno pretraživanje</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_box.php</note>
+        <target state="translated">Napredna pretraga</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_box.php</note>
       </trans-unit>
       <trans-unit id="b64e576b755641826adb3737f880263e56fa2def" approved="yes">
         <source>Advanced search options</source>
-        <target state="translated">Napredne mogućnosti za pretraživanje</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+        <target state="translated">Mogućnosti napredne pretrage</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="ee68d3496bb455d50d1b8a9987c710dd56818065" approved="yes">
         <source>Agree</source>
@@ -439,7 +439,7 @@
       </trans-unit>
       <trans-unit id="b7063e1e7db18c362696dec9cf8da2c9a4f40444" approved="yes">
         <source>An identifying designation for the statute. Use standard citation form when applicable, e.g. bibliographic citation.</source>
-        <target state="translated">Identifikacijska oznaka za statut. Koristi standardni način citiranja kad je dostupno, npr. bibliografsko citiranje.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Identifikacijska oznaka za statut. Koristi standardni način citiranja kad je primjenjivo, npr. bibliografsko citiranje.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="a01e33f4dcdb6ba1ae9f34a97cf8f6deeedf1a8d" approved="yes">
         <source>And</source>
@@ -455,11 +455,11 @@
       </trans-unit>
       <trans-unit id="ea25fb97b8a139d560e774dd21b304d01e297bdf" approved="yes">
         <source>Application version</source>
-        <target state="translated">Verzija aplikacije</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Verzija programa</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="8dd88b3266c10c2a096d659753d26f838e562031" approved="yes">
         <source>Applies to multi-repository sites only. When set to &amp;quot;yes&amp;quot;, additional search and browse options will be available at the repository level</source>
-        <target state="translated">Primjenjuje se samo na web mjesta s višestrukim spremištima. Kad je postavljeno na „da”, dodatne mogućnosti za pretraživanje i pregledavanje bit će dostupne na ovoj razini spremišta</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Primjenjuje se samo na web mjesta s višestrukim spremištima. Kad je postavljeno na „da”, dodatne mogućnosti pretrage i pregleda bit će dostupne na ovoj razini spremišta</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="cfea419c3b4e8b02ee586e70a28bf846e44cdda4" approved="yes">
         <source>Apply</source>
@@ -499,7 +499,7 @@
       </trans-unit>
       <trans-unit id="de4b71be156bfc26c1358b02a47093e0849482ce" approved="yes">
         <source>Archivist's notes</source>
-        <target state="translated">Bilješke arhivista</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
+        <target state="translated">Napomene arhivista</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="c5c2e402c80913c5840061d9314cb274015c1e71" approved="yes">
         <source>Are you sure you want to clear the %1 clipboard ?</source>
@@ -591,7 +591,7 @@
       </trans-unit>
       <trans-unit id="53135def9057c33e944632a5c9f0386d7b6316cb" approved="yes">
         <source>Basis for the permissions granted or for the restriction of rights</source>
-        <target state="translated">Osnova za dodijeljene dozvole ili za ograničenje prava</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Osnova za odobravanje dozvola ili za ograničenje prava</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="23fda70b6be2e72e7a8739da8feab5f4302718bd" approved="yes">
         <source>Bind Lookup Attribute</source>
@@ -687,7 +687,7 @@
       </trans-unit>
       <trans-unit id="224eb4e8f95214d03efab98368e0a0c16949911a" approved="yes">
         <source>Can be text value or URI (e.g. to Creative Commons, GNU or other online licenses). Used to identify the granting agreement uniquely within the repository system.</source>
-        <target state="translated">Može biti tekst ili URI (npr. za Creative Commons, GNU ili druge internetske licence). Koristi se za jedinsvenu identifikaciju dodijeljenih prava unutar sustava spremišta.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Može biti tekst ili URI (npr. za Creative Commons, GNU ili druge internetske licence). Koristi se za jedinstvenu identifikaciju odobrenih prava unutar sustava spremišta.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="77dfd2135f4db726c47299bb55be26f7f4525a46" approved="yes">
         <source>Cancel</source>
@@ -715,11 +715,11 @@
       </trans-unit>
       <trans-unit id="bc9b74855acc332d9879627ce1312c1d1ca22958" approved="yes">
         <source>Choosing "Include descendants" will include all lower-level records beneath those currently on the clipboard in the export.</source>
-        <target state="translated">Biranjem opcije „Uključi niže razine” se uključuju svi zapisi niže razine ispod onih koji se trenutačno nalaze u međuspremniku u izvozu.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+        <target state="translated">Biranjem opcije „Uključi niže razine” uključuju se svi zapisi niže razine ispod onih koji se trenutačno nalaze u međuspremniku u izvozu.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
       </trans-unit>
       <trans-unit id="172a3b6a149802a62c5013526250c882f1fd74ad" approved="yes">
         <source>Choosing "Include draft records" will include those marked with a Draft publication status in the export. Note: if you do NOT choose this option, any descendants of a draft record will also be excluded, even if they are published.</source>
-        <target state="translated">Biranjem mogućnosti „Uključi zapise nacrta” se uključuju oni, koji u izvozu sadrže oznaku „Nacrt” za stanje publikacije. Napomena: ako NE odabereš ovu mogućnost, isključit će se i sve niže razine zapisa nacrta, čak i ako su objavljene.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+        <target state="translated">Biranjem mogućnosti „Uključi zapise nacrta” uključuju se oni, koji u izvozu sadrže oznaku „Nacrt” za stanje publikacije. Napomena: ako NE odabereš ovu mogućnost, isključit će se i sve niže razine zapisa nacrta, čak i ako su objavljene.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
       </trans-unit>
       <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e" approved="yes">
         <source>City</source>
@@ -779,7 +779,7 @@
       </trans-unit>
       <trans-unit id="c3accb895f001e39bb983a80902ba897c94294bd" approved="yes">
         <source>Conditional</source>
-        <target state="translated">Uvjetni</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/editAction.class.php</note>
+        <target state="translated">Uvjetno</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="21505c37bad7e79891bf151b29a0419e65b49dfc" approved="yes">
         <source>Conditional statement</source>
@@ -787,11 +787,11 @@
       </trans-unit>
       <trans-unit id="e1c5e9742acd58d22bff4e611f66f6547b0e9703" approved="yes">
         <source>Conditions governing access</source>
-        <target state="translated">Uvjeti za upravljanje pristupa</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/boxListSuccess.php</note>
+        <target state="translated">Uvjeti koji određuju pristup</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/boxListSuccess.php</note>
       </trans-unit>
       <trans-unit id="1809191e3290a08cad0c7c092bc03881fedc38b9" approved="yes">
         <source>Conditions of access and use area</source>
-        <target state="translated">Područje za uvjete pristupa i korištenja</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
+        <target state="translated">Uvjeti pristupa i područje korištenja</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="4a7c565d4c4430e3bb8fa6c560125d5eb37e7c3d" approved="yes">
         <source>Confirm password</source>
@@ -1300,7 +1300,7 @@
       </trans-unit>
       <trans-unit id="d6395f068ba11d205da4a6492fefdd088ee4ecea" approved="yes">
         <source>Enable institutional scoping</source>
-        <target state="translated">Omogući institucionalni opseg</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Omogući pretraživanje po ustanovama</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="fd2fd26a6dc130f42bca70c8faa57e4fb944c582" approved="yes">
         <source>Enable or disable the display of certain page elements. Unless they have been overridden by a specific theme, these settings will be used site wide.</source>
@@ -1416,7 +1416,7 @@
       </trans-unit>
       <trans-unit id="b5fd8d391bf8cd796020b8882794934c1edcad80" approved="yes">
         <source>Export options</source>
-        <target state="translated">Mogućnosti za izvoz</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+        <target state="translated">Mogućnosti izvoza</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
       </trans-unit>
       <trans-unit id="0e8881271ff69b83f18ee1284fadbbaa3351dd18" approved="yes">
         <source>Extent and medium</source>
@@ -1456,11 +1456,11 @@
       </trans-unit>
       <trans-unit id="d04f8cfceb3042c26551a06551dfd80fed2af358" approved="yes">
         <source>Filter by date range:</source>
-        <target state="translated">Filtriraj prema razdoblju:</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+        <target state="translated">Filtriraj prema vremenskom rasponu:</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="c3c949f932a9045365b304c7d792690cc67d1be6" approved="yes">
         <source>Filter options</source>
-        <target state="translated">Mogućnosti za filtre</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_updatesSearch.php</note>
+        <target state="translated">Mogućnosti filtara</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_updatesSearch.php</note>
       </trans-unit>
       <trans-unit id="5ff81e7795b4a4e03e6b24ed6babefba82518f6a" approved="yes">
         <source>Filter results by:</source>
@@ -1580,7 +1580,7 @@
       </trans-unit>
       <trans-unit id="1765a374202a857a4411d997f018750fb651d2de" approved="yes">
         <source>Genre access points</source>
-        <target state="translated">Pristupne točke žanra</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+        <target state="translated">Točke pristupa žanra</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="96817ade02e758261256fdfcf062e850b699b8a6" approved="yes">
         <source>Genres</source>
@@ -1632,11 +1632,11 @@
       </trans-unit>
       <trans-unit id="c02329c48f348eb633688f33c499b18b31dcb947" approved="yes">
         <source>Grant</source>
-        <target state="translated">Dozvola</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editInformationObjectAclSuccess.php</note>
+        <target state="translated">Odobrenje</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editInformationObjectAclSuccess.php</note>
       </trans-unit>
       <trans-unit id="b55b99898787a61ce5549283812b0fca77e81ba3" approved="yes">
         <source>Granted right </source>
-        <target state="translated">Dodijeljeno pravo</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Odobreno pravo</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5f4fe34e347c71f32427fcb74edb078bf5eed941" approved="yes">
         <source>Have an account?</source>
@@ -1757,7 +1757,7 @@
       </trans-unit>
       <trans-unit id="781c959c92fe9cb5304dcef617e3998def02cc66" approved="yes">
         <source>If no levels are selected, the export will fail. You can use the control (Mac ⌘) and/or shift keys to multi-select values from the Levels of description menu. It is necessary to include the level(s) above the desired export level, up to and including the level contained in the clipboard. Otherwise, no records will be included in the export.</source>
-        <target state="translated">Ako se ne odabere nijedna razina, izvoz neće uspjeti. Možeš koristiti kontrolne tipku (Mac ⌘) i/ili tipku Shift za biranje višestrukih vrijednosti u izborniku „Razina opisa”. Potrebno je uključiti razine iznad željene razine izvoza, uključujući i razinu koja se nalazi u međuspremniku. Inače se nijedan zapis neće uključiti u izvoz.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+        <target state="translated">Ako se ne odabere nijedna razina, izvoz neće uspjeti. Možeš koristiti kontrolnu tipku (Mac ⌘) i/ili tipku Shift za biranje višestrukih vrijednosti u izborniku „Razina opisa”. Potrebno je uključiti razine iznad željene razine izvoza, uključujući i razinu koja se nalazi u međuspremniku. Inače se nijedan zapis neće uključiti u izvoz.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
       </trans-unit>
       <trans-unit id="f18616d6858c5afed733fffed6e2c7c70c695d02" approved="yes">
         <source>If the finding aid is an uploaded PDF, the transcript will be deleted too.</source>
@@ -1765,7 +1765,7 @@
       </trans-unit>
       <trans-unit id="caeb0f968c54a0f7b51ffd2cb07f0d5ba29da724" approved="yes">
         <source>If the page number does not exist, the derivative will be generated from the previous closest one.</source>
-        <target state="translated">Ako broj stranice ne postoji, izvedenica će biti izrađena iz prethodne najbliže.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/digitalObjectDerivativesSuccess.php</note>
+        <target state="translated">Ako broj stranice ne postoji, on će se izradit na osnovi najbliže prethodne stranice.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/digitalObjectDerivativesSuccess.php</note>
       </trans-unit>
       <trans-unit id="1bc34d1ad9a60bd0c7632620c5133749b5c43a11" approved="yes">
         <source>If you are importing a SKOS file to a taxonomy other than subjects, please go to the %1%</source>
@@ -1817,7 +1817,7 @@
       </trans-unit>
       <trans-unit id="fdb4af374af2c1255475a1d2b21a3a080df7a370" approved="yes">
         <source>Import options</source>
-        <target state="translated">Mogućnosti za uvoz</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
+        <target state="translated">Mogućnosti uvoza</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
       <trans-unit id="b6bd42e4e7302e5e9a15930c8fcdb73fc2c0cf18" approved="yes">
         <source>In progress</source>
@@ -1865,7 +1865,7 @@
       </trans-unit>
       <trans-unit id="0953760ce30d75c4960d0196dd2bc662bc621b79" approved="yes">
         <source>Inherit reference code (information object)</source>
-        <target state="translated">Nasljedi signaturu (informacijski objekt)</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
+        <target state="translated">Naslijedi signaturu (informacijski objekt)</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="9eaaf028998bccbc301260b89ba531b344246a9c" approved="yes">
         <source>Inherit rights</source>
@@ -1873,7 +1873,7 @@
       </trans-unit>
       <trans-unit id="8d6d30ff504936be6d22dc64e83a75042f968049" approved="yes">
         <source>Inheritance options</source>
-        <target state="translated">Mogućnosti za nasljeđivanje</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/manageSuccess.php</note>
+        <target state="translated">Mogućnosti nasljeđivanja</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/manageSuccess.php</note>
       </trans-unit>
       <trans-unit id="ecd08597c7210110e1383be5f0d26da21733fba0" approved="yes">
         <source>Inherited from %1%</source>
@@ -2205,7 +2205,7 @@
       </trans-unit>
       <trans-unit id="93598a5ee127ffd8f725e92bb5f1f20ce26a2211" approved="yes">
         <source>Merge saved clipboard with existing clipboard results</source>
-        <target state="translated">Sjedini spremljeni sadržaj međumemorije sa postojećim rezultatima međumemorije</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardLoadAction.class.php</note>
+        <target state="translated">Sjedini spremljeni sadržaj međumemorije s postojećim rezultatima međumemorije</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardLoadAction.class.php</note>
       </trans-unit>
       <trans-unit id="14e7b612c404e9aba4f153eabdb3fbc2d2273dcc" approved="yes">
         <source>Mime-type</source>
@@ -2305,7 +2305,7 @@
       </trans-unit>
       <trans-unit id="251006aa22cca67e85ec99139025f677599ff651" approved="yes">
         <source>Name access points</source>
-        <target state="translated">Imenuj pristupne točke</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+        <target state="translated">Točke pristupa imena</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="41e610ea3f6a08f1de55d8da43d82bb1df35d3c0" approved="yes">
         <source>Name of creator</source>
@@ -2313,7 +2313,7 @@
       </trans-unit>
       <trans-unit id="686e9d435e96df2911e1e9ad77aa2c2ca1e8b7fc" approved="yes">
         <source>Name of the person(s) or organization(s) which has the authority to grant permissions or set rights restrictions.</source>
-        <target state="translated">Ime osobe ili ustanove koja je ovlaštena izdati dozvole ili postaviti ograničenja prava.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Ime osobe ili ustanove koja je ovlaštena izdati odobrenja ili postaviti ograničenja prava.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="2b7c08c3ab75f37e2da656c1aab228f5f3a793b1" approved="yes">
         <source>Names</source>
@@ -2325,7 +2325,7 @@
       </trans-unit>
       <trans-unit id="831ab2c47aa148a9e4b124e1a68c64e9ad308c67" approved="yes">
         <source>New granted right</source>
-        <target state="translated">Novo dodijeljena prava</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Novo odobreno pravo</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d850ee188c7c55b64bc3624534de5c5051a57dc6" approved="yes">
         <source>New password</source>
@@ -2397,7 +2397,7 @@
       </trans-unit>
       <trans-unit id="03915c8a77a4b0f90d32770b849637edf0af1f6b" approved="yes">
         <source>Note: clipboard items unclipped in this page will be removed from the clipboard when the page is refreshed. You can re-select them now, or reload the page to remove them completely. Using the sort or print preview buttons will also cause a page reload - so anything currently deselected will be lost!</source>
-        <target state="translated">Napomena: stavke u međuspremniku na ovoj stranici bit će uklonjene iz međuspremnika kad se stranica ponovo učita. Možeš ih ponovno odabrati sada ili ponovo učitati stranicu, kako bi se u potpunosti uklonile. Stranica se ponovo učitava i upotrebom gumba za razvrstavanje ili predprikaza ispisa – sve što trenutačno nije odabrano, bit će izgubljeno!</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_clipboardMenu.php</note>
+        <target state="translated">Napomena: stavke u međuspremniku na ovoj stranici bit će uklonjene iz međuspremnika kad se stranica ponovo učita. Možeš ih ponovno odabrati sada ili ponovo učitati stranicu, kako bi se u potpunosti uklonile. Stranica se ponovo učitava i upotrebom gumba za razvrstavanje ili pretprikaza ispisa – sve što trenutačno nije odabrano, bit će izgubljeno!</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_clipboardMenu.php</note>
       </trans-unit>
       <trans-unit id="70440046a3dc2e079f23ee1c57dfa76669b732aa" approved="yes">
         <source>Notes</source>
@@ -2413,11 +2413,11 @@
       </trans-unit>
       <trans-unit id="92cb19318d1451bdf32d678cd44c0c79fb1926dd" approved="yes">
         <source>Notes for this granted right.</source>
-        <target state="translated">Napomene za ovo dodijeljeno pravo.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Napomene za ovo odobreno pravo.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d32d5b3879c3c18b4211871b5e4f9e22f0c528ec" approved="yes">
         <source>Notes regarding the copyright.</source>
-        <target state="translated">Napomene o autorskom pravu.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Napomene koje se tiču autorskog prava.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="70e7c7c0accc43cc82244c8d52b59d8157148f6a" approved="yes">
         <source>OAI repository</source>
@@ -2433,7 +2433,7 @@
       </trans-unit>
       <trans-unit id="861120aa060acd9aeda0068dc82b7bdb52ca4063" approved="yes">
         <source>OAI repository settings</source>
-        <target state="translated">Postavke za OAI spremište</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/oaiSuccess.php</note>
+        <target state="translated">Postavke OAI spremišta</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/oaiSuccess.php</note>
       </trans-unit>
       <trans-unit id="cac95aee2ce2056cb351a20c3bddb6bbee236a45" approved="yes">
         <source>OAI-PMH API access key</source>
@@ -2465,7 +2465,7 @@
       </trans-unit>
       <trans-unit id="95cdbf0d9a729fff2b83e850806463e63dd45de2" approved="yes">
         <source>Only top-level descriptions</source>
-        <target state="translated">Samo opisi na najvišoj razini</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/browseSuccess.php</note>
+        <target state="translated">Samo opisi najviše razine</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="433f456fb46c810efb1c761208597a87d277d48a" approved="yes">
         <source>Oops, we couldn't find any %1 level descriptions.</source>
@@ -2553,7 +2553,7 @@
       </trans-unit>
       <trans-unit id="c10b14453c6fe3de45ac534fcdedfca13d804249" approved="yes">
         <source>Password strength:</source>
-        <target state="translated">Jačina lozinke:</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
+        <target state="translated">Sigurnost lozinke:</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="4dd738a49cd69129e37d4925f62389fd65d65163" approved="yes">
         <source>Passwords match:</source>
@@ -2617,7 +2617,7 @@
       </trans-unit>
       <trans-unit id="85d65391620ccbf91d7bc34498c6a4e851339288" approved="yes">
         <source>Place access points</source>
-        <target state="translated">Pristupna točka mjesta</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+        <target state="translated">Točke pristupa mjesta</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="0cd3597453ab504a3dbeec3289e21abe922d223a" approved="yes">
         <source>Places</source>
@@ -2721,7 +2721,7 @@
       </trans-unit>
       <trans-unit id="c40d1f40659c35c988027dc0259054315335b03c" approved="yes">
         <source>Publication notes</source>
-        <target state="translated">Bilješke o publikaciji</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
+        <target state="translated">Napomene o objavljivanju</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="084ea620d93fcf80f10d7a8277a855e3957bda61" approved="yes">
         <source>Publication status</source>
@@ -2804,7 +2804,7 @@
       </trans-unit>
       <trans-unit id="1b71aaeef4ba63eac38b64a29f4f2838bbdee13b" approved="yes">
         <source>Reference code separator</source>
-        <target state="translated">Razdvajajući znak za signature</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
+        <target state="translated">Znak razdvajanja u signaturama</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="56e3badc4e6c5cc95e0ea5a9a878b9bd09f319d4" approved="yes">
         <source>Refresh</source>
@@ -3156,7 +3156,7 @@
       </trans-unit>
       <trans-unit id="198ecaaed937aae1065e42692cbb4a00938a050d" approved="yes">
         <source>Set if you want to combine the current set of rights with any existing rights, or remove the existing rights and apply these new rights</source>
-        <target state="translated">Postavi, ako želiš spojiti trenutačni skup prava s bilo kojim postojećim pravima ili ukloni postajeća prava i primijeni ova nova prava</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/manageSuccess.php</note>
+        <target state="translated">Postavi, ako želiš spojiti trenutačni skup prava s bilo kojim postojećim pravima ili ukloni postojeća prava i primijeni ova nova prava</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/manageSuccess.php</note>
       </trans-unit>
       <trans-unit id="9e7f0fff4642398e44450be436025cad2d260328" approved="yes">
         <source>Set the default view template when browsing archival descriptions</source>
@@ -3384,7 +3384,7 @@
       </trans-unit>
       <trans-unit id="43f229ce767bff78035c8e5a860a84802f657179" approved="yes">
         <source>Subject access points</source>
-        <target state="translated">Pristupne točke predmeta</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+        <target state="translated">Točke pristupa predmeta</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="278947dee289782f78903bd4d2e463a039a517fd" approved="yes">
         <source>Subjects</source>
@@ -3420,7 +3420,7 @@
       </trans-unit>
       <trans-unit id="a06d0089552f980c9def53dc3cd9f2cfd1471f74" approved="yes">
         <source>Text describing the license or agreement by which permission was granted or link to full-text hosted online. This can contain the actual text of the license or agreement or a paraphrase or summary.</source>
-        <target state="translated">Tekst licence ili ugovora koji određuje dodijeljene dozvole ili poveznica na web stranicu koja sadrži cjelokupni tekst. Stranica može sadržavati tekst licence ili ugovora, kao i odlomke ili sažetak teksta.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Tekst licence ili ugovora koji određuje odobrene dozvole ili poveznica na web stranicu koja sadrži cjelokupni tekst. Stranica može sadržavati tekst licence ili ugovora, kao i odlomke ili sažetak teksta.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e796635101e6392ac36200527699af4cad9643cd" approved="yes">
         <source>The "&lt;strong&gt;%dd%&lt;/strong&gt;" placeholder will be replaced with a incremental number (e.g. 'image &lt;strong&gt;01&lt;/strong&gt;', 'image &lt;strong&gt;02&lt;/strong&gt;')</source>
@@ -3428,7 +3428,7 @@
       </trans-unit>
       <trans-unit id="1eb750eeacaac450c1e912b4e5ed5321c2cfae24" approved="yes">
         <source>The OAI-PMH API can be secured, optionally, by requiring API requests authenticate using API keys (granted to specific users).</source>
-        <target state="translated">OAI-PMH API se može osigurati, opcionalno, zahtijevajući autentifikaciju API zahtjevima koristeći API ključeve (dozvoljeno određenim korisnicima).</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/oaiSuccess.php</note>
+        <target state="translated">OAI-PMH API se može osigurati, opcionalno, zahtijevajući autentifikaciju API zahtjevima koristeći API ključeve (odobreno određenim korisnicima).</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/oaiSuccess.php</note>
       </trans-unit>
       <trans-unit id="ab4100fb6199b064be04facb9a6f34f16449266b" approved="yes">
         <source>The action which is permitted or restricted.</source>
@@ -3436,11 +3436,11 @@
       </trans-unit>
       <trans-unit id="a22836993e8200e022b88bb41af298b401731f36" approved="yes">
         <source>The beginning date of the permission granted.</source>
-        <target state="translated">Početni datum za dodijeljenu dozvolu.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Početni datum za odobrenu dozvolu.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="4a8201c11ba306a8de15ea0851c8c7b51f49a5ce" approved="yes">
         <source>The character separating hierarchical elements in a reference code</source>
-        <target state="translated">Znak za razdvajanje hijerarhijskih elemenata u sinaturi</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Znak za razdvajanje hijerarhijskih elemenata u signaturi</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="4ecde563fe4e262de9e15f563e4f4e52fc5ff982" approved="yes">
         <source>The code can only contain letters and numbers</source>
@@ -3456,7 +3456,7 @@
       </trans-unit>
       <trans-unit id="029d32364fa746d7ec384590b72c7fdb39817b42" approved="yes">
         <source>The current version of the application</source>
-        <target state="translated">Tranutačna verzija aplikacije</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <target state="translated">Trenutačna verzija programa</target><note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="d99ef0df234a20bb502fa4bbf7eac1b481ff2034" approved="yes">
         <source>The date the copyright status applies.</source>
@@ -3464,11 +3464,11 @@
       </trans-unit>
       <trans-unit id="520ed856091c873b9e1acdbf7256326e08a120b3" approved="yes">
         <source>The ending date of the permission granted. Omit end date if the ending date is unknown.</source>
-        <target state="translated">Krajnji datum za dodijeljenu dozvolu. Zanemari krajnji datum, ako je nepoznat.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+        <target state="translated">Krajnji datum za odobrenu dozvolu. Zanemari krajnji datum, ako je nepoznat.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="6a8f3d155ef0dee01518f53ebb6c5879f04a2945" approved="yes">
         <source>The existing term values are required by the application to operate correctly</source>
-        <target state="translated">Za ispravan rad aplikacije, potrebne su postojeće vrijednosti pojmova</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/admin/templates/termPermissionSuccess.php</note>
+        <target state="translated">Za ispravan rad programa, potrebne su postojeće vrijednosti pojmova</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/admin/templates/termPermissionSuccess.php</note>
       </trans-unit>
       <trans-unit id="6ea0bc329663e95978fef17039c5131cd07da44e" approved="yes">
         <source>The following file will be deleted from the file system:</source>
@@ -3504,7 +3504,7 @@
       </trans-unit>
       <trans-unit id="15c449cdaaa7971534d5ce4ec9f2e0a1b17b6d4d" approved="yes">
         <source>The pdfinfo tool is required to use this functionality. Please contact your system administrator.</source>
-        <target state="translated">Za upotrebu ove funkcije je potreban pdfinfo alat. Obrati se administratoru sustava.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/digitalObjectDerivativesSuccess.php</note>
+        <target state="translated">Za upotrebu ove funkcije potreban je alat pdfinfo. Obrati se administratoru sustava.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/digitalObjectDerivativesSuccess.php</note>
       </trans-unit>
       <trans-unit id="ba4c2c69fd76c873fe920573ad314b3220313a35" approved="yes">
         <source>The related object(s) will &lt;strong&gt;not&lt;/strong&gt; be deleted</source>
@@ -3640,7 +3640,7 @@
       </trans-unit>
       <trans-unit id="8009886022460ab7e164154a06e1b7f04f12fc10" approved="yes">
         <source>Title notes</source>
-        <target state="translated">Napomene za naslov</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
+        <target state="translated">Napomene o naslovu</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="65d54b152319613b2708fad8429ec6278d08f4e0" approved="yes">
         <source>To make your password stronger:</source>
@@ -3824,7 +3824,7 @@
       </trans-unit>
       <trans-unit id="a982c978b55a9d92ebf50fc464c6fed71f638d9a" approved="yes">
         <source>Use these options to specify how the date range returns results. "Exact" means that the start and end dates of descriptions returned must fall entirely within the date range entered. "Overlapping" means that any description whose start or end dates touch or overlap the target date range will be returned.</source>
-        <target state="translated">Pomoću ovih mogućnosti odredi kako razdoblje vraća rezultate. „Točno” znači da se datumi početka i kraja vraćenih opisa moraju u potpunosti nalaziti unutar upisanog razdoblja. „Preklapanje” znači da se vraća svaki opis čiji se datumi početka ili kraja dodiruju ili preklapaju sa željenim razdobljem.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+        <target state="translated">Pomoću ovih mogućnosti odredi kako vremenski raspon vraća rezultate. „Točno” znači da se datumi početka i kraja vraćenih opisa moraju u potpunosti nalaziti unutar upisanog vremenskog raspona. „Preklapanje” znači da se vraća svaki opis čiji se datumi početka ili kraja dodiruju ili preklapaju sa željenim vremenskim rasponom.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="6b647f96fc712dc598e4e9dea145df439f07fe84" approved="yes">
         <source>Use this interface to update the description title, slug (permalink), and/or %1% filename.</source>
@@ -3920,11 +3920,11 @@
       </trans-unit>
       <trans-unit id="7a129995ed80dee2128ca4c8430a2702cab22186" approved="yes">
         <source>We've redirected you to the first page of results. To avoid using vast amounts of memory, AtoM limits pagination to 10,000 records. Please, narrow down your results.</source>
-        <target state="translated">Preusmjerili smo te na prvu stranicu rezultata. Kako bi izbjegao korištenje ogromne količine memorije, AtoM ograničava obilježavanje stranica na 10 000 zapisa. Ograniči svoje rezultate.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/descriptionUpdatesAction.class.php</note>
+        <target state="translated">Preusmjerili smo te na prvu stranicu rezultata. Kako bi se izbjegla upotreba ogromne količine memorije, AtoM ograničava obilježavanje stranica na 10 000 zapisa. Ograniči svoje rezultate.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/descriptionUpdatesAction.class.php</note>
       </trans-unit>
       <trans-unit id="fdc6ec75108f737217101f9588c9ab55a4860aee" approved="yes">
         <source>We've redirected you to the first page of results. To avoid using vast amounts of memory, AtoM limits pagination to 10,000 records. To view the last records in the current result set, try changing the sort direction.</source>
-        <target state="translated">Preusmjerili smo te na prvu stranicu rezultata. Kako bi izbjegao korištenje ogromne količine memorije, AtoM ograničava obilježavanje stranica na 10 000 zapisa. Za prikaz zadnjih zapisa u trenutačnom skupu rezultata, pokušaj promijeniti smjer razvrstavanja.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/actions/indexAction.class.php</note>
+        <target state="translated">Preusmjerili smo te na prvu stranicu rezultata. Kako bi se izbjegla upotreba ogromne količine memorije, AtoM ograničava obilježavanje stranica na 10 000 zapisa. Za prikaz zadnjih zapisa u trenutačnom skupu rezultata, pokušaj promijeniti smjer razvrstavanja.</target><note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="40d418bc31781a74944b309e740c43c749195d10" approved="yes">
         <source>When enabled the following text will appear whenever a user tries to download a %1% master with an associated rights statement where the Basis = copyright and the Restriction = conditional. You can style and customize the text as in a static page.</source>
@@ -4140,19 +4140,19 @@
       </trans-unit>
       <trans-unit id="2a6b62e341e9619ada4d7b5545cde10e2d84aa07" approved="yes">
         <source>Update an existing date range</source>
-        <target state="translated">Aktualiziraj postojeće razdoblje</target>
+        <target state="translated">Aktualiziraj postojeći vremenski raspon</target>
       </trans-unit>
       <trans-unit id="7da6e95c1b0869b6ebd19f3fe65e838aa569cc34" approved="yes">
         <source>Select a date range to overwrite:</source>
-        <target state="translated">Odaberi razdoblje koje želiš prepisati:</target>
+        <target state="translated">Odaberi vremenski raspon koji želiš prepisati:</target>
       </trans-unit>
       <trans-unit id="809193e142e7b213b8853749f78aa4d47f200436" approved="yes">
         <source>Updating an existing date range will permanently overwrite the current dates.</source>
-        <target state="translated">Aktualiziranjem postojećeg razdoblja će se zauvijek prepisati trenutačni datumi.</target>
+        <target state="translated">Aktualiziranjem postojećeg vremenskog raspona zauvijek će se prepisati trenutačni datumi.</target>
       </trans-unit>
       <trans-unit id="1627dc1d38a74d13aae0d602bc56d416d0e53133" approved="yes">
         <source>or, create a new date range</source>
-        <target state="translated">ili stvori novo razdoblje</target>
+        <target state="translated">ili stvori novi vremenski raspon</target>
       </trans-unit>
       <trans-unit id="c6328f0c08059e2984280e71ef824e40f5761f9e" approved="yes">
         <source>Select the new date type:</source>
@@ -4168,7 +4168,7 @@
       </trans-unit>
       <trans-unit id="07c0302bc855afec997f2889b2a72e5b425c64ed" approved="yes">
         <source>Please clear the application cache and rebuild the search index if you are changing the reference code separator setting.</source>
-        <target state="translated">Izbriši predmemoriju aplikacije i ponovo izgradi indeks pretraživanja, ako mijenjaš postavke razdvajača signatura.</target>
+        <target state="translated">Izbriši predmemoriju programa i ponovo izgradi indeks pretraživanja, ako mijenjaš postavke za znak razdvajanja u signaturama.</target>
       </trans-unit>
       <trans-unit id="0bf311845ee2a055302a5a1092afba22e08ccf57" approved="yes">
         <source>Empty: %1%</source>
@@ -4200,11 +4200,11 @@
       </trans-unit>
       <trans-unit id="b1ed85afdf9f6abd49984ba4c106f5063742d096" approved="yes">
         <source>Occupation access points</source>
-        <target state="translated">Pristupne točke zanimanja</target>
+        <target state="translated">Točke pristupa zanimanja</target>
       </trans-unit>
       <trans-unit id="81ec5237e04caca5e5ef44eae38f90ba5ae28264" approved="yes">
         <source>Occupation access point notes</source>
-        <target state="translated">Napomene za pristupne točke zanimanja</target>
+        <target state="translated">Napomene o pristupnim točkama zanimanja</target>
       </trans-unit>
       <trans-unit id="5f8a32349b6b13e78f20a6c92111bd667380ecfc" approved="yes">
         <source>Authority record identifier</source>
@@ -4212,7 +4212,7 @@
       </trans-unit>
       <trans-unit id="e055961c6756a34479798c483a60800c7e4c96f7" approved="yes">
         <source>Maintenance notes</source>
-        <target state="translated">Napomene za održavanje</target>
+        <target state="translated">Napomene o održavanju</target>
       </trans-unit>
       <trans-unit id="9ea77181ac6a721f1181cacbc3707cd24c6a1b38" approved="yes">
         <source>Empty field</source>

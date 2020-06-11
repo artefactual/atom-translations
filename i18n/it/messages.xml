@@ -9,9 +9,9 @@
         <target>%1%Download%2%(%3% b)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/actions/alertsComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf" approved="yes" translated="yes">
+      <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf" approved="no" translated="yes">
         <source> Auto refresh</source>
-        <target>Auto refresh</target>
+        <target>Aggiornamento automatico</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="c283db127dc03106098aff291505eaf3c767d1af" approved="yes" translated="yes">
@@ -170,7 +170,7 @@
       </trans-unit>
       <trans-unit id="73c0f876111616e52a79975df6ee70518eb61b7a" approved="yes" translated="yes">
         <source>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Unlimited&lt;/em&gt;&amp;nbsp;</source>
-        <target>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; di &lt;em&gt;illimitati&lt;/em&gt;</target>
+        <target>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; di &lt;em&gt;illimitati&lt;/em&gt;&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
       <trans-unit id="06fa8301c9a6972b241494929371df4b8d8a0c73" approved="yes" translated="yes">
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit id="11e7d8d6de94bea14bfdfbb135dc8706bb55f0c2" approved="yes" translated="yes">
         <source>An API key must be sent in the HTTP request ZZZ header to authenticate requests</source>
-        <target>Una chiave API deve essere inviata nell'header della richiesta HTTP per autenticare la richiesta.</target>
+        <target>Una chiave API deve essere inviata nell'header della richiesta HTTP per autenticare la richiesta</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
       <trans-unit id="b7063e1e7db18c362696dec9cf8da2c9a4f40444" approved="yes" translated="yes">
@@ -554,7 +554,7 @@
       </trans-unit>
       <trans-unit id="8dd88b3266c10c2a096d659753d26f838e562031" approved="yes" translated="yes">
         <source>Applies to multi-repository sites only. When set to &amp;quot;yes&amp;quot;, additional search and browse options will be available at the repository level</source>
-        <target>Si applica solo ai siti multi-repository. Se è impostato a "yes", saranno rese disponibili a livello di repository delle ulteriori opzioni di ricerca e consultazione.</target>
+        <target>Si applica solo ai siti multi-repository. Se è impostato a "yes", saranno rese disponibili a livello di repository delle ulteriori opzioni di ricerca e consultazione</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="cfea419c3b4e8b02ee586e70a28bf846e44cdda4" approved="yes" translated="yes">
@@ -1276,7 +1276,7 @@
       </trans-unit>
       <trans-unit id="a838ddbafbc0a8995e1379a957b61128964ffe4c" approved="yes" translated="yes">
         <source>Describe the nature of the relationship between the function and the related resource. (ISDF 6.2)</source>
-        <target>"Descrivere la natura della relazione fra la funzione e la risorsa collegata" (ISDF 6.2).</target>
+        <target>Descrivere la natura della relazione fra la funzione e la risorsa collegata. (ISDF 6.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/relation/actions/editComponent.class.php</note>
       </trans-unit>
       <trans-unit id="55f8ebc805e65b5b71ddafdae390e3be2bcd69af" approved="yes" translated="yes">
@@ -1296,7 +1296,7 @@
       </trans-unit>
       <trans-unit id="c490453d6c970206d1d92775c6f544e99afa1c30" approved="yes" translated="yes">
         <source>Description updated.</source>
-        <target>Desscrizione aggiornata</target>
+        <target>Desscrizione aggiornata.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/renameAction.class.php</note>
       </trans-unit>
       <trans-unit id="a062a7b2869f26c0d3fc4bbd38941f3aa5be9457" approved="no">
@@ -1305,7 +1305,7 @@
       </trans-unit>
       <trans-unit id="1960d8900caf58abb54302c86ed8315cfbc2d3d3" approved="yes" translated="yes">
         <source>Determines whether to sort siblings in the information object treeview control and, if so, what sort criteria to use</source>
-        <target>Determina se ordinare i nodi fratelli nell'albero e, nel caso, quale criterio di ordinamento usare.</target>
+        <target>Determina se ordinare i nodi fratelli nell'albero e, nel caso, quale criterio di ordinamento usare</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="c06c0afa72cfe94700e0c32481bbc96b96389502" approved="yes" translated="yes">
@@ -1812,7 +1812,7 @@
       </trans-unit>
       <trans-unit id="22c83452f90bfb5f037c8b98464bfe107976c024" approved="yes" translated="yes">
         <source>Finding Aid model: 'Inventory summary' will include only key details for lower-level descriptions (file, item, part) in a table. 'Full details' includes full lower-level descriptions in the same format used throughout the finding aid.</source>
-        <target>Modello di strumento di ricerca: "Sommario dell'inventario" include in una tabella solo i dettagli più importanti delle descrizioni di livello inferiore (fascicolo, oggetto, parte). "Dettagli completi" include le descrizioni complete dei livelli inferiori, nello stesso formato usato in tutto lo strumento di ricerca</target>
+        <target>Modello di strumento di ricerca: "Sommario dell'inventario" include in una tabella solo i dettagli più importanti delle descrizioni di livello inferiore (fascicolo, oggetto, parte). "Dettagli completi" include le descrizioni complete dei livelli inferiori, nello stesso formato usato in tutto lo strumento di ricerca.</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsFindingAidForm.class.php</note>
       </trans-unit>
       <trans-unit id="6d87ebf5d3625a415e8a8252bf3ca39d566ef765" approved="yes" translated="yes">
@@ -2754,7 +2754,7 @@
       </trans-unit>
       <trans-unit id="3180f81f1cba3456db87bf31566a2a510ac91995" approved="yes" translated="yes">
         <source>Move not allowed: log in required</source>
-        <target>Spostamento non consentito: richiesto il log in.</target>
+        <target>Spostamento non consentito: richiesto il log in</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewMoveAction.class.php</note>
       </trans-unit>
       <trans-unit id="16f54870bd401584e24bcc3c72cf5e664d7e35e9" approved="yes" translated="yes">
@@ -2867,7 +2867,7 @@
       </trans-unit>
       <trans-unit id="658e79f9dc7fca34dc164cbb79e1c0be3cdebf23" approved="yes" translated="yes">
         <source>No results found</source>
-        <target>Nessun risultato trovato.</target>
+        <target>Nessun risultato trovato</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="e9cc6d0e9a61da7cff0e049a68c0ecfd422d901c" approved="yes" translated="yes">
@@ -3616,7 +3616,7 @@
       </trans-unit>
       <trans-unit id="5dc13a2e758dc5cfb509a823c41a7a8db9519f97" approved="yes" translated="yes">
         <source>Return to archival description &amp;raquo;</source>
-        <target>Tornare alla descrizione archivistica </target>
+        <target>Tornare alla descrizione archivistica &amp;raquo;</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/inventorySuccess.php</note>
       </trans-unit>
       <trans-unit id="0a419de40e98c320a4eefff8953fce4fdfb651f4" approved="yes" translated="yes">
@@ -4620,7 +4620,7 @@
       </trans-unit>
       <trans-unit id="6a60d27f2abe69321fe9c28e5eccc297da33b099" approved="yes" translated="yes">
         <source>Upload multi-page files as multiple descriptions</source>
-        <target>Vedere i figli come un oggetto digitale composito?</target>
+        <target>Carica file di più pagine come più descrizioni</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="80c494898ac90610a67c95502d2a56b4af4963f1" approved="yes" translated="yes">
