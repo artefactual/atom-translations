@@ -51,9 +51,7 @@
       </trans-unit>
       <trans-unit id="e8ea0c576b98d7c7dbab79b32cd27e453ba71ee9" approved="yes" translated="yes">
         <source>"Describe access policies, including any restrictions and/or regulations for the use of materials and facilities. Record information about registration, appointments, readers’ tickets, letters of introduction, admission fees, etc. Where appropriate, make reference to the relevant legislation." (ISDIAH 5.4.2)</source>
-        <target>&lt;b&gt;ISDIAH 5.4.2&lt;/b&gt;&lt;br /&gt;
-&lt;strong&gt;Objetivo:&lt;/strong&gt; Fornecer informação sobre as condições, requisitos e procedimentos para acesso e uso dos serviços institucionais.&lt;br /&gt;
-&lt;strong&gt;Regra:&lt;/strong&gt; Descreva as políticas de acesso, incluindo quaisquer restrições e/ou regulações para uso dos materiais e serviços. Registe informação sobre registo, agendamento, cartões de usuários, cartas de apresentação, taxas de admissão etc. Quando apropriado, faça referência à legislação.</target>
+        <target>"Descreva as políticas de acesso, incluindo quaisquer restrições e/ou regulamentos para o uso de materiais e instalações. Registe informações sobre inscrições, compromissos, bilhetes dos leitores, cartas de apresentação, taxas de admissão, etc. Onde for apropriado, faça referência à legislação relevante. " (ISDIAH 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="65f3abd8a2aebd05fa257cab8863af114902845c" approved="yes" translated="yes">
@@ -121,18 +119,9 @@
         <target>"Indicar a menção de projeção, quando exista na fonte prescrita (s) de informação." (RAD 5.3C1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="dc68fed162f0faefeea9e375eadf4b9bc7a48784" approved="yes" translated="yes">
+      <trans-unit id="dc68fed162f0faefeea9e375eadf4b9bc7a48784" approved="no" translated="yes">
         <source>"Identify and record the date(s) of the unit of description. Identify the type of date given. Record as a single date or a range of dates as appropriate.” (ISAD 3.1.3). The Date display field can be used to enter free-text date information, including typographical marks to express approximation, uncertainty, or qualification. Use the start and end fields to make the dates searchable. Do not use any qualifiers or typographical symbols to express uncertainty. Acceptable date formats: YYYYMMDD, YYYY-MM-DD, YYYY-MM, YYYY.</source>
-        <target>&lt;b&gt;ISAD (G) 3.1.3&lt;/b&gt;&lt;br /&gt;
-&lt;strong&gt;Objetivo:&lt;/strong&gt; Identificar e registar a(s) data(s) da unidade de descrição.&lt;br /&gt;
-&lt;strong&gt;Regra:&lt;/strong&gt; Registar, relativamente a cada unidade de descrição, pelo menos um dos seguintes tipos de data, conforme se considerar mais adequado à documentação e ao nível de descrição:
-&lt;ul&gt;
-&lt;li&gt;- Data(s) em que os documentos de arquivo foram acumulados pelo produtor no exercício das suas atividades, ou seja, integrados num sistema de arquivo;&lt;/li&gt;
-&lt;li&gt;- Data(s) em que os documentos foram produzidos. Esta inclui a data de cópias, edições, versões, anexos ou originais de peças produzidas antes da sua acumulação ou integração no sistema de arquivo.&lt;/li&gt;
-&lt;/ul&gt;&lt;br /&gt;
-&lt;strong style="color:#c41f36"&gt;O campo Data pode ser usado para inserir informações de data em texto livre, incluindo marcas tipográficas para expressar aproximação, incerteza ou qualificação.&lt;br /&gt;
-Utilize os campos de Início e Fim para fazer as datas pesquisáveis. Não use os qualificadores ou símbolos tipográficos para expressar incerteza.&lt;br /&gt;
-Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/strong&gt;</target>
+        <target>"Identifique e registe a(s) data(s) da unidade de descrição. Identifique o tipo de data fornecida. Registe como uma única data ou um intervalo de datas, conforme apropriado." (ISAD 3.1.3) O campo de exibição Data pode ser usado para inserir informações de data em texto livre, incluindo marcas tipográficas para expressar aproximação, incerteza ou qualificação. Use os campos de início e de fim para tornar as datas pesquisáveis. Não use quaisquer qualificadores ou símbolos tipográficos para expressar incerteza. Formatos de data aceitáveis: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="36ddf9b510c2bc89b2e9bd29f5d188ff655acce1" approved="yes" translated="yes">
@@ -188,7 +177,7 @@ função é contínua, não é necessária data final." (ISDF 5.2.1)</target>
       </trans-unit>
       <trans-unit id="e2e26146062adab5348e8b089e8fbc327f414435" approved="yes" translated="yes">
         <source>"Provide any relevant dates for the related resources and/or the relationship between the corporate body, person or family and the related resource." (ISAAR 6.4) Enter the date as you would like it to appear in the show page for the authority record, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target>"Fornecer quaisquer datas relevantes para o(s) recurso(s) relacionado(s) e/ou a relação entre a pessoa colectiva, a pessoa singular ou a família e o recurso relacionado e descrever o significado dessas datas." (ISAAR 6.4) Digitar a data que pretende seja visualizada no registo de autoridade, usando qualificadores e/ou símbolos tipográficos para expressar a incerteza, caso necessário</target>
+        <target>"Forneça quaisquer datas relevantes para os recursos relacionados e/ou o relacionamento entre o órgão corporativo, pessoa ou família e o recurso relacionado." (ISAAR 6.4) Introduza a data como deseja que apareça na página para o registro de autoridade, usando qualificadores e/ou símbolos tipográficos para expressar incerteza, se desejado.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="b331b2cdadf5822d793cd63220e40481485c2e8a" approved="yes" translated="yes">
@@ -198,7 +187,7 @@ função é contínua, não é necessária data final." (ISDF 5.2.1)</target>
       </trans-unit>
       <trans-unit id="40597e7260c092209258b4bbc2414b1a579f0c8b" approved="yes" translated="yes">
         <source>"Provide the unique identifiers/reference codes and/or titles for the related resources." (ISAAR 6.1) Select the title from the drop-down menu; enter the identifier or the first few letters to narrow the choices.</source>
-        <target>"Fornecer o(s) identificador(es) unívoco(s)/código(s) de referência e/ou título(s) do(s) recurso(s) relacionado(s). Quando necessário, proporcionar também os identificadores de qualquer descrição do recurso relacionado." (ISAAR 6.1) Seleccionar da lista de opções ou digitar os primeiros caracteres para limitar os resultados</target>
+        <target>"Forneça os identificadores/códigos de referência e/ou títulos únicos para os recursos relacionados." (ISAAR 6.1) Selecione o título no menu drop-down; introduza o identificador ou as primeiras letras para limitar as opções.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="09a47a3da4d9f6328c4e96ef6d8395b7d8b531a5" approved="yes" translated="yes">
@@ -259,7 +248,7 @@ aluno de, colega profissional. Registar no elemento Regras e/ou convenções (5.
       </trans-unit>
       <trans-unit id="f2cffe2c4b81b6e676278e7a74d2c45a3290dc0c" approved="yes" translated="yes">
         <source>"Record a short description of the holdings of the institution, describing how and when they were formed. Provide information on volume of holdings, media formats, thematic coverage, etc." (ISDIAH 5.3.7)</source>
-        <target>"Faça uma breve descrição do acervo da instituição com acervo arquivístico, descrevendo como e quando foi formado. Forneça informação sobre o volume do acervo, suportes, temáticas etc. Veja as orientações sobre como estabelecer ligações com bases de dados arquivísticas e/ou descrição detalhada do acervo.</target>
+        <target>"Grave uma breve descrição do acervo da instituição, descrevendo como e quando foi formado. Forneça informações sobre o volume do acervo, formatos de media, cobertura temática, etc".(ISDIAH 5.3.7)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="185e47912e973aa0f8067c329f2585f090343416" approved="yes" translated="yes">
@@ -385,7 +374,7 @@ Este elemento deve ser usado em conjunção com o elemento Identificador da desc
       </trans-unit>
       <trans-unit id="8457d3c95f00640884a7db1d941d8a29e4516be1" approved="yes" translated="yes">
         <source>"Record the authorized form of name and any relevant unique identifiers, including the authority record identifier, for the related entity." (ISAAR 5.3.1) Select the name from the drop-down menu; enter the first few letters to narrow the choices.</source>
-        <target>"Registar a forma autorizada do nome e quaisquer identificadores unívocos relevantes incluindo o identificador do registo de autoridade da entidade relacionada." (ISAAR 5.3.1) Seleccionar o nome da lista de opções ou digite as primeiras letras para reduzir a lista</target>
+        <target>"Registar a forma autorizada do nome e quaisquer identificadores unívocos relevantes, incluindo o identificador do registo de autoridade, da entidade relacionada." (ISAAR 5.3.1) Selecionar o nome da lista de opções; digite as primeiras letras para filtrar a lista.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="2a3e0cee1cb1033f53f8baa5d1d91b1c5e0de71f" approved="yes" translated="yes">
@@ -496,14 +485,12 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="59d2adcb935a03faf6d6cc14d68545ed8b3f95ff" approved="yes" translated="yes">
         <source>"Record the title and other pertinent details of the published and/or unpublished finding aids and guides prepared by the institution and of any other relevant publications. Use ISO 690 Information and documentation – Bibliographic references and other national or international cataloguing rules." (ISDIAH 5.3.8)</source>
-        <target>&lt;b&gt;ISDIAH 5.3.8&lt;/b&gt;&lt;br /&gt;
-&lt;strong&gt;Objetivo:&lt;/strong&gt; Fornecer uma visão geral dos instrumentos de pesquisa, impressos ou não, e guias preparados pela instituição com acervo arquivístico e quaisquer outras publicações relevantes.&lt;br /&gt;
-&lt;strong&gt;Regra:&lt;/strong&gt; Registe o titulo e os outros dados pertinentes dos instrumentos de pesquisa, impressos ou não, e guias preparados pela instituição com acervo arquivístico, bem como quaisquer outras publicações relevantes. Use a ISO 690 &lt;i&gt;Information and documentation -- Bibliographic references&lt;/i&gt; e outras regras, nacionais ou internacionais, de catalogação.</target>
+        <target>"Registre o título e outros detalhes pertinentes dos auxílios e guias publicados e/ou não publicados, preparados pela instituição e por outras publicações relevantes. Use as informações e documentação da ISO 690 - Referências bibliográficas e outras regras de catalogação nacionais ou internacionais." (ISDIAH 5.3.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5ec7f5e4f7d5ef80be07aa136d2cc6487111acd1" approved="yes" translated="yes">
         <source>"Record when relevant the commencement date of the relationship or succession date and, when relevant, the cessation date of the relationship." (ISAAR 5.3.4) Enter the date as you would like it to appear in the show page for the authority record, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target>"Registar, se relevante, a data de início da relação ou da sucessão e, se pertinente, a data do termo da relação. Digitar a data que pretende mostrar na página do registo de autoridade, usando os símbolos necessários para referir uma data estimada." (ISAAR 5.3.4)</target>
+        <target>"Registar, se relevante, a data de início da relação ou da sucessão e, se relevante, a data do termo da relação." (ISAAR 5.3.4)  Digitar a data que pretende mostrar na página do registo de autoridade, usando qualificadores e/ou símbolos tipográficos para expressar incerteza, se desejado.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="9afe17e3b6fcc285b8717356f5b254e2f46a3595" approved="yes" translated="yes">
@@ -521,7 +508,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="f732bf87d0ed8af374fed8615f2ffe68276f87e9" approved="yes" translated="yes">
         <source>"Select a descriptive term from the drop-down menu to clarify the type of relationship between these two actors."</source>
-        <target>Selecione um termo descritivo a partir da lista de opções para indicar o tipo de relação entre estas duas entidades produtoras.</target>
+        <target>"Selecione um termo descritivo a partir da lista de opções para indicar o tipo de relação entre estas duas entidades produtoras."</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="8eb2ceb4b96941d5a450a10a7d833412106b33e4" approved="yes" translated="yes">
@@ -531,7 +518,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="c026cf03b3a849136c96e53f0ab910bacfea5f89" approved="yes" translated="yes">
         <source>"Specify whether the description is a function or one of its subdivisions." (ISDF 5.1.1) Select the type from the drop-down menu; these values are drawn from the ISDF Function Types taxonomy.</source>
-        <target>"Especifique se a descrição é de uma função ou de uma de suas subdivisões, de acordo com a terminologia nacional ou internacional." (ISDF 5.1.1) Seleccionar da lista de opções relativa à taxonomia de Funções ISDF</target>
+        <target>"Especifique se a descrição é de uma função ou de uma das suas subdivisões,." (ISDF 5.1.1) Selecionar o tipo da lista de opções; esses valores são extraídos da taxonomia de Funções ISDF.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="bfcdc2a643be0c1a93801a5cc200cfcffe7c48ea" approved="yes" translated="yes">
@@ -674,9 +661,9 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
         <target>%1% área de metadados</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2a2ec2e234e4b8e3f8cc1c0e3e2156227487c5ac">
+      <trans-unit id="2a2ec2e234e4b8e3f8cc1c0e3e2156227487c5ac" approved="no">
         <source>%1% more</source>
-        <target/>
+        <target state="translated">%1% mais</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/browse/templates/hierarchySuccess.php</note>
       </trans-unit>
       <trans-unit id="047ebf84377952fd73b938a0795d3bee17f8687c" approved="yes" translated="yes">
@@ -741,12 +728,12 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="0e7ce5d17c5b28152bb78cd86897b2bd049c2c20" approved="yes" translated="yes">
         <source>%1%Authorized form of name%2% - This is a %3%mandatory%4% element.</source>
-        <target>%1% Forma autorizada do nome%2% - é um %3%elemento obrigatório.%4</target>
+        <target>%1%Forma autorizada do nome%2% - Isto é um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="3809e163849fdf5b57fdc06516e2c9aac16d86fb" approved="yes" translated="yes">
         <source>%1%Contact information%2% - This is a %3%mandatory%4% element.</source>
-        <target>%1%Informação de contacto%2 - é um %3%elemento obrigatório.%4 </target>
+        <target>%1%Informação de contacto%2% - Isto é um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="d9a23d3995f4739b7737cb6797a624ee95592e4a" approved="yes" translated="yes">
@@ -756,7 +743,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="ca46d94dee1c34d23a58c24eec8cde5aa6a79a2f" approved="yes" translated="yes">
         <source>%1%Date(s)%2% - This is a %3%mandatory%4% element.</source>
-        <target>%1%Data%2% - é um %3%elemento obrigatório.%4</target>
+        <target>%1%Data(s)%2% - Isto é um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="c343f06a983aec23ab373c7bbcb60208f163a076" approved="yes" translated="yes">
@@ -766,12 +753,12 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="1f6af5abebb9826482f288eb1649dac7566070e2" approved="yes" translated="yes">
         <source>%1%Dates of existence%2% - This is a %3%mandatory%4% element.</source>
-        <target>%1%Datas de existência%2 - é um %3elemento obrigatório.%4</target>
+        <target>%1%Datas de existência%2% - Isto é um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="e6180f4195083a7a9fa49d9ddb5fc0f2886541a3" approved="yes" translated="yes">
         <source>%1%Description identifier%2% - This is a %3%mandatory%4% element.</source>
-        <target>%1%Identificador da descrição%2 - é um %3elemento obrigatório.%4</target>
+        <target>%1%Identificador da descrição%2% - é um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="e3d1028b31fadd55009d342064c067a627b8cbc4" approved="yes" translated="yes">
@@ -781,12 +768,12 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="a203c1f0b502d748a466bc46e95ccec9e475eedf" approved="yes" translated="yes">
         <source>%1%Extent and medium%2% - This is a %3%mandatory%4% element.</source>
-        <target>%1%Dimensão e suporte%2 - é um %3elemento obrigatório.%4</target>
+        <target>%1%Dimensão e suporte%2% - Isto é um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="81e55b0864b25e4c50a22243308c60a084b9bd2d" approved="yes" translated="yes">
         <source>%1%Identifier%2% - This is a %3%mandatory%4% element.</source>
-        <target>%1%Identificador%2 - é um %3elemento obrigatório.%4</target>
+        <target>%1%Identificador%2% - Isto é um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="e7a0ed0861ed3cafcd69a76e040321da501e9e7a" approved="yes" translated="yes">
@@ -796,12 +783,12 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="1b796481921290f4b070bff37797bb269e6c0b89" approved="yes" translated="yes">
         <source>%1%Level of description%2% - This is a %3%mandatory%4% element.</source>
-        <target>%1%Nível de descrição%2 - é um %3elemento obrigatório.%4</target>
+        <target>%1%Nível de descrição%2% - Isto é um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="afede96aa7ea62bda367c89bfc3f30c6b57611a3" approved="yes" translated="yes">
         <source>%1%Level of description%2% - Value "%value%" is not consistent with higher levels.</source>
-        <target>%1%Nível de descrição%2 - O valor "%value%"não está consistente com o dos níveis superiores</target>
+        <target>%1%Nível de descrição%2% - O valor "%value%" não está consistente com o dos níveis superiores.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="60a6eff30d40a00da53e674f8fe4ad7a54e94c2c" approved="yes" translated="yes">
@@ -809,9 +796,9 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
         <target>%1%Relação%2% (%3%está localizado em%4%) - é um elemento obrigatório para este recurso ou um de seus níveis descritivos mais elevados (se parte de uma hierarquia de coleção).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="1400b0b793d9e20117f146e4778506a17c7d1066" approved="yes" translated="yes">
+      <trans-unit id="1400b0b793d9e20117f146e4778506a17c7d1066" approved="no" translated="yes">
         <source>%1%Title%2% - This is a %3%mandatory%4% element.</source>
-        <target>%1%Título%2% - é um elemento %3%obrigatório.%4%</target>
+        <target>%1%Título%2% - Isto é um elemento %3%obrigatório%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="1290dae91dc3a3f6a16983d2b4fcd4b59d7a5369" approved="yes" translated="yes">
@@ -819,9 +806,9 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
         <target>%1%Título%2% - é uma elemento obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="43c103eafee96676a89f778f91dff7053a6a66f3" approved="yes" translated="yes">
+      <trans-unit id="43c103eafee96676a89f778f91dff7053a6a66f3" approved="no" translated="yes">
         <source>%1%Type of entity%2% - This is a %3%mandatory%4% element.</source>
-        <target>%1%Tipo de Entidade%2% - é uma elemento %3%obrigatório.%4%</target>
+        <target>%1%Tipo de Entidade%2% - Isto é um elemento %3%obrigatório%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="93c77561f77f513fd2e3163f4b9f4c188b87136f" approved="yes" translated="yes">
