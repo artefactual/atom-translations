@@ -858,9 +858,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="870c7f78d415fd403fafaca9ae0d75d250291841" approved="yes" translated="yes">
         <source>&lt;p&gt;The name of a place or geographic area which is a topic of the resource or relevant to its jurisdiction.&lt;/p&gt;&lt;p&gt;Search for an existing term in the Place taxonomy by typing the first few characters of the place name. Alternatively, type a new name to create and link to a new place.&lt;/p&gt;&lt;p&gt;Please note: if you entered a place of creation, publication or contribution that will be output automatically, so don’t repeat that place name here.&lt;/p&gt;</source>
-        <target>O nome de um lugar ou área geográfica que é um assunto do recurso ou é relevante para a sua jurisdição.&lt;br /&gt;
-Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os primeiros caracteres do nome do local. Como alternativa, insira um novo termo para criar e ligar para um novo local.&lt;br /&gt;&lt;br /&gt;
-&lt;strong style="color:#c41f36"&gt;Atenção: Se introduziu um local de criação, publicação ou contribuição esse será reproduzido automaticamente, então não repetir o nome da cidade aqui.&lt;/strong&gt;</target>
+        <target>&lt;p&gt;O nome de um lugar ou área geográfica que é um assunto do recurso ou é relevante para a sua jurisdição.&lt;br /&gt;&lt;p&gt;Procure um termo existente na taxonomia Locais digitando os primeiros caracteres do nome do local. Como alternativa, insira um novo nome para criar e ligar a um novo local.&lt;/p&gt;&lt;p&gt;Atenção: se introduziu um local de criação, publicação ou contribuição esse será reproduzido automaticamente, então não repita o nome da cidade aqui.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="3c1d78b63ac6117f0115df8007417073df126191" approved="yes" translated="yes">
@@ -1158,7 +1156,7 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
       </trans-unit>
       <trans-unit id="d9d155cebbb688885502285619ccafb08ccd9ed9" approved="yes" translated="yes">
         <source>Acquisition date - This is a mandatory element.</source>
-        <target>Data de aquisição - elemento obrigatório</target>
+        <target>Data de aquisição - Elemento obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="459c3e0c4e105aa9d41283400696dc760dc0f643" approved="yes" translated="yes">
@@ -2688,7 +2686,7 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
       </trans-unit>
       <trans-unit id="ace76c4c758f39701d405a96ced699ff75361ec7" approved="yes" translated="yes">
         <source>Date of acquisition - This is a mandatory element.</source>
-        <target>Data de aquisição - elemento obrigatório</target>
+        <target>Data de aquisição - Elemento obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="a3df46d69c5a94a13fd231ad16a4fb3cdbb8cf2c" approved="yes" translated="yes">
@@ -2898,7 +2896,7 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
       </trans-unit>
       <trans-unit id="3abd2c5d023c5b19ef18d318bc587e8dbc61b5f9" approved="yes" translated="yes">
         <source>Description - This is a mandatory element.</source>
-        <target>Descrição - elemento obrigatório</target>
+        <target>Descrição - Elemento obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="47c60b64dc2a82d260de02c14794796cfc71ce85" approved="yes" translated="yes">
@@ -3593,7 +3591,7 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
       </trans-unit>
       <trans-unit id="dfe6a07c57eee4e4e9db3b226403a24db11ec77c" approved="yes" translated="yes">
         <source>Enter an unambiguous code used to uniquely identify the description.</source>
-        <target>Digitar um código unívoco para identificar a descrição</target>
+        <target>Digitar um código unívoco usado para unicamente identificar a descrição.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="0e58ad386dae9642f84207d280dd7175abeaebcf" approved="yes" translated="yes">
@@ -3648,7 +3646,7 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
       </trans-unit>
       <trans-unit id="0ac6d5a441b1d832ad41718e5d727ed5bf4743f7" approved="yes" translated="yes">
         <source>Enter the start year. Do not use any qualifiers or typographical symbols to express uncertainty. Acceptable date formats: YYYYMMDD, YYYY-MM-DD, YYYY-MM, YYYY.</source>
-        <target>Indicar o ano de início. Não utilize quaisquer qualificadores ou símbolos tipográficos para expressar uma data incerta. Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.</target>
+        <target>Introduza o ano de início. Não utilize quaisquer qualificadores ou símbolos tipográficos para expressar uma data incerta. Formatos aceitáveis de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/event/actions/editComponent.class.php</note>
       </trans-unit>
       <trans-unit id="32615fdd71daf73ba2c2c3bda37c4f9ae48e97bd" approved="yes" translated="yes">
@@ -3773,7 +3771,7 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
       </trans-unit>
       <trans-unit id="aa6a2e170a2b95cd9b56092753fd17a3ebc39ffb" approved="yes" translated="yes">
         <source>Export initiated. Progress will be reported, and a download link provided, in a subsequent notification &amp;mdash; &lt;a href="javascript:location.reload();"&gt;refresh the page&lt;/a&gt; for updates.</source>
-        <target>Iniciada a exportação. A evolução será indicada e fornecido um link de transferência, numa indicação subsequente   refrescar a página para actualizações.</target>
+        <target>Exportação iniciada. O progresso será indicado, e fornecido um link de transferência, numa notificação subsequente &amp;mdash; &lt;a href="javascript:location.reload();"&gt;refrescar a página&lt;/a&gt; para actualização..</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="b5fd8d391bf8cd796020b8882794934c1edcad80" approved="yes" translated="yes">
@@ -4415,7 +4413,7 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
       </trans-unit>
       <trans-unit id="ed21cd4d3b964c83cdd09c07643d4b0ec6c74f36" approved="yes" translated="yes">
         <source>Identifier - This is a mandatory element.</source>
-        <target>Identificador - elemento obrigatório</target>
+        <target>Identificador - Elemento obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="2e4536c13e1d6e2f27ac180d2111a18d8ebe67ea" approved="yes" translated="yes">
@@ -4596,7 +4594,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="1bc34d1ad9a60bd0c7632620c5133749b5c43a11" approved="yes" translated="yes">
         <source>If you are importing a SKOS file to a taxonomy other than subjects, please go to the %1%</source>
-        <target>Se pretende importar um ficheiro SKOS para uma taxonomia diferente de assuntos, por favor, vá para a %1%.</target>
+        <target>Se pretende importar um ficheiro SKOS para uma taxonomia diferente de assuntos, por favor vá para a %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
       <trans-unit id="9f718474ff9448b7c82b04a58d2feb9fec82b746" approved="yes" translated="yes">
@@ -4751,7 +4749,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="10c4e42701c6d24bc08d54fc71bb9a8f722abb9c" approved="yes" translated="yes">
         <source>Indicate the language(s) used to create the description of the archival material.</source>
-        <target>Indicar o idioma(s) utilizado para criar a descrição do material arquívistico</target>
+        <target>Indicar o idioma(s) utilizado para criar a descrição do material arquívistico.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="801317773709900179357cd86d24e0fb03b9ec19" approved="yes" translated="yes">
@@ -4781,7 +4779,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="5ac12da5534fd6aebb3f0ac237a3733e4f8787b0" approved="yes" translated="yes">
         <source>Information about rights held in and over the resource (e.g. copyright, access conditions, etc.).</source>
-        <target>Informação acerca dos direitos existentes sobre o recurso (ex: direitos de autor, condições de acesso, etc.)</target>
+        <target>Informação acerca dos direitos existentes sobre o recurso (e.g. direitos de autor, condições de acesso, etc.).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="cdb21523c1c9e21750c734088c8904a505169d16" approved="yes" translated="yes">
@@ -4966,7 +4964,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="d07d1574471a34482c5abaa52553803436ba39af" approved="yes" translated="yes">
         <source>Keep current rights in descendants and add parent rights.</source>
-        <target>Manter os privilégios atuais nos descendestes e adicionar privilégios do principal</target>
+        <target>Manter os privilégios atuais nos descendestes e adicionar privilégios do principal.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/manageAction.class.php</note>
       </trans-unit>
       <trans-unit id="d11fef55a0f4f7f77f5a743808a9e2af4cfab644" approved="yes" translated="yes">
@@ -5625,7 +5623,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="984a6fa4e55c04aad028c00c1aec49b97377f7a4" approved="yes" translated="yes">
         <source>Move initiated.</source>
-        <target>Mover teve início</target>
+        <target>Mover teve início.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/actions/moveAction.class.php</note>
       </trans-unit>
       <trans-unit id="00ff477e93991a5ac5a2ec9b3edd3bef3a8cbf34" approved="yes" translated="yes">
@@ -5850,7 +5848,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="658e79f9dc7fca34dc164cbb79e1c0be3cdebf23" approved="yes" translated="yes">
         <source>No results found</source>
-        <target>Não foram encontrados resultados.</target>
+        <target>Não foram encontrados resultados</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="e9cc6d0e9a61da7cff0e049a68c0ecfd422d901c" approved="yes" translated="yes">
@@ -5940,7 +5938,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="52c29611a4ab80a6027567c803ae55b6c5ee2fa0" approved="yes" translated="yes">
         <source>Notes about the processing plan, describing what needs to be done for the accession to be processed completely.</source>
-        <target>Notas acerca do plano de incorporação descrevendo o que deve ser feito</target>
+        <target>Notas acerca do plano de incorporação descrevendo o que deve ser feito para a adesão ser processada completamente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="323e1e8cf7fa9fe0cfe25b52d87a1cabc7e19fba" approved="yes" translated="yes">
