@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-06-13T16:02:32Z" product-name="messages">
+  <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-06-24T21:23:35Z" product-name="messages">
     <header/>
     <body>
       <trans-unit id="f191b2120c9efa7b0c1411d6989e325561707ddb" approved="yes" translated="yes">
@@ -581,7 +581,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="468b90bf601b414515a80106f456b7d70d0d1faa" approved="yes" translated="yes">
         <source>%1 count</source>
-        <target state="translated">contador %1</target>
+        <target>contador %1</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="29209b378915d0821cca10cdc28f5f8939b4c883" approved="yes" translated="yes">
@@ -881,7 +881,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" approved="yes" translated="yes">
         <source>&lt;strong&gt;Type:&lt;/strong&gt; Enter a name for the alternative identifier field that indicates its purpose and usage.&lt;br/&gt;&lt;strong&gt;Identifier:&lt;/strong&gt; Enter a legacy reference code, alternative identifier, or any other alpha-numeric string associated with the record.</source>
-        <target state="translated">&lt;strong&gt;Tipo:&lt;/strong&gt; Insira um nome para o campo de identificador alternativo que indica seu objetivo e uso.&lt;br/&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; Insira um código de referência legado, identificador alternativo, ou qualquer outra string alfanumérica associada com o registro.</target>
+        <target>&lt;strong&gt;Tipo:&lt;/strong&gt; Insira um nome para o campo de identificador alternativo que indica seu objetivo e uso.&lt;br/&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; Insira um código de referência legado, identificador alternativo, ou qualquer outra string alfanumérica associada com o registro.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
       <trans-unit id="39c6fe6bbe18b341f05e967d01ffa968b9c550e1" approved="yes" translated="yes">
@@ -1044,12 +1044,12 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="8f690053c5a934ec3d22a8c4db84e1c7c1db52ef" approved="yes" translated="yes">
         <source>Accession alternative identifier</source>
-        <target state="translated">Incorporação de identificador alternativo</target>
+        <target>Incorporação de identificador alternativo</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="b0444ca6a89ac9ede54e88c692f1c0059562f0b2" approved="yes" translated="yes">
         <source>Accession alternative identifier type</source>
-        <target state="translated">Incorporação do tipo de identificador alternativo</target>
+        <target>Incorporação do tipo de identificador alternativo</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="c9df8646e368f45d8085a69e9a3a50e584fb623d" approved="yes" translated="yes">
@@ -1139,7 +1139,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="4628f64b8f7fa8569928ea5254862c1f372f721a" approved="yes" translated="yes">
         <source>Acquisition and appraisal area</source>
-        <target state="translated">Área de avaliação e aquisição</target>
+        <target>Área de avaliação e aquisição</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="ed2e24df777b453cbcd6286a6b5b98a6beb0cefe" approved="yes" translated="yes">
@@ -1219,12 +1219,12 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="c2363cffaf1b7608fca0403c12d591a53e8aaa9d" approved="yes" translated="yes">
         <source>Actor occupation note</source>
-        <target state="translated">Nota de ocupação do autor</target>
+        <target>Nota de ocupação do autor</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="eef8899c393d30c12c965ae848d496c3cc55b4bc" approved="yes" translated="yes">
         <source>Actor occupations</source>
-        <target state="translated">Ocupações do autor</target>
+        <target>Ocupações do autor</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="61cc55aa0453184734c3fa0b621eda6fa874bd83" approved="yes" translated="yes">
@@ -1474,7 +1474,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="d67b5838bb3cc45f6632dbfabcbc9a5bd4cc68bf" approved="yes" translated="yes">
         <source>Advertisements</source>
-        <target state="translated">Propagandas</target>
+        <target>Propagandas</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="ee68d3496bb455d50d1b8a9987c710dd56818065" approved="yes" translated="yes">
@@ -1489,7 +1489,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="4c45e72e850cd56db51e8286b35934fa0ec1c8e9" approved="yes" translated="yes">
         <source>Albums</source>
-        <target state="translated">Álbuns</target>
+        <target>Álbuns</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="6a72085653e4c5be8c7640c868ef787cbcf063d1" approved="yes" translated="yes">
@@ -1649,7 +1649,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="b040b4179b8b00702858fdb4c1afec3d6d284509" approved="yes" translated="yes">
         <source>Architecture</source>
-        <target state="translated">Arquitetura</target>
+        <target>Arquitetura</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="03d8c27c65cf7afef65b5732baa4dacf4c476e7d" approved="yes" translated="yes">
@@ -1854,7 +1854,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="7e9c2f90e0894bc17d03c473f8462cae54b30cb4" approved="yes" translated="yes">
         <source>Authority record relationships</source>
-        <target state="translated">Relacionamentos de registro de autoridade</target>
+        <target>Relacionamentos de registro de autoridade</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="670cce2a30941ecd957867e78acbb60df386f4c9" approved="yes" translated="yes">
@@ -1949,7 +1949,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="9ae18bdeaf544b0ce5971be2d179f57a07829b8b" approved="yes" translated="yes">
         <source>Blank forms</source>
-        <target state="translated">Formulários em branco</target>
+        <target>Formulários em branco</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="6da7a483d9707ad46258f9cfd24993462c3c50bb" approved="yes" translated="yes">
@@ -1959,7 +1959,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="4a7fdd8c17425252332ea0e89a35722b72d83135" approved="yes" translated="yes">
         <source>Books</source>
-        <target state="translated">Livros</target>
+        <target>Livros</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="1f4698382842477e211eb46de81fa506f01a8c34" approved="yes" translated="yes">
@@ -2004,7 +2004,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="d2678ac0beae1002d639cd4d73a7c71ca817983d" approved="yes" translated="yes">
         <source>Broadsides</source>
-        <target state="translated">Panfletos</target>
+        <target>Panfletos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="2f3b5c55bc27cdf81af57e6a574b54ee50b7b246" approved="yes" translated="yes">
@@ -2069,7 +2069,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="1252b16cee3892d33d04248d350b36aafbe38750" approved="yes" translated="yes">
         <source>Browse our collection</source>
-        <target state="translated">Navegue pela nossa coleção</target>
+        <target>Navegue pela nossa coleção</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="a6fe4bd72fb6139ed2ea4e799c167cbadc06756d" approved="yes" translated="yes">
@@ -2129,17 +2129,17 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="fc609852a379e25583ec4570b5135f5d79bc6b89" approved="yes" translated="yes">
         <source>Cartoons (Commentary)</source>
-        <target state="translated">Desenhos animados (Comentário)</target>
+        <target>Desenhos animados (Comentário)</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="5317c270f39510ab8b713b59624b7f28d7678f5f" approved="yes" translated="yes">
         <source>Cast note</source>
-        <target state="translated">Nota de equipe</target>
+        <target>Nota de equipe</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="d99c226d02cb06df9c4f96d0e0140b91c9b8f41f" approved="yes" translated="yes">
         <source>Catalogs</source>
-        <target state="translated">Catálogos</target>
+        <target>Catálogos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="a3c686e711e4720f99b4562bb3dbaae7ab658cf2" approved="yes" translated="yes">
@@ -2209,7 +2209,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="795ccef367844002f39b21be2bb17dd60716f322" approved="yes" translated="yes">
         <source>Cityscapes</source>
-        <target state="translated">Paisagens urbanas</target>
+        <target>Paisagens urbanas</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4fee7bab4188929f417cffc894d785b5aa121349" approved="yes" translated="yes">
@@ -2234,7 +2234,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="7d49842f4d504854e52ee0d1ad7b50eabc064b48" approved="yes" translated="yes">
         <source>Clear all selections</source>
-        <target state="translated">Limpar todas as seleções</target>
+        <target>Limpar todas as seleções</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="3025489d722e421c7a7acfd6c2604b1478df8f72" approved="yes" translated="yes">
@@ -2274,27 +2274,27 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="54054d2f15dc66beed2305c2532cc1b4ae8d8acb" approved="yes" translated="yes">
         <source>Clipboard saving</source>
-        <target state="translated">Salvando área de transferência</target>
+        <target>Salvando área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="5bc6794e3d329ed9b4e5f96ec1f92bf105f6df04" approved="yes" translated="yes">
         <source>Clipboard sending</source>
-        <target state="translated">Envio da área de transferência</target>
+        <target>Envio da área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="0d74eb900087b53c47e04782f04c5f9e8659f05e" approved="yes" translated="yes">
         <source>Clipboard settings</source>
-        <target state="translated">Configurações da área de transferência</target>
+        <target>Configurações da área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="8c7ff8d252f0717efba0ec7bed4177403c19308c" approved="yes" translated="yes">
         <source>Clipboard settings saved.</source>
-        <target state="translated">As configurações da área de transferência foram salvas.</target>
+        <target>As configurações da área de transferência foram salvas.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/clipboardAction.class.php</note>
       </trans-unit>
       <trans-unit id="38e98eb03cdf243f853afd1440a2334b307f72db" approved="yes" translated="yes">
         <source>Clippings</source>
-        <target state="translated">Recortes</target>
+        <target>Recortes</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="bbfa773e5a63a5ea58c9b6207e608ca0120e592a" approved="yes" translated="yes">
@@ -2334,7 +2334,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="1798b3ba42ee08ea09d9720b2d9c0181abbfe3e4" approved="yes" translated="yes">
         <source>Completed</source>
-        <target state="translated">Completo</target>
+        <target>Completo</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="181f114bea80ef79164a40ea4c5ed7e48f155ef3" approved="yes" translated="yes">
@@ -2529,7 +2529,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="f3eecae04edf94fec2f91e4696b4cd5866dfd32c" approved="yes" translated="yes">
         <source>Correspondence</source>
-        <target state="translated">Correspondência</target>
+        <target>Correspondência</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="d523ebbd10146cdfd39dee077f04c9d08468d0bc" approved="yes" translated="yes">
@@ -2599,7 +2599,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="cada31f65b75f66872da62dddd342c640d98c0dd" approved="yes" translated="yes">
         <source>Credits note</source>
-        <target state="translated">Notas de crédito</target>
+        <target>Notas de crédito</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="e285982eddd75f4045c8e219e2a6d32db342065d" approved="yes" translated="yes">
@@ -2624,12 +2624,12 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="41916620b0cf0e36e71b87df105e6457e94cdfed" approved="yes" translated="yes">
         <source>DACS template - area headings</source>
-        <target state="translated">Padrão DACS - área de cabeçalho</target>
+        <target>Padrão DACS - área de cabeçalho</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="15b15fb65608a7f95b836e8abfade5852ffbb6a8" approved="yes" translated="yes">
         <source>DACS template - elements</source>
-        <target state="translated">Padrão DACS - elementos</target>
+        <target>Padrão DACS - elementos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="a7205d1e4bab4d2e6c333c8900cee76cbdb84393" approved="yes" translated="yes">
@@ -2949,7 +2949,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="a062a7b2869f26c0d3fc4bbd38941f3aa5be9457" approved="yes" translated="yes">
         <source>Determines whether to show a link to the browse hierarchy page on the information objects browse/search pages</source>
-        <target state="translated">Determina se deve mostrar um link para a página de navegação hierárquica na página de navegação/busca do objeto de informação</target>
+        <target>Determina se deve mostrar um link para a página de navegação hierárquica na página de navegação/busca do objeto de informação</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="1960d8900caf58abb54302c86ed8315cfbc2d3d3" approved="yes" translated="yes">
@@ -2959,7 +2959,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="6ecbbd350e9d40b82a484b511a78846981fa26af" approved="yes" translated="yes">
         <source>Diaries</source>
-        <target state="translated">Agendas</target>
+        <target>Agendas</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="c06c0afa72cfe94700e0c32481bbc96b96389502" approved="yes" translated="yes">
@@ -3139,7 +3139,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="d80a665c4b08efd48f9102a9356585061f711397" approved="yes" translated="yes">
         <source>Drawings</source>
-        <target state="translated">Desenhos</target>
+        <target>Desenhos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="d9a71452d45343449c8c6bc92a11b9d123f7abd2" approved="yes" translated="yes">
@@ -3449,7 +3449,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="ec2e306ec0869a064528aa5f9180d82f5d7a8cd1" approved="yes" translated="yes">
         <source>Editing history</source>
-        <target state="translated">Histórico de edição</target>
+        <target>Histórico de edição</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="71a1ca18209db3318a9dc4e4ed7ecc5a604fbc32" approved="yes" translated="yes">
@@ -3549,7 +3549,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="962b3315691a1bd892ff125cbe99b9567faa4cdc" approved="yes" translated="yes">
         <source>Enable clipboard send functionality</source>
-        <target state="translated">Habilitar funcionalidade de enviar área de transferência</target>
+        <target>Habilitar funcionalidade de enviar área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="849510ba30fb00121f54ba31f7a319bce5388498" approved="yes" translated="yes">
@@ -3664,7 +3664,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="8bb54e8c77df5aa20bc48d6bcda9b9a0c11ab672" approved="yes" translated="yes">
         <source>Ephemera</source>
-        <target state="translated">Efêmero</target>
+        <target>Efêmero</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="68d26ae6679ac03ce86a1c2a41fb7d899f330058" approved="yes" translated="yes">
@@ -3689,12 +3689,12 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="48561a57cff173e961c3d7cc0df8f5513f0bd9b1" approved="yes" translated="yes">
         <source>Essays</source>
-        <target state="translated">Ensaios</target>
+        <target>Ensaios</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="9e5df38f7d0cb8217a20c895ddf0671d33415703" approved="yes" translated="yes">
         <source>Ethnography</source>
-        <target state="translated">Etnografia</target>
+        <target>Etnografia</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="ad8919ace091b14011c6439cfd5e1707b58f5abd" approved="yes" translated="yes">
@@ -3779,7 +3779,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="92a8228af0cca31296548d09aefd1471c03cfac2" approved="yes" translated="yes">
         <source>Export storage report</source>
-        <target state="translated">Exportar relatório de armazenamento</target>
+        <target>Exportar relatório de armazenamento</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="71a1260f76544c68e3425a1c076e5499b0002fbb" approved="yes" translated="yes">
@@ -3804,12 +3804,12 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="bf20a49b9a909ddbaffd2f27c8e2253a654c3f05" approved="yes" translated="yes">
         <source>External URL to send clipboard contents to</source>
-        <target state="translated">URL externa à qual enviar os conteúdos da área de transferência</target>
+        <target>URL externa à qual enviar os conteúdos da área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="57f8564e8c8c1fba4214116f6a9ec2b0fdcfd748" approved="yes" translated="yes">
         <source>External file</source>
-        <target state="translated">Arquivo externo</target>
+        <target>Arquivo externo</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4efb6cb7c018f0c686d4e9d68b615950223b4dd1" approved="yes" translated="yes">
@@ -3834,7 +3834,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="af7d98a72d49b9a030058842ba85df839f2074e6" approved="yes" translated="yes">
         <source>Fieldnotes</source>
-        <target state="translated">Notas de campo</target>
+        <target>Notas de campo</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="2c3cafa4db3f3e1e51b3dff4303502dbe42b7a89" approved="yes" translated="yes">
@@ -3909,7 +3909,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="14a210a056a2c2b691da36fb481624ac71b3fa16" approved="yes" translated="yes">
         <source>Find results where:</source>
-        <target state="translated">Encontrar resultados onde:</target>
+        <target>Encontrar resultados onde:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="1d418f9a4f336e7d5a4571efa07895625a635204" approved="yes" translated="yes">
@@ -4129,7 +4129,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="2aa31fca5e4f84ebdfaab36c9a6da36cf8d36509" approved="yes" translated="yes">
         <source>Genre</source>
-        <target state="translated">Gênero</target>
+        <target>Gênero</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="1765a374202a857a4411d997f018750fb651d2de" approved="yes" translated="yes">
@@ -4231,7 +4231,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="118ca10eb59c24e6a2eb2a71c7b7acbd1c156222" approved="yes" translated="yes">
         <source>Go to clipboard</source>
-        <target state="translated">Ir para a área de transferência</target>
+        <target>Ir para a área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="cfffcdb55549bfe6577314cfbbba000f833f1b12" approved="yes" translated="yes">
@@ -4286,7 +4286,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="0524a68bbf49da748d2e1aab162bd304ba8f2d8b" approved="yes" translated="yes">
         <source>HTTP method to use when sending clipboard contents</source>
-        <target state="translated">Método HTTP para usar ao enviar os conteúdos da área de transferência</target>
+        <target>Método HTTP para usar ao enviar os conteúdos da área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="5f4fe34e347c71f32427fcb74edb078bf5eed941" approved="yes" translated="yes">
@@ -4306,7 +4306,7 @@ Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.&lt;/str
       </trans-unit>
       <trans-unit id="40b1f2a903a68c126e28f48e3edfa9785a4a660e" approved="yes" translated="yes">
         <source>Hide hierarchy</source>
-        <target state="translated">Ocultar hierarquia</target>
+        <target>Ocultar hierarquia</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="3ed71999e2a205e7dd06687ed5dd96f7d22fdd01" approved="yes" translated="yes">
@@ -4607,7 +4607,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="a5453ae999ab5e1d0dd478396df78692a8785a61" approved="yes" translated="yes">
         <source>Illustrations</source>
-        <target state="translated">Ilustrações</target>
+        <target>Ilustrações</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="50e19fda0d5b4b74a4a1a1d584e56578693a4ea4" approved="yes" translated="yes">
@@ -4692,12 +4692,12 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="f2814000ca36568f871fcc44e51d5f6924dd6b0c" approved="yes" translated="yes">
         <source>Include containers linked to accessions</source>
-        <target state="translated">Incluir containers vinculados à incorporações</target>
+        <target>Incluir containers vinculados à incorporações</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="2bc43226df1ac86e32467495586bb46ef07591b4" approved="yes" translated="yes">
         <source>Include containers linked to descriptions</source>
-        <target state="translated">Incluir containers vinculados à descrições</target>
+        <target>Incluir containers vinculados à descrições</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="6a3a406e4bb13f7409892a6b2de4b09ab663482d" approved="yes" translated="yes">
@@ -4722,7 +4722,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="64f5b6914d348c81202834599e782f365608d838" approved="yes" translated="yes">
         <source>Include unlinked containers</source>
-        <target state="translated">Incluir containers desvinculados</target>
+        <target>Incluir containers desvinculados</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="387fd1bbc18419e26c612f4acad9213e5073ade4" approved="yes" translated="yes">
@@ -4807,7 +4807,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="ae62284b8ff262eb2a9dd5ed22491de9e3f5c18b" approved="yes" translated="yes">
         <source>Inherit reference code (DC XML)</source>
-        <target state="translated">Herdar código de referência (DC XML)</target>
+        <target>Herdar código de referência (DC XML)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="0953760ce30d75c4960d0196dd2bc662bc621b79" approved="yes" translated="yes">
@@ -4852,7 +4852,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="9d20cd4e40109b4551bd55f79cf728da4c1da6a9" approved="yes" translated="yes">
         <source>Interviews</source>
-        <target state="translated">Entrevistas</target>
+        <target>Entrevistas</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="68eb792884e39d24c9127f1d693ea625e672dab5" approved="yes" translated="yes">
@@ -4932,12 +4932,12 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="6a013f3591caa3ee3f7742743ed123abf4cf8af0" approved="yes" translated="yes">
         <source>Items per page</source>
-        <target state="translated">Itens por página</target>
+        <target>Itens por página</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="067211093709684aac333c4c48ff7c20b23faad8" approved="yes" translated="yes">
-        <source>Items per page can be a minimum of 10 and a maximum of 1000</source>
-        <target state="translated">Os itens por página podem ser de no mínimo 10 e no máximo 1000</target>
+      <trans-unit id="4847cc1454ccb160f631e441cd95daf443a173f1">
+        <source>Items per page can be a minimum of %1% and a maximum of %2%</source>
+        <target/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="9a81100c9f833379dda543d307a8f9806a21127a" approved="yes" translated="yes">
@@ -4957,7 +4957,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="437736fdb5bb707abdc048483193c86b9a99983e" approved="yes" translated="yes">
         <source>Jobs</source>
-        <target state="translated">Trabalhos</target>
+        <target>Trabalhos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="d07d1574471a34482c5abaa52553803436ba39af" approved="yes" translated="yes">
@@ -4992,7 +4992,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="173feb78a80b691c253aa5b394127e4b988b5368" approved="yes" translated="yes">
         <source>Landscapes</source>
-        <target state="translated">Paisagens</target>
+        <target>Paisagens</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="89b86ab0e66f527166d98df92ddbcf5416ed58f6" approved="yes" translated="yes">
@@ -5072,7 +5072,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="c259ed063c2e9ee549c2c9dc1a199756e3ce89f5" approved="yes" translated="yes">
         <source>Leaflets</source>
-        <target state="translated">Folhetos</target>
+        <target>Folhetos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="cd99209678785b0ead9cdd294d4739ed5a7f169c" approved="yes" translated="yes">
@@ -5377,7 +5377,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="af5f36d7cf6a84b3ac9c023ab0a3b2a0c8e31420" approved="yes" translated="yes">
         <source>Make full width treeview collapsible on description pages</source>
-        <target state="translated">Tornar a exibição em árvore de largura total recolhível nas páginas de descrição</target>
+        <target>Tornar a exibição em árvore de largura total recolhível nas páginas de descrição</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="72ca223c258da9a7340dfad91d221f4800603d66" approved="yes" translated="yes">
@@ -5436,7 +5436,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="975ac656c6c1170862810c044e3eaef9ee5868e7" approved="yes" translated="yes">
         <source>Manuscripts</source>
-        <target state="translated">Manuscritos</target>
+        <target>Manuscritos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4af527f2dd831706ff7c8875c3660b49844f4d2c" approved="yes" translated="yes">
@@ -5451,7 +5451,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="80071cd75107cd5c4afdb2571725ea6733631038" approved="yes" translated="yes">
         <source>Maps</source>
-        <target state="translated">Mapas</target>
+        <target>Mapas</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="23e67fceae0d77dd571dd25695fc0499faf1bb77" approved="yes" translated="yes">
@@ -5556,12 +5556,12 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="5eb19661d82b14387cccd03b8c5ce9bb06bc1731" approved="yes" translated="yes">
         <source>Miscellaneous Documents</source>
-        <target state="translated">Documentos diversos</target>
+        <target>Documentos diversos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="e3ea079ded57effba0d3c11311c33855f14ee35e" approved="yes" translated="yes">
         <source>Modification</source>
-        <target state="translated">Modificação</target>
+        <target>Modificação</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="405f45092d843a1d3838d8a5b8852228db0dfbb7" approved="yes" translated="yes">
@@ -5581,7 +5581,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="7911e36a1bfea2139a2ffe6f3101ea48b923e796" approved="yes" translated="yes">
         <source>Motion Pictures</source>
-        <target state="translated">Imagens em movimento</target>
+        <target>Imagens em movimento</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="76cdb950721642b6b8596d36d5a39f7705028b99" approved="yes" translated="yes">
@@ -5676,7 +5676,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="131260cbfbb0c821f8eae5e7c3c296c7aa4d50b9" approved="yes" translated="yes">
         <source>Music</source>
-        <target state="translated">Música</target>
+        <target>Música</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="829d3f90cd2f6c947e759770023279d92f51dbf5" approved="yes" translated="yes">
@@ -5766,7 +5766,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="1c26c2b8063a498c38c5151a6128aaf35c972787" approved="yes" translated="yes">
         <source>Narratives</source>
-        <target state="translated">Narrativas</target>
+        <target>Narrativas</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="724f7197f0ee94bc72d5e4d9e301e97e8b1f5b58" approved="yes" translated="yes">
@@ -5831,7 +5831,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d" approved="yes" translated="yes">
         <source>No items in clipboard to send.</source>
-        <target state="translated">Não há itens na área de transferência para enviar.</target>
+        <target>Não há itens na área de transferência para enviar.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardSendAction.class.php</note>
       </trans-unit>
       <trans-unit id="b993b0c537190bfc94b21360ac5abe51e56be36f" approved="yes" translated="yes">
@@ -5916,7 +5916,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="a6228fc361c1fe8d8fbdc7fa3b247c876fd5ecb8" approved="yes" translated="yes">
         <source>Note: Incorrect security settings can result in the AtoM web UI becoming inaccessible.</source>
-        <target state="translated">Nota: Configurações de segurança incorretas podem resultar na inacessibilidade da interface de usuário web do AtoM.</target>
+        <target>Nota: Configurações de segurança incorretas podem resultar na inacessibilidade da interface de usuário web do AtoM.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/securitySuccess.php</note>
       </trans-unit>
       <trans-unit id="e4275c04480ee72cc6c53655ed8a839e05de00bc" approved="yes" translated="yes">
@@ -6031,7 +6031,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="e01fa717baccf94556f36e24206821f4f9e2047f" approved="yes" translated="yes">
         <source>Offline</source>
-        <target state="translated">Offline</target>
+        <target>Offline</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="531e2fabc65c69f4ab52560d3c4f6cea96075640" approved="yes" translated="yes">
@@ -6041,7 +6041,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="1e175490977193b00ffdfe24a91d96611e8e9451" approved="yes" translated="yes">
         <source>Only %1% terms were shown.</source>
-        <target state="translated">Apenas %1% dos termos foram apresentados.</target>
+        <target>Apenas %1% dos termos foram apresentados.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="201d45e256dd23055124e2cc676ca5195ba8929a" approved="yes" translated="yes">
@@ -6176,7 +6176,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="66f37c4410a46dc320b908174dc2070215af08a8" approved="yes" translated="yes">
         <source>PREMIS Rights Statutes</source>
-        <target state="translated">Estatutos de Direitos PREMIS</target>
+        <target>Estatutos de Direitos PREMIS</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="711ca5e1b2833adf77c758fc877e8989981c3b7e" approved="yes" translated="yes">
@@ -6211,12 +6211,12 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="ce007250641f041c1f6ef3b76aab1197bf91b2f3" approved="yes" translated="yes">
         <source>Paintings</source>
-        <target state="translated">Pinturas</target>
+        <target>Pinturas</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="f11952b5679730dff64d72d34654694036be1572" approved="yes" translated="yes">
         <source>Pamphlets</source>
-        <target state="translated">Panfletos</target>
+        <target>Panfletos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="28a471c57e5527963dffc7ff05f1465bceb88c1e" approved="yes" translated="yes">
@@ -6296,7 +6296,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="a04d3ae9b7739ae71464895a655dc4cbcb4ed472" approved="yes" translated="yes">
         <source>Periodicals</source>
-        <target state="translated">Periódicos</target>
+        <target>Periódicos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="1785713451d01948bc96b1f6cd729251ba4dfe64" approved="yes" translated="yes">
@@ -6341,7 +6341,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="99f603db2596e7d636c78ab47be21de7e61c65f2" approved="yes" translated="yes">
         <source>Petitions</source>
-        <target state="translated">Requerimentos</target>
+        <target>Requerimentos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="55fa2155b926b493e059dbcfb89355dbe00b9047" approved="yes" translated="yes">
@@ -6356,7 +6356,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="b6d50d070644d2843a8a87dbbeab2076632f47c6" approved="yes" translated="yes">
         <source>Photographs</source>
-        <target state="translated">Fotografias</target>
+        <target>Fotografias</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="7798df881e7d6ecc58f219fef1d346483c88c5c8" approved="yes" translated="yes">
@@ -6366,7 +6366,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="260a933d582f5d350d5bd19f071bd8d067a32f2e" approved="yes" translated="yes">
         <source>Physical Objects</source>
-        <target state="translated">Objetos Físicos</target>
+        <target>Objetos Físicos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4439948303a4189909d29d02acad014e60d06818" approved="yes" translated="yes">
@@ -6441,12 +6441,12 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="66c278f62abb579e90ea55e212e6e65842c53930" approved="yes" translated="yes">
         <source>Please check one or more of the export options.</source>
-        <target state="translated">Por favor, cheque uma ou mais opções de exportação.</target>
+        <target>Por favor, cheque uma ou mais opções de exportação.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/actions/holdingsReportExportAction.class.php</note>
       </trans-unit>
       <trans-unit id="07c0302bc855afec997f2889b2a72e5b425c64ed" approved="yes" translated="yes">
         <source>Please clear the application cache and rebuild the search index if you are changing the reference code separator setting.</source>
-        <target state="translated">Por favor, limpe o cachê da aplicação e reconstrua a indexação de busca caso você esteja alterando a configuração do separador de código de referência.</target>
+        <target>Por favor, limpe o cachê da aplicação e reconstrua a indexação de busca caso você esteja alterando a configuração do separador de código de referência.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="92dc92905b40e49ef0b4796a670906f91ae543c2" approved="yes" translated="yes">
@@ -6481,7 +6481,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="4674e99addb91f6b978622eaea1b97fb5cabc488" approved="yes" translated="yes">
         <source>Poetry</source>
-        <target state="translated">Poesia</target>
+        <target>Poesia</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="bb9cf1418089b3356038fdd24fcbdc9d1a7c42a5" approved="yes" translated="yes">
@@ -6511,7 +6511,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="375384695143fa096bde13bbe5bc82111f510008" approved="yes" translated="yes">
         <source>Portraits</source>
-        <target state="translated">Retratos</target>
+        <target>Retratos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="d7432cda8e62d47c236a130a6e70ad23f4b41867" approved="yes" translated="yes">
@@ -6521,12 +6521,12 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="fb31148ad88e0195a353d85aacf8eeccbe3ef31e" approved="yes" translated="yes">
         <source>Postcards</source>
-        <target state="translated">Cartões postais</target>
+        <target>Cartões postais</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="8cf870a117a84e04106f6c887c622d205137625f" approved="yes" translated="yes">
         <source>Posters</source>
-        <target state="translated">Posters</target>
+        <target>Posters</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="873285d801c75a35c32cea48ab378c80c0c52c90" approved="yes" translated="yes">
@@ -6581,7 +6581,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="9a76cf9887b6f0853816551224e51090fbd36556" approved="yes" translated="yes">
         <source>Prints</source>
-        <target state="translated">Impressões</target>
+        <target>Impressões</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="967f58aa5fa1e2e9c37d6a264176556f49d0f56a" approved="yes" translated="yes">
@@ -6601,12 +6601,12 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="9db108ba6b7f6571356060929e37dae65878cfca" approved="yes" translated="yes">
         <source>Privacy Policy</source>
-        <target state="translated">Política de Privacidade</target>
+        <target>Política de Privacidade</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="6097c6cc468677650d41c74ed4c6e477f517934d" approved="yes" translated="yes">
         <source>Privacy notification settings saved.</source>
-        <target state="translated">As configurações de notificação de privacidade foram salvas.</target>
+        <target>As configurações de notificação de privacidade foram salvas.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/privacyNotificationAction.class.php</note>
       </trans-unit>
       <trans-unit id="237dfa0a21c8e17a7276cf161eef7e0fba067c47" approved="yes" translated="yes">
@@ -6646,7 +6646,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="ab14d0a7db8a3f7096a9e83f624f84232485a23c" approved="yes" translated="yes">
         <source>Programs</source>
-        <target state="translated">Programas</target>
+        <target>Programas</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="e9da9b827e60dc37063ef8b128c7d0534691727b" approved="yes" translated="yes">
@@ -6881,7 +6881,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="5b9fee98732ea4e9df9b773fc6325fdabe7e68b3" approved="yes" translated="yes">
         <source>Record group</source>
-        <target state="translated">Grupo de registro</target>
+        <target>Grupo de registro</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4e639f1c0c21b3ca508a668c9fb8f92b8d66e0a3" approved="yes" translated="yes">
@@ -7049,7 +7049,7 @@ elaboração da descrição. (ISAD 3.7.2)</target>
       </trans-unit>
       <trans-unit id="bee5192a962386f3360e556f95ed32b13048233c" approved="yes" translated="yes">
         <source>Recording logs</source>
-        <target state="translated">Registros de gravação</target>
+        <target>Registros de gravação</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="c2777fc2e6c06d055be41c6883ef5c2688a29eff" approved="yes" translated="yes">
@@ -7104,12 +7104,12 @@ elaboração da descrição. (ISAD 3.7.2)</target>
       </trans-unit>
       <trans-unit id="a50332e39aa94b109bc0ecb2fdf5cf1d2c8f42a6" approved="yes" translated="yes">
         <source>Related %1%</source>
-        <target state="translated">Relacionado %1%</target>
+        <target>Relacionado %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="8fe49f5a6d0145fda3d21a90631786eac6404217" approved="yes" translated="yes">
         <source>Related %1% (%2%)</source>
-        <target state="translated">Relacionado %1% (%2%)</target>
+        <target>Relacionado %1% (%2%)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_navigateRelated.php</note>
       </trans-unit>
       <trans-unit id="3e9d6cee52a7a5975dd0eacc367e05c9ac4e9ce3" approved="yes" translated="yes">
@@ -7119,7 +7119,7 @@ elaboração da descrição. (ISAD 3.7.2)</target>
       </trans-unit>
       <trans-unit id="d2206005ce805ddb6451ce6e0f03510990900437" approved="yes" translated="yes">
         <source>Related accessions</source>
-        <target state="translated">Incorporações relacionadas</target>
+        <target>Incorporações relacionadas</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="ca95a344fd4334045c6a908e05616fbe31903213" approved="yes" translated="yes">
@@ -7209,7 +7209,7 @@ elaboração da descrição. (ISAD 3.7.2)</target>
       </trans-unit>
       <trans-unit id="261802c20356caa2d9d01a918c516f7cc62a6352" approved="yes" translated="yes">
         <source>Related materials area</source>
-        <target state="translated">Área de materiais relacionados</target>
+        <target>Área de materiais relacionados</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="eec37cb147e03396540984ebce49a03799bd1f75" approved="yes" translated="yes">
@@ -7579,7 +7579,7 @@ elaboração da descrição. (ISAD 3.7.2)</target>
       </trans-unit>
       <trans-unit id="e658b2249d48c4f427a38fd312d7f97bcdccc88d" approved="yes" translated="yes">
         <source>SWORD plugin setting changed: the AtoM worker must be restarted for this change to take effect.</source>
-        <target state="translated">Configuração do plugin SWORD alterada: o AtoM worker precisa ser reiniciando para que esta mudança surta efeito.</target>
+        <target>Configuração do plugin SWORD alterada: o AtoM worker precisa ser reiniciando para que esta mudança surta efeito.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfPluginAdminPlugin/modules/sfPluginAdminPlugin/actions/pluginsAction.class.php</note>
       </trans-unit>
       <trans-unit id="6df74794c02a082a6a784cde86a2b95263645e31" approved="yes" translated="yes">
@@ -7594,7 +7594,7 @@ elaboração da descrição. (ISAD 3.7.2)</target>
       </trans-unit>
       <trans-unit id="a8cc93be254c25a50ec105adc97e01b94a32d6df" approved="yes" translated="yes">
         <source>Save clipboard</source>
-        <target state="translated">Salvar área de transferência</target>
+        <target>Salvar área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="d75e3c618d00b000ad2fc6f803bbf02abba350c0" approved="yes" translated="yes">
@@ -7644,7 +7644,7 @@ elaboração da descrição. (ISAD 3.7.2)</target>
       </trans-unit>
       <trans-unit id="126cb9322689de03f6031159162dd1b9395b62f4" approved="yes" translated="yes">
         <source>Scores</source>
-        <target state="translated">Pontuações</target>
+        <target>Pontuações</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="ee6d6afa9f3aaa476cc5b9a2da788206cf784166" approved="yes" translated="yes">
@@ -7734,7 +7734,7 @@ elaboração da descrição. (ISAD 3.7.2)</target>
       </trans-unit>
       <trans-unit id="9c781c7fb64c591947eb388039e20d1ccda764f9" approved="yes" translated="yes">
         <source>Search our collection</source>
-        <target state="translated">Pesquise nossa coleção</target>
+        <target>Pesquise nossa coleção</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="dfe7bd62ebcbe7311e61a9bfdd24a984def1777d" approved="yes" translated="yes">
@@ -7942,17 +7942,17 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="9bc2575c3930437e80555f78757b783c842e8e66" approved="yes" translated="yes">
         <source>Send</source>
-        <target state="translated">Enviar</target>
+        <target>Enviar</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="ecf85a87c22d3907972a5810bbb87b82310dda97" approved="yes" translated="yes">
         <source>Send button text</source>
-        <target state="translated">Enviar texto do botão</target>
+        <target>Enviar texto do botão</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="c338c191ab1e9319ba354d56467b938e0ba4e119" approved="yes" translated="yes">
         <source>Sending...</source>
-        <target state="translated">Enviando…</target>
+        <target>Enviando…</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardSendAction.class.php</note>
       </trans-unit>
       <trans-unit id="40c20d94e78fa142819df8cc9440d30e65329975" approved="yes" translated="yes">
@@ -8003,7 +8003,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="58feef5af78e5e956d9cd1ebbf5f4ba342659ac1" approved="yes" translated="yes">
         <source>Sheet Music</source>
-        <target state="translated">Partitura</target>
+        <target>Partitura</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="1bf5eaa62f3641bd99bcbf9f1637e373ae2766ef" approved="yes" translated="yes">
@@ -8038,7 +8038,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="8d0ce5b1206611efe82404b95ab45cf6f4b44d4b" approved="yes" translated="yes">
         <source>Show hierarchy</source>
-        <target state="translated">Mostrar hierarquia</target>
+        <target>Mostrar hierarquia</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="f34d14b839c2b0dddd05df5d65fd2e5a36d131b6" approved="yes" translated="yes">
@@ -8078,7 +8078,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="01f7c9c377593dcd934593002c58f648cff0833f" approved="yes" translated="yes">
         <source>Signatures note</source>
-        <target state="translated">Nota de assinaturas</target>
+        <target>Nota de assinaturas</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="82f726ee8d6d55d82e66c253ac3fe8841fb23723" approved="yes" translated="yes">
@@ -8133,7 +8133,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="7d29b99a08bb299d0d339920033792c9b1638d5a" approved="yes" translated="yes">
         <source>Slug must be provided</source>
-        <target state="translated">Slug precisa ser provido</target>
+        <target>Slug precisa ser provido</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/actorEventsAction.class.php</note>
       </trans-unit>
       <trans-unit id="63908f0596e5c41b4a5c7bb02ffedfea5dabbd40" approved="yes" translated="yes">
@@ -8373,7 +8373,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="c87ee1508ac40276ba2634f94ca3b8ef9c632207" approved="yes" translated="yes">
         <source>Static pages</source>
-        <target state="translated">Páginas estáticas</target>
+        <target>Páginas estáticas</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="bae7d5be70820ed56467bd9a63744e23b47bd711" approved="yes" translated="yes">
@@ -8595,7 +8595,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="b08c1677ae9fd48f17e1b6572608dfede449df0c" approved="yes" translated="yes">
         <source>Text or HTML to display when sending clipboard contents</source>
-        <target state="translated">Texto ou HTML a ser exibido ao enviar os conteúdos da área de transferência</target>
+        <target>Texto ou HTML a ser exibido ao enviar os conteúdos da área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="22046eaaddff9c1ff38b1b26123d8ea2b03384d2" approved="yes" translated="yes">
@@ -8945,7 +8945,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="02e4ad7f88566779ac3cae243dcc57c91c088e9f" approved="yes" translated="yes">
         <source>This term is used in %1% records. The term will be deleted from these records.</source>
-        <target state="translated">Este termo e usado em %1% registros. O termo será apagado destes registros.</target>
+        <target>Este termo e usado em %1% registros. O termo será apagado destes registros.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="e0b11377ac38712be06c421d2bf188df60a42562" approved="yes" translated="yes">
@@ -8990,7 +8990,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="1fe2dea0ebe57f5d9993463055229b5bf6402040" approved="yes" translated="yes">
         <source>Timetables</source>
-        <target state="translated">Horários</target>
+        <target>Horários</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="768e0c1c69573fb588f61f1308a015c11468e05f" approved="yes" translated="yes">
@@ -9080,7 +9080,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="ef84d55ad87625a83ca986354b910cc45b4d6fc1" approved="yes" translated="yes">
         <source>Transcriptions</source>
-        <target state="translated">Transcrições</target>
+        <target>Transcrições</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="cbb4cc49824bf79827cde838e005848027ca0a38" approved="yes" translated="yes">
@@ -9382,7 +9382,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="81939432dd6709fa9c725744b383574c6686356c" approved="yes" translated="yes">
         <source>User actions</source>
-        <target state="translated">Ações do usuário</target>
+        <target>Ações do usuário</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="5082f10cda4623dcac09a6c3ba01ce46fec44fc4" approved="yes" translated="yes">
@@ -9517,7 +9517,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="1c2e1d79cc5d89a3fd2cc01a0aabd57a0a294028" approved="yes" translated="yes">
         <source>Visible elements configuration saved.</source>
-        <target state="translated">As configurações de elementos visíveis foram salvas.</target>
+        <target>As configurações de elementos visíveis foram salvas.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/visibleElementsAction.class.php</note>
       </trans-unit>
       <trans-unit id="52212f0c524e310b9205e4da7793fad36f4363c5" approved="yes" translated="yes">
@@ -9678,7 +9678,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="483306b6ae95797b695bf358e2ea9125b9919553" approved="yes" translated="yes">
         <source>Your description has been updated. Its descendants are being updated asynchronously – check the &lt;a href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
-        <target state="translated">Sua descrição foi atualizada. Seus descendentes estão sendo atualizados de forma assíncrona – verifique a &lt;a href="%1"&gt;página do agendador de tarefas&lt;/a&gt; para status e detalhes.</target>
+        <target>Sua descrição foi atualizada. Seus descendentes estão sendo atualizados de forma assíncrona – verifique a &lt;a href="%1"&gt;página do agendador de tarefas&lt;/a&gt; para status e detalhes.</target>
       </trans-unit>
       <trans-unit id="7c6ebbcaa294e78319d052103c0780f99d305c52" approved="yes" translated="yes">
         <source>Your description has been updated. Lower level descriptions are being updated now – check the &lt;a href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
