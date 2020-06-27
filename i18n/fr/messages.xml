@@ -571,9 +571,9 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target>%1 - critères du rapport</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/storageLocationsCriteria.php</note>
       </trans-unit>
-      <trans-unit id="468b90bf601b414515a80106f456b7d70d0d1faa">
+      <trans-unit id="468b90bf601b414515a80106f456b7d70d0d1faa" approved="yes">
         <source>%1 count</source>
-        <target/>
+        <target state="translated">%1 décompte</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="29209b378915d0821cca10cdc28f5f8939b4c883" approved="yes" translated="yes">
@@ -871,9 +871,9 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target>&lt;strong&gt;Étiquette :&lt;/strong&gt; Entrer un nom pour le champ Autre identifiant qui indique sa finalité et son usage.&lt;br/&gt;&lt;strong&gt;Identifiant :&lt;/strong&gt; Entrer un code de référence existant,  un identifiant alternatif, ou tout autre chaîne alpha-numérique associée à la notice.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
-      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b">
+      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" approved="yes">
         <source>&lt;strong&gt;Type:&lt;/strong&gt; Enter a name for the alternative identifier field that indicates its purpose and usage.&lt;br/&gt;&lt;strong&gt;Identifier:&lt;/strong&gt; Enter a legacy reference code, alternative identifier, or any other alpha-numeric string associated with the record.</source>
-        <target/>
+        <target state="translated">&lt;strong&gt;Type:&lt;/strong&gt; Entrez un nom pour le champ d'identifiant alternatif qui indique son but et son utilisation.&lt;br/&gt;&lt;strong&gt;Identifiant:&lt;/strong&gt; Saisissez un code de référence hérité, un autre identifiant ou toute autre chaîne alphanumérique associée à l'enregistrement.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
       <trans-unit id="39c6fe6bbe18b341f05e967d01ffa968b9c550e1" approved="yes" translated="yes">
@@ -1034,14 +1034,14 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target>Type d'acquisition</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="8f690053c5a934ec3d22a8c4db84e1c7c1db52ef">
+      <trans-unit id="8f690053c5a934ec3d22a8c4db84e1c7c1db52ef" approved="yes">
         <source>Accession alternative identifier</source>
-        <target/>
+        <target state="translated">Identifiant alternatif d'acquisition</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="b0444ca6a89ac9ede54e88c692f1c0059562f0b2">
+      <trans-unit id="b0444ca6a89ac9ede54e88c692f1c0059562f0b2" approved="yes">
         <source>Accession alternative identifier type</source>
-        <target/>
+        <target state="translated">Type d'identifiant alternatif d'acquisition</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="c9df8646e368f45d8085a69e9a3a50e584fb623d" approved="yes" translated="yes">
@@ -1076,7 +1076,7 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
       </trans-unit>
       <trans-unit id="bdead2012720d6152aa18f95ffff4c4cd9d300a5" approved="yes" translated="yes">
         <source>Accession number should be a combination of values recorded in the field and should be a unique accession number for the repository</source>
-        <target>Le numéro d'entrée devrait être une combinaison de valeurs enregistrées dans ce champ et devrait correspondre à un numéro unique pour l'institution de conservation.</target>
+        <target>Le numéro d'entrée devrait être une combinaison de valeurs enregistrées dans ce champ et devrait correspondre à un numéro unique pour l'institution de conservation</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5deb4f1bd5b5437f680e0d6c2bfd937d94b41658" approved="yes" translated="yes">
@@ -1129,9 +1129,9 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target>Accumulation</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="4628f64b8f7fa8569928ea5254862c1f372f721a">
+      <trans-unit id="4628f64b8f7fa8569928ea5254862c1f372f721a" approved="no">
         <source>Acquisition and appraisal area</source>
-        <target/>
+        <target state="translated">Zone d'acquisition et d'évaluation</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="ed2e24df777b453cbcd6286a6b5b98a6beb0cefe" approved="yes" translated="yes">
@@ -1844,9 +1844,9 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target>Droits sur les notices d'autorité</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="7e9c2f90e0894bc17d03c473f8462cae54b30cb4">
+      <trans-unit id="7e9c2f90e0894bc17d03c473f8462cae54b30cb4" approved="yes">
         <source>Authority record relationships</source>
-        <target/>
+        <target state="translated">Notice d'autorité - relations</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="670cce2a30941ecd957867e78acbb60df386f4c9" approved="yes" translated="yes">
@@ -2264,24 +2264,24 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target>Erreur à la génération de l'identifiant du presse-papier. Merci de réessayer.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardSaveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="54054d2f15dc66beed2305c2532cc1b4ae8d8acb">
+      <trans-unit id="54054d2f15dc66beed2305c2532cc1b4ae8d8acb" approved="yes">
         <source>Clipboard saving</source>
-        <target/>
+        <target state="translated">Sauvegarde du presse-papier</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5bc6794e3d329ed9b4e5f96ec1f92bf105f6df04">
+      <trans-unit id="5bc6794e3d329ed9b4e5f96ec1f92bf105f6df04" approved="yes">
         <source>Clipboard sending</source>
-        <target/>
+        <target state="translated">Envoyer le presse-papier</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0d74eb900087b53c47e04782f04c5f9e8659f05e">
+      <trans-unit id="0d74eb900087b53c47e04782f04c5f9e8659f05e" approved="yes">
         <source>Clipboard settings</source>
-        <target/>
+        <target state="translated">Paramètres du presse-papiers</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8c7ff8d252f0717efba0ec7bed4177403c19308c">
+      <trans-unit id="8c7ff8d252f0717efba0ec7bed4177403c19308c" approved="yes">
         <source>Clipboard settings saved.</source>
-        <target/>
+        <target state="translated">Paramètres du presse-papiers sauvegardés.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/clipboardAction.class.php</note>
       </trans-unit>
       <trans-unit id="38e98eb03cdf243f853afd1440a2334b307f72db" approved="yes" translated="yes">
@@ -2614,14 +2614,14 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target>Notes DACS</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="41916620b0cf0e36e71b87df105e6457e94cdfed">
+      <trans-unit id="41916620b0cf0e36e71b87df105e6457e94cdfed" approved="no">
         <source>DACS template - area headings</source>
-        <target/>
+        <target state="translated">Modèle DACS - entêtes de zone</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="15b15fb65608a7f95b836e8abfade5852ffbb6a8">
+      <trans-unit id="15b15fb65608a7f95b836e8abfade5852ffbb6a8" approved="no">
         <source>DACS template - elements</source>
-        <target/>
+        <target state="translated">Modèle DACS - éléments</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="a7205d1e4bab4d2e6c333c8900cee76cbdb84393" approved="yes" translated="yes">
@@ -2676,7 +2676,7 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
       </trans-unit>
       <trans-unit id="ace76c4c758f39701d405a96ced699ff75361ec7" approved="yes" translated="yes">
         <source>Date of acquisition - This is a mandatory element.</source>
-        <target>Date d'acquisition - Cet élément est obligatoire</target>
+        <target>Date d'acquisition - Cet élément est obligatoire.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="a3df46d69c5a94a13fd231ad16a4fb3cdbb8cf2c" approved="yes" translated="yes">
@@ -2886,7 +2886,7 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
       </trans-unit>
       <trans-unit id="3abd2c5d023c5b19ef18d318bc587e8dbc61b5f9" approved="yes" translated="yes">
         <source>Description - This is a mandatory element.</source>
-        <target>Description - Cet élément est obligatoire</target>
+        <target>Description - Cet élément est obligatoire.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="47c60b64dc2a82d260de02c14794796cfc71ce85" approved="yes" translated="yes">
@@ -3211,12 +3211,12 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
       </trans-unit>
       <trans-unit id="27bef2504d1bdc1a02b53a7012068c285b41ff87" approved="yes" translated="yes">
         <source>Edit access area</source>
-        <target>Modifier la zone de l'accès.</target>
+        <target>Modifier la zone de l'accès</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="dc16bd9ea41368fb3d672188abaff77e7e05e523" approved="yes" translated="yes">
         <source>Edit access points</source>
-        <target>Modifier les index.</target>
+        <target>Modifier les index</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="a631d4230962f9ed36c5cd4dcf29fdce6ccb1438" approved="yes" translated="yes">
@@ -3466,7 +3466,7 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
       </trans-unit>
       <trans-unit id="fddd91e6e8809f1652137bbacada2af5b275bb84" approved="yes" translated="yes">
         <source>Edition statement - This is a mandatory element for published items if there are multiple editions.</source>
-        <target>Mention d'édition - Cet élément est obligatoire pour les documents publiés en cas d'éditions multiples</target>
+        <target>Mention d'édition - Cet élément est obligatoire pour les documents publiés en cas d'éditions multiples.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="6e69592246edc7d08ec372504b46b7351a8cf104" approved="yes" translated="yes">
@@ -3539,9 +3539,9 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target>Activer la notification automatique de mise à jour</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="962b3315691a1bd892ff125cbe99b9567faa4cdc">
+      <trans-unit id="962b3315691a1bd892ff125cbe99b9567faa4cdc" approved="no">
         <source>Enable clipboard send functionality</source>
-        <target/>
+        <target state="translated">Activer la fonctionnalité d'envoi du presse-papiers</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="849510ba30fb00121f54ba31f7a319bce5388498" approved="yes" translated="yes">
@@ -3581,7 +3581,7 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
       </trans-unit>
       <trans-unit id="dfe6a07c57eee4e4e9db3b226403a24db11ec77c" approved="yes" translated="yes">
         <source>Enter an unambiguous code used to uniquely identify the description.</source>
-        <target>Entrer un code univoque pour l'identification unique de la description</target>
+        <target>Entrer un code univoque pour l'identification unique de la description.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="0e58ad386dae9642f84207d280dd7175abeaebcf" approved="yes" translated="yes">
@@ -3769,9 +3769,9 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target>Options d'exportation</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="92a8228af0cca31296548d09aefd1471c03cfac2">
+      <trans-unit id="92a8228af0cca31296548d09aefd1471c03cfac2" approved="no">
         <source>Export storage report</source>
-        <target/>
+        <target state="translated">Export du rapport de stockage</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="71a1260f76544c68e3425a1c076e5499b0002fbb" approved="yes" translated="yes">
@@ -3781,7 +3781,7 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
       </trans-unit>
       <trans-unit id="b08e49a7fec2502f0bb1f9de78c5caa937abbdfc" approved="yes" translated="yes">
         <source>Extent - This is a mandatory element.</source>
-        <target>Importance matérielle - Cet élément est obligatoire</target>
+        <target>Importance matérielle - Cet élément est obligatoire.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="0e8881271ff69b83f18ee1284fadbbaa3351dd18" approved="yes" translated="yes">
@@ -3794,14 +3794,14 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target>URI externe</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="bf20a49b9a909ddbaffd2f27c8e2253a654c3f05">
+      <trans-unit id="bf20a49b9a909ddbaffd2f27c8e2253a654c3f05" approved="no">
         <source>External URL to send clipboard contents to</source>
-        <target/>
+        <target state="translated">URL externe pour envoyer le contenu du presse-papiers à</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="57f8564e8c8c1fba4214116f6a9ec2b0fdcfd748">
+      <trans-unit id="57f8564e8c8c1fba4214116f6a9ec2b0fdcfd748" approved="no">
         <source>External file</source>
-        <target/>
+        <target state="translated">Fichier externe</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4efb6cb7c018f0c686d4e9d68b615950223b4dd1" approved="yes" translated="yes">
@@ -3899,9 +3899,9 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target>Final</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="14a210a056a2c2b691da36fb481624ac71b3fa16">
+      <trans-unit id="14a210a056a2c2b691da36fb481624ac71b3fa16" approved="no">
         <source>Find results where:</source>
-        <target/>
+        <target state="translated">Trouvez les résultats où :</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="1d418f9a4f336e7d5a4571efa07895625a635204" approved="yes" translated="yes">
@@ -4276,9 +4276,9 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
         <target>Groupes</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="0524a68bbf49da748d2e1aab162bd304ba8f2d8b">
+      <trans-unit id="0524a68bbf49da748d2e1aab162bd304ba8f2d8b" approved="no">
         <source>HTTP method to use when sending clipboard contents</source>
-        <target/>
+        <target state="translated">Méthode HTTP à utiliser lors de l'envoi du contenu du presse-papiers</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="5f4fe34e347c71f32427fcb74edb078bf5eed941" approved="yes" translated="yes">
@@ -4296,9 +4296,9 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
         <target>Hi, %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_userMenu.php</note>
       </trans-unit>
-      <trans-unit id="40b1f2a903a68c126e28f48e3edfa9785a4a660e">
+      <trans-unit id="40b1f2a903a68c126e28f48e3edfa9785a4a660e" approved="no">
         <source>Hide hierarchy</source>
-        <target/>
+        <target state="translated">Cacher la hiérarchie</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="3ed71999e2a205e7dd06687ed5dd96f7d22fdd01" approved="yes" translated="yes">
@@ -4403,7 +4403,7 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
       </trans-unit>
       <trans-unit id="ed21cd4d3b964c83cdd09c07643d4b0ec6c74f36" approved="yes" translated="yes">
         <source>Identifier - This is a mandatory element.</source>
-        <target>Identifiant - Cet élément est obligatoire</target>
+        <target>Identifiant - Cet élément est obligatoire.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="2e4536c13e1d6e2f27ac180d2111a18d8ebe67ea" approved="yes" translated="yes">
@@ -4468,7 +4468,7 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
       </trans-unit>
       <trans-unit id="f03b406aee85235817f500ac63d2d3991e649d01" approved="yes" translated="yes">
         <source>Identifier: Enter an unambiguous code used to uniquely identify the description. Level: Select a level of description from the drop-down menu. See RAD 1.0A for rules and conventions on selecting levels of description. Title: Enter the title proper, either transcribed or supplied. (RAD 1.1B)</source>
-        <target>Identifiant: Entrer un code unique permettant d'identifier la description. Niveau: Sélectionner un niveau de description dans la liste déroulante (Voir RDDA 1.0A pour les règles au sujet de la sélection des niveaux de description). Titre: Entrer le titre propre, en le transcrivant ou en le créant. (RDDA 1.1B).</target>
+        <target>Identifiant: Entrer un code unique permettant d'identifier la description. Niveau: Sélectionner un niveau de description dans la liste déroulante (Voir RDDA 1.0A pour les règles au sujet de la sélection des niveaux de description). Titre: Entrer le titre propre, en le transcrivant ou en le créant. (RDDA 1.1B)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="945e300e4603ccef917c89bd595a06ed39369f78" approved="yes" translated="yes">
@@ -4681,14 +4681,14 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
         <target>Inclure tous les niveaux de description inférieurs</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f2814000ca36568f871fcc44e51d5f6924dd6b0c">
+      <trans-unit id="f2814000ca36568f871fcc44e51d5f6924dd6b0c" approved="no">
         <source>Include containers linked to accessions</source>
-        <target/>
+        <target state="translated">Inclus les contenants liés aux acquisitions</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2bc43226df1ac86e32467495586bb46ef07591b4">
+      <trans-unit id="2bc43226df1ac86e32467495586bb46ef07591b4" approved="no">
         <source>Include containers linked to descriptions</source>
-        <target/>
+        <target state="translated">Inclus les contenants liés aux descriptions</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="6a3a406e4bb13f7409892a6b2de4b09ab663482d" approved="yes" translated="yes">
@@ -4711,9 +4711,9 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
         <target>Inclure le script de transformation</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="64f5b6914d348c81202834599e782f365608d838">
+      <trans-unit id="64f5b6914d348c81202834599e782f365608d838" approved="no">
         <source>Include unlinked containers</source>
-        <target/>
+        <target state="translated">Inclus les contenants non liés</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="387fd1bbc18419e26c612f4acad9213e5073ade4" approved="yes" translated="yes">
@@ -4796,9 +4796,9 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
         <target>hériter de la cote</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/treeviewAction.class.php</note>
       </trans-unit>
-      <trans-unit id="ae62284b8ff262eb2a9dd5ed22491de9e3f5c18b">
+      <trans-unit id="ae62284b8ff262eb2a9dd5ed22491de9e3f5c18b" approved="no">
         <source>Inherit reference code (DC XML)</source>
-        <target/>
+        <target state="translated">Hérite le code de référence (DC XML)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="0953760ce30d75c4960d0196dd2bc662bc621b79" approved="yes" translated="yes">
@@ -4883,7 +4883,7 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
       </trans-unit>
       <trans-unit id="fe1896dada67ae694f1379dec85ff9daca5ae2d3" approved="yes" translated="yes">
         <source>Issuing jurisdiction and denomination (philatelic) - This is a mandatory element for philatelic record.</source>
-        <target>Juridiction responsable et dénomination (philatélique) - Cet élément est obligatoire pour des documents philétaliques</target>
+        <target>Juridiction responsable et dénomination (philatélique) - Cet élément est obligatoire pour des documents philatéliques.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="616f70adb8cef21caa639559a068c1d3fb252099" approved="yes" translated="yes">
@@ -4921,14 +4921,14 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
         <target>Liste des pièces</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/reportsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="6a013f3591caa3ee3f7742743ed123abf4cf8af0">
+      <trans-unit id="6a013f3591caa3ee3f7742743ed123abf4cf8af0" approved="no">
         <source>Items per page</source>
-        <target/>
+        <target state="translated">Éléments par page</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4847cc1454ccb160f631e441cd95daf443a173f1">
+      <trans-unit id="4847cc1454ccb160f631e441cd95daf443a173f1" approved="no">
         <source>Items per page can be a minimum of %1% and a maximum of %2%</source>
-        <target/>
+        <target state="translated">Éléments par page sont au minimum de %1% et au maximum de %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="9a81100c9f833379dda543d307a8f9806a21127a" approved="yes" translated="yes">
@@ -5028,7 +5028,7 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
       </trans-unit>
       <trans-unit id="f7b787a1328498bb2f7022384d95ef0dfe5bd985" approved="yes" translated="yes">
         <source>Language(s) of this resource.</source>
-        <target>Langue(s) de la ressource</target>
+        <target>Langue(s) de la ressource.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="077f2d4ddc2187c0675a3d220c3e0c2dff707344" approved="yes" translated="yes">
@@ -5258,7 +5258,7 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
       </trans-unit>
       <trans-unit id="88c43f19b0fb8afa6519d908e57fb227153817d5" approved="yes" translated="yes">
         <source>Location information - This is a mandatory element.</source>
-        <target>Information de localisation - Cet élément est obligatoire</target>
+        <target>Information de localisation - Cet élément est obligatoire.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="0b72d9bb7f785056a5dd70bdf756aed4d8760f16" approved="yes" translated="yes">
@@ -5366,9 +5366,9 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
         <target>Notes de maintenance</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/actions/browseAction.class.php</note>
       </trans-unit>
-      <trans-unit id="af5f36d7cf6a84b3ac9c023ab0a3b2a0c8e31420">
+      <trans-unit id="af5f36d7cf6a84b3ac9c023ab0a3b2a0c8e31420" approved="no">
         <source>Make full width treeview collapsible on description pages</source>
-        <target/>
+        <target state="translated">Rendre l'arborescence pleine largeur repliable sur les pages de description</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="72ca223c258da9a7340dfad91d221f4800603d66" approved="yes" translated="yes">
@@ -5820,9 +5820,9 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
         <target>Aucun élément dans le presse-papier à sauvegarder.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardSaveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d">
+      <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d" approved="no">
         <source>No items in clipboard to send.</source>
-        <target/>
+        <target state="translated">Pas d'élément dans le presse-papier à envoyer.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardSendAction.class.php</note>
       </trans-unit>
       <trans-unit id="b993b0c537190bfc94b21360ac5abe51e56be36f" approved="yes" translated="yes">
@@ -6030,9 +6030,9 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
         <target>Seulement %1% descriptions ont été montrées.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/deleteSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1e175490977193b00ffdfe24a91d96611e8e9451">
+      <trans-unit id="1e175490977193b00ffdfe24a91d96611e8e9451" approved="no">
         <source>Only %1% terms were shown.</source>
-        <target/>
+        <target state="translated">Seuls %1% termes ont été montrés.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="201d45e256dd23055124e2cc676ca5195ba8929a" approved="yes" translated="yes">
@@ -6077,7 +6077,7 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
       </trans-unit>
       <trans-unit id="a40c8104942d120817a9adff7efeb15f57b3c4ad" approved="yes" translated="yes">
         <source>Or a remote resource</source>
-        <target>ou une ressource distante.</target>
+        <target>ou une ressource distante</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfSkosPlugin/modules/sfSkosPlugin/templates/importSuccess.php</note>
       </trans-unit>
       <trans-unit id="c01a801546ebe7ab47b417851e88efab1b3121b7" approved="yes" translated="yes">
@@ -6382,7 +6382,7 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
       </trans-unit>
       <trans-unit id="fea9674c19aad27dcaa3954bcbede517d15d72fd" approved="yes" translated="yes">
         <source>Physical description - This is a mandatory element.</source>
-        <target>Description matérielle - Cet élément est obligatoire</target>
+        <target>Description matérielle - Cet élément est obligatoire.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="2f01d850244ab353ee824046bc93b917816b3638" approved="yes" translated="yes">
@@ -6857,12 +6857,12 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
       </trans-unit>
       <trans-unit id="89823f7212ba69d7bb53fa69eb5b4777640b277f" approved="yes" translated="yes">
         <source>Record citations for any external sources used in the archival description (such as the Scope and Content, Archival History, or Notes fields).</source>
-        <target>Indiquer les références des sources externes utilisées pour la description (comme dans la portée et contenu, l'histoire administrative ou les notes)</target>
+        <target>Indiquer les références des sources externes utilisées pour la description (comme dans la portée et contenu, l'histoire administrative ou les notes).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="630a27a5c9f8b0b4b821d1f2608affe848f14190" approved="yes" translated="yes">
         <source>Record citations for any external sources used in the archival description (such as the Scope and Content, Custodial History, or Notes fields).</source>
-        <target>Indiquer les références des sources externes utilisées pour la description (comme dans la portée et contenu, l'historique de conservation ou les notes)</target>
+        <target>Indiquer les références des sources externes utilisées pour la description (comme dans la portée et contenu, l'historique de conservation ou les notes).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="02cca9a8cba9848bdeb2934607c1f54a85bea539" approved="yes" translated="yes">
@@ -6932,7 +6932,7 @@ la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publicati
       </trans-unit>
       <trans-unit id="bd2ecd635ee8592aaf36912c9af9a53ec93cfab7" approved="yes" translated="yes">
         <source>Record the international, national and/or local rules or conventions followed in preparing the description.</source>
-        <target>Enregistrer les règles ou conventions internationales, nationales et/ou locales suivies pour établir la description</target>
+        <target>Enregistrer les règles ou conventions internationales, nationales et/ou locales suivies pour établir la description.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d9eb8a807b17f53aacd22ab17a49c3b562e9dee2" approved="yes" translated="yes">
@@ -7188,7 +7188,7 @@ de description." (ISAD 3.4.3)</target>
       </trans-unit>
       <trans-unit id="df10a42ff4218b950cb49d401c9f189d340d39bb" approved="yes" translated="yes">
         <source>Related material(s) from which this resource is derived.</source>
-        <target>Document(s) associé(s) d'où est dérivée la ressource</target>
+        <target>Document(s) associé(s) d'où est dérivée la ressource.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="9da84032417a5a6421f13aa8249e79f3e86c3790" approved="yes" translated="yes">
@@ -7608,7 +7608,7 @@ de description." (ISAD 3.4.3)</target>
       </trans-unit>
       <trans-unit id="6bd38107f07ac622166989a34c920684795179ae" approved="yes" translated="yes">
         <source>Scope - This is a mandatory element.</source>
-        <target>Présentation du contenu - Cet élément est obligatoire</target>
+        <target>Présentation du contenu - Cet élément est obligatoire.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="ea2e6e20f4f7538609fcd6718e80dbb14019b0e1" approved="yes" translated="yes">
@@ -7618,7 +7618,7 @@ de description." (ISAD 3.4.3)</target>
       </trans-unit>
       <trans-unit id="2a18058e955d9bfb25e48a388bf2d94316413429" approved="yes" translated="yes">
         <source>Scope and content - This is a mandatory element.</source>
-        <target>Portée et contenu - C'est un élément obligatoire</target>
+        <target>Portée et contenu - C'est un élément obligatoire.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="2fb66c4d30b5f337a2ca3b2257642a8e20ef1dc7" approved="yes" translated="yes">
@@ -7763,7 +7763,7 @@ de description." (ISAD 3.4.3)</target>
       </trans-unit>
       <trans-unit id="71c34424882612f7c29feaf3bfa76ae4d07878b0" approved="yes" translated="yes">
         <source>See ISDIAH 5.2 for contact area information and examples.</source>
-        <target>Voir ISDIAH 5.2 pour la zone des informations de contact et des exemples</target>
+        <target>Voir ISDIAH 5.2 pour la zone des informations de contact et des exemples.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="3177038df51eb25c39996f1151499664580c7b5e" approved="yes" translated="yes">
@@ -8314,7 +8314,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="d5aea2b170262fd5bf57c5164714d12f7cc40eab" approved="yes" translated="yes">
         <source>Statement of projection (cartographic) - This is a mandatory element for cartographic material.</source>
-        <target>Mention de projection (cartographique) - Cet élément est obligatoire pour les documents cartographiques</target>
+        <target>Mention de projection (cartographique) - Cet élément est obligatoire pour les documents cartographiques.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="c9435f15a3cf44e8c6cf48992c82f242aaabc54a" approved="yes" translated="yes">
@@ -8339,7 +8339,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="6c95838777ceb4a424092f565a0cba1ed4ac8e8d" approved="yes" translated="yes">
         <source>Statement of scale (architectural) - This is a mandatory element for architectural drawing.</source>
-        <target>Mention d'échelle (architecturale) - Cet élément est obligatoire pour les documents architecturaux</target>
+        <target>Mention d'échelle (architecturale) - Cet élément est obligatoire pour les documents architecturaux.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="c48f895f08c8e31c2e83857a39b589fcbe498e3b" approved="yes" translated="yes">
@@ -8349,7 +8349,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="91af2897896dbbfe1c5de1dce642bd386a12fe74" approved="yes" translated="yes">
         <source>Statement of scale (cartographic) - This is a mandatory element for cartographic material.</source>
-        <target>Mention d'échelle (cartographique) - Cet élément est obligatoire pour les documents cartographiques</target>
+        <target>Mention d'échelle (cartographique) - Cet élément est obligatoire pour les documents cartographiques.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="88bf7ea9d4fa86c2e19fba7b7554a869de46c627" approved="yes" translated="yes">
@@ -8631,7 +8631,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="470236d07bc44a821fa7f414bce382e9d8262003" approved="yes" translated="yes">
         <source>The current term does not belong to the taxonomy chosen.</source>
-        <target>Le terme actuel n'apparaît pas dans le référentiel sélectionné</target>
+        <target>Le terme actuel n'apparaît pas dans le référentiel sélectionné.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfSkosPlugin/modules/sfSkosPlugin/actions/importAction.class.php</note>
       </trans-unit>
       <trans-unit id="029d32364fa746d7ec384590b72c7fdb39817b42" approved="yes" translated="yes">
@@ -8688,7 +8688,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="7f48076d994553c44e2b81e2b8701d527278b007" approved="yes" translated="yes">
         <source>The name given to this resource.</source>
-        <target>Nom donné à la ressource</target>
+        <target>Nom donné à la ressource.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="efb8a9f77c94e4dd46860259d9e6752b57e22afa" approved="yes" translated="yes">
@@ -8778,7 +8778,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="ceeccc30d42335e7ba3577842f241d644d7ef09c" approved="yes" translated="yes">
         <source>The unambiguous reference code used to uniquely identify this resource.</source>
-        <target>Code de référence univoque utilisé pour référencer de manière unique la ressource</target>
+        <target>Code de référence univoque utilisé pour référencer de manière unique la ressource.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="7e4f9856b9c62bfe3143c722ce98ff561dfcc0e6" approved="yes" translated="yes">
@@ -8887,7 +8887,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="387ff6d6c5cce06d40dae3b806fca8809b2d5fbc" approved="yes" translated="yes">
         <source>This is a mandatory element</source>
-        <target>Cet élément est obligatoire.</target>
+        <target>Cet élément est obligatoire</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="75d56ae241973aed7190054cdd1f94c0693731f4" approved="yes" translated="yes">
@@ -9185,7 +9185,7 @@ Il permet de saisir plusieurs entrées et de créer plusieurs contacts en utilis
       </trans-unit>
       <trans-unit id="c62b05e1af798534627c886a5e69de4ea320c9f0" approved="yes" translated="yes">
         <source>Unsupported scheme!</source>
-        <target>Système non supporté</target>
+        <target>Système non supporté !</target>
       </trans-unit>
       <trans-unit id="621521f9a8788695ec292cbec54d2792cfdf0a7d" approved="yes" translated="yes">
         <source>Untitled</source>
