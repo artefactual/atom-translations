@@ -896,9 +896,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>&lt;strong&gt;Etiqueta:&lt;/strong&gt; Insira um nome para o campo identificador alternativo que indique a sua finalidade e utilização.&lt;br /&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; Insira um código de referência herdado, identificador alternativo, ou qualquer outro código alfa-numérico associado ao registo.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
-      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b">
+      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" approved="no">
         <source>&lt;strong&gt;Type:&lt;/strong&gt; Enter a name for the alternative identifier field that indicates its purpose and usage.&lt;br/&gt;&lt;strong&gt;Identifier:&lt;/strong&gt; Enter a legacy reference code, alternative identifier, or any other alpha-numeric string associated with the record.</source>
-        <target/>
+        <target state="translated">&lt;strong&gt;Tipo:&lt;/strong&gt; Introduza um nome para o campo identificador alternativo que indique a sua finalidade e uso.&lt;br/&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; Introduza um código de referência herdado, identificador alternativo, ou qualquer outra string alfanumérica associada ao registo.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
       <trans-unit id="39c6fe6bbe18b341f05e967d01ffa968b9c550e1" approved="yes" translated="yes">
@@ -1059,14 +1059,14 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Tipo de aquisição da incorporação</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="8f690053c5a934ec3d22a8c4db84e1c7c1db52ef">
+      <trans-unit id="8f690053c5a934ec3d22a8c4db84e1c7c1db52ef" approved="no">
         <source>Accession alternative identifier</source>
-        <target/>
+        <target state="translated">Identificador alternativo de acesso</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="b0444ca6a89ac9ede54e88c692f1c0059562f0b2">
+      <trans-unit id="b0444ca6a89ac9ede54e88c692f1c0059562f0b2" approved="no">
         <source>Accession alternative identifier type</source>
-        <target/>
+        <target state="translated">Tipo de identificador alternativo de acesso</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="c9df8646e368f45d8085a69e9a3a50e584fb623d" approved="yes" translated="yes">
@@ -1554,9 +1554,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Permitir</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="20a61b49fb16be8008aef5aad33e3f6c1c0ebf5b">
+      <trans-unit id="20a61b49fb16be8008aef5aad33e3f6c1c0ebf5b" approved="no">
         <source>Allow any valid URI PATH segment character to appear in a slug, including UTF-8 glyphs. Restricted IRI characters ( /?#{} ) and literal spaces will be replaced with dashes</source>
-        <target/>
+        <target state="translated">Permitir qualquer carácter de segmento URI PATH válido  aparecer num slug, incluindo glifos UTF-8. Caracteres IRI restritos ( /?#{} ) e espaços literais serão substituídos por traços</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="19c2371f978067e85c99e10fecb57b3438930f2f" approved="yes" translated="yes">
@@ -2639,14 +2639,14 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Nota DACS</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="41916620b0cf0e36e71b87df105e6457e94cdfed">
+      <trans-unit id="41916620b0cf0e36e71b87df105e6457e94cdfed" approved="no">
         <source>DACS template - area headings</source>
-        <target/>
+        <target state="translated">Modelo DACS - área cabeçalhos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="15b15fb65608a7f95b836e8abfade5852ffbb6a8">
+      <trans-unit id="15b15fb65608a7f95b836e8abfade5852ffbb6a8" approved="no">
         <source>DACS template - elements</source>
-        <target/>
+        <target state="translated">Modelo DACS - elementos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="a7205d1e4bab4d2e6c333c8900cee76cbdb84393" approved="yes" translated="yes">
@@ -2684,9 +2684,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Data (baseada na data de início)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/itemOrFileListAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f40b04215da44b7efbff8487752bdfb118ff634f">
+      <trans-unit id="f40b04215da44b7efbff8487752bdfb118ff634f" approved="no">
         <source>Date calculation started.</source>
-        <target/>
+        <target state="translated">Calculo da data iniciado.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/calculateDatesAction.class.php</note>
       </trans-unit>
       <trans-unit id="dcef8297cd84445acb4ad6b84e674163d3d9765e" approved="yes" translated="yes">
@@ -2839,9 +2839,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Formulário predefinido</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="2147a217c9f8f4d56b0b2e236ab2ae0f34662e5a">
+      <trans-unit id="2147a217c9f8f4d56b0b2e236ab2ae0f34662e5a" approved="no">
         <source>Default templates saved.</source>
-        <target/>
+        <target state="translated">Modelos padrão gravados.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/templateAction.class.php</note>
       </trans-unit>
       <trans-unit id="f6fdbe48dc54dd86f63097a03bd24094dedd713a" approved="yes" translated="yes">
@@ -2964,9 +2964,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Atualizações da descrição</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="a062a7b2869f26c0d3fc4bbd38941f3aa5be9457">
+      <trans-unit id="a062a7b2869f26c0d3fc4bbd38941f3aa5be9457" approved="no">
         <source>Determines whether to show a link to the browse hierarchy page on the information objects browse/search pages</source>
-        <target/>
+        <target state="translated">Determina se deve ser mostrado um link para a página de navegação da hierarquia nas páginas de navegação/procura objetos de informação</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="1960d8900caf58abb54302c86ed8315cfbc2d3d3" approved="yes" translated="yes">
@@ -3464,9 +3464,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Editar senha</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/passwordEditSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ec2e306ec0869a064528aa5f9180d82f5d7a8cd1">
+      <trans-unit id="ec2e306ec0869a064528aa5f9180d82f5d7a8cd1" approved="no">
         <source>Editing history</source>
-        <target/>
+        <target state="translated">Editando histórico</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="71a1ca18209db3318a9dc4e4ed7ecc5a604fbc32" approved="yes" translated="yes">
@@ -3549,9 +3549,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Vazio: %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/actions/browseAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f01229120c68d5a8dd7826c901229cb90155096b">
+      <trans-unit id="f01229120c68d5a8dd7826c901229cb90155096b" approved="no">
         <source>Enable Markdown support</source>
-        <target/>
+        <target state="translated">Ativar suporte para Markdown</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/markdownSuccess.php</note>
       </trans-unit>
       <trans-unit id="703d28e72d95e4b8a8ffd46f41a8d51e0905532e" approved="yes" translated="yes">
@@ -3564,9 +3564,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Ativar a atualização automática de notificações</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="962b3315691a1bd892ff125cbe99b9567faa4cdc">
+      <trans-unit id="962b3315691a1bd892ff125cbe99b9567faa4cdc" approved="no">
         <source>Enable clipboard send functionality</source>
-        <target/>
+        <target state="translated">Ativar a funcionalidade de envio da área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="849510ba30fb00121f54ba31f7a319bce5388498" approved="yes" translated="yes">
@@ -3574,9 +3574,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Ativar declaração de direitos de autor</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="050b73babb390d98d6e0c6435784060a843927a1">
+      <trans-unit id="050b73babb390d98d6e0c6435784060a843927a1" approved="no">
         <source>Enable description change logging</source>
-        <target/>
+        <target state="translated">Ativar registo de alterações de descrição</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="d6395f068ba11d205da4a6492fefdd088ee4ecea" approved="yes" translated="yes">
@@ -3694,9 +3694,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Erro</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/findingAidComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="9affd41f809d36eca8804dd972e7421228270fa0">
+      <trans-unit id="9affd41f809d36eca8804dd972e7421228270fa0" approved="no">
         <source>Error: You must have at least one %1%Level of description%2% selected or choose %1%Include all descendant levels of description%2% to proceed.</source>
-        <target/>
+        <target state="translated">Erro: Você deve ter pelo menos%1% Nível de descrição%2% selecionado ou escolhido %1%Incluir todos os níveis de descrição descendentes%2% para prosseguir.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
       </trans-unit>
       <trans-unit id="be5d240ee357271eba10fb02d39f20137df4e479" approved="yes" translated="yes">
@@ -3794,9 +3794,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Opções de exportação</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="92a8228af0cca31296548d09aefd1471c03cfac2">
+      <trans-unit id="92a8228af0cca31296548d09aefd1471c03cfac2" approved="no">
         <source>Export storage report</source>
-        <target/>
+        <target state="translated">Exportar relatório de armazenamento</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="71a1260f76544c68e3425a1c076e5499b0002fbb" approved="yes" translated="yes">
@@ -3819,14 +3819,14 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>URI externo</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="bf20a49b9a909ddbaffd2f27c8e2253a654c3f05">
+      <trans-unit id="bf20a49b9a909ddbaffd2f27c8e2253a654c3f05" approved="no">
         <source>External URL to send clipboard contents to</source>
-        <target/>
+        <target state="translated">URL externo para enviar o conteúdo da área de transferência para</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="57f8564e8c8c1fba4214116f6a9ec2b0fdcfd748">
+      <trans-unit id="57f8564e8c8c1fba4214116f6a9ec2b0fdcfd748" approved="no">
         <source>External file</source>
-        <target/>
+        <target state="translated">Ficheiro externo</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4efb6cb7c018f0c686d4e9d68b615950223b4dd1" approved="yes" translated="yes">
@@ -3924,9 +3924,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Final</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="14a210a056a2c2b691da36fb481624ac71b3fa16">
+      <trans-unit id="14a210a056a2c2b691da36fb481624ac71b3fa16" approved="no">
         <source>Find results where:</source>
-        <target/>
+        <target state="translated">Encontre resultados onde:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="1d418f9a4f336e7d5a4571efa07895625a635204" approved="yes" translated="yes">
@@ -4236,9 +4236,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Configurações globais</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/globalSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d81513dec60d34e27cb432c8e53c98e241b76225">
+      <trans-unit id="d81513dec60d34e27cb432c8e53c98e241b76225" approved="no">
         <source>Global settings saved.</source>
-        <target/>
+        <target state="translated">Configurações globais gravadas.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/globalAction.class.php</note>
       </trans-unit>
       <trans-unit id="4c864cb10a96b34f4b4cf1ea187104a657158402" approved="yes" translated="yes">
@@ -4301,9 +4301,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Grupos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="0524a68bbf49da748d2e1aab162bd304ba8f2d8b">
+      <trans-unit id="0524a68bbf49da748d2e1aab162bd304ba8f2d8b" approved="no">
         <source>HTTP method to use when sending clipboard contents</source>
-        <target/>
+        <target state="translated">Método HTTP a ser usado ao enviar o conteúdo da área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="5f4fe34e347c71f32427fcb74edb078bf5eed941" approved="yes" translated="yes">
@@ -4321,9 +4321,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Olá, %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_userMenu.php</note>
       </trans-unit>
-      <trans-unit id="40b1f2a903a68c126e28f48e3edfa9785a4a660e">
+      <trans-unit id="40b1f2a903a68c126e28f48e3edfa9785a4a660e" approved="no">
         <source>Hide hierarchy</source>
-        <target/>
+        <target state="translated">Ocultar hierarquia</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="3ed71999e2a205e7dd06687ed5dd96f7d22fdd01" approved="yes" translated="yes">
@@ -4476,9 +4476,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Identificador indisponível.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/checkIdentifierAvailableAction.class.php</note>
       </trans-unit>
-      <trans-unit id="e057026030ab8d3892a0ba2794e790549c6704e4">
+      <trans-unit id="e057026030ab8d3892a0ba2794e790549c6704e4" approved="no">
         <source>Identifier-related</source>
-        <target/>
+        <target state="translated">Identificador-relacionado</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="65ffffa00892a2a3b59131b0112c61a88dc5d8e4" approved="yes" translated="yes">
@@ -4687,9 +4687,9 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
         <target>Em progresso</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/findingAidComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="46ac7d4191ce56511942267ed3fddd6d980fe7a6">
+      <trans-unit id="46ac7d4191ce56511942267ed3fddd6d980fe7a6" approved="no">
         <source>In the "Action" selector, indicate whether you want to &lt;strong&gt;merge&lt;/strong&gt; the saved clipboard with the entries on the current clipboard or &lt;strong&gt;replace&lt;/strong&gt; (overwrite) the current clipboard with the saved one.</source>
-        <target/>
+        <target state="translated">No seletor "Ação", indique se quer  &lt;strong&gt;fundir&lt;/strong&gt; a área de transferência gravada com as entradas da área de transferência atual ou &lt;strong&gt;substituir&lt;/strong&gt; (sobrescrever) a área de transferência atual com a anteriormente gravada.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
       </trans-unit>
       <trans-unit id="7a63007efa8922530549ff1fa9159c9cd6a8ded3" approved="yes" translated="yes">
@@ -4702,9 +4702,9 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
         <target>Em progresso</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="1563c715de23e28b53c68ea7aac835dbcf5d7e3b">
+      <trans-unit id="1563c715de23e28b53c68ea7aac835dbcf5d7e3b" approved="no">
         <source>Include all descendant levels of description</source>
-        <target/>
+        <target state="translated">Incluir todos os níveis de descrição descendentes</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
       </trans-unit>
       <trans-unit id="f2814000ca36568f871fcc44e51d5f6924dd6b0c">
@@ -7600,9 +7600,9 @@ elaboração da descrição. (ISAD 3.7.2)</target>
         <target>Diretório de depósito SWORD</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="e658b2249d48c4f427a38fd312d7f97bcdccc88d">
+      <trans-unit id="e658b2249d48c4f427a38fd312d7f97bcdccc88d" approved="no">
         <source>SWORD plugin setting changed: the AtoM worker must be restarted for this change to take effect.</source>
-        <target/>
+        <target state="translated">A configuração do plug-in SWORD foi alterada: o AtoM worker tem que ser reiniciado para que esta alteração tenha efeito.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfPluginAdminPlugin/modules/sfPluginAdminPlugin/actions/pluginsAction.class.php</note>
       </trans-unit>
       <trans-unit id="6df74794c02a082a6a784cde86a2b95263645e31" approved="yes" translated="yes">
@@ -7615,9 +7615,9 @@ elaboração da descrição. (ISAD 3.7.2)</target>
         <target>Guardar</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/editThemeSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a8cc93be254c25a50ec105adc97e01b94a32d6df">
+      <trans-unit id="a8cc93be254c25a50ec105adc97e01b94a32d6df" approved="no">
         <source>Save clipboard</source>
-        <target/>
+        <target state="translated">Guardar área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="d75e3c618d00b000ad2fc6f803bbf02abba350c0" approved="yes" translated="yes">
@@ -7963,19 +7963,19 @@ registos completos são os que fornecem informação para todos os elementos de 
         <target>Auto-relação ignorada.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="9bc2575c3930437e80555f78757b783c842e8e66">
+      <trans-unit id="9bc2575c3930437e80555f78757b783c842e8e66" approved="no">
         <source>Send</source>
-        <target/>
+        <target state="translated">Enviar</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ecf85a87c22d3907972a5810bbb87b82310dda97">
+      <trans-unit id="ecf85a87c22d3907972a5810bbb87b82310dda97" approved="no">
         <source>Send button text</source>
-        <target/>
+        <target state="translated">Enviar texto do botão</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c338c191ab1e9319ba354d56467b938e0ba4e119">
+      <trans-unit id="c338c191ab1e9319ba354d56467b938e0ba4e119" approved="no">
         <source>Sending...</source>
-        <target/>
+        <target state="translated">A enviar...</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardSendAction.class.php</note>
       </trans-unit>
       <trans-unit id="40c20d94e78fa142819df8cc9440d30e65329975" approved="yes" translated="yes">
@@ -8058,9 +8058,9 @@ registos completos são os que fornecem informação para todos os elementos de 
         <target>Mostrar datas</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8d0ce5b1206611efe82404b95ab45cf6f4b44d4b">
+      <trans-unit id="8d0ce5b1206611efe82404b95ab45cf6f4b44d4b" approved="no">
         <source>Show hierarchy</source>
-        <target/>
+        <target state="translated">Mostrar hierarquia</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="f34d14b839c2b0dddd05df5d65fd2e5a36d131b6" approved="yes" translated="yes">
@@ -8153,9 +8153,9 @@ registos completos são os que fornecem informação para todos os elementos de 
         <target>Slug em uso</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/renameSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7d29b99a08bb299d0d339920033792c9b1638d5a">
+      <trans-unit id="7d29b99a08bb299d0d339920033792c9b1638d5a" approved="no">
         <source>Slug must be provided</source>
-        <target/>
+        <target state="translated">Slug tem que ser providenciado</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/actorEventsAction.class.php</note>
       </trans-unit>
       <trans-unit id="63908f0596e5c41b4a5c7bb02ffedfea5dabbd40" approved="yes" translated="yes">
@@ -8617,9 +8617,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target>Texto que descreve a licença ou acordo que atribui a permissão ou permite ligar a um servidor com o texto integral. Poderá conter o texto completo, uma frase ou sumário.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b08c1677ae9fd48f17e1b6572608dfede449df0c">
+      <trans-unit id="b08c1677ae9fd48f17e1b6572608dfede449df0c" approved="no">
         <source>Text or HTML to display when sending clipboard contents</source>
-        <target/>
+        <target state="translated">Texto ou HTML para exibir ao enviar o conteúdo da área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="22046eaaddff9c1ff38b1b26123d8ea2b03384d2" approved="yes" translated="yes">
@@ -8967,9 +8967,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <source>This record has not yet been reviewed for personal or confidential information. Please contact the Reference Archivist to request access and initiate an access review.</source>
         <target>Este registo ainda não foi revisto para obter informações pessoais ou confidenciais. Por favor contacte o Arquivista em referência para solicitar o acesso e começar uma revisão de acesso.</target>
       </trans-unit>
-      <trans-unit id="02e4ad7f88566779ac3cae243dcc57c91c088e9f">
+      <trans-unit id="02e4ad7f88566779ac3cae243dcc57c91c088e9f" approved="no">
         <source>This term is used in %1% records. The term will be deleted from these records.</source>
-        <target/>
+        <target state="translated">Este termo é usado em %1% de registos. O termo será apagado desses registos.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="e0b11377ac38712be06c421d2bf188df60a42562" approved="yes" translated="yes">
@@ -9404,9 +9404,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target>Utilizador %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="81939432dd6709fa9c725744b383574c6686356c">
+      <trans-unit id="81939432dd6709fa9c725744b383574c6686356c" approved="no">
         <source>User actions</source>
-        <target/>
+        <target state="translated">Ações do utilizador</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="5082f10cda4623dcac09a6c3ba01ce46fec44fc4" approved="yes" translated="yes">
@@ -9539,9 +9539,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target>Elementos visíveis</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1c2e1d79cc5d89a3fd2cc01a0aabd57a0a294028">
+      <trans-unit id="1c2e1d79cc5d89a3fd2cc01a0aabd57a0a294028" approved="no">
         <source>Visible elements configuration saved.</source>
-        <target/>
+        <target state="translated">Configuração de elementos visíveis gravada.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/visibleElementsAction.class.php</note>
       </trans-unit>
       <trans-unit id="52212f0c524e310b9205e4da7793fad36f4363c5" approved="yes" translated="yes">
@@ -9699,9 +9699,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target>O navegador não aceita JavaScript. Verifique os %1%requisitos mínimos%2%.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="483306b6ae95797b695bf358e2ea9125b9919553">
+      <trans-unit id="483306b6ae95797b695bf358e2ea9125b9919553" approved="no">
         <source>Your description has been updated. Its descendants are being updated asynchronously – check the &lt;a href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
-        <target/>
+        <target state="translated">A sua descrição foi atualizada. O seus descendentes estão a ser atualizados de forma assíncrona - verifique a &lt;a href="%1"&gt; página do gestor de tarefas&lt;/a&gt; para ver o estado e detalhes.</target>
       </trans-unit>
       <trans-unit id="7c6ebbcaa294e78319d052103c0780f99d305c52" approved="yes" translated="yes">
         <source>Your description has been updated. Lower level descriptions are being updated now – check the &lt;a href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
