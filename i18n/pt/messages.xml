@@ -2259,9 +2259,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Limpar tarefas inativas</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b7b743f536d97b8573750e05b4ac448792b8f3bf">
+      <trans-unit id="b7b743f536d97b8573750e05b4ac448792b8f3bf" approved="no">
         <source>Click 'Calculate dates' to recalculate the start and end dates of a parent-level description. A job runs in the background, accounting for the earliest and most recent dates across all the child descriptions. The results display in the Start and End fields of the edit page.</source>
-        <target/>
+        <target state="translated">Clique em "Calcular datas" para recalcular as datas inicial e final de uma descrição nos níveis superiores. Uma tarefa é executada em segundo plano, respondendo pelas datas mais antigas e mais recentes em todas as descrições em níveis mais baixos. Os resultados são exibidos nos campos Início e Fim da página de edição.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
       </trans-unit>
       <trans-unit id="8018bc225b776673ea47049f6cd786103ef99324" approved="yes" translated="yes">
@@ -2274,9 +2274,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Área de transferência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e0430318d894a1b1321393ccf8c88c953c882b91">
+      <trans-unit id="e0430318d894a1b1321393ccf8c88c953c882b91" approved="no">
         <source>Clipboard %1% loaded, %2% records %3%.</source>
-        <target/>
+        <target state="translated">Área de transferência %1% carregado, %2% registos %3%.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardLoadAction.class.php</note>
       </trans-unit>
       <trans-unit id="9899cad5e99d55528b1f277029682b32c3595dd9" approved="yes" translated="yes">
@@ -4571,9 +4571,9 @@ Procure um termo existente na taxonomia &lt;em&gt;Locais&lt;/em&gt; digitando os
         <target>Se conhecido, indique se são esperados ou não mais acréscimos. Quando for o caso, indique a frequência e o volume. (DACS 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="781c959c92fe9cb5304dcef617e3998def02cc66">
+      <trans-unit id="781c959c92fe9cb5304dcef617e3998def02cc66" approved="no">
         <source>If no levels are selected, the export will fail. You can use the control (Mac ⌘) and/or shift keys to multi-select values from the Levels of description menu. It is necessary to include the level(s) above the desired export level, up to and including the level contained in the clipboard. Otherwise, no records will be included in the export.</source>
-        <target/>
+        <target state="translated">Se nenhum nível for seleccionado, a exportação falhará. Pode utilizar o comando de controle (Mac ⌘) e/ou shift para seleccionar vários valores disponíveis no menu Níveis de descrição. É necessário incluir o(s) nível/níveis acima do nível de exportação desejado, até e incluindo o nível contido na área de transferência. De outra forma, nenhum registo será incluído na exportação.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
       </trans-unit>
       <trans-unit id="daf30d89f9968099a1c838a965b907b3865183cf" approved="yes" translated="yes">
@@ -4707,14 +4707,14 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
         <target state="translated">Incluir todos os níveis de descrição descendentes</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f2814000ca36568f871fcc44e51d5f6924dd6b0c">
+      <trans-unit id="f2814000ca36568f871fcc44e51d5f6924dd6b0c" approved="no">
         <source>Include containers linked to accessions</source>
-        <target/>
+        <target state="translated">Incluir contentores relacionados com as incorporações.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2bc43226df1ac86e32467495586bb46ef07591b4">
+      <trans-unit id="2bc43226df1ac86e32467495586bb46ef07591b4" approved="no">
         <source>Include containers linked to descriptions</source>
-        <target/>
+        <target state="translated">Incluir contentores relacionados com as descrições.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="6a3a406e4bb13f7409892a6b2de4b09ab663482d" approved="yes" translated="yes">
@@ -4737,9 +4737,9 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
         <target>Incluir script de transformação</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="64f5b6914d348c81202834599e782f365608d838">
+      <trans-unit id="64f5b6914d348c81202834599e782f365608d838" approved="no">
         <source>Include unlinked containers</source>
-        <target/>
+        <target state="translated">Incluir contentores sem relações.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="387fd1bbc18419e26c612f4acad9213e5073ade4" approved="yes" translated="yes">
@@ -4822,9 +4822,9 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
         <target>Herdar código de referência</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/treeviewAction.class.php</note>
       </trans-unit>
-      <trans-unit id="ae62284b8ff262eb2a9dd5ed22491de9e3f5c18b">
+      <trans-unit id="ae62284b8ff262eb2a9dd5ed22491de9e3f5c18b" approved="no">
         <source>Inherit reference code (DC XML)</source>
-        <target/>
+        <target state="translated">Herdar o código de referência (DC XML).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="0953760ce30d75c4960d0196dd2bc662bc621b79" approved="yes" translated="yes">
@@ -5062,9 +5062,9 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
         <target>Idiomas do material</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="32261df5e59a0d8648c5f02a29ec40d297eb62fe">
+      <trans-unit id="32261df5e59a0d8648c5f02a29ec40d297eb62fe" approved="no">
         <source>Last run:</source>
-        <target/>
+        <target state="translated">Última operação:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
       </trans-unit>
       <trans-unit id="583c9e23574a88177a3d4dee17f36f82081ab201" approved="yes" translated="yes">
@@ -5576,9 +5576,9 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
         <target>Documentos diversos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="e3ea079ded57effba0d3c11311c33855f14ee35e">
+      <trans-unit id="e3ea079ded57effba0d3c11311c33855f14ee35e" approved="no">
         <source>Modification</source>
-        <target/>
+        <target state="translated">Modificação</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="405f45092d843a1d3838d8a5b8852228db0dfbb7" approved="yes" translated="yes">
