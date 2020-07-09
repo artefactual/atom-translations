@@ -9,14 +9,16 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 10:51-0700\n"
-"PO-Revision-Date: 2019-02-04 21:05+0000\n"
-"Last-Translator: eugene_papadopoulos <eugenios.papadopoulos@gmail.com>\n"
-"Language-Team: Greek (http://www.transifex.com/artefactual/atom/language/el/)\n"
+"PO-Revision-Date: 2021-01-19 21:32+0000\n"
+"Last-Translator: mvrach <vraxlib@gmail.com>\n"
+"Language-Team: Greek <http://translations.artefactual.com/projects/atom/"
+"website/el/>\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: el\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 
 #: atom/settings/base.py:76
 msgid "English"
@@ -28,11 +30,11 @@ msgstr "Ισπανικά"
 
 #: atom/settings/base.py:78
 msgid "Italian"
-msgstr ""
+msgstr "Ιταλικά"
 
 #: atom/settings/base.py:79
 msgid "French"
-msgstr ""
+msgstr "Γαλλικά"
 
 #: atom/settings/base.py:80
 msgid "Portuguese"
@@ -40,15 +42,15 @@ msgstr "Πορτογαλικά"
 
 #: atom/settings/base.py:81
 msgid "Slovenian"
-msgstr ""
+msgstr "Σλοβένικα"
 
 #: atom/settings/base.py:82
 msgid "Catalan"
-msgstr ""
+msgstr "Καταλανικά"
 
 #: atom/settings/base.py:83
 msgid "Korean"
-msgstr ""
+msgstr "Κορεάτικα"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:5
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
@@ -65,6 +67,10 @@ msgid ""
 "        %(project_name)s is a legacy release, and these documents are no longer being maintained.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s είναι μια έκδοση παλαιού τύπου και τα συγκεκριμένα "
+"έγγραφα δε συντηρούνται πλέον\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:16
 #, python-format
@@ -81,6 +87,9 @@ msgid ""
 "        %(project_name)s is our latest release.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s1 είναι η πιο πρόσφατη έκδοσή μας.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:26
 #, python-format
@@ -89,6 +98,10 @@ msgid ""
 "        %(project_name)s is our latest release, and its documentation is a work in progress.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s1 είναι η τελευταία μας έκδοση και η τεκμηρίωσή της "
+"είναι έργο σε εξέλιξη.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:31
 #, python-format
@@ -97,6 +110,10 @@ msgid ""
 "        %(project_name)s has not been released yet, and its documentation is a work in progress.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s1 δεν έχει κυκλοφορήσει ακόμη και η τεκμηρίωσή του "
+"είναι ένα έργο σε εξέλιξη.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:60
 msgid "Table of contents"
@@ -113,14 +130,18 @@ msgid ""
 "              <p>Open the <a href=\"%(genindex_url)s\">general index</a> or type your search in the search box.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>1Open the <a href=\"%(genindex_url)s\">2general index</a>3 "
+"or type your search in the search box.</p>4\n"
+"            "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:98
 msgid "Available documents"
-msgstr ""
+msgstr "Διαθέσιμα έγγραφα"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:108
 msgid "Edit this document"
-msgstr ""
+msgstr "Επεξεργαστείτε αυτό το έγγραφο"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:110
 msgid "Source code"
@@ -132,7 +153,7 @@ msgstr "Τελευταία ενημέρωση"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:5
 msgid "General Index"
-msgstr ""
+msgstr "Γενικό Ευρετήριο"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:30
 msgid "[Link]"
@@ -140,16 +161,16 @@ msgstr "[Σύνδεσμος]"
 
 #: sphinxdoc/templates/sphinxdoc/modindex.html:5
 msgid "Module Index"
-msgstr ""
+msgstr "Ευρετήριο ενότητας"
 
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
 #: sphinxdoc/templates/sphinxdoc/project_list.html:9
 msgid "Project list"
-msgstr ""
+msgstr "Λίστα του Project"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:4
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:8
 msgid "Search results"
@@ -175,7 +196,7 @@ msgstr "Αρχική"
 #: templates/base.html:76 templates/footer.html:20
 #: templates/pages/download.html:4 templates/pages/download.html.py:10
 msgid "Downloads"
-msgstr ""
+msgstr "Λήψεις"
 
 #: templates/base.html:92
 msgid "Other resources (wiki)"
@@ -205,7 +226,7 @@ msgstr "Νέα"
 
 #: templates/base.html:106 templates/footer.html:37
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: templates/base.html:108 templates/footer.html:21
 msgid "Demo"
@@ -217,7 +238,7 @@ msgstr "Δοκιμάστε το τώρα!"
 
 #: templates/base.html:113
 msgid "Other sites"
-msgstr ""
+msgstr "Άλλοι ιστότοποι"
 
 #: templates/footer.html:12
 msgid "Language"
@@ -225,7 +246,7 @@ msgstr "Γλώσσα"
 
 #: templates/footer.html:17
 msgid "Explore"
-msgstr ""
+msgstr "Εξερεύνηση"
 
 #: templates/footer.html:34
 msgid "Help"
@@ -242,22 +263,23 @@ msgstr "Υπηρεσίες"
 #: templates/footer.html:53
 msgid "Artefactual is the lead developer of Archivematica and AtoM."
 msgstr ""
+"Το Artefactual είναι ο κύριος προγραμματιστής των Archivematica και AtoM."
 
 #: templates/footer.html:55
 msgid "Access to Memory documentation"
-msgstr ""
+msgstr "Access to Memory έγγραφα"
 
 #: templates/footer.html:55
 msgid "is licensed under a"
-msgstr ""
+msgstr "είναι υπό την άδεια"
 
 #: templates/footer.html:55
 msgid "Creative Commons Attribution-ShareAlike 4.0 International License"
-msgstr ""
+msgstr "Creative Commons Attribution-ShareAlike 4.0 Διεθνής Άδεια"
 
 #: templates/footer.html:57
 msgid "© 2015 Artefactual Systems Inc. All rights reserved."
-msgstr ""
+msgstr "© 2015 Artefactual Systems Inc.Με επιφύλαξη παντός δικαιώματος."
 
 #: templates/pages/community/develop.html:13
 #: templates/pages/community/participate.html:13
@@ -266,10 +288,13 @@ msgid ""
 "          <p>Work in progress!</p>\n"
 "        "
 msgstr ""
+"\n"
+"          <p>1Εργασία σε εξέλιξη!</p>2\n"
+"        "
 
 #: templates/pages/community/support.html:19
 msgid "User forum"
-msgstr ""
+msgstr "Forum Χρηστών"
 
 #: templates/pages/community/support.html:20
 msgid ""
@@ -277,10 +302,16 @@ msgid ""
 "              <p>Our <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">User Forum</a> is the main place where user come to seek help, make announcements, share resources, and discuss issues relevant to the software and the community.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>1Our <a href=\"https://groups.google.com/forum/#!forum/ica-"
+"atom-users\">2 Forum Χρηστών</a>3 είναι ο κύριος χώρος όπου ο χρήστης "
+"έρχεται να ζητήσει βοήθεια, να κάνει ανακοινώσεις, να μοιραστεί πόρους και "
+"να συζητήσει θέματα σχετικά με το λογισμικό και την κοινότητα.</p>4\n"
+"            "
 
 #: templates/pages/community/support.html:26
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: templates/pages/community/support.html:27
 msgid ""
@@ -288,10 +319,15 @@ msgid ""
 "              <p>Follow <a href=\"https://twitter.com/accesstomemory\">AtoM on Twitter (@accesstomemory)</a> to keep up with the latest announcements and connect with other users.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>1Follow <a href=\"https://twitter.com/accesstomemory\">"
+"2AtoM on Twitter (@accesstomemory)</a>3 για να παρακολουθείτε τις τελευταίες "
+"ανακοινώσεις και να επικοινωνείτε με άλλους χρήστες.</p>4\n"
+"            "
 
 #: templates/pages/community/support.html:37
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: templates/pages/community/support.html:38
 msgid ""
@@ -299,10 +335,18 @@ msgid ""
 "              <p>AtoM's code is hosted on <a href=\"https://github.com/artefactual/atom\">Github</a>. We welcome pull requests and comments related to our code. For further information, please see <a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">Contribute Code.</a> </p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>1Ο κώδικας του AtoM φιλοξενείται στο <a href=\""
+"https://github.com/artefactual/atom\">2Github</a>3. \n"
+"Χαιρετίζουμε τα αιτήματα έλξης και τα σχόλια που σχετίζονται με τον κωδικό "
+"μας. Για περισσότερες πληροφορίες, δείτε <a href=\""
+"https://wiki.accesstomemory.org/Development/Contribute_code\">4Contribute "
+"Code.</a>5 </p>6\n"
+"            "
 
 #: templates/pages/community/support.html:44
 msgid "Redmine issue tracker"
-msgstr ""
+msgstr "Redmine issue tracker"
 
 #: templates/pages/community/support.html:45
 msgid ""
@@ -310,10 +354,16 @@ msgid ""
 "              <p>Found a bug and want to know if it's already been reported? Want to see the status of a current release under development? Checkout our Issue tracker <a href=\"https://projects.artefactual.com/\">here</a>.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>1 Βρήκατε ένα σφάλμα και θέλετε να μάθετε εάν έχει ήδη "
+"αναφερθεί; Θέλετε να δείτε την κατάσταση μιας τρέχουσας κυκλοφορίας υπό "
+"ανάπτυξη; Ρίξτε μια ματιά στο Issue tracker <a href=\""
+"https://projects.artefactual.com/\">2here</a>3.</p>4\n"
+"            "
 
 #: templates/pages/community/support.html:53
 msgid "Before requesting support"
-msgstr ""
+msgstr "Πριν καταθέσετε αίτημα υποστήριξης"
 
 #: templates/pages/community/support.html:55
 #, python-format
@@ -323,10 +373,29 @@ msgid ""
 "            <p>Other places to check for information include the <a href=\"https://wiki.accesstomemory.org/FAQ\">FAQ</a> (note the FAQ is also undergoing an upgrade soon!), and of course, <strong>previous questions asked by users in our User Forum</strong>, which have been answered by <a href=\"http://www.artefactual.com/\">Artefactual</a> team members and/or knowledgeable community participants. We've answered a LOT of questions over the years, and the odds are good that someone has run into the same problem as you!</p>\n"
 "          "
 msgstr ""
+"\n"
+"            <p>Πριν αναζητήσετε βοήθεια, παρακαλούμε χρησιμοποιείστε τις "
+"διαθέσιμες online πηγές, όπου μπορείτε να βρείτε απαντήσεις στα περισσότερα "
+"ερωτήματα. Η πιο σημαντική είναι η <a href=\"%(url_doclist)s\""
+">2documentation</a>3. Ένα μεγάλο μέρος των ερωτήσεων που τίθενται στο Forum "
+"χρηστών μπορούν να απαντηθούν εύκολαA great majority of questions asked in "
+"the AtoM User Forum απαντώνται εύκολα μέσω απλών αναζητήσεων των εγγράφων "
+"μας ή μέσω απευθείας των εγγράφων <a href=\"%(url_doclist)s\">4Σελίδα "
+"Ευρετηρίου</a>5. Εργαζόμαστε επίσης, σκληρά για να βελτιώσουμε τα έγγραφά "
+"μας και αυτή τη στιγμή αλλάζουν σε καθημερινή βάση, μερικές φορές δραματικά. "
+"Φροντίστε να κοιτάξετε τα πιο πρόσφατα πριν ζητήσετε υποστήριξη.</p>6\n"
+"            <p>7 Άλλα σημεία για να αναζητήσετε πληροφορίες περιλαμβάνουν "
+"τις <a href=\"https://wiki.accesstomemory.org/FAQ\">8FAQ</a>9 (που επίσης "
+"πρόκειται να ανανεωθούν), και βεβαίως, <strong>0προηγούμενες ερωτήσεις "
+"χρηστών στο Forum μας</strong>, οι οποίες απαντήθηκαν από τα μέλη της ομάδας<"
+"a href=\"http://www.artefactual.com/\">Artefactual</a> και από άλλα έμπειρα "
+"μέλη της κοινότητάς  μας. Έχουμε απαντήσει σε πολλές ερωτήσεις όλα αυτά τα "
+"χρόνια και είναι πιθανόν κάποιος να αντιμετώπισε το ίδιο πρόβλημα με εσάς!\n"
+"          "
 
 #: templates/pages/community/support.html:62
 msgid "Posting to the User forum"
-msgstr ""
+msgstr "Ανάρτηση στο Forum Χρηστών"
 
 #: templates/pages/community/support.html:65
 msgid ""
@@ -335,6 +404,30 @@ msgid ""
 "                <p>If you are interested in commercial support from Artefactual, please see <a href=\"http://www.artefactual.com/services/atom-2/\">our website</a> for the services we offer.</p>\n"
 "              "
 msgstr ""
+"\n"
+"                <p>1To <a href=\"https://groups.google.com/forum/#!forum/ica-"
+"atom-users\">2AtoM Forum Χρηστών</a>3 είναι το καλύτερο μέρος για να "
+"λαμβάνετε διαδραστικά σχόλια από άλλους χρήστες και προγραμματιστές AtoM. <a "
+"href=\"http://www.artefactual.com/\">4Artefactual</a>5, \n"
+"οι κορυφαίοι προγραμματιστές του AtoM, εποπτεύουν το φόρουμ χρηστών και "
+"προσπαθούμε, όποτε είναι δυνατόν, να δημοσιεύσουμε απαντήσεις σε απλές "
+"ερωτήσεις χρηστών εντός 24 ωρών από την ανάρτησή τους (κατά τις εργάσιμες "
+"ώρες του M-F - βρισκόμαστε στη ζώνη ώρας του Ειρηνικού). Πρόκειται για μια "
+"δωρεάν υπηρεσία που παρέχουμε όσο μπορούμε, και ελπίζουμε να δούμε "
+"περισσότερους χρήστες της κοινότητας να δραστηριοποιούνται με την πάροδο του "
+"χρόνου στην απάντηση των ερωτήσεων του άλλου. Όταν πιστεύουμε ότι ένα "
+"συγκεκριμένο ερώτημα είναι πέρα από αυτές τις δωρεάν παραμέτρους "
+"υποστήριξης, θα ενημερώσουμε τον χρήστη ότι μπορεί να είναι απαραίτητο να το "
+"αντιμετωπίσει ως πληρωμένη, εμπορική υποστήριξη. Στα παραδείγματα αυτά "
+"περιλαμβάνονται πολύ σε βάθος και χρονοβόρες ερωτήσεις που περιλαμβάνουν μη "
+"υποστηριζόμενα εργαλεία ή πλατφόρμες. Λάβετε υπόψη ότι πρέπει να δώσουμε "
+"προτεραιότητα στις αναθέσεις των πελατών μας, ώστε να μπορούμε να πληρώσουμε "
+"τους λογαριασμούς μας και να συνεχίσουμε να παρέχουμε δωρεάν λογισμικό και "
+"δωρεάν κοινοτική υποστήριξη.</p>6\n"
+"                <p>7Εάν ενδιαφέρεστε για εμπορική υποστήριξη από το "
+"Artefactual, παρακαλούμε δείτε<a href=\"http://www.artefactual.com/services/"
+"atom-2/\">8our website</a>9 for the services we offer.</p>0\n"
+"              "
 
 #: templates/pages/community/support.html:71
 msgid ""
@@ -342,18 +435,23 @@ msgid ""
 "                    <p>Subscribe to the list or <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">visit the online version</a>!</p>\n"
 "                  "
 msgstr ""
+"\n"
+"                    <p>1Εγγραφείτε στη λίστα ή<a href=\""
+"https://groups.google.com/forum/#!forum/ica-atom-users\">2επισκεφθείτε την "
+"online έκδοση</a>3!</p>4\n"
+"                  "
 
 #: templates/pages/community/support.html:75
 msgid "Enter your e-mail address"
-msgstr ""
+msgstr "Εισάγετε το e-mail σας"
 
 #: templates/pages/community/support.html:77
 msgid "Subscribe"
-msgstr ""
+msgstr "Εγγραφείτε"
 
 #: templates/pages/community/support.html:84
 msgid "Details to include in a User Forum post"
-msgstr ""
+msgstr "Λεμπτομέρειες για να συμπεριληφθούν σε ανάρτηση του Forum Χρηστών"
 
 #: templates/pages/community/support.html:85
 msgid ""
@@ -370,20 +468,44 @@ msgid ""
 "                <p>We find it easiest to clearly answer posts that are <strong>complete</strong> and <strong>succinct</strong> - that is, posts that include all important details about the software environment and what led to the error, but that also trim away any details  or code snippets that aren't directly relevant to the mater at hand. Thanks for helping us to make the User Forum a vibrant and positive place!</p>\n"
 "              "
 msgstr ""
+"\n"
+"                <p>Ανάλογα με τη φύση του προβλήματός σας, ακολουθούν "
+"μερικές ιδέες για τις πληροφορίες που θα μας βοηθήσουν να σας απαντήσουμε "
+"πιο γρήγορα και με μεγαλύτερη ακρίβεια:</p>\n"
+"                <ul>\n"
+"                  <li>Ποια έκδοση του AtoM χρησιμοποιείτε;</li>\n"
+"                  <li>Τι έχετε ήδη προσπαθήσει να κάνετε για να επιλύσετε το "
+"πρόβλημα;</li>\n"
+"                  <li>Σε ποιο λειτουργικό σύστημα είναι εγκατεστημένο το "
+"AtoM (Linux, Windows, Apple, etc.)?\n"
+"                  <li>Ποια έκδοση του PHP έχετε εγκαταστήσει;</li>\n"
+"                  <li>Έχετε ένα ίχνος στοίβας του μηνύματος σφάλματος που "
+"λάβατε;</li>\n"
+"                  <li>Φιλοξενείτε δικό σας χώρο ή χρησιμοποιείτε εξωτερικό "
+"πάροχο φιλοξενίας;</li>\n"
+"                </ul>\n"
+"                <p>Θεωρούμε ότι είναι ευκολότερο να απαντήσουμε ξεκάθαρα σε "
+"αναρτήσεις που είναι<strong>πλήρεις</strong> και <strong>περιεκτικές</strong>"
+" - δηλαδή, δημοσιεύσεις που περιλαμβάνουν όλες τις σημαντικές λεπτομέρειες "
+"σχετικά με το περιβάλλον του λογισμικού και τι οδήγησε στο σφάλμα, αλλά "
+"επίσης που περικόπτουν οποιεσδήποτε λεπτομέρειες ή αποσπάσματα κώδικα που "
+"δεν σχετίζονται άμεσα με το υλικό. Σας ευχαριστούμε που μας βοηθήσατε να "
+"κάνουμε το Φόρουμ χρηστών ένα ζωντανό και θετικό μέρος!</p>\n"
+"              "
 
 #: templates/pages/download.html:17
 msgid "Stable releases"
-msgstr ""
+msgstr "Σταθερές εκδόσεις"
 
 #: templates/pages/download.html:21 templates/pages/download.html.py:43
 #: templates/pages/download.html:65 templates/pages/download.html.py:117
 msgid "Release version"
-msgstr ""
+msgstr "Έκδοση"
 
 #: templates/pages/download.html:22 templates/pages/download.html.py:44
 #: templates/pages/download.html:66 templates/pages/download.html.py:118
 msgid "Release date"
-msgstr ""
+msgstr "Ημερομηνία κυκλοφορίας"
 
 #: templates/pages/download.html:23 templates/pages/download.html.py:31
 #: templates/pages/download.html:45 templates/pages/download.html.py:67
@@ -395,7 +517,7 @@ msgstr ""
 #: templates/pages/home.html:13
 msgctxt "Download button"
 msgid "Download"
-msgstr ""
+msgstr "Λήψη"
 
 #: templates/pages/download.html:24 templates/pages/download.html.py:46
 #: templates/pages/download.html:68 templates/pages/download.html.py:120
@@ -408,15 +530,15 @@ msgstr "Αλλαγές"
 #: templates/pages/download.html:106 templates/pages/download.html.py:134
 #: templates/pages/download.html:140
 msgid "Issue list"
-msgstr ""
+msgstr "Λίστα τευχών"
 
 #: templates/pages/download.html:39
 msgid "Development releases"
-msgstr ""
+msgstr "Εκδόσεις σε ανάπτυξη"
 
 #: templates/pages/download.html:52
 msgid "Unknown"
-msgstr ""
+msgstr "Άγνωστο"
 
 #: templates/pages/download.html:53
 msgid "Not available yet"
@@ -424,7 +546,7 @@ msgstr "Μη διαθέσιμο"
 
 #: templates/pages/download.html:61 templates/pages/download.html.py:113
 msgid "Legacy releases"
-msgstr ""
+msgstr "Κυκλοφορίες παλαιού τύπου"
 
 #: templates/pages/download.html:151
 msgid "Download and install AtoM on your webserver"
@@ -438,10 +560,21 @@ msgid ""
 "            <p>Once you have downloaded this file, consult the online <a href=\"%(url_installation)s\">installation documentation</a>. See also the <a href=\"%(url_upgrade)s\">upgrading guide</a>.</p>\n"
 "          "
 msgstr ""
+"\n"
+"            <p>1Το ΑtoM είναι Online λογισμικό. Μπορείτε να το κατεβάσετε "
+"και να το εγκαταστήσετε στον δικό σας διακομιστή για να διαθέσετε το "
+"αντίγραφο του AtoM σε οποιονδήποτε διαθέτει σύνδεση στο Διαδίκτυο. Το AtoM "
+"έρχεται με ένα πρόγραμμα εγκατάστασης που σας βοηθάει σε αυτήν τη "
+"διαδικασία.</p>2\n"
+"            <p>3\n"
+"Μόλις κατεβάσετε αυτό το αρχείο, συμβουλευτείτε το Διαδίκτυο <a href=\""
+"%(url_installation)s\">4έγγραφα εγκατάστασης</a>5. Δείτε επίσης τον <a href="
+"\"%(url_upgrade)s\">6οδηγό ενημέρωσης</a>7.</p>8\n"
+"          "
 
 #: templates/pages/download.html:163
 msgid "Test AtoM locally using Vagrant"
-msgstr ""
+msgstr "Δοκιμάστε το AtoM τοπικά χρησιμοποιώντας το Vagrant"
 
 #: templates/pages/download.html:164
 msgid ""
@@ -475,7 +608,7 @@ msgstr ""
 
 #: templates/pages/home.html:65
 msgid "Open source"
-msgstr ""
+msgstr "Ανοιχτού κώδικα"
 
 #: templates/pages/home.html:67
 msgid ""
