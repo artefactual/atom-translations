@@ -9,14 +9,16 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 10:51-0700\n"
-"PO-Revision-Date: 2019-02-04 21:05+0000\n"
-"Last-Translator: XiangSheng Kong <kong1383068@163.com>\n"
-"Language-Team: Chinese (http://www.transifex.com/artefactual/atom/language/zh/)\n"
+"PO-Revision-Date: 2021-01-19 21:32+0000\n"
+"Last-Translator: kong1383068 <kxs@ruc.edu.cn>\n"
+"Language-Team: Chinese (Simplified) <http://translations.artefactual.com/"
+"projects/atom/website/zh_Hans/>\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.2.2\n"
 
 #: atom/settings/base.py:76
 msgid "English"
@@ -100,11 +102,11 @@ msgstr "\n %(project_name)s还没有发行，它的文档正在完善中"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:60
 msgid "Table of contents"
-msgstr ""
+msgstr "目录"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:77
 msgid "Contents"
-msgstr ""
+msgstr "内容"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:85
 #, python-format
@@ -113,6 +115,9 @@ msgid ""
 "              <p>Open the <a href=\"%(genindex_url)s\">general index</a> or type your search in the search box.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>打开<a href=\"%(genindex_url)s\">索引</a>或在在搜索框内输入检索词</p>\n"
+"            "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:98
 msgid "Available documents"
@@ -128,11 +133,11 @@ msgstr "源代码"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:113
 msgid "Latest update:"
-msgstr ""
+msgstr "最后更新："
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:5
 msgid "General Index"
-msgstr ""
+msgstr "总索引"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:30
 msgid "[Link]"
@@ -140,12 +145,12 @@ msgstr "[链接]"
 
 #: sphinxdoc/templates/sphinxdoc/modindex.html:5
 msgid "Module Index"
-msgstr ""
+msgstr "模块索引"
 
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
 #: sphinxdoc/templates/sphinxdoc/project_list.html:9
 msgid "Project list"
-msgstr ""
+msgstr "项目列表"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:4
 msgid "Search"
@@ -158,7 +163,7 @@ msgstr "搜索结果"
 #: sphinxdoc/templates/sphinxdoc/search.html:12
 #, python-format
 msgid "Showing results matching \"%(query)s\"..."
-msgstr ""
+msgstr "展示以下结果符合“%(query)s”..."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:20
 msgid "No results found."
@@ -166,7 +171,7 @@ msgstr "没有结果"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:31
 msgid "No search query entered."
-msgstr ""
+msgstr "未输入检索词。"
 
 #: templates/base.html:75 templates/footer.html:19
 msgid "Home"
@@ -217,7 +222,7 @@ msgstr "现在就试试！"
 
 #: templates/base.html:113
 msgid "Other sites"
-msgstr ""
+msgstr "其他站点"
 
 #: templates/footer.html:12
 msgid "Language"
@@ -241,7 +246,7 @@ msgstr "服务"
 
 #: templates/footer.html:53
 msgid "Artefactual is the lead developer of Archivematica and AtoM."
-msgstr "Artefactual是Archivematica和AtoM的领导开发shang"
+msgstr "Artefactual是Archivematica和AtoM的领导开发商。"
 
 #: templates/footer.html:55
 msgid "Access to Memory documentation"
@@ -249,15 +254,15 @@ msgstr "Access to Memory文档"
 
 #: templates/footer.html:55
 msgid "is licensed under a"
-msgstr ""
+msgstr "根据协议授权"
 
 #: templates/footer.html:55
 msgid "Creative Commons Attribution-ShareAlike 4.0 International License"
-msgstr ""
+msgstr "Creative Commons Attribution Sharelike4.0国际许可证"
 
 #: templates/footer.html:57
 msgid "© 2015 Artefactual Systems Inc. All rights reserved."
-msgstr ""
+msgstr "©2015 Artefacture Systems Inc.保留所有权利。"
 
 #: templates/pages/community/develop.html:13
 #: templates/pages/community/participate.html:13
@@ -266,6 +271,9 @@ msgid ""
 "          <p>Work in progress!</p>\n"
 "        "
 msgstr ""
+"\n"
+"          <p>正在开发中！</p>\n"
+"        "
 
 #: templates/pages/community/support.html:19
 msgid "User forum"
@@ -277,10 +285,14 @@ msgid ""
 "              <p>Our <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">User Forum</a> is the main place where user come to seek help, make announcements, share resources, and discuss issues relevant to the software and the community.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>我们的<a href=\"https://groups.google.com/forum/#!forum/ica-"
+"atom-users\">用户论坛</a>是用户寻求帮助、发布公告、共享资源，以及讨论与软件和社区相关问题的主要场所。</p>\n"
+"            "
 
 #: templates/pages/community/support.html:26
 msgid "Twitter"
-msgstr ""
+msgstr "推特"
 
 #: templates/pages/community/support.html:27
 msgid ""
@@ -288,10 +300,14 @@ msgid ""
 "              <p>Follow <a href=\"https://twitter.com/accesstomemory\">AtoM on Twitter (@accesstomemory)</a> to keep up with the latest announcements and connect with other users.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>关注<a href=\"https://twitter.com/accesstomemory\""
+">AtoM官方推特</a>以了解最新公告，并与其他用户保持联系。</p>\n"
+"            "
 
 #: templates/pages/community/support.html:37
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: templates/pages/community/support.html:38
 msgid ""
@@ -299,10 +315,15 @@ msgid ""
 "              <p>AtoM's code is hosted on <a href=\"https://github.com/artefactual/atom\">Github</a>. We welcome pull requests and comments related to our code. For further information, please see <a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">Contribute Code.</a> </p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>AtoM的代码托管在<a href=\"https://github.com/artefactual/atom\""
+">Github</a>。我们欢迎任何与代码相关的请求和评论。了解更多信息，请参照<a href=\""
+"https://wiki.accesstomemory.org/Development/Contribute_code\">贡献代码。</a></p>\n"
+"            "
 
 #: templates/pages/community/support.html:44
 msgid "Redmine issue tracker"
-msgstr ""
+msgstr "Redmine 问题跟踪页面"
 
 #: templates/pages/community/support.html:45
 msgid ""
@@ -310,10 +331,14 @@ msgid ""
 "              <p>Found a bug and want to know if it's already been reported? Want to see the status of a current release under development? Checkout our Issue tracker <a href=\"https://projects.artefactual.com/\">here</a>.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>发现了一个bug，想知道它是否已经被报告过？想要查看当前正在开发版本的状态吗？请在<a href=\""
+"https://projects.artefactual.com/\">这儿</a>检查我们的问题跟踪页面。</p>\n"
+"            "
 
 #: templates/pages/community/support.html:53
 msgid "Before requesting support"
-msgstr ""
+msgstr "在寻求帮助之前"
 
 #: templates/pages/community/support.html:55
 #, python-format
@@ -326,7 +351,7 @@ msgstr ""
 
 #: templates/pages/community/support.html:62
 msgid "Posting to the User forum"
-msgstr ""
+msgstr "发布到用户论坛"
 
 #: templates/pages/community/support.html:65
 msgid ""
@@ -335,6 +360,16 @@ msgid ""
 "                <p>If you are interested in commercial support from Artefactual, please see <a href=\"http://www.artefactual.com/services/atom-2/\">our website</a> for the services we offer.</p>\n"
 "              "
 msgstr ""
+"\n"
+"                <p><a href=\"https://groups.google.com/forum/#!forum/ica-"
+"atom-users\">AtoM用户论坛</a>是与其他AtoM用户和开发人员进行交互式反馈的最佳场所。<a href=\""
+"http://www.artefactual.com/\">Artefactual</a>作为AtoM的开发领导者负责运营用户论坛，我们尽可能在用户发帖后"
+"24小时内（太平洋时区的周一至周五的工作时间）回复用户问题。这是我们提供的免费服务，我们希望随着时间的推移，更多的社区用户能够积极回答彼此的问题。当我们认"
+"为某些特定的问题超出了免费支持限度时，我们将会通知用户，可能有必要将其作为付费、商业支持来处理。例如，检查和回答过于深入和耗时的问题，或涉及不受支持的工具"
+"或平台的问题。请记住，我们必须优先考虑我们的付费客户的要求，以便我们能够支撑公司正常运转，并继续提供免费软件和免费社区支持。</p>\n"
+"<p>如果您对Artefactual的商业支持感兴趣，请参阅<a href=\"http://www.artefactual.com/services/"
+"atom-2/\">我们的网站</a>以获取我们提供的服务。</p>\n"
+"              "
 
 #: templates/pages/community/support.html:71
 msgid ""
@@ -342,6 +377,10 @@ msgid ""
 "                    <p>Subscribe to the list or <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">visit the online version</a>!</p>\n"
 "                  "
 msgstr ""
+"\n"
+"                    <p>订阅这个列表或者<a href=\"https://groups.google.com/forum/#!"
+"forum/ica-atom-users\">访问我们的在线网站</a>！</p>\n"
+"                  "
 
 #: templates/pages/community/support.html:75
 msgid "Enter your e-mail address"
@@ -349,7 +388,7 @@ msgstr "输入你的邮件地址"
 
 #: templates/pages/community/support.html:77
 msgid "Subscribe"
-msgstr ""
+msgstr "订阅"
 
 #: templates/pages/community/support.html:84
 msgid "Details to include in a User Forum post"
