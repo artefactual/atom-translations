@@ -192,7 +192,7 @@ aufzeigt." (ISAAR 5.2.7)</target>
       </trans-unit>
       <trans-unit id="09a47a3da4d9f6328c4e96ef6d8395b7d8b531a5" approved="yes" translated="yes">
         <source>"Purpose: To identify the general category of relationship between the entity being described and another corporate body, person or family." (ISAAR 5.3.2). Select a category from the drop-down menu: hierarchical, temporal, family or associative.</source>
-        <target>"Zweck: Identifizierung der allgemeinen Kategorie der Beziehung zwischen der beschriebenen Einheit und einer anderen Körperschaft, Person oder Familie." (ISAAR 5.3.2). Wählen Sie eine Kategorie aus dem drop-down Menü: hierarchisch, zeitlich, familiär, assoziativ</target>
+        <target>"Zweck: Identifizierung der allgemeinen Kategorie der Beziehung zwischen der beschriebenen Einheit und einer anderen Körperschaft, Person oder Familie." (ISAAR 5.3.2). Wählen Sie eine Kategorie aus dem drop-down Menü: hierarchisch, zeitlich, familiär, assoziativ.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="da5780323ea32c7a7ebb44deda6c1887e16ff67b" approved="yes" translated="yes">
@@ -868,7 +868,7 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
       </trans-unit>
       <trans-unit id="c1cdb99c371f7dd9e81761906a3e61c0ece43606" approved="yes" translated="yes">
         <source>&lt;strong&gt;Identifier&lt;/strong&gt;&lt;br /&gt;Provide a unique identifier for the materials being described in accordance with the institution’s administrative control system.&lt;br /&gt;&lt;strong&gt;Level of description&lt;/strong&gt;&lt;br /&gt;Record the level of this unit of description.&lt;br /&gt;&lt;strong&gt;Title&lt;/strong&gt;&lt;br /&gt;In the absence of a meaningful formal title, compose a brief title that uniquely identifies the material.&lt;br /&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;br /&gt;Record a date of creation.</source>
-        <target>&lt;strong&gt;Signatur&lt;/strong&gt; Für die beschriebenen Materialien ist ein eindeutiger Identifikator in Übereinstimmung mit dem Kontrollsystem der Institution  anzugeben. &lt;br/&gt;&lt;strong&gt;Verzeichnungsstufe:&lt;/strong&gt; Die Verzeichnungsstufe der Verzeichnungseinheit ist festzuhalten.&lt;br/&gt;&lt;strong&gt;Titel&lt;/strong&gt; Wenn kein sinnvoller offizieller Titel vorhanden ist, ist ein neuer, prägnant formulierter Titel, der das Material eindeutig identifiziert, zu formulieren.</target>
+        <target>&lt;strong&gt;Signatur&lt;/strong&gt;&lt;br /&gt;Für die beschriebenen Materialien ist ein eindeutiger Identifikator in Übereinstimmung mit dem Kontrollsystem der Institution anzugeben.&lt;br/&gt;&lt;strong&gt;Verzeichnungsstufe:&lt;/strong&gt;&lt;br /&gt;Die Verzeichnungsstufe der Verzeichnungseinheit ist festzuhalten.&lt;br/&gt;&lt;strong&gt;Titel&lt;/strong&gt;&lt;br /&gt;Wenn kein sinnvoller offizieller Titel vorhanden ist, ist ein neuer, prägnant formulierter Titel, der das Material eindeutig identifiziert, zu formulieren.&lt;br /&gt;&lt;strong&gt;Datum&lt;/strong&gt;&lt;br /&gt;Erstellungsdatum angeben.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="07c1e69f661a4419aa070bb8497aecfd199afba6" approved="yes" translated="yes">
@@ -908,7 +908,7 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
       </trans-unit>
       <trans-unit id="29b217c09a653b7e3130341d7993577cfecd3c99" approved="yes" translated="yes">
         <source>A description of the physical location in the repository where the accession can be found.</source>
-        <target>Eine Beschreibung des Lagerungsortes der Akzession im Magazin</target>
+        <target>Eine Beschreibung des Lagerungsortes der Akzession im Magazin.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="609a0ee9d634702fd34b4d248cf9223333604694" approved="yes" translated="yes">
@@ -1081,7 +1081,7 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
       </trans-unit>
       <trans-unit id="bdead2012720d6152aa18f95ffff4c4cd9d300a5" approved="yes" translated="yes">
         <source>Accession number should be a combination of values recorded in the field and should be a unique accession number for the repository</source>
-        <target>Die Akzessionsnummer sollte ein Kombination aus Werten darstellen, die in das Feld eingegeben werden, und sollte eindeutig für das Archiv sein.</target>
+        <target>Die Akzessionsnummer sollte ein Kombination aus Werten darstellen, die in das Feld eingegeben werden, und sollte eindeutig für das Archiv sein</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5deb4f1bd5b5437f680e0d6c2bfd937d94b41658" approved="yes" translated="yes">
@@ -3586,7 +3586,7 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
       </trans-unit>
       <trans-unit id="dfe6a07c57eee4e4e9db3b226403a24db11ec77c" approved="yes" translated="yes">
         <source>Enter an unambiguous code used to uniquely identify the description.</source>
-        <target>Geben Sie einen eindeutigen Code ein, um die Beschreibung unverwechselbar zu identifizieren</target>
+        <target>Geben Sie einen eindeutigen Code ein, um die Beschreibung unverwechselbar zu identifizieren.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="0e58ad386dae9642f84207d280dd7175abeaebcf" approved="yes" translated="yes">
@@ -4416,7 +4416,7 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
       </trans-unit>
       <trans-unit id="006a7eeac5ac8f81f0ea9349a83fe91968f01829" approved="yes" translated="yes">
         <source>Identifier available.</source>
-        <target>Identifikator/Signatur verfügbar</target>
+        <target>Identifikator/Signatur verfügbar.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/checkIdentifierAvailableAction.class.php</note>
       </trans-unit>
       <trans-unit id="67173cff625212111efc2488c3fb300645412f0f" approved="yes" translated="yes">
@@ -4451,7 +4451,7 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
       </trans-unit>
       <trans-unit id="ff499f8b3f7e6956195a84807d93b3ba89140c9d" approved="yes" translated="yes">
         <source>Identifier unavailable.</source>
-        <target>Identifikator/Signatur - nicht verfügbar</target>
+        <target>Identifikator/Signatur - nicht verfügbar.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/checkIdentifierAvailableAction.class.php</note>
       </trans-unit>
       <trans-unit id="e057026030ab8d3892a0ba2794e790549c6704e4">
@@ -5031,7 +5031,7 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
       </trans-unit>
       <trans-unit id="f7b787a1328498bb2f7022384d95ef0dfe5bd985" approved="yes" translated="yes">
         <source>Language(s) of this resource.</source>
-        <target> In der Verzeichnungseinheit enthaltene Sprache(n)</target>
+        <target>In der Verzeichnungseinheit enthaltene Sprache(n).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="077f2d4ddc2187c0675a3d220c3e0c2dff707344" approved="yes" translated="yes">
@@ -7766,7 +7766,7 @@ Wählen Sieso viele Typen wie erforderlich aus dem drop-down Menue; diese Werte 
       </trans-unit>
       <trans-unit id="71c34424882612f7c29feaf3bfa76ae4d07878b0" approved="yes" translated="yes">
         <source>See ISDIAH 5.2 for contact area information and examples.</source>
-        <target>Siehe ISDIAH 5.2 zu Informationen und Beispielen für den Bereich 'Kontakt'</target>
+        <target>Siehe ISDIAH 5.2 zu Informationen und Beispielen für den Bereich 'Kontakt'.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="3177038df51eb25c39996f1151499664580c7b5e" approved="yes" translated="yes">
@@ -8307,7 +8307,7 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="6cdf52b87da1be0228c18736c061c7e42cdda8ac" approved="yes" translated="yes">
         <source>Statement of coordinates (cartographic) - This is a mandatory element for cartographic material.</source>
-        <target>Angaben zu Koordinaten (kartografisch) - dies ist ein notwendiges Feld für Karten</target>
+        <target>Angaben zu Koordinaten (kartografisch) - dies ist ein notwendiges Feld für Karten.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="f5df22b8ee3e7e19432d9437ce7fb2f7f096b2f3" approved="yes" translated="yes">
@@ -8317,7 +8317,7 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="d5aea2b170262fd5bf57c5164714d12f7cc40eab" approved="yes" translated="yes">
         <source>Statement of projection (cartographic) - This is a mandatory element for cartographic material.</source>
-        <target>Angaben zur Projektion (kartografisch) - dies ist ein notwendiges Feld für Karten</target>
+        <target>Angaben zur Projektion (kartografisch) - dies ist ein notwendiges Feld für Karten.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="c9435f15a3cf44e8c6cf48992c82f242aaabc54a" approved="yes" translated="yes">
@@ -8342,7 +8342,7 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="6c95838777ceb4a424092f565a0cba1ed4ac8e8d" approved="yes" translated="yes">
         <source>Statement of scale (architectural) - This is a mandatory element for architectural drawing.</source>
-        <target>Angaben zum Maßstab (architektonisch) - dies ist ein notwendiges Feld für Architekturzeichnungen</target>
+        <target>Angaben zum Maßstab (architektonisch) - dies ist ein notwendiges Feld für Architekturzeichnungen.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="c48f895f08c8e31c2e83857a39b589fcbe498e3b" approved="yes" translated="yes">
@@ -8352,7 +8352,7 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="91af2897896dbbfe1c5de1dce642bd386a12fe74" approved="yes" translated="yes">
         <source>Statement of scale (cartographic) - This is a mandatory element for cartographic material.</source>
-        <target>Angaben zum Maßstab (kartografisch) - dies ist ein notwendiges Feld für Karten</target>
+        <target>Angaben zum Maßstab (kartografisch) - dies ist ein notwendiges Feld für Karten.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="88bf7ea9d4fa86c2e19fba7b7554a869de46c627" approved="yes" translated="yes">
@@ -8569,7 +8569,7 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="48e0e75b22bdd11e39a7404c4e913a4e2bd199ca" approved="yes" translated="yes">
         <source>Terms governing use, reproduction, and publication</source>
-        <target>Bestimmungen, die die Benutzung, Reproduktion und Veröffentlichung regeln.</target>
+        <target>Bestimmungen, die die Benutzung, Reproduktion und Veröffentlichung regeln</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="c3328c39b0e29f78e9ff45db674248b1d245887d" approved="yes" translated="yes">
@@ -8756,12 +8756,12 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="0fb49c59478fedd5cb69ec8ca6dba3f942dabe8a" approved="yes" translated="yes">
         <source>The supplied content type is not supported by this server</source>
-        <target>Der gelieferte Inhaltstyp wird von diesem Server nicht unterstützt.</target>
+        <target>Der gelieferte Inhaltstyp wird von diesem Server nicht unterstützt</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtSwordPlugin/modules/qtSwordPlugin/actions/depositAction.class.php</note>
       </trans-unit>
       <trans-unit id="c4b2d9aefeee3c891429a7f01b52dd5dc75d2c06" approved="yes" translated="yes">
         <source>The supplied format is not supported by this server</source>
-        <target>Das gelieferte Format wird von diesem Server nicht unterstützt.</target>
+        <target>Das gelieferte Format wird von diesem Server nicht unterstützt</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtSwordPlugin/modules/qtSwordPlugin/actions/depositAction.class.php</note>
       </trans-unit>
       <trans-unit id="ea9bdb7024dc3532a4d6be8b290953cd5d0cc0c8" approved="yes" translated="yes">
@@ -8890,7 +8890,7 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="387ff6d6c5cce06d40dae3b806fca8809b2d5fbc" approved="yes" translated="yes">
         <source>This is a mandatory element</source>
-        <target>Dies ist ein notwendiges Element.</target>
+        <target>Dies ist ein notwendiges Element</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="75d56ae241973aed7190054cdd1f94c0693731f4" approved="yes" translated="yes">
