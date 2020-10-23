@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-06-24T21:27:26Z" product-name="messages">
+  <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-10-21T23:58:52Z" product-name="messages">
     <header/>
     <body>
       <trans-unit id="f191b2120c9efa7b0c1411d6989e325561707ddb" approved="yes" translated="yes">
         <source> %1%Download%2% (%3% b)</source>
         <target>%1%Lawrlwytho%2% (%3% b)</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/actions/alertsComponent.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
       <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf" approved="yes" translated="yes">
         <source> Auto refresh</source>
@@ -583,9 +583,9 @@
         <target>%1 - meini prawf adroddiad</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/storageLocationsCriteria.php</note>
       </trans-unit>
-      <trans-unit id="468b90bf601b414515a80106f456b7d70d0d1faa" approved="yes">
+      <trans-unit id="468b90bf601b414515a80106f456b7d70d0d1faa" approved="yes" translated="yes">
         <source>%1 count</source>
-        <target state="translated">%1 cyfrif</target>
+        <target>%1 cyfrif</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="29209b378915d0821cca10cdc28f5f8939b4c883" approved="yes" translated="yes">
@@ -616,7 +616,12 @@
       <trans-unit id="9983e5053a98c4b009392604495e478eaa356381" approved="yes" translated="yes">
         <source>%1% (started: %2%, status: %3%).</source>
         <target>%1% (dechreuwyd: %2%, statws: %3%).</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/actions/alertsComponent.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="756f042fcda0eb802f3df0f819513e020a8d2599">
+        <source>%1% and %2%</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="66591ce43004765a071dd97f32de7256f065a33d" approved="yes" translated="yes">
         <source>%1% area</source>
@@ -652,6 +657,11 @@
         <source>%1% hierarchy</source>
         <target>%1% hierarchaeth</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="0795c0a1a912aec6f9cecb289fd67b878723d1c3">
+        <source>%1% identifiers: prevent entry/import of duplicates</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="63f69a6a4fa0a996b434f82acccada20a65eb8a8" approved="yes" translated="yes">
         <source>%1% metadata</source>
@@ -708,6 +718,11 @@
         <target>%1% wedi mynd dros yr uchafswm uwchlwytho o %2% GB i %3%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/actions/uploadAction.class.php</note>
       </trans-unit>
+      <trans-unit id="aa7a47d3b9df07e362e900798b498f5265ebcfc2">
+        <source>%1% upload limits</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
+      </trans-unit>
       <trans-unit id="0a4d6fa2c4dab64280355e4b1dc617e015edab41" approved="yes" translated="yes">
         <source>%1% used of %2%</source>
         <target>defnyddiwyd %1% o %2%</target>
@@ -723,10 +738,19 @@
         <target>%1%: %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qbAclPlugin/modules/aclGroup/templates/indexTermAclSuccess.php</note>
       </trans-unit>
+      <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8">
+        <source>%1%Agent:%2% Enter the agent associated with the event.%3%</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
+      </trans-unit>
       <trans-unit id="85ff680a8907d82fa780e7780ab3737c953acb7f" approved="yes" translated="yes">
         <source>%1%Authority record identifier%2% - This is a %3%mandatory%4% element.</source>
         <target>%1%Dynodwr cofnod awdurdod%2% - Mae hwn yn elfen %3%orfodol%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="98bfda47f615414dcae7d73cda462c8a9bf084c5">
+        <source>%1%Authority record identifier%2% - value not unique.</source>
+        <target/>
       </trans-unit>
       <trans-unit id="0e7ce5d17c5b28152bb78cd86897b2bd049c2c20" approved="yes" translated="yes">
         <source>%1%Authorized form of name%2% - This is a %3%mandatory%4% element.</source>
@@ -752,6 +776,11 @@
         <source>%1%Date(s)%2% - are not consistent with %3%higher levels%2%.</source>
         <target>%1%Dyddiad(au)%2% - nid ydynt yn gyson â %3%lefelau uwch%2%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="ca69a8d0222647ab04e285e54916f496f96bb7a7">
+        <source>%1%Date:%2% Enter the date of the event.%3%</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="1f6af5abebb9826482f288eb1649dac7566070e2" approved="yes" translated="yes">
         <source>%1%Dates of existence%2% - This is a %3%mandatory%4% element.</source>
@@ -793,6 +822,16 @@
         <target>%1%Lefel y disgrifiad%2% - Nid yw'r gwerth "%value%" yn gyson â lefelau uwch.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
+      <trans-unit id="1b1e4988501ebd3c49e084a0cd85d54561703f8e">
+        <source>%1%Note:%2% Enter notes associated with the event.%3%</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
+      </trans-unit>
+      <trans-unit id="9fd6ed84039dd69491d9afb8d3770bf847b323fd">
+        <source>%1%Refresh the page%2% for progress updates.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
+      </trans-unit>
       <trans-unit id="60a6eff30d40a00da53e674f8fe4ad7a54e94c2c" approved="yes" translated="yes">
         <source>%1%Relation%2% (%3%isLocatedAt%4%) - This is a mandatory element for this resource or one of its higher descriptive levels (if part of a collection hierarchy).</source>
         <target>%1%Perthynas%2% (%3%LleolirYn%4%) - Mae hwn yn elfen orfodol ar gyfer yr adnodd neu un o'i lefelau disgrifiad uwch (os yn rhan o gasgliad hierarchaidd).</target>
@@ -818,6 +857,11 @@
         <target>%1%Math%2% - Mae hwn yn elfen %3%orfodol%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/actions/indexAction.class.php</note>
       </trans-unit>
+      <trans-unit id="7c6d52017a474fb9b5e769163ec15941a50bb26f">
+        <source>%1%Type:%2% Select the type of the event.%3%</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
+      </trans-unit>
       <trans-unit id="73c0f876111616e52a79975df6ee70518eb61b7a" approved="yes" translated="yes">
         <source>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Unlimited&lt;/em&gt;&amp;nbsp;</source>
         <target>%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; o &lt;em&gt;Anghyfyngedig&lt;/em&gt;&amp;nbsp;</target>
@@ -832,6 +876,11 @@
         <source>%language% translation</source>
         <target>cyfieithiad %language%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfTranslatePlugin/modules/sfTranslatePlugin/templates/_translate.php</note>
+      </trans-unit>
+      <trans-unit id="5eeade84e367ea4a3cb6ee27f0076ddfe2e9e9c8">
+        <source>%open_strong_tag%Note:%close_strong_tag% AtoM may remove export</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="3d62373c45c0c1572f85cfb060cf8b5760dbc574" approved="yes" translated="yes">
         <source>'Use for' labels</source>
@@ -883,9 +932,9 @@
         <target>&lt;strong&gt;Label:&lt;/strong&gt; Rhowch enw i'r maes dynodwr amgen sy'n dangos ei bwrpas a defnydd.&lt;br/&gt;&lt;strong&gt;Dyndowr:&lt;/strong&gt; Rhowch cyfeirnod etifeddiaeth, dynodwr amgen, neu unrhyw llinyn alffaniwmerig arall sy'n gysylltiedig â'r cofnod.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
-      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" approved="yes">
+      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" approved="yes" translated="yes">
         <source>&lt;strong&gt;Type:&lt;/strong&gt; Enter a name for the alternative identifier field that indicates its purpose and usage.&lt;br/&gt;&lt;strong&gt;Identifier:&lt;/strong&gt; Enter a legacy reference code, alternative identifier, or any other alpha-numeric string associated with the record.</source>
-        <target state="translated">&lt;strong&gt;Math:&lt;/strong&gt; Rhowch enw i'r maes dynodwr amgen sy'n dangos ei bwrpas a defnydd.&lt;br/&gt;&lt;strong&gt;Dyndowr:&lt;/strong&gt; Rhowch cyfeirnod etifeddiaeth, dynodwr amgen, neu unrhyw llinyn alffaniwmerig arall sy'n gysylltiedig â'r cofnod.</target>
+        <target>&lt;strong&gt;Math:&lt;/strong&gt; Rhowch enw i'r maes dynodwr amgen sy'n dangos ei bwrpas a defnydd.&lt;br/&gt;&lt;strong&gt;Dyndowr:&lt;/strong&gt; Rhowch cyfeirnod etifeddiaeth, dynodwr amgen, neu unrhyw llinyn alffaniwmerig arall sy'n gysylltiedig â'r cofnod.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
       <trans-unit id="39c6fe6bbe18b341f05e967d01ffa968b9c550e1" approved="yes" translated="yes">
@@ -957,6 +1006,11 @@
         <target>AIP UUID</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
+      <trans-unit id="e6bf2a6ce688da07175757b3663bb74bda3fdc85">
+        <source>AIP download</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
+      </trans-unit>
       <trans-unit id="d61515ee148041bbb27b0e432639d71925f2a919" approved="yes" translated="yes">
         <source>AIP relation</source>
         <target>Cysylltiad AIP</target>
@@ -982,9 +1036,9 @@
         <target>Ynghylch</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="2f81a22de0af5e9eab19326e19693f86ce612518" approved="yes" translated="yes">
-        <source>Access</source>
-        <target>Mynediad</target>
+      <trans-unit id="804920c22a8469a08c06be1810ad95d2e27f7544">
+        <source>Access Copies</source>
+        <target/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="7d35718ed77792339cf701c0ed562c8882866674" approved="yes" translated="yes">
@@ -1027,6 +1081,11 @@
         <target>Cyfyngiadau mynediad</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
+      <trans-unit id="178c258f999e25b5f99bdde5bd3165e3f1c534b9">
+        <source>Access statement</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
+      </trans-unit>
       <trans-unit id="91dab230d9cb40e40f69911aead6cb363f102075" approved="yes" translated="yes">
         <source>Access to this record is restricted because it contains personal or confidential information. Please contact the Reference Archivist for more information on accessing this record.</source>
         <target>Mae mynediad i'r cofnod hwn yn cael ei gyfyngu gan ei fod yn cynnwys gwybodaeth bersonol neu gyfrinachol. Cysylltwch â'r Archifydd Cyfeiriol i gael mwy o wybodaeth am gael mynediad at y cofnod hwn.</target>
@@ -1046,14 +1105,14 @@
         <target>Math o derbyn</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="8f690053c5a934ec3d22a8c4db84e1c7c1db52ef" approved="yes">
+      <trans-unit id="8f690053c5a934ec3d22a8c4db84e1c7c1db52ef" approved="yes" translated="yes">
         <source>Accession alternative identifier</source>
-        <target state="translated">Dynodwr gwahanol derbyn</target>
+        <target>Dynodwr gwahanol derbyn</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="b0444ca6a89ac9ede54e88c692f1c0059562f0b2" approved="yes">
+      <trans-unit id="b0444ca6a89ac9ede54e88c692f1c0059562f0b2" approved="yes" translated="yes">
         <source>Accession alternative identifier type</source>
-        <target state="translated">Math o ddynodwr gwahanol derbyn</target>
+        <target>Math o ddynodwr gwahanol derbyn</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="c9df8646e368f45d8085a69e9a3a50e584fb623d" approved="yes" translated="yes">
@@ -1070,6 +1129,16 @@
         <source>Accession date represents the date of receipt of the materials and is added during the donation process.</source>
         <target>Mae'r dyddiad derbyn yn cynrychioli dyddiad derbyn y deunyddiau ac mae'n cael ei hychwanegu yn ystod y broses rhodd.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="68b5c50fbfb0eed47fded7af59ee5e8d17b214ff">
+        <source>Accession event note</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
+      </trans-unit>
+      <trans-unit id="2c1dd1ab41428e1a671da8179efc58765565b2b1">
+        <source>Accession event type</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="dc94c7dd428fc7f45da026ba9b3c16e8b0a2cbb9" approved="yes" translated="yes">
         <source>Accession mask</source>
@@ -1141,9 +1210,9 @@
         <target>Crynhoad</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="4628f64b8f7fa8569928ea5254862c1f372f721a" approved="yes">
+      <trans-unit id="4628f64b8f7fa8569928ea5254862c1f372f721a" approved="yes" translated="yes">
         <source>Acquisition and appraisal area</source>
-        <target state="translated">Ardal derbyn a gwerthuso</target>
+        <target>Ardal derbyn a gwerthuso</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="ed2e24df777b453cbcd6286a6b5b98a6beb0cefe" approved="yes" translated="yes">
@@ -1234,7 +1303,7 @@
       <trans-unit id="61cc55aa0453184734c3fa0b621eda6fa874bd83" approved="yes" translated="yes">
         <source>Add</source>
         <target>Ychwanegu</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/clipboardButtonComponent.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/buttonComponent.class.php</note>
       </trans-unit>
       <trans-unit id="bd65d338195089a6cdb15b8d467435341084b89d" approved="yes" translated="yes">
         <source>Add %1%</source>
@@ -1404,7 +1473,7 @@
       <trans-unit id="62e1635ee60914b37075ea0a8d6cc27f0fb8b6fe" approved="yes" translated="yes">
         <source>Add to clipboard</source>
         <target>Ychwanegu i'r clipfwrdd</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/clipboardButtonComponent.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/buttonComponent.class.php</note>
       </trans-unit>
       <trans-unit id="f895b1adc110c150e1febfc72be74d72bc9da3a1" approved="yes" translated="yes">
         <source>Add uppercase letters</source>
@@ -1481,6 +1550,11 @@
         <target>Hysbysiadau</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
+      <trans-unit id="5ce2e6f40299204d94dfc0abf19fa8ab52d6c211">
+        <source>Agent</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
+      </trans-unit>
       <trans-unit id="ee68d3496bb455d50d1b8a9987c710dd56818065" approved="yes" translated="yes">
         <source>Agree</source>
         <target>Cytuno</target>
@@ -1545,6 +1619,11 @@
         <source>Allow any valid URI PATH segment character to appear in a slug, including UTF-8 glyphs. Restricted IRI characters ( /?#{} ) and literal spaces will be replaced with dashes</source>
         <target>Caniatáu i unrhyw lythyren segment LLWYBR URI dilys ymddangos mewn slyg, gan gynnwys glyffau UTF-8. Bydd llythrennau IRI cyfyngedig (/? # {}) a gofodau llythrennol yn cael eu disodli â chysylltnodau</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+      </trans-unit>
+      <trans-unit id="dc5994d02ce2d6ac66ed7991d0833fe8f6d5fc5b">
+        <source>Allow authorized users to download a linked AIP or AIP file from</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
       <trans-unit id="19c2371f978067e85c99e10fecb57b3438930f2f" approved="yes" translated="yes">
         <source>Allow unlimited uploads</source>
@@ -1736,11 +1815,6 @@
         <target>Nodiadau yr archifydd</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c5c2e402c80913c5840061d9314cb274015c1e71" approved="yes" translated="yes">
-        <source>Are you sure you want to clear the %1 clipboard ?</source>
-        <target>A ydych yn sicr eich bod am glirio'r %1 clipfwrdd?</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardClearSuccess.php</note>
-      </trans-unit>
       <trans-unit id="3d973d2e6ab5791a4af8f60b4a75b0d86fb46a61" approved="yes" translated="yes">
         <source>Are you sure you want to delete %1% and all its descendants?</source>
         <target>A ydych yn sicr eich bod eisiau dileu %1% a'i holl ddisgynyddion?</target>
@@ -1856,9 +1930,9 @@
         <target>Hawliau cofnod awdurdod</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="7e9c2f90e0894bc17d03c473f8462cae54b30cb4" approved="yes">
+      <trans-unit id="7e9c2f90e0894bc17d03c473f8462cae54b30cb4" approved="yes" translated="yes">
         <source>Authority record relationships</source>
-        <target state="translated">Cysylltiadau cofnod awdurdod</target>
+        <target>Cysylltiadau cofnod awdurdod</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="670cce2a30941ecd957867e78acbb60df386f4c9" approved="yes" translated="yes">
@@ -2089,12 +2163,7 @@
       <trans-unit id="3281188351b89c8e2db28d6da7af4992d415de90" approved="yes" translated="yes">
         <source>CSV</source>
         <target>CSV</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/exportAction.class.php</note>
-      </trans-unit>
-      <trans-unit id="23cb1ba2135af54bb7f9dc4ac628c8c16b1274c8" approved="yes" translated="yes">
-        <source>CSV export</source>
-        <target>Allforio CSV</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/exportAction.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="37de6dc5ff70e0bef344db7a7465025677c58ef8" approved="yes" translated="yes">
         <source>Cache description XML exports upon creation/modification</source>
@@ -2105,6 +2174,11 @@
         <source>Calculate dates</source>
         <target>Cyfrifo dyddiadau</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
+      </trans-unit>
+      <trans-unit id="0cd43c9651d54301014df3d8b1c6ea6c7ac4e031">
+        <source>Calculate dates - Error</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
       <trans-unit id="6c938d4539ddb4d0b53121776cd5cd73282c7fca" approved="yes" translated="yes">
         <source>Calculation failed</source>
@@ -2120,6 +2194,16 @@
         <source>Cancel</source>
         <target>Diddymu</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/editThemeSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="61206e8e039de14fa9e166d49ce3e3299795a37e">
+        <source>Cannot calculate accumulated dates because no lower level dates exist</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
+      </trans-unit>
+      <trans-unit id="b39a4bb27bff33150a8d40bf338235babc147532">
+        <source>Cannot calculate accumulated dates because this %1% has no children</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
       <trans-unit id="a3726fb96172eec7b5ba2fa125393173def0c88b" approved="yes" translated="yes">
         <source>Cardboard box</source>
@@ -2191,15 +2275,15 @@
         <target>Dewiswch a yw dolenni parhaol ar gyfer disgrifiadau yn cael eu cynhyrchu o god cyfeirnod neu deitl</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="bc9b74855acc332d9879627ce1312c1d1ca22958" approved="yes" translated="yes">
-        <source>Choosing "Include descendants" will include all lower-level records beneath those currently on the clipboard in the export.</source>
-        <target>Bydd dewis "Cynnwys disgynyddion" yn cynnwys pob cofnod lefel-is o dan y cofnodion sydd ar y clipfwrdd yn yr allforio ar hyn o bryd.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+      <trans-unit id="7d54708e27122b97b30f683f08d9a3a90d7be801">
+        <source>Choosing "Include descendants" will include all lower-level</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="172a3b6a149802a62c5013526250c882f1fd74ad" approved="yes" translated="yes">
-        <source>Choosing "Include draft records" will include those marked with a Draft publication status in the export. Note: if you do NOT choose this option, any descendants of a draft record will also be excluded, even if they are published.</source>
-        <target>Bydd dewis "cynnwys cofnodion drafft" yn cynnwys y cofnodion sydd wedi'u marcio â statws cyhoeddiad Drafft yn yr allforio. Nodyn: os NAD ydych yn dewis yr opsiwn yma, bydd unrhyw ddisgynyddion o gofnod drafft yn cael eu heithrio hefyd, hyd yn oed os ydynt wedi'u cyhoeddi.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+      <trans-unit id="e86b374723184f19422f88e858eb635cce000faa">
+        <source>Choosing "Include draft records" will include those marked with a</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="6eb4915552135823111f476864da3f654c233c54" approved="yes" translated="yes">
         <source>Citation</source>
@@ -2226,15 +2310,10 @@
         <target>Dosbarthiad</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="719ea396ad92e01b4757ec2b93bb1e5f270f771d" approved="yes" translated="yes">
-        <source>Clear</source>
-        <target>Clirio</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardClearSuccess.php</note>
-      </trans-unit>
       <trans-unit id="3245fb41d9f78c0a6ebe2dedc45704db711e0956" approved="yes" translated="yes">
         <source>Clear %1 clipboard</source>
         <target>Clirio %1 clipfwrdd</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
       <trans-unit id="7d49842f4d504854e52ee0d1ad7b50eabc064b48" approved="yes" translated="yes">
         <source>Clear all selections</source>
@@ -2259,41 +2338,51 @@
       <trans-unit id="5efe0c9323a499a8546aeac42d4b659bd2a4039f" approved="yes" translated="yes">
         <source>Clipboard</source>
         <target>Clipfwrdd</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
       <trans-unit id="e0430318d894a1b1321393ccf8c88c953c882b91" approved="yes" translated="yes">
         <source>Clipboard %1% loaded, %2% records %3%.</source>
         <target>Clipfwrdd %1% wedi llwytho, %2% cofnodion %3%.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardLoadAction.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="9899cad5e99d55528b1f277029682b32c3595dd9" approved="yes" translated="yes">
         <source>Clipboard ID</source>
         <target>ID Clipfwrdd</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5bffb86ad1aec4b385d9ffad5b982fd6c6470aa3" approved="yes" translated="yes">
-        <source>Clipboard ID generation failure. Please try again.</source>
-        <target>Methiant cynhyrchu ID clipfwrdd. Ceisiwch eto.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardSaveAction.class.php</note>
+      <trans-unit id="3ac7afab50b8e4b29ea784f8a9a6bfbdacfddb6a">
+        <source>Clipboard ID generation failure.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="54054d2f15dc66beed2305c2532cc1b4ae8d8acb" approved="yes">
+      <trans-unit id="380b3cc4c68afd74511699266a69da6a0d6ba2c8">
+        <source>Clipboard ID not found.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="a229d24711fbffe55ed71b8c810c80877c23959d">
+        <source>Clipboard export</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="54054d2f15dc66beed2305c2532cc1b4ae8d8acb" approved="yes" translated="yes">
         <source>Clipboard saving</source>
-        <target state="translated">Clipfwrdd yn cadw</target>
+        <target>Clipfwrdd yn cadw</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5bc6794e3d329ed9b4e5f96ec1f92bf105f6df04" approved="yes">
+      <trans-unit id="5bc6794e3d329ed9b4e5f96ec1f92bf105f6df04" approved="yes" translated="yes">
         <source>Clipboard sending</source>
-        <target state="translated">Clipfwrdd yn anfon</target>
+        <target>Clipfwrdd yn anfon</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0d74eb900087b53c47e04782f04c5f9e8659f05e" approved="yes">
+      <trans-unit id="0d74eb900087b53c47e04782f04c5f9e8659f05e" approved="yes" translated="yes">
         <source>Clipboard settings</source>
-        <target state="translated">Gosodiadau clipfwrdd</target>
+        <target>Gosodiadau clipfwrdd</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8c7ff8d252f0717efba0ec7bed4177403c19308c" approved="yes">
+      <trans-unit id="8c7ff8d252f0717efba0ec7bed4177403c19308c" approved="yes" translated="yes">
         <source>Clipboard settings saved.</source>
-        <target state="translated">Gosodiadau clipfwrdd wedi eu cadw.</target>
+        <target>Gosodiadau clipfwrdd wedi eu cadw.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/clipboardAction.class.php</note>
       </trans-unit>
       <trans-unit id="38e98eb03cdf243f853afd1440a2334b307f72db" approved="yes" translated="yes">
@@ -2626,14 +2715,14 @@
         <target>Nodyn DACS</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="41916620b0cf0e36e71b87df105e6457e94cdfed" approved="yes">
+      <trans-unit id="41916620b0cf0e36e71b87df105e6457e94cdfed" approved="yes" translated="yes">
         <source>DACS template - area headings</source>
-        <target state="translated">Templed DACS - penawdau ardal</target>
+        <target>Templed DACS - penawdau ardal</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="15b15fb65608a7f95b836e8abfade5852ffbb6a8" approved="yes">
+      <trans-unit id="15b15fb65608a7f95b836e8abfade5852ffbb6a8" approved="yes" translated="yes">
         <source>DACS template - elements</source>
-        <target state="translated">Templed DACS - elfennau</target>
+        <target>Templed DACS - elfennau</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="a7205d1e4bab4d2e6c333c8900cee76cbdb84393" approved="yes" translated="yes">
@@ -2784,12 +2873,12 @@
       <trans-unit id="7d3792fdcdf74f52b4f5e58d036fd4fb4f352046" approved="yes" translated="yes">
         <source>Default %1% upload limit (GB)</source>
         <target>Cyfyngiad uwchlwytho diofyn %1% (GB)</target>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4bbded30b10f05b74c782c11c781e5d2e392c88b" approved="yes" translated="yes">
-        <source>Default %1% upload limit for a new %2%.  A value of &amp;quot;0&amp;quot; (zero) disables file upload.  A value of &amp;quot;-1&amp;quot; allows unlimited uploads</source>
-        <target>Cyfyngiad diofyn %1% uwchlwytho ar gyfer %2% newydd.  Bydd gwerth o "0" (sero) yn analluogi uwchlwytho'r ffeil.  Bydd gwerth o "-1" yn galluogi uwchlwytho heb gyfyngiad</target>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+      <trans-unit id="a0bc1acfd6a820761a1719746d34b5d178a4a64e">
+        <source>Default %1% upload limit for a new %2%.  A value of &amp;quot;0</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
       <trans-unit id="f255e4d2285844da586eed823a8fd90d24c49279" approved="yes" translated="yes">
         <source>Default archival description browse view</source>
@@ -3006,6 +3095,11 @@
         <target>Gwrthrychau digidol</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
+      <trans-unit id="523ffd25e063bf943492dfebeb8e852f59dc0115">
+        <source>Digital objects with restricted access or copyright will not</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
+      </trans-unit>
       <trans-unit id="fd8e45bac7d354790ec0a82d8a61341bf8acd055" approved="yes" translated="yes">
         <source>Direction</source>
         <target>Cyfeiriad</target>
@@ -3015,6 +3109,11 @@
         <source>Disable uploads</source>
         <target>Analluogi uwchlwythiadau</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
+      </trans-unit>
+      <trans-unit id="f4f4473df8cb59f0a369aebee3d1509adc0151c6">
+        <source>Disabled</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/uploadsAction.class.php</note>
       </trans-unit>
       <trans-unit id="ef71b2c49486cf9b1aeb5eb80d5601433c60ff8d" approved="yes" translated="yes">
         <source>Disallow</source>
@@ -3121,10 +3220,20 @@
         <target>Lawrlwytho %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_showCompound.php</note>
       </trans-unit>
+      <trans-unit id="c463408d9f7db3eb69ee8eaa8b0624afa387838c">
+        <source>Download AIP</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageService/templates/_aipDownload.php</note>
+      </trans-unit>
       <trans-unit id="f8c1e237cf5d16100e0f59c5297b2b4ff22dcb4e" approved="yes" translated="yes">
         <source>Download audio</source>
         <target>Lawrlwytho sain</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_showAudio.php</note>
+      </trans-unit>
+      <trans-unit id="774025da27ed170fad0f15132460ea08d72f1e12">
+        <source>Download file</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageService/templates/_aipDownload.php</note>
       </trans-unit>
       <trans-unit id="4c0f35706de44025877075c81791fbf5c8f94718" approved="yes" translated="yes">
         <source>Download movie</source>
@@ -3536,10 +3645,20 @@
         <target>Gwag: %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/actions/browseAction.class.php</note>
       </trans-unit>
+      <trans-unit id="cd72d9a2e7446d7d38a84f0d6268f562b7a37b7e">
+        <source>Enable AIP download</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
+      </trans-unit>
       <trans-unit id="f01229120c68d5a8dd7826c901229cb90155096b" approved="yes" translated="yes">
         <source>Enable Markdown support</source>
         <target>Galluogi cefnogaeth Markdown</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/markdownSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="ad7811e5bae6c62ab58c14a605a2af662ee8326e">
+        <source>Enable access statement</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="703d28e72d95e4b8a8ffd46f41a8d51e0905532e" approved="yes" translated="yes">
         <source>Enable additional OAI sets</source>
@@ -3551,9 +3670,9 @@
         <target>Galluogi hysbysiad diweddaru awtomatig</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="962b3315691a1bd892ff125cbe99b9567faa4cdc" approved="yes">
+      <trans-unit id="962b3315691a1bd892ff125cbe99b9567faa4cdc" approved="yes" translated="yes">
         <source>Enable clipboard send functionality</source>
-        <target state="translated">Galluogi ymarferoldeb anfon clipfwrdd</target>
+        <target>Galluogi ymarferoldeb anfon clipfwrdd</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="849510ba30fb00121f54ba31f7a319bce5388498" approved="yes" translated="yes">
@@ -3565,6 +3684,11 @@
         <source>Enable description change logging</source>
         <target>Galluogi logio newid disgrifiad</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+      </trans-unit>
+      <trans-unit id="b9096776643c10d770862bc801bf1028ce4b35a9">
+        <source>Enable digital object export</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="d6395f068ba11d205da4a6492fefdd088ee4ecea" approved="yes" translated="yes">
         <source>Enable institutional scoping</source>
@@ -3579,7 +3703,7 @@
       <trans-unit id="df174a3f2faa31814e06540acda7af8825403fac" approved="yes" translated="yes">
         <source>Enabled</source>
         <target>Galluogwyd</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/sfPluginAdminPlugin/modules/sfPluginAdminPlugin/templates/pluginsSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/uploadsAction.class.php</note>
       </trans-unit>
       <trans-unit id="a2bb9d34b8a1a79665858d354585cf147e0dee4e" approved="yes" translated="yes">
         <source>End</source>
@@ -3589,7 +3713,7 @@
       <trans-unit id="89d10cd6c1e1437d6318d6fbb25a40e0aaaddd34" approved="yes" translated="yes">
         <source>End date</source>
         <target>Dyddiad gorffen</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardAction.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="dfe6a07c57eee4e4e9db3b226403a24db11ec77c" approved="yes" translated="yes">
         <source>Enter an unambiguous code used to uniquely identify the description.</source>
@@ -3604,7 +3728,7 @@
       <trans-unit id="04d1793779ef72e8e27870b9470275cc18616ea7" approved="yes" translated="yes">
         <source>Enter the ID of the saved clipboard you would like to load.</source>
         <target>Rhowch ID y clipfwrdd a gadwyd a hoffech ei lwytho.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="d186bd7f7c43e70b908e186473d02190ade84297" approved="yes" translated="yes">
         <source>Enter the copyright end date, if known. Acceptable date format: YYYY-MM-DD.</source>
@@ -3659,7 +3783,7 @@
       <trans-unit id="37d385dd9dd7c073d67a9b8d402803a229b9257c" approved="yes" translated="yes">
         <source>Entity type</source>
         <target>Math o endid</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
       <trans-unit id="d443a1185575c125d61e0af393b044d7b06ef572" approved="yes" translated="yes">
         <source>Environment</source>
@@ -3684,7 +3808,7 @@
       <trans-unit id="9affd41f809d36eca8804dd972e7421228270fa0" approved="yes" translated="yes">
         <source>Error: You must have at least one %1%Level of description%2% selected or choose %1%Include all descendant levels of description%2% to proceed.</source>
         <target>Gwall: Rhaid i chi gael o leiaf un %1%Lefel y disgrifiad%2% wedi'i ddewis neu dewiswch %1%Cynnwys pob lefel o ddisgrifiad disgynnydd%2% i fynd ymlaen.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/exportSuccess.php</note>
       </trans-unit>
       <trans-unit id="be5d240ee357271eba10fb02d39f20137df4e479" approved="yes" translated="yes">
         <source>Escape special chars from searches</source>
@@ -3720,6 +3844,16 @@
         <source>Event type</source>
         <target>Math o ddigwyddiad</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_event.php</note>
+      </trans-unit>
+      <trans-unit id="08d8a79567198c02c6d085a028d6d720c42514a4">
+        <source>Event(s)</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/indexSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="78c90524e457e72d00ab5cf0ce3fd541849b6207">
+        <source>Events(s)</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="0cae74747ce921ce4dc2761826efeaa22990fc6f" approved="yes" translated="yes">
         <source>Exact</source>
@@ -3771,19 +3905,14 @@
         <target>Allforio hanes CSV</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="aa6a2e170a2b95cd9b56092753fd17a3ebc39ffb" approved="yes" translated="yes">
-        <source>Export initiated. Progress will be reported, and a download link provided, in a subsequent notification &amp;mdash; &lt;a href="javascript:location.reload();"&gt;refresh the page&lt;/a&gt; for updates.</source>
-        <target>Allforio wedi cychwyn. Bydd y cynnydd yn cael ei adrodd, a bydd dolen lawrlwytho yn cael ei ddarparu, mewn hysbysiad dilynol  &lt;a href="javascript:location.reload();"&gt;adnewyddwch y dudalen&lt;/a&gt; er mwyn cael diweddariadau.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/exportAction.class.php</note>
-      </trans-unit>
       <trans-unit id="b5fd8d391bf8cd796020b8882794934c1edcad80" approved="yes" translated="yes">
         <source>Export options</source>
         <target>Opsiynau allforio</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="92a8228af0cca31296548d09aefd1471c03cfac2" approved="yes">
+      <trans-unit id="92a8228af0cca31296548d09aefd1471c03cfac2" approved="yes" translated="yes">
         <source>Export storage report</source>
-        <target state="translated">Allforio adroddiad storio</target>
+        <target>Allforio adroddiad storio</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="71a1260f76544c68e3425a1c076e5499b0002fbb" approved="yes" translated="yes">
@@ -3806,14 +3935,14 @@
         <target>URI allanol</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="bf20a49b9a909ddbaffd2f27c8e2253a654c3f05" approved="yes">
+      <trans-unit id="bf20a49b9a909ddbaffd2f27c8e2253a654c3f05" approved="yes" translated="yes">
         <source>External URL to send clipboard contents to</source>
-        <target state="translated">URL allanol i anfon cynnwys y clipfwrdd iddo</target>
+        <target>URL allanol i anfon cynnwys y clipfwrdd iddo</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="57f8564e8c8c1fba4214116f6a9ec2b0fdcfd748" approved="yes">
+      <trans-unit id="57f8564e8c8c1fba4214116f6a9ec2b0fdcfd748" approved="yes" translated="yes">
         <source>External file</source>
-        <target state="translated">Ffeil allanol</target>
+        <target>Ffeil allanol</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4efb6cb7c018f0c686d4e9d68b615950223b4dd1" approved="yes" translated="yes">
@@ -3850,6 +3979,11 @@
         <source>File %1% could not be thumbnailed</source>
         <target>Ni fedrwyd creu bodlun o ffeil %1% </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/actions/uploadAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="bbe31775cd1d2fb65f5eea53a07acb265094703a">
+        <source>File UUID</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="cccf53028508de752f66891e8ccf4ac2b3e1053e" approved="yes" translated="yes">
         <source>File list</source>
@@ -3911,9 +4045,9 @@
         <target>Terfynol</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="14a210a056a2c2b691da36fb481624ac71b3fa16" approved="yes">
+      <trans-unit id="14a210a056a2c2b691da36fb481624ac71b3fa16" approved="yes" translated="yes">
         <source>Find results where:</source>
-        <target state="translated">Canfod canlyniadau yn:</target>
+        <target>Canfod canlyniadau yn:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="1d418f9a4f336e7d5a4571efa07895625a635204" approved="yes" translated="yes">
@@ -3999,7 +4133,7 @@
       <trans-unit id="041a5dec481d6bf0724caeaa84bc135d7d9062d4" approved="yes" translated="yes">
         <source>Format</source>
         <target>Fformat</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="9bc91746574d771a7501376def878165b20d9db9" approved="yes" translated="yes">
         <source>Format name</source>
@@ -4286,9 +4420,9 @@
         <target>Grwpiau</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="0524a68bbf49da748d2e1aab162bd304ba8f2d8b" approved="yes">
+      <trans-unit id="0524a68bbf49da748d2e1aab162bd304ba8f2d8b" approved="yes" translated="yes">
         <source>HTTP method to use when sending clipboard contents</source>
-        <target state="translated">Dull HTTP i'w ddefnyddio wrth anfon cynnwys clipfwrdd</target>
+        <target>Dull HTTP i'w ddefnyddio wrth anfon cynnwys clipfwrdd</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="5f4fe34e347c71f32427fcb74edb078bf5eed941" approved="yes" translated="yes">
@@ -4306,9 +4440,9 @@
         <target>Helo, %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_userMenu.php</note>
       </trans-unit>
-      <trans-unit id="40b1f2a903a68c126e28f48e3edfa9785a4a660e" approved="yes">
+      <trans-unit id="40b1f2a903a68c126e28f48e3edfa9785a4a660e" approved="yes" translated="yes">
         <source>Hide hierarchy</source>
-        <target state="translated">Cuddio'r hierarchaeth</target>
+        <target>Cuddio'r hierarchaeth</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="3ed71999e2a205e7dd06687ed5dd96f7d22fdd01" approved="yes" translated="yes">
@@ -4556,10 +4690,10 @@
         <target>Os yw'n hysbys, nodwch a disgwylir croniadau pellach. Pan fo'n briodol, noder pa mor aml a chyfaint. (DACS 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="781c959c92fe9cb5304dcef617e3998def02cc66" approved="yes" translated="yes">
-        <source>If no levels are selected, the export will fail. You can use the control (Mac ⌘) and/or shift keys to multi-select values from the Levels of description menu. It is necessary to include the level(s) above the desired export level, up to and including the level contained in the clipboard. Otherwise, no records will be included in the export.</source>
-        <target>Os na ddewisir unrhyw lefelau, bydd yr allforio yn methu. Gallwch ddefnyddio'r bysellau rheoli (Mac ⌘) a/neu'r allweddi shift i aml-ddethol gwerthoedd o'r ddewislen Lefelau o ddisgrifiad. Mae angen cynnwys y lefel(au) uwchlaw'r lefel allforio a ddymunir, hyd at a gan gynnwys y lefel sydd yn y clipfwrdd. Fel arall, ni fydd unrhyw gofnodion yn cael eu cynnwys yn yr allforio.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+      <trans-unit id="5c5e2212c319d0febcfa025a39e1d26fb56a0904">
+        <source>If no levels are selected, the export will fail. You can use</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="daf30d89f9968099a1c838a965b907b3865183cf" approved="yes" translated="yes">
         <source>If the copy of the unit of description is available (either in the institution or elsewhere) record its location, together with any significant control numbers. (ISAD 3.5.2)</source>
@@ -4641,6 +4775,10 @@
         <target>Mewnforio XML</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/importSelectAction.class.php</note>
       </trans-unit>
+      <trans-unit id="8b7010518b844a1c5b9ea0287bef8c124c0a4e11">
+        <source>Import aborted: %1% identifier "%2%" not unique.</source>
+        <target/>
+      </trans-unit>
       <trans-unit id="91a059de3e7090e6eeaf6286c1093fcb551e9131" approved="yes" translated="yes">
         <source>Import digital objects</source>
         <target>Mewnforio gwrthrychau digidol</target>
@@ -4674,7 +4812,7 @@
       <trans-unit id="46ac7d4191ce56511942267ed3fddd6d980fe7a6" approved="yes" translated="yes">
         <source>In the "Action" selector, indicate whether you want to &lt;strong&gt;merge&lt;/strong&gt; the saved clipboard with the entries on the current clipboard or &lt;strong&gt;replace&lt;/strong&gt; (overwrite) the current clipboard with the saved one.</source>
         <target>Yn y dewisydd "Gweithred", nodwch a ydych chi am &lt;strong&gt;uno'r&lt;/strong&gt; clipfwrdd a gadwyd gyda'r cofnodion ar y clipfwrdd cyfredol neu &lt;strong&gt;amnewid&lt;/strong&gt; (gorysgrifennu) y clipfwrdd presennol gyda'r un a gadwyd.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="7a63007efa8922530549ff1fa9159c9cd6a8ded3" approved="yes" translated="yes">
         <source>In the absence of a meaningful formal title, compose a brief title that uniquely identifies the material, normally consisting of a name segment, a term indicating the nature of the unit being described, and optionally a topical segment. Do not enclose devised titles in square brackets. (DACS 2.3.3)</source>
@@ -4689,27 +4827,32 @@
       <trans-unit id="1563c715de23e28b53c68ea7aac835dbcf5d7e3b" approved="yes" translated="yes">
         <source>Include all descendant levels of description</source>
         <target>Cynnwys pob lefel o ddisgrifiad disgynnydd</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f2814000ca36568f871fcc44e51d5f6924dd6b0c" approved="yes">
+      <trans-unit id="f2814000ca36568f871fcc44e51d5f6924dd6b0c" approved="yes" translated="yes">
         <source>Include containers linked to accessions</source>
-        <target state="translated">Cynnwys cynwysyddion sy'n gysylltiedig â derbynion</target>
+        <target>Cynnwys cynwysyddion sy'n gysylltiedig â derbynion</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2bc43226df1ac86e32467495586bb46ef07591b4" approved="yes">
+      <trans-unit id="2bc43226df1ac86e32467495586bb46ef07591b4" approved="yes" translated="yes">
         <source>Include containers linked to descriptions</source>
-        <target state="translated">Cynnwys cynwysyddion sy'n gysylltiedig â disgrifiadau</target>
+        <target>Cynnwys cynwysyddion sy'n gysylltiedig â disgrifiadau</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="6a3a406e4bb13f7409892a6b2de4b09ab663482d" approved="yes" translated="yes">
         <source>Include descendants</source>
         <target>Cynnwys disgynyddion</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="4064996778957a5f98caa73059e39c0452939a61">
+        <source>Include digital objects</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="a27cc59c4c88f610ee50249c4f533677b9435ec5" approved="yes" translated="yes">
         <source>Include draft records</source>
         <target>Cynnwys record ddrafft</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="58feb71e31d2f20331c89098a24290d9edcf4d5d" approved="yes" translated="yes">
         <source>Include thumbnails</source>
@@ -4721,9 +4864,9 @@
         <target>Cynnwys sgript trawsnewid</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="64f5b6914d348c81202834599e782f365608d838" approved="yes">
+      <trans-unit id="64f5b6914d348c81202834599e782f365608d838" approved="yes" translated="yes">
         <source>Include unlinked containers</source>
-        <target state="translated">Cynnwys cynwysyddion di-gyswllt</target>
+        <target>Cynnwys cynwysyddion di-gyswllt</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="387fd1bbc18419e26c612f4acad9213e5073ade4" approved="yes" translated="yes">
@@ -4731,10 +4874,10 @@
         <target>Anghyflawn</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="3f27c48f72c9ee913e10505d303672a33985c64b" approved="yes" translated="yes">
-        <source>Incorrect clipboard ID for saved clipboard.</source>
-        <target>ID anghywir y clipfwrdd ar gyfer y clipfwrdd a gadwyd.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardLoadAction.class.php</note>
+      <trans-unit id="9c4740018c874c7b552f9809412b373666880704">
+        <source>Incorrect clipboard ID and/or action.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="b90d44713f9b698e94e40d38871b2aef40547c0f" approved="yes" translated="yes">
         <source>Indicate any important physical conditions, such as preservation requirements, that affect the use of the unit of description. Note any software and/or hardware required to access the unit of description.</source>
@@ -4796,6 +4939,11 @@
         <target>Gwybodaeth am hanes y derbyniad. Pan dderbynnir y derbyniad yn uniongyrchol gan y crëwr, peidiwch gofnodi hanes archifol ond cofnodwch y wybodaeth fel Ffynhonnell Uniongyrchol y Derbyniad. </target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
+      <trans-unit id="7b07bf71445b05c31ec39570ec64dd1165468c23">
+        <source>Ingested</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
+      </trans-unit>
       <trans-unit id="18f99833bb423f35b13b6374e87a08306b82f669" approved="yes" translated="yes">
         <source>Inherit</source>
         <target>Etifeddu</target>
@@ -4806,9 +4954,9 @@
         <target>Etifeddu côd cyfeirnod</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/treeviewAction.class.php</note>
       </trans-unit>
-      <trans-unit id="ae62284b8ff262eb2a9dd5ed22491de9e3f5c18b" approved="yes">
+      <trans-unit id="ae62284b8ff262eb2a9dd5ed22491de9e3f5c18b" approved="yes" translated="yes">
         <source>Inherit reference code (DC XML)</source>
-        <target state="translated">Cyfeirnod etifeddu (DC XML)</target>
+        <target>Cyfeirnod etifeddu (DC XML)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="0953760ce30d75c4960d0196dd2bc662bc621b79" approved="yes" translated="yes">
@@ -4860,6 +5008,11 @@
         <source>Invalid end date</source>
         <target>Dyddiad gorffen annilys</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/descriptionUpdatesAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="cd3d9e6c84783a067735b7d6861c533e895d2abe">
+        <source>Invalid export options.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="92aea10bd9c44d77364ae6e13506a56d897b7d5a" approved="yes" translated="yes">
         <source>Invalid start date</source>
@@ -4916,6 +5069,11 @@
         <target>Mae ganddo %1% disgynydd fydd hefyd yn cael eu dileu:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/deleteSuccess.php</note>
       </trans-unit>
+      <trans-unit id="7df63da75f26fe742c85831a4cc069f61f48cd3e">
+        <source>It is not possible to select both digital objects and</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
+      </trans-unit>
       <trans-unit id="d26c77679f9fabf364d6bce3bb4478d32749e3b8" approved="yes" translated="yes">
         <source>It's used in %1% events that will also be deleted</source>
         <target>Mae'n cael ei ddefnyddio mewn %1% digwyddiad fydd hefyd yn cael eu dileu</target>
@@ -4931,14 +5089,14 @@
         <target>Rhestr eitemau</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/reportsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="6a013f3591caa3ee3f7742743ed123abf4cf8af0" approved="yes">
+      <trans-unit id="6a013f3591caa3ee3f7742743ed123abf4cf8af0" approved="yes" translated="yes">
         <source>Items per page</source>
-        <target state="translated">Eitemau bob tudalen</target>
+        <target>Eitemau bob tudalen</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4847cc1454ccb160f631e441cd95daf443a173f1" approved="yes">
+      <trans-unit id="4847cc1454ccb160f631e441cd95daf443a173f1" approved="yes" translated="yes">
         <source>Items per page can be a minimum of %1% and a maximum of %2%</source>
-        <target state="translated">Gall eitemau ar bob tudalen fod yn isafswm o %1% ac uchafswm o %2%</target>
+        <target>Gall eitemau ar bob tudalen fod yn isafswm o %1% ac uchafswm o %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="9a81100c9f833379dda543d307a8f9806a21127a" approved="yes" translated="yes">
@@ -5229,12 +5387,12 @@
       <trans-unit id="ddcb77ff769ea54ca622848f6bedd4004fa4f4fa" approved="yes" translated="yes">
         <source>Load</source>
         <target>Llwytho</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="712d34daeb6370130057024748385f2b0c466f6f" approved="yes" translated="yes">
         <source>Load clipboard</source>
         <target>Llwytho'r clipfwrdd</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardLoadSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="530afa5bce434b05e3a10e83ff2567f7f8622af9" approved="yes" translated="yes">
         <source>Loading ...</source>
@@ -5290,6 +5448,11 @@
         <source>Log in</source>
         <target>Mewngofnodi</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/loginSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="82a6209a347747eedf111083b1c935c3d1988652">
+        <source>Log in with CAS</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arCasPlugin/modules/user/templates/loginSuccess.php</note>
       </trans-unit>
       <trans-unit id="6e78c91f5a05fc0d4f1a787d38e3d6fe2f856d46" approved="yes" translated="yes">
         <source>Log out</source>
@@ -5376,9 +5539,9 @@
         <target>Nodiadau cynnal a chadw</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/actions/browseAction.class.php</note>
       </trans-unit>
-      <trans-unit id="af5f36d7cf6a84b3ac9c023ab0a3b2a0c8e31420" approved="yes">
+      <trans-unit id="af5f36d7cf6a84b3ac9c023ab0a3b2a0c8e31420" approved="yes" translated="yes">
         <source>Make full width treeview collapsible on description pages</source>
-        <target state="translated">Gwneud hi'n bosib i ddymchwel golwg coeden lled llawn ar y tudalennau disgrifio</target>
+        <target>Gwneud hi'n bosib i ddymchwel golwg coeden lled llawn ar y tudalennau disgrifio</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="72ca223c258da9a7340dfad91d221f4800603d66" approved="yes" translated="yes">
@@ -5470,6 +5633,11 @@
         <target>Meistr</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/editSuccess.php</note>
       </trans-unit>
+      <trans-unit id="ce429cdfe927689c43754e53045867274714b859">
+        <source>Master file</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
+      </trans-unit>
       <trans-unit id="839de310ff883dc5f22ec85eb75776dc0946a190" approved="yes" translated="yes">
         <source>Material Type</source>
         <target>Math o Ddeunydd</target>
@@ -5528,7 +5696,7 @@
       <trans-unit id="93598a5ee127ffd8f725e92bb5f1f20ce26a2211" approved="yes" translated="yes">
         <source>Merge saved clipboard with existing clipboard results</source>
         <target>Asio clipfwrdd a gadwyd â chanlyniadau clipfwrdd presennol</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardLoadAction.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="929ecd9d6ef73dbc8009fb8a22a2b36058462667" approved="yes" translated="yes">
         <source>Migrate</source>
@@ -5553,16 +5721,16 @@
       <trans-unit id="6ec3edb989002548ae35d1040aeb306e1063392b" approved="yes" translated="yes">
         <source>Minimum value is "%min%"</source>
         <target>Isafswm y gwerth yw "%min%"</target>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/uploadsAction.class.php</note>
       </trans-unit>
       <trans-unit id="5eb19661d82b14387cccd03b8c5ce9bb06bc1731" approved="yes" translated="yes">
         <source>Miscellaneous Documents</source>
         <target>Dogfennau Amrywiol</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="e3ea079ded57effba0d3c11311c33855f14ee35e" approved="yes">
+      <trans-unit id="e3ea079ded57effba0d3c11311c33855f14ee35e" approved="yes" translated="yes">
         <source>Modification</source>
-        <target state="translated">Addasiad</target>
+        <target>Addasiad</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="405f45092d843a1d3838d8a5b8852228db0dfbb7" approved="yes" translated="yes">
@@ -5820,20 +5988,35 @@
         <target>Na</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="36bfaa93cb2ca7a8791fe3dd4fb2370604a6b71a" approved="yes" translated="yes">
-        <source>No entity type specified.</source>
-        <target>Ni nodwyd unrhyw fath o endid.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardClearAction.class.php</note>
+      <trans-unit id="1caae4b65451a6c30af6f9af1b55a5735432e6b7">
+        <source>No children found</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
+      </trans-unit>
+      <trans-unit id="4b775dcfdea71fb1394345b2a8956a1edb8a0462">
+        <source>No items found.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
       <trans-unit id="5f837da7d6b9d15a8cf041d7ae07dbad8c93306b" approved="yes" translated="yes">
         <source>No items in clipboard to save.</source>
         <target>Dim eitemau yn y clipfwrdd i'w cadw.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardSaveAction.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d" approved="yes">
+      <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d" approved="yes" translated="yes">
         <source>No items in clipboard to send.</source>
-        <target state="translated">Dim eitemau yn y clipfwrdd i'w hanfon.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardSendAction.class.php</note>
+        <target>Dim eitemau yn y clipfwrdd i'w hanfon.</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="fe3109a8cb2c1ed5cc5c561e4ca1e2f7158baf8e">
+        <source>No lower level dates found</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
+      </trans-unit>
+      <trans-unit id="cc6ef1ea84544e4c0f0ca31a415608968be947e3">
+        <source>No records were exported for your current selection. Please</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="b993b0c537190bfc94b21360ac5abe51e56be36f" approved="yes" translated="yes">
         <source>No results</source>
@@ -5843,7 +6026,7 @@
       <trans-unit id="a8dbf545a405b4cbc96f75eb0729fef65f51b14b" approved="yes" translated="yes">
         <source>No results for this entity type.</source>
         <target>Dim canlyniadau ar gyfer y math hwn o endid.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
       <trans-unit id="658e79f9dc7fca34dc164cbb79e1c0be3cdebf23" approved="yes" translated="yes">
         <source>No results found</source>
@@ -5864,6 +6047,11 @@
         <source>None</source>
         <target>Dim</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/boxListSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="39208c598f8f515fde64f9754eb85c702248a1b1">
+        <source>Normalized</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="ca1dd39379254ab3f3c73dbffb0d03d628b27d20" approved="yes" translated="yes">
         <source>Not</source>
@@ -5915,9 +6103,9 @@
         <target>Mathau o nodyn</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="a6228fc361c1fe8d8fbdc7fa3b247c876fd5ecb8" approved="yes">
+      <trans-unit id="a6228fc361c1fe8d8fbdc7fa3b247c876fd5ecb8" approved="yes" translated="yes">
         <source>Note: Incorrect security settings can result in the AtoM web UI becoming inaccessible.</source>
-        <target state="translated">Sylwer: Gall gosodiadau diogelwch anghywir arwain at ddiffyg mynediad at UI gwe AtoM.</target>
+        <target>Sylwer: Gall gosodiadau diogelwch anghywir arwain at ddiffyg mynediad at UI gwe AtoM.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/securitySuccess.php</note>
       </trans-unit>
       <trans-unit id="e4275c04480ee72cc6c53655ed8a839e05de00bc" approved="yes" translated="yes">
@@ -6005,11 +6193,6 @@
         <target>Gwrthrych</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="f66cd1bac11145db31d2c8b236d11017b162702c" approved="yes" translated="yes">
-        <source>Object UUID</source>
-        <target>UUID Gwrthrych</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
-      </trans-unit>
       <trans-unit id="5ea1f83d38b9f6620e056239a8f176c5edbc5021" approved="yes" translated="yes">
         <source>Occupation</source>
         <target>Galwediageth</target>
@@ -6040,9 +6223,9 @@
         <target>Dim ond %1% o'r disgrifiadau a ddangoswyd.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/deleteSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1e175490977193b00ffdfe24a91d96611e8e9451" approved="yes">
+      <trans-unit id="1e175490977193b00ffdfe24a91d96611e8e9451" approved="yes" translated="yes">
         <source>Only %1% terms were shown.</source>
-        <target state="translated">Dim ond %1% o dermau a ddangoswyd.</target>
+        <target>Dim ond %1% o dermau a ddangoswyd.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="201d45e256dd23055124e2cc676ca5195ba8929a" approved="yes" translated="yes">
@@ -6094,6 +6277,11 @@
         <source>Or, create a new container</source>
         <target>Neu, creu cynhwysydd newydd</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/editPhysicalObjectsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="9139c8df6e7c26408fd0eacb21241cbb382b55d2">
+        <source>Original file</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="01a63c03cb6a42aa67250456e3a4c786f24ba3a6" approved="yes" translated="yes">
         <source>Original filename</source>
@@ -6205,9 +6393,9 @@
         <target>Testun tudalen</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfTranslatePlugin/modules/sfTranslatePlugin/templates/_translate.php</note>
       </trans-unit>
-      <trans-unit id="eeee5220e17151a27045dad69947f62dbcf3c87d" approved="yes">
+      <trans-unit id="eeee5220e17151a27045dad69947f62dbcf3c87d" approved="yes" translated="yes">
         <source>Pagination limit reached. To avoid using vast amounts of memory, AtoM limits pagination to 10,000 records. Please, narrow down your results.</source>
-        <target state="translated">Terfyn tudaleniad wedi'i chyrraedd. Er mwyn osgoi defnyddio llawer iawn o gof, mae AtoM yn cyfyngu tudaleniad i 10,000 o gofnodion. Os gwelwch yn dda, culhewch eich canlyniadau.</target>
+        <target>Terfyn tudaleniad wedi'i chyrraedd. Er mwyn osgoi defnyddio llawer iawn o gof, mae AtoM yn cyfyngu tudaleniad i 10,000 o gofnodion. Os gwelwch yn dda, culhewch eich canlyniadau.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arRestApiPlugin/modules/api/actions/informationobjectsBrowseAction.class.php</note>
       </trans-unit>
       <trans-unit id="ce007250641f041c1f6ef3b76aab1197bf91b2f3" approved="yes" translated="yes">
@@ -6425,6 +6613,11 @@
         <target>Lleoliadau storfeydd ffisegol</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/storageLocationsAction.class.php</note>
       </trans-unit>
+      <trans-unit id="d7ef4f40303f3cec8e0cb377056eef9e0a367a48">
+        <source>Physical transfer</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
+      </trans-unit>
       <trans-unit id="c32a0147f2e47a52e082fe2dd4b6aaa36084a4cb" approved="yes" translated="yes">
         <source>Place</source>
         <target>Lle</target>
@@ -6440,14 +6633,19 @@
         <target>Lleoedd</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/_placeAccessPoints.php</note>
       </trans-unit>
-      <trans-unit id="66c278f62abb579e90ea55e212e6e65842c53930" approved="yes">
+      <trans-unit id="608db5052014aa0f0d298379ac52c1b95fb3b81a">
+        <source>Please %open_link%refresh the page%close_link% to see progress and</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="66c278f62abb579e90ea55e212e6e65842c53930" approved="yes" translated="yes">
         <source>Please check one or more of the export options.</source>
-        <target state="translated">Gwiriwch un neu fwy o'r opsiynau allforio.</target>
+        <target>Gwiriwch un neu fwy o'r opsiynau allforio.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/actions/holdingsReportExportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="07c0302bc855afec997f2889b2a72e5b425c64ed" approved="yes">
+      <trans-unit id="07c0302bc855afec997f2889b2a72e5b425c64ed" approved="yes" translated="yes">
         <source>Please clear the application cache and rebuild the search index if you are changing the reference code separator setting.</source>
-        <target state="translated">Cliriwch storfa'r cais ac ailadeiladwch y mynegai chwilio os ydych chi'n newid gosodiad gwahanydd y côd cyfeirio.</target>
+        <target>Cliriwch storfa'r cais ac ailadeiladwch y mynegai chwilio os ydych chi'n newid gosodiad gwahanydd y côd cyfeirio.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="92dc92905b40e49ef0b4796a670906f91ae543c2" approved="yes" translated="yes">
@@ -6474,6 +6672,11 @@
         <source>Please rebuild the search index if you are enabling/disabling Markdown support.</source>
         <target>Ailadeiladwch y mynegai chwilio os ydych yn galluogi/analluogi cymorth Markdown.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/markdownSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="83a6fd7b7878408efca49683e8583d2235545f30">
+        <source>Please try again.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
       <trans-unit id="ab2e26dd8b8868a3969cb3321e0c983c0d9d67d4" approved="yes" translated="yes">
         <source>Plugins</source>
@@ -6534,6 +6737,21 @@
         <source>Preferred label</source>
         <target>Label dewisol</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="6dcf881e8102c219de351a6de265d6d7d8e64100">
+        <source>Preservation Copies</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
+      </trans-unit>
+      <trans-unit id="0b01915711218230d291a894b4f0f6e3c287eef2">
+        <source>Preservation copy</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
+      </trans-unit>
+      <trans-unit id="ae0613ebf9ba58f3c31ed9f54b7b796b4bff00bd">
+        <source>Preservation system access statement</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="f1fbb2b43dca281d0138f4fcc92543ad143ef0b1" approved="yes" translated="yes">
         <source>Preview</source>
@@ -6600,14 +6818,14 @@
         <target>Gosodiadau Hysbysiad Preifatrwydd</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/privacyNotificationSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9db108ba6b7f6571356060929e37dae65878cfca" approved="yes">
+      <trans-unit id="9db108ba6b7f6571356060929e37dae65878cfca" approved="yes" translated="yes">
         <source>Privacy Policy</source>
-        <target state="translated">Polisi Preifatrwydd</target>
+        <target>Polisi Preifatrwydd</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="6097c6cc468677650d41c74ed4c6e477f517934d" approved="yes">
+      <trans-unit id="6097c6cc468677650d41c74ed4c6e477f517934d" approved="yes" translated="yes">
         <source>Privacy notification settings saved.</source>
-        <target state="translated">Gosodiadau hysbysiad preifatrwydd wedi eu cadw.</target>
+        <target>Gosodiadau hysbysiad preifatrwydd wedi eu cadw.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/privacyNotificationAction.class.php</note>
       </trans-unit>
       <trans-unit id="237dfa0a21c8e17a7276cf161eef7e0fba067c47" approved="yes" translated="yes">
@@ -6880,9 +7098,9 @@
         <target>Cofnodwch dyddiadau creu, gweithgarwch cadw cofnodion, cyhoeddi, neu darlledu fel sy'n briodol i'r deunyddiau sy'n cael eu disgrifio. (DACS 2.4.3) Gellir defnyddio’r maes arddangos Dyddiad i fewnosod gwybodaeth am ddyddiadau fel testun rhydd, gan gynnwys marciau argraffyddol i fynegi dynesiad, ansicrwydd, neu goleddfwr. Defnyddiwch y meysydd dechrau a diwedd i wneud y dyddiadau’n chwiladwy. Peidiwch â defnyddio unrhyw goleddfwyr na symbolau teipograffyddol. Fformatau dyddiad derbyniol: BBBBMMDD, BBBB-MM-DD, BBBB-MM, BBBB.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5b9fee98732ea4e9df9b773fc6325fdabe7e68b3" approved="yes">
+      <trans-unit id="5b9fee98732ea4e9df9b773fc6325fdabe7e68b3" approved="yes" translated="yes">
         <source>Record group</source>
-        <target state="translated">Grŵp cofnod</target>
+        <target>Grŵp cofnod</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4e639f1c0c21b3ca508a668c9fb8f92b8d66e0a3" approved="yes" translated="yes">
@@ -7075,6 +7293,11 @@
         <target>Gwahanydd cod cyfeirnod</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
+      <trans-unit id="061c816bc55f7fe588d9caa212fa7beb84495368">
+        <source>Reference copy</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
+      </trans-unit>
       <trans-unit id="56e3badc4e6c5cc95e0ea5a9a878b9bd09f319d4" approved="yes" translated="yes">
         <source>Refresh</source>
         <target>adnewyddu</target>
@@ -7100,14 +7323,14 @@
         <target>Rhanbarthau:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_advancedFilters.php</note>
       </trans-unit>
-      <trans-unit id="a50332e39aa94b109bc0ecb2fdf5cf1d2c8f42a6" approved="yes">
+      <trans-unit id="a50332e39aa94b109bc0ecb2fdf5cf1d2c8f42a6" approved="yes" translated="yes">
         <source>Related %1%</source>
-        <target state="translated">Cysylltiedig %1%</target>
+        <target>Cysylltiedig %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
-      <trans-unit id="8fe49f5a6d0145fda3d21a90631786eac6404217" approved="yes">
+      <trans-unit id="8fe49f5a6d0145fda3d21a90631786eac6404217" approved="yes" translated="yes">
         <source>Related %1% (%2%)</source>
-        <target state="translated">Cysylltiedig %1% (%2%)</target>
+        <target>Cysylltiedig %1% (%2%)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_navigateRelated.php</note>
       </trans-unit>
       <trans-unit id="3e9d6cee52a7a5975dd0eacc367e05c9ac4e9ce3" approved="yes" translated="yes">
@@ -7115,9 +7338,9 @@
         <target>Derbyn(ion) cysylltiedig</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/donor/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d2206005ce805ddb6451ce6e0f03510990900437" approved="yes">
+      <trans-unit id="d2206005ce805ddb6451ce6e0f03510990900437" approved="yes" translated="yes">
         <source>Related accessions</source>
-        <target state="translated">Derbynion cysylltiedig</target>
+        <target>Derbynion cysylltiedig</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="ca95a344fd4334045c6a908e05616fbe31903213" approved="yes" translated="yes">
@@ -7205,9 +7428,9 @@
         <target>Deunyddiau cysylltiedig</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_relatedMaterialDescriptions.php</note>
       </trans-unit>
-      <trans-unit id="261802c20356caa2d9d01a918c516f7cc62a6352" approved="yes">
+      <trans-unit id="261802c20356caa2d9d01a918c516f7cc62a6352" approved="yes" translated="yes">
         <source>Related materials area</source>
-        <target state="translated">Ardal deunyddiau cysylltiedig</target>
+        <target>Ardal deunyddiau cysylltiedig</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="eec37cb147e03396540984ebce49a03799bd1f75" approved="yes" translated="yes">
@@ -7313,12 +7536,12 @@
       <trans-unit id="e963907dac5cd5c017869b4c96c18021c9bd058b" approved="yes" translated="yes">
         <source>Remove</source>
         <target>Dileu</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/clipboardButtonComponent.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/buttonComponent.class.php</note>
       </trans-unit>
       <trans-unit id="c3523f56428b0c1101592f37b0e4fe6971aa6fe4" approved="yes" translated="yes">
         <source>Remove from clipboard</source>
         <target>Dileu o'r clipfwrdd</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/clipboardButtonComponent.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/buttonComponent.class.php</note>
       </trans-unit>
       <trans-unit id="d3f4cb898fbe0c7a7ac4f721438c4c26ad1a2513" approved="yes" translated="yes">
         <source>Rename</source>
@@ -7328,7 +7551,7 @@
       <trans-unit id="6acb16803398b7de29fa6648c822e2108ac3cbe5" approved="yes" translated="yes">
         <source>Replace existing clipboard results with saved clipboard</source>
         <target>Amnewid y canlyniadau clipfwrdd presennol gyda'r clipfwrdd a gadwyd</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardLoadAction.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="16462c5c970a03afa087f3d8dc3253607857ea08" approved="yes" translated="yes">
         <source>Replicate</source>
@@ -7414,11 +7637,6 @@
         <source>Resource type</source>
         <target>Math o adnodd</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/indexSuccess.php</note>
-      </trans-unit>
-      <trans-unit id="aa2a08d2afa23e5f0a3fbe6e6ed494979fd09160" approved="yes" translated="yes">
-        <source>Restricted</source>
-        <target>Cyfyngedig</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="5de586111229c2b8cc98041889974bf6e62d0bc5" approved="yes" translated="yes">
         <source>Restriction</source>
@@ -7575,9 +7793,9 @@
         <target>Cyfeiriadur adnau SWORD</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="e658b2249d48c4f427a38fd312d7f97bcdccc88d" approved="yes">
+      <trans-unit id="e658b2249d48c4f427a38fd312d7f97bcdccc88d" approved="yes" translated="yes">
         <source>SWORD plugin setting changed: the AtoM worker must be restarted for this change to take effect.</source>
-        <target state="translated">Gosodiad ategyn SWORD wedi newid: rhaid ailgychwyn y gweithiwr AtoM er mwyn i'r newid hwn ddod i rym.</target>
+        <target>Gosodiad ategyn SWORD wedi newid: rhaid ailgychwyn y gweithiwr AtoM er mwyn i'r newid hwn ddod i rym.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfPluginAdminPlugin/modules/sfPluginAdminPlugin/actions/pluginsAction.class.php</note>
       </trans-unit>
       <trans-unit id="6df74794c02a082a6a784cde86a2b95263645e31" approved="yes" translated="yes">
@@ -7590,9 +7808,9 @@
         <target>Cadw</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/editThemeSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a8cc93be254c25a50ec105adc97e01b94a32d6df" approved="yes">
+      <trans-unit id="a8cc93be254c25a50ec105adc97e01b94a32d6df" approved="yes" translated="yes">
         <source>Save clipboard</source>
-        <target state="translated">Cadw'r clipfwrdd</target>
+        <target>Cadw'r clipfwrdd</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="d75e3c618d00b000ad2fc6f803bbf02abba350c0" approved="yes" translated="yes">
@@ -7838,7 +8056,7 @@
       <trans-unit id="5bbd6f15ea72530160fed9d3ee41b54ea5451a72" approved="yes" translated="yes">
         <source>Select levels of descendant descriptions for inclusion</source>
         <target>Dewiswch lefelau disgrifiadau disgynyddion i'w cynnwys</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/exportSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="9eed8d3863d9140182f5b227064d72436a10edcd" approved="yes" translated="yes">
         <source>Select new report to generate:</source>
@@ -7935,20 +8153,20 @@
         <target>Anwybyddwyd hunan-berthynas.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="9bc2575c3930437e80555f78757b783c842e8e66" approved="yes">
+      <trans-unit id="9bc2575c3930437e80555f78757b783c842e8e66" approved="yes" translated="yes">
         <source>Send</source>
-        <target state="translated">Anfon</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardSuccess.php</note>
+        <target>Anfon</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ecf85a87c22d3907972a5810bbb87b82310dda97" approved="yes">
+      <trans-unit id="ecf85a87c22d3907972a5810bbb87b82310dda97" approved="yes" translated="yes">
         <source>Send button text</source>
-        <target state="translated">Testun botwm anfon</target>
+        <target>Testun botwm anfon</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c338c191ab1e9319ba354d56467b938e0ba4e119" approved="yes">
+      <trans-unit id="c338c191ab1e9319ba354d56467b938e0ba4e119" approved="yes" translated="yes">
         <source>Sending...</source>
-        <target state="translated">Anfon...</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardSendAction.class.php</note>
+        <target>Anfon...</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
       <trans-unit id="40c20d94e78fa142819df8cc9440d30e65329975" approved="yes" translated="yes">
         <source>Series</source>
@@ -8030,9 +8248,9 @@
         <target>Dangos dyddiadau</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8d0ce5b1206611efe82404b95ab45cf6f4b44d4b" approved="yes">
+      <trans-unit id="8d0ce5b1206611efe82404b95ab45cf6f4b44d4b" approved="yes" translated="yes">
         <source>Show hierarchy</source>
-        <target state="translated">Dangos hierarchaeth</target>
+        <target>Dangos hierarchaeth</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="f34d14b839c2b0dddd05df5d65fd2e5a36d131b6" approved="yes" translated="yes">
@@ -8125,9 +8343,9 @@
         <target>Slyg yn cael ei ddefnyddio</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/renameSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7d29b99a08bb299d0d339920033792c9b1638d5a" approved="yes">
+      <trans-unit id="7d29b99a08bb299d0d339920033792c9b1638d5a" approved="yes" translated="yes">
         <source>Slug must be provided</source>
-        <target state="translated">Rhaid darparu slyg</target>
+        <target>Rhaid darparu slyg</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/actorEventsAction.class.php</note>
       </trans-unit>
       <trans-unit id="63908f0596e5c41b4a5c7bb02ffedfea5dabbd40" approved="yes" translated="yes">
@@ -8303,7 +8521,7 @@
       <trans-unit id="ff99f5b5f7948dfa71fd545b3d99f5f00856ea29" approved="yes" translated="yes">
         <source>Start date</source>
         <target>Dyddiad cychwyn</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardAction.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="4c7ebc767e75ebb044d7972efd8a8218383c9dc2" approved="yes" translated="yes">
         <source>Statement of coordinates (cartographic)</source>
@@ -8409,6 +8627,41 @@
         <source>Statute note</source>
         <target>Nodyn Statud</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_right.php</note>
+      </trans-unit>
+      <trans-unit id="9013f19b61e0f4cede1dfe41a96ba19f922821ea">
+        <source>Storage Service API endpoint, e.g. "http://localhost:62081/api/v2"</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="d63c1e5ef5f6e0121b5c9d527a6ebbe7d7576665">
+        <source>Storage Service API key, e.g.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="3147048a9e6e20462bab4f4f7906fb76dae9a3a2">
+        <source>Storage Service credentials</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="087a2ade055e4a53ad7eb2f4064c7e9f3880ad5e">
+        <source>Storage Service settings</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="c82f0f62160a54e41954576aeadab36c83ef9d91">
+        <source>Storage Service username, e.g. "atom"</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="4d5d982e55611df11fe41d22d93da1062e2879ab">
+        <source>Storage service</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
+      </trans-unit>
+      <trans-unit id="0f8cfff4e00a98731b3c1d5183122f5549e96544">
+        <source>Storage service settings saved.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/actions/settingsAction.class.php</note>
       </trans-unit>
       <trans-unit id="497a500af2eec4aaa0a712523fcf62eb5c987d0b" approved="yes" translated="yes">
         <source>Street address</source>
@@ -8587,9 +8840,9 @@
         <target>Testun yn disgrifio'r drwydded neu gytundeb a rhoddodd y caniatâd neu ddolen i'r testun llawn a gynhelir ar-lein. Gall hyn gynnwys testun gwirioneddol y drwydded neu gytundeb neu aralleiriad neu grynodeb.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b08c1677ae9fd48f17e1b6572608dfede449df0c" approved="yes">
+      <trans-unit id="b08c1677ae9fd48f17e1b6572608dfede449df0c" approved="yes" translated="yes">
         <source>Text or HTML to display when sending clipboard contents</source>
-        <target state="translated">Testun neu HTML i'w arddangos wrth anfon cynnwys clipfwrdd</target>
+        <target>Testun neu HTML i'w arddangos wrth anfon cynnwys clipfwrdd</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="22046eaaddff9c1ff38b1b26123d8ea2b03384d2" approved="yes" translated="yes">
@@ -8601,6 +8854,11 @@
         <source>The "&lt;strong&gt;%dd%&lt;/strong&gt;" placeholder will be replaced with a incremental number (e.g. 'image &lt;strong&gt;01&lt;/strong&gt;', 'image &lt;strong&gt;02&lt;/strong&gt;')</source>
         <target>Bydd y "&lt;strong&gt;%dd%&lt;/strong&gt;" daliwr lle yn cael ei disodli gan rif cynyddol (ee, 'delwedd &lt;strong&gt;01&lt;/strong&gt;', 'delwedd &lt;strong&gt;02&lt;/strong&gt;')</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="e904fd5974d3acae2560670362a6ef8eb6400f12">
+        <source>The %open_link%job management page%close_link% will show progress</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="1eb750eeacaac450c1e912b4e5ed5321c2cfae24" approved="yes" translated="yes">
         <source>The OAI-PMH API can be secured, optionally, by requiring API requests authenticate using API keys (granted to specific users).</source>
@@ -8621,6 +8879,11 @@
         <source>The character separating hierarchical elements in a reference code</source>
         <target>Y cymeriad sy'n gwahanu elfennau hierarchaidd mewn cyfeirnod</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+      </trans-unit>
+      <trans-unit id="cb7599eaa2b4cd2e64fcea61e35c6f727004f467">
+        <source>The clipboard is empty for this entity type.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="4ecde563fe4e262de9e15f563e4f4e52fc5ff982" approved="yes" translated="yes">
         <source>The code can only contain letters and numbers</source>
@@ -8829,11 +9092,6 @@
         <target>Themâu</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="095bf75a5a1b0776f6d5602ee482c3cd02ad2661" approved="yes" translated="yes">
-        <source>There are %1% items added:</source>
-        <target>Mae yna %1% o eitemau wedi eu hychwanegu:</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardClearSuccess.php</note>
-      </trans-unit>
       <trans-unit id="de6f1e890b1069703f0aa9cdd0d3ba3a4591e777" approved="yes" translated="yes">
         <source>There are no jobs to report on.</source>
         <target>Nid oes unrhyw dasgau i'w hadrodd.</target>
@@ -8844,10 +9102,10 @@
         <target>Nid oes unrhyw adroddiadau perthnasol ar gyfer yr eitem hon</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/reportsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="fb7109a09de526a8d8de04e0a5d68d913bf3df76" approved="yes" translated="yes">
-        <source>There is one item added:</source>
-        <target>Mae yna un eitem wedi ei ychwanegu:</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/clipboardClearSuccess.php</note>
+      <trans-unit id="8d28e517f2e8a3afedf075f046aca7ae05a6ccf1">
+        <source>There was an error loading the clipboard content.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_clipboardMenu.php</note>
       </trans-unit>
       <trans-unit id="810873bad76dd53ec09f81487ede0e3f47d5d7a5" approved="yes" translated="yes">
         <source>This action cannot be undone!</source>
@@ -8937,9 +9195,9 @@
         <source>This record has not yet been reviewed for personal or confidential information. Please contact the Reference Archivist to request access and initiate an access review.</source>
         <target>Nid yw'r cofnod wedi cael ei adolygu am wybodaeth bersonol neu gyfrinachol eto. Cysylltwch â'r Archifydd Cyfeiriol i ofyn am fynediad a chychwyn adolygiad mynediad.</target>
       </trans-unit>
-      <trans-unit id="02e4ad7f88566779ac3cae243dcc57c91c088e9f" approved="yes">
+      <trans-unit id="02e4ad7f88566779ac3cae243dcc57c91c088e9f" approved="yes" translated="yes">
         <source>This term is used in %1% records. The term will be deleted from these records.</source>
-        <target state="translated">Defnyddir y term hwn mewn %1% o gofnodion. Bydd y term yn cael ei ddileu o'r cofnodion hyn.</target>
+        <target>Defnyddir y term hwn mewn %1% o gofnodion. Bydd y term yn cael ei ddileu o'r cofnodion hyn.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="e0b11377ac38712be06c421d2bf188df60a42562" approved="yes" translated="yes">
@@ -8981,6 +9239,11 @@
         <source>Thumbnail</source>
         <target>Bodlun</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="05ad8c47ed6b355540fe7ce663f1faf15a417d85">
+        <source>Thumbnail copy</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="1fe2dea0ebe57f5d9993463055229b5bf6402040" approved="yes" translated="yes">
         <source>Timetables</source>
@@ -9065,7 +9328,7 @@
       <trans-unit id="3347fbef03b2403494e15e97dbf3620ed81d6b2e" approved="yes" translated="yes">
         <source>Total space available for uploads</source>
         <target>Cyfanswm y gofod ar gael ar gyfer uwchlwythiadau</target>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
       <trans-unit id="1a7b7c1b33d161f45804730c70b75175dccd9883" approved="yes" translated="yes">
         <source>Transaction</source>
@@ -9297,7 +9560,7 @@
       <trans-unit id="6a60d27f2abe69321fe9c28e5eccc297da33b099" approved="yes" translated="yes">
         <source>Upload multi-page files as multiple descriptions</source>
         <target>Uwchlwytho ffeiliau tudalenau lluosog fel disgrifiadau lluosog</target>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
       <trans-unit id="80c494898ac90610a67c95502d2a56b4af4963f1" approved="yes" translated="yes">
         <source>Uploaded</source>
@@ -9324,10 +9587,25 @@
         <target>Yn uwchlwytho...</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
+      <trans-unit id="227cc640570a0d013ae5fa41683c192b2c42ec2c">
+        <source>Uploads</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
+      </trans-unit>
       <trans-unit id="ff7827bdef5e829d5542b2ad08736f166f3be29e" approved="yes" translated="yes">
         <source>Uploads for &lt;a href="%1%"&gt;%2%&lt;/a&gt; are disabled</source>
         <target>Uwchlwytho ar gyfer &lt;a href="%1%"&gt;%2%&lt;/a&gt; wedi'u analluogi</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/addDigitalObjectSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="4659dd21d783081b27c44db0868deae8b01c22f3">
+        <source>Uploads settings</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="31d8bf32efa40438cc303913fd96b40a74c60170">
+        <source>Uploads settings saved.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/uploadsAction.class.php</note>
       </trans-unit>
       <trans-unit id="092d0ed59fe536042926fc15385011125304c187" approved="yes" translated="yes">
         <source>Use any valid URI path segment and uppercase character in slugs</source>
@@ -9374,9 +9652,9 @@
         <target>Defnyddiwr %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="81939432dd6709fa9c725744b383574c6686356c" approved="yes">
+      <trans-unit id="81939432dd6709fa9c725744b383574c6686356c" approved="yes" translated="yes">
         <source>User actions</source>
-        <target state="translated">Gweithredoedd defnyddiwr</target>
+        <target>Gweithredoedd defnyddiwr</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="5082f10cda4623dcac09a6c3ba01ce46fec44fc4" approved="yes" translated="yes">
@@ -9509,9 +9787,9 @@
         <target>Elfennau gweladwy</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1c2e1d79cc5d89a3fd2cc01a0aabd57a0a294028" approved="yes">
+      <trans-unit id="1c2e1d79cc5d89a3fd2cc01a0aabd57a0a294028" approved="yes" translated="yes">
         <source>Visible elements configuration saved.</source>
-        <target state="translated">Cyfluniad elfennau gweladwy wedi'i gadw.</target>
+        <target>Cyfluniad elfennau gweladwy wedi'i gadw.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/visibleElementsAction.class.php</note>
       </trans-unit>
       <trans-unit id="52212f0c524e310b9205e4da7793fad36f4363c5" approved="yes" translated="yes">
@@ -9544,10 +9822,20 @@
         <target>Gwefan</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/indexSuccess.php</note>
       </trans-unit>
+      <trans-unit id="c98f8378524f00c5e706960a644783761e87a084">
+        <source>When enabled the following text will appear in the %1% metadata section to describe how a user may access the original and preservation copy of the file stored in a linked digital preservation system. The text appears in the "Permissions" field. When disabled, the "Permissions" field is not displayed.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
+      </trans-unit>
       <trans-unit id="40d418bc31781a74944b309e740c43c749195d10" approved="yes" translated="yes">
         <source>When enabled the following text will appear whenever a user tries to download a %1% master with an associated rights statement where the Basis = copyright and the Restriction = conditional. You can style and customize the text as in a static page.</source>
         <target>Pan wedi ei alluogi, bydd y testun canlynol yn ymddangos pryd bynnag fydd defnyddiwr yn ceisio lawrlwytho %1% meistr gyda datganiad hawliau cysylltiedig lle fo Sail = hawlfraint a'r Cyfyngiad = amodol. Gallwch addasu arddull y testun fel ar dudalen statig.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="9edcd50b3bd0ea1bcb23203d1aa7ee2a6e061108">
+        <source>When enabled, an &amp;quot;Upload limit&amp;quot; meter is displayed</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
       <trans-unit id="2adff028b76aada6fd284b4151748d7d5111c8e3" approved="yes" translated="yes">
         <source>When set to &amp;quot;no&amp;quot;, the repository name is excluded from certain displays because it will be too repetitive</source>
@@ -9602,12 +9890,7 @@
       <trans-unit id="c0aa9ef764d832b80428d756a731a94251b0e3a1" approved="yes" translated="yes">
         <source>XML</source>
         <target>XML</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/exportAction.class.php</note>
-      </trans-unit>
-      <trans-unit id="3934b03c6a52e3d0175890929a89091415e27f07" approved="yes" translated="yes">
-        <source>XML export</source>
-        <target>Allforio XML</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/exportAction.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="5397e0583f14f6c88de06b1ef28f460a1fb5b0ae" approved="yes" translated="yes">
         <source>Yes</source>
@@ -9659,6 +9942,11 @@
         <target>Rhaid dangos o leiaf %min% canlyniad y tudalen</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
+      <trans-unit id="5690bab5bc0502a82a0d8fd948a3b47d467cd5e0">
+        <source>Your %entity_type% export package is being built.</source>
+        <target/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
+      </trans-unit>
       <trans-unit id="bc604c6d39202a42afa4845cb8b70a7077b49a98" approved="yes" translated="yes">
         <source>Your browser does not have Flash player installed. To import digital objects, please &lt;a href="https://get.adobe.com/flashplayer/"&gt;Download Adobe Flash Player&lt;/a&gt; (requires version 9.0.45 or higher)</source>
         <target>Nid yw chwaraewr Flash wedi ei osod ar eich porwr. I fewnforio gwrthrychau digidol, &lt;a href="https://get.adobe.com/flashplayer/"&gt;Lawrlwythwch Adobe Flash Player&lt;/a&gt; (angen fersiwn 9.0.45 neu uwch)</target>
@@ -9669,9 +9957,9 @@
         <target>Nid yw eich porwr yn cefnogi JavaScript. Gweler %1%minimum requirements%2%.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="483306b6ae95797b695bf358e2ea9125b9919553" approved="yes">
+      <trans-unit id="483306b6ae95797b695bf358e2ea9125b9919553" approved="yes" translated="yes">
         <source>Your description has been updated. Its descendants are being updated asynchronously – check the &lt;a href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
-        <target state="translated">Mae eich disgrifiad wedi'i ddiweddaru. Mae ei ddisgynyddion yn cael eu diweddaru yn gydamserol - gwiriwch y dudalen amserlenydd tasg&lt;a href="%1"&gt;1 &lt;/a&gt; 2 am statws a manylion.</target>
+        <target>Mae eich disgrifiad wedi'i ddiweddaru. Mae ei ddisgynyddion yn cael eu diweddaru yn gydamserol - gwiriwch y dudalen amserlenydd tasg&lt;a href="%1"&gt;1 &lt;/a&gt; 2 am statws a manylion.</target>
       </trans-unit>
       <trans-unit id="7c6ebbcaa294e78319d052103c0780f99d305c52" approved="yes" translated="yes">
         <source>Your description has been updated. Lower level descriptions are being updated now – check the &lt;a href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
@@ -9706,7 +9994,7 @@
       <trans-unit id="172415f02e562cd029620c3db12fb3cbb83c4208" approved="yes" translated="yes">
         <source>added</source>
         <target>ychwanegwyd</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardLoadAction.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="b3aca92c793ee0e9b1a9b0a5f5fc044e05140df3" approved="yes" translated="yes">
         <source>administrator</source>
@@ -9961,7 +10249,7 @@
       <trans-unit id="7f3cd5fcb66799ef036d1d8109dff20db80c0447" approved="yes" translated="yes">
         <source>merged with current clipboard</source>
         <target>asiwyd â'r clipfwrdd cyfredol</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/clipboardLoadAction.class.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="c2d455598ed898aefa7cb2c07654d92792b00ffa" approved="yes" translated="yes">
         <source>mixed material</source>
