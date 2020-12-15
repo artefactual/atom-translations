@@ -4376,9 +4376,9 @@
         <target>Conceder</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editInformationObjectAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b55b99898787a61ce5549283812b0fca77e81ba3">
+      <trans-unit id="b55b99898787a61ce5549283812b0fca77e81ba3" approved="no">
         <source>Granted right </source>
-        <target/>
+        <target state="translated">Dereito concedido</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e250be408efd120ed718153f50c72d2e56416841" approved="yes" translated="yes">
@@ -4441,9 +4441,9 @@
         <target>Termos xerárquicos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_fields.php</note>
       </trans-unit>
-      <trans-unit id="bda1b9ddd2a172cd6fc2bdd66737451d25b6f867">
+      <trans-unit id="bda1b9ddd2a172cd6fc2bdd66737451d25b6f867" approved="no">
         <source>Hierarchy</source>
-        <target/>
+        <target state="translated">Xerarquía</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/browse/templates/hierarchySuccess.php</note>
       </trans-unit>
       <trans-unit id="b1a5954a483f8f8b0207385095f74aeb409b3f80" approved="yes" translated="yes">
@@ -4496,14 +4496,14 @@
         <target>ISAAR(CPF), 2da ed. Consello Internacional de Arquivos</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsDefaultTemplateForm.class.php</note>
       </trans-unit>
-      <trans-unit id="af8b85ebb2b6c1a69de90ba4b95993b77dfbf6a9">
+      <trans-unit id="af8b85ebb2b6c1a69de90ba4b95993b77dfbf6a9" approved="no">
         <source>ISAD template - area headings</source>
-        <target/>
+        <target state="translated">Plantilla ISAD - Area de encabezamento</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4824cad04a5c00a035001a3763a5da098aa1cc49">
+      <trans-unit id="4824cad04a5c00a035001a3763a5da098aa1cc49" approved="no">
         <source>ISAD template - elements</source>
-        <target/>
+        <target state="translated">Plantilla ISAD - elementos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="4804af7ec03e6a711bf53ba0a03b11280de6cd93" approved="yes" translated="yes">
@@ -4536,14 +4536,14 @@
         <target>Identificador - Este é un elemento obrigatorio.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="2e4536c13e1d6e2f27ac180d2111a18d8ebe67ea">
+      <trans-unit id="2e4536c13e1d6e2f27ac180d2111a18d8ebe67ea" approved="no">
         <source>Identifier - Title</source>
-        <target/>
+        <target state="translated">Identificador - Título</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/treeviewAction.class.php</note>
       </trans-unit>
-      <trans-unit id="006a7eeac5ac8f81f0ea9349a83fe91968f01829">
+      <trans-unit id="006a7eeac5ac8f81f0ea9349a83fe91968f01829" approved="no">
         <source>Identifier available.</source>
-        <target/>
+        <target state="translated">Identificador dispoñible.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/checkIdentifierAvailableAction.class.php</note>
       </trans-unit>
       <trans-unit id="67173cff625212111efc2488c3fb300645412f0f">
@@ -4551,14 +4551,14 @@
         <target/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1b50fed92df01c028e40c8b1d5220a30da835779">
+      <trans-unit id="1b50fed92df01c028e40c8b1d5220a30da835779" approved="no">
         <source>Identifier mask</source>
-        <target/>
+        <target state="translated">Máscara do identificador</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a681481ee7fb9ace94962d91766552ccb2a3413c">
+      <trans-unit id="a681481ee7fb9ace94962d91766552ccb2a3413c" approved="no">
         <source>Identifier mask enabled</source>
-        <target/>
+        <target state="translated">Máscara do identificador activada</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="6930881b1ac523a0e566e08da3073c33fcc626f5" approved="yes" translated="yes">
@@ -4566,19 +4566,19 @@
         <target>Identificador da entidade relacionada</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="77460ad0ab7f5f545bac2f729abf33e8b50cd322">
+      <trans-unit id="77460ad0ab7f5f545bac2f729abf33e8b50cd322" approved="no">
         <source>Identifier settings</source>
-        <target/>
+        <target state="translated">Configuración do identificador</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e1ccfc8c273d28eb192119e9124064818c568233">
+      <trans-unit id="e1ccfc8c273d28eb192119e9124064818c568233" approved="no">
         <source>Identifier settings saved.</source>
-        <target/>
+        <target state="translated">Configuracións do identificador gravadas</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/identifierAction.class.php</note>
       </trans-unit>
-      <trans-unit id="ff499f8b3f7e6956195a84807d93b3ba89140c9d">
+      <trans-unit id="ff499f8b3f7e6956195a84807d93b3ba89140c9d" approved="no">
         <source>Identifier unavailable.</source>
-        <target/>
+        <target state="translated">Identificador non dispoñible</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/checkIdentifierAvailableAction.class.php</note>
       </trans-unit>
       <trans-unit id="e057026030ab8d3892a0ba2794e790549c6704e4">
@@ -4601,14 +4601,14 @@
         <target/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="945e300e4603ccef917c89bd595a06ed39369f78">
+      <trans-unit id="945e300e4603ccef917c89bd595a06ed39369f78" approved="no">
         <source>Identifier: Provide a specific local reference code, control number, or other unique identifier. Level of description: Record the level of this unit of description. Title: Provide either a formal title or a concise supplied title in accordance with the rules of multilevel description and national conventions.</source>
-        <target/>
+        <target state="translated">Identificador: Proporcionar un código local de referencia, número de control, ou outro identificador único. Nivel de descrición: Rexistrar o nivel desta unidade de descrición. Título: Proporcionar ben sexa un título formal ou un título conciso, redactado dacordo coas regras de descrición en varios niveis e as convencións nacionais.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="649d2864df18704de32e689e69e63f2483e8b76e">
+      <trans-unit id="649d2864df18704de32e689e69e63f2483e8b76e" approved="no">
         <source>Identifiers</source>
-        <target/>
+        <target state="translated">Identificadores</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
       <trans-unit id="459b00bb504eb35d76eb98763a18f4d3b541966c" approved="yes" translated="yes">
@@ -4636,9 +4636,9 @@
         <target>Identifique se vai ser expurgada toda ou só unha parte do ingreso</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="14bb5300fd2baa14c5ba43b868aa00f0440d86aa">
+      <trans-unit id="14bb5300fd2baa14c5ba43b868aa00f0440d86aa" approved="no">
         <source>Identify immediate source of acquisition or transfer, and date and method of acquisition IF the information is NOT confidential.</source>
-        <target/>
+        <target state="translated">Consigne a orixe do ingreso ou transferencia, as datas e a forma de ingreso SI é información NON confidencial.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="3ad21a646981e50961994e6b7bb62136d745c784" approved="yes" translated="yes">
@@ -4656,9 +4656,9 @@
         <target>Elementos de identidade</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b60afc056a071a1efd3be31df41ba7739d6be3d4">
+      <trans-unit id="b60afc056a071a1efd3be31df41ba7739d6be3d4" approved="no">
         <source>If "no", just show one OAI set per collection</source>
-        <target/>
+        <target state="translated">Se "non", só amosar un conxunto OAI por colección</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
       <trans-unit id="3c5ea76ab1430b6aabad6ad6494b01684901fb95">
@@ -4686,9 +4686,9 @@
         <target>Se a copia da unidade de descrición está dispoñible (na institución ou noutro lugar) Rexistre a súa ubicación, xunto cun número significativo de números de control. (ISAD 3.5.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f18616d6858c5afed733fffed6e2c7c70c695d02">
+      <trans-unit id="f18616d6858c5afed733fffed6e2c7c70c695d02" approved="no">
         <source>If the finding aid is an uploaded PDF, the transcript will be deleted too.</source>
-        <target/>
+        <target state="translated">Se o catálogo é un ficheiro PDF, a transcripción eliminarase igualmente.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/deleteFindingAidSuccess.php</note>
       </trans-unit>
       <trans-unit id="b44801c66a54fd64a38ab9a52bea93b31a2ee928">
@@ -4701,9 +4701,9 @@
         <target>Si o orixen da unidade de descrición está dispoñible (na institución ou noutro lugar) rexistre a súa ubicación, xunto con calquera número de control significativo. Si os orixinais non existen, ou a súa ubicación é descoñecida, proporcione esa información. (ISAD 3.5.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="caeb0f968c54a0f7b51ffd2cb07f0d5ba29da724">
+      <trans-unit id="caeb0f968c54a0f7b51ffd2cb07f0d5ba29da724" approved="no">
         <source>If the page number does not exist, the derivative will be generated from the previous closest one.</source>
-        <target/>
+        <target state="translated">Se non existe o número de páxina, o derivado xerarase a partires da inmediatamente anterior.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/digitalObjectDerivativesSuccess.php</note>
       </trans-unit>
       <trans-unit id="d3063cf71c3e980e760ec977dffec6319fc41bdf">
@@ -4716,14 +4716,14 @@
         <target>Se estás importando un arquivo SKOS a uha taxonomía diferente á de materias, por favor vai a %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9f718474ff9448b7c82b04a58d2feb9fec82b746">
+      <trans-unit id="9f718474ff9448b7c82b04a58d2feb9fec82b746" approved="no">
         <source>Ignore matches and create new records on import</source>
-        <target/>
+        <target state="translated">Ignora as coincidencias e crear novos rexistros na importación</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9c99bf2c75218af6f1a3069c538fac1aa3033130">
+      <trans-unit id="9c99bf2c75218af6f1a3069c538fac1aa3033130" approved="no">
         <source>Ignore matches and import as new</source>
-        <target/>
+        <target state="translated">Ignorar as coincidencias e importar como un novo rexistro</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
       <trans-unit id="a5453ae999ab5e1d0dd478396df78692a8785a61" approved="yes" translated="yes">
@@ -4770,9 +4770,9 @@
         <target>Importar obxectos dixitais</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_actions.php</note>
       </trans-unit>
-      <trans-unit id="10056615b161bc59524dda4e7814cacf67f3078c">
+      <trans-unit id="10056615b161bc59524dda4e7814cacf67f3078c" approved="no">
         <source>Import file initiated. Check %1%job %2%%3% to view the status of the import.</source>
-        <target/>
+        <target state="translated">Comezou a importación do ficheiro. Comproba %1%a tarefa %2%%3% para revisar o estado da importación.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/importSelectAction.class.php</note>
       </trans-unit>
       <trans-unit id="5fafca92baff4f5700464754c1cae7ec1668534a" approved="yes" translated="yes">
@@ -7014,19 +7014,19 @@
         <target>RAD, versión Xullo 2008. Consello Canadiano de arquivos</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsDefaultTemplateForm.class.php</note>
       </trans-unit>
-      <trans-unit id="d3b3b1ed9df51a2a4935d0eb5a3d872518da7dc9">
+      <trans-unit id="d3b3b1ed9df51a2a4935d0eb5a3d872518da7dc9" approved="no">
         <source>REST API access key</source>
-        <target/>
+        <target state="translated">Chave de acceso da REST API</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d3c822dedad3933b9090b1d2341ea8dc89adb5b1">
+      <trans-unit id="d3c822dedad3933b9090b1d2341ea8dc89adb5b1" approved="no">
         <source>REST API key</source>
-        <target/>
+        <target state="translated">Chave da REST API</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9ada3810ef0ea05f78ef31f77cbb205579bc693a">
+      <trans-unit id="9ada3810ef0ea05f78ef31f77cbb205579bc693a" approved="no">
         <source>RT %1%</source>
-        <target/>
+        <target state="translated">Termo Relacionado %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_fields.php</note>
       </trans-unit>
       <trans-unit id="601dcc1c87c313fd30ce84fe78d832c726dc750e" approved="yes" translated="yes">
@@ -7059,9 +7059,9 @@
         <target/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d699ea4bee23132e3cf1cb8584feb9eb6f400d13">
+      <trans-unit id="d699ea4bee23132e3cf1cb8584feb9eb6f400d13" approved="no">
         <source>Record appraisal, destruction and scheduling actions taken on or planned for the unit of description, especially if they may affect the interpretation of the material.</source>
-        <target/>
+        <target state="translated">Consigne as actuacións de valoración, selección e eliminación realizadas ou planificadas, especialmente se afectan dalgún xeito á interpretación da documentación.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="9406f57b308a67385a75bbe1eb9490647b57a64e" approved="yes" translated="yes">
@@ -7069,14 +7069,14 @@
         <target>Rexistre a valoración, destrucción e accións programdas tomadas ou planeadas para unidade de descrición, especialmente se poden afectar a interpretación do material. (ISAD 3.3.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="89823f7212ba69d7bb53fa69eb5b4777640b277f">
+      <trans-unit id="89823f7212ba69d7bb53fa69eb5b4777640b277f" approved="no">
         <source>Record citations for any external sources used in the archival description (such as the Scope and Content, Archival History, or Notes fields).</source>
-        <target/>
+        <target state="translated">Citas sobre calquera recurso externo empregado na descrición arquivística (como alcance e contenido, notas, etc...)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="630a27a5c9f8b0b4b821d1f2608affe848f14190">
+      <trans-unit id="630a27a5c9f8b0b4b821d1f2608affe848f14190" approved="no">
         <source>Record citations for any external sources used in the archival description (such as the Scope and Content, Custodial History, or Notes fields).</source>
-        <target/>
+        <target state="translated">Citas sobre calquera recurso externo empregado na descricion arquivística (como alcance e contido, notas, etc...)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="02cca9a8cba9848bdeb2934607c1f54a85bea539">
@@ -7109,9 +7109,9 @@
         <target>Rexistre a información sobre as unidades de descrición no mesmo repositorio ou noutra parte que estea relacionada coa procedencia ou outrásociación(es). Use palabras introductorias apropiadas e explique a natureza da relación. Se a unidade de descrición é un instrumento de descrición, use o elemento de instrumento de descrición (3.4.5) para referenciarla. (ISAD 3.5.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b5ed865bd130aa9047b8cc4b5d512e2ca1ab7d23">
+      <trans-unit id="b5ed865bd130aa9047b8cc4b5d512e2ca1ab7d23" approved="no">
         <source>Record notes on sources consulted in preparing the description and who prepared it. (ISAD 3.7.1)</source>
-        <target/>
+        <target state="translated">Rexistre notas das fontes consultadas na elaboración da descrición e quen a realizou. (ISAD 3.7.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="706e447c81b4753d8bf46e5052f9002a7b744aa1">
