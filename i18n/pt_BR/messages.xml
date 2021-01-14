@@ -605,9 +605,9 @@
         <target>%1% (iniciado: %2%, estado: %3%).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
-      <trans-unit id="756f042fcda0eb802f3df0f819513e020a8d2599">
+      <trans-unit id="756f042fcda0eb802f3df0f819513e020a8d2599" approved="no">
         <source>%1% and %2%</source>
-        <target/>
+        <target state="translated">%1% e %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="66591ce43004765a071dd97f32de7256f065a33d" approved="yes" translated="yes">
@@ -645,9 +645,9 @@
         <target>%1% hierarquia</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0795c0a1a912aec6f9cecb289fd67b878723d1c3">
+      <trans-unit id="0795c0a1a912aec6f9cecb289fd67b878723d1c3" approved="no">
         <source>%1% identifiers: prevent entry/import of duplicates</source>
-        <target/>
+        <target state="translated">%1% identificadores: previne a importação/entrada de duplicatas</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="63f69a6a4fa0a996b434f82acccada20a65eb8a8" approved="yes" translated="yes">
@@ -705,9 +705,9 @@
         <target>%1% limite para upload de %2% GB excedido para %3%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/actions/uploadAction.class.php</note>
       </trans-unit>
-      <trans-unit id="aa7a47d3b9df07e362e900798b498f5265ebcfc2">
+      <trans-unit id="aa7a47d3b9df07e362e900798b498f5265ebcfc2" approved="no">
         <source>%1% upload limits</source>
-        <target/>
+        <target state="translated">%1% limites de upload</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
       <trans-unit id="0a4d6fa2c4dab64280355e4b1dc617e015edab41" approved="yes" translated="yes">
@@ -725,9 +725,9 @@
         <target>%1%: %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qbAclPlugin/modules/aclGroup/templates/indexTermAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8">
+      <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8" approved="no">
         <source>%1%Agent:%2% Enter the agent associated with the event.%3%</source>
-        <target/>
+        <target state="translated">%1%Agente:%2% Insira o agente associado ao evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="85ff680a8907d82fa780e7780ab3737c953acb7f" approved="yes" translated="yes">
@@ -735,9 +735,9 @@
         <target>%1%Identificador do registro de autoridade%2% - É em%3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="98bfda47f615414dcae7d73cda462c8a9bf084c5">
+      <trans-unit id="98bfda47f615414dcae7d73cda462c8a9bf084c5" approved="no">
         <source>%1%Authority record identifier%2% - value not unique.</source>
-        <target/>
+        <target state="translated">%1%Identificador de registro de autoridade%2% - não é um valor único.</target>
       </trans-unit>
       <trans-unit id="0e7ce5d17c5b28152bb78cd86897b2bd049c2c20" approved="yes" translated="yes">
         <source>%1%Authorized form of name%2% - This is a %3%mandatory%4% element.</source>
@@ -764,9 +764,9 @@
         <target>%1%Data(s)%2% - não é consistente com %3%níveis superiores%2%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="ca69a8d0222647ab04e285e54916f496f96bb7a7">
+      <trans-unit id="ca69a8d0222647ab04e285e54916f496f96bb7a7" approved="no">
         <source>%1%Date:%2% Enter the date of the event.%3%</source>
-        <target/>
+        <target state="translated">%1%Data:%2% Insira a data do evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="1f6af5abebb9826482f288eb1649dac7566070e2" approved="yes" translated="yes">
@@ -809,14 +809,14 @@
         <target>%1%Nível de descrição%2% - Valor "%value%" não é consistente com níveis superiores.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="1b1e4988501ebd3c49e084a0cd85d54561703f8e">
+      <trans-unit id="1b1e4988501ebd3c49e084a0cd85d54561703f8e" approved="no">
         <source>%1%Note:%2% Enter notes associated with the event.%3%</source>
-        <target/>
+        <target state="translated">%1%Nota:%2% Insira notas associadas ao evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
-      <trans-unit id="9fd6ed84039dd69491d9afb8d3770bf847b323fd">
+      <trans-unit id="9fd6ed84039dd69491d9afb8d3770bf847b323fd" approved="no">
         <source>%1%Refresh the page%2% for progress updates.</source>
-        <target/>
+        <target state="translated">%1%Atualize a página%2% para acompanhar o progresso.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
       <trans-unit id="60a6eff30d40a00da53e674f8fe4ad7a54e94c2c" approved="yes" translated="yes">
@@ -844,9 +844,9 @@
         <target>%1%Tipo%2% - Este é um %3%elemento%4% obrigaório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="7c6d52017a474fb9b5e769163ec15941a50bb26f">
+      <trans-unit id="7c6d52017a474fb9b5e769163ec15941a50bb26f" approved="no">
         <source>%1%Type:%2% Select the type of the event.%3%</source>
-        <target/>
+        <target state="translated">%1%Tipo:%2% Selecione o tipo do evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="73c0f876111616e52a79975df6ee70518eb61b7a" approved="yes" translated="yes">
@@ -864,9 +864,9 @@
         <target>%idioma% tradução</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfTranslatePlugin/modules/sfTranslatePlugin/templates/_translate.php</note>
       </trans-unit>
-      <trans-unit id="5eeade84e367ea4a3cb6ee27f0076ddfe2e9e9c8">
+      <trans-unit id="5eeade84e367ea4a3cb6ee27f0076ddfe2e9e9c8" approved="no">
         <source>%open_strong_tag%Note:%close_strong_tag% AtoM may remove export</source>
-        <target/>
+        <target state="translated">%open_strong_tag%Nota:%close_strong_tag% a exportação poderá ser removida pelo AtoM</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="3d62373c45c0c1572f85cfb060cf8b5760dbc574" approved="yes" translated="yes">
@@ -993,9 +993,9 @@
         <target>AIP UUID</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
-      <trans-unit id="e6bf2a6ce688da07175757b3663bb74bda3fdc85">
+      <trans-unit id="e6bf2a6ce688da07175757b3663bb74bda3fdc85" approved="no">
         <source>AIP download</source>
-        <target/>
+        <target state="translated">Download do AIP</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
       <trans-unit id="d61515ee148041bbb27b0e432639d71925f2a919" approved="yes" translated="yes">
@@ -1023,9 +1023,9 @@
         <target>Sobre</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="804920c22a8469a08c06be1810ad95d2e27f7544">
+      <trans-unit id="804920c22a8469a08c06be1810ad95d2e27f7544" approved="no">
         <source>Access Copies</source>
-        <target/>
+        <target state="translated">Cópias de Acesso</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="7d35718ed77792339cf701c0ed562c8882866674" approved="yes" translated="yes">
@@ -1068,9 +1068,9 @@
         <target>Restrições de acesso</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
-      <trans-unit id="178c258f999e25b5f99bdde5bd3165e3f1c534b9">
+      <trans-unit id="178c258f999e25b5f99bdde5bd3165e3f1c534b9" approved="no">
         <source>Access statement</source>
-        <target/>
+        <target state="translated">Declaração de Acesso</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="91dab230d9cb40e40f69911aead6cb363f102075" approved="yes" translated="yes">
@@ -1117,14 +1117,14 @@
         <target>A data de incorporação representa a data da recepção dos materiais e que é adicionada durante o processo de doação.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="68b5c50fbfb0eed47fded7af59ee5e8d17b214ff">
+      <trans-unit id="68b5c50fbfb0eed47fded7af59ee5e8d17b214ff" approved="no">
         <source>Accession event note</source>
-        <target/>
+        <target state="translated">Nota do evento de Incorporação</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="2c1dd1ab41428e1a671da8179efc58765565b2b1">
+      <trans-unit id="2c1dd1ab41428e1a671da8179efc58765565b2b1" approved="no">
         <source>Accession event type</source>
-        <target/>
+        <target state="translated">Tipo do evento de Incorporação</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="dc94c7dd428fc7f45da026ba9b3c16e8b0a2cbb9" approved="yes" translated="yes">
@@ -1537,9 +1537,9 @@
         <target>Propagandas</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="5ce2e6f40299204d94dfc0abf19fa8ab52d6c211">
+      <trans-unit id="5ce2e6f40299204d94dfc0abf19fa8ab52d6c211" approved="no">
         <source>Agent</source>
-        <target/>
+        <target state="translated">Agente</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="ee68d3496bb455d50d1b8a9987c710dd56818065" approved="yes" translated="yes">
@@ -1607,9 +1607,9 @@
         <target>Permita que qualquer caractere de segmento URI PATH válido apareça em um slug, incluindo os glifos UTF-8. Caracteres IRI restritos (/? # {}) e espaços literais serão substituídos por traços</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="dc5994d02ce2d6ac66ed7991d0833fe8f6d5fc5b">
+      <trans-unit id="dc5994d02ce2d6ac66ed7991d0833fe8f6d5fc5b" approved="no">
         <source>Allow authorized users to download a linked AIP or AIP file from</source>
-        <target/>
+        <target state="translated">Permitir que usuários autorizados façam download de um AIP conectado ou um arquivo AIP de</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
       <trans-unit id="19c2371f978067e85c99e10fecb57b3438930f2f" approved="yes" translated="yes">
@@ -2162,9 +2162,9 @@
         <target>Calcular datas</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
       </trans-unit>
-      <trans-unit id="0cd43c9651d54301014df3d8b1c6ea6c7ac4e031">
+      <trans-unit id="0cd43c9651d54301014df3d8b1c6ea6c7ac4e031" approved="no">
         <source>Calculate dates - Error</source>
-        <target/>
+        <target state="translated">Erro ao calcular datas</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
       <trans-unit id="6c938d4539ddb4d0b53121776cd5cd73282c7fca" approved="yes" translated="yes">
@@ -2182,14 +2182,14 @@
         <target>Cancelar</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/editThemeSuccess.php</note>
       </trans-unit>
-      <trans-unit id="61206e8e039de14fa9e166d49ce3e3299795a37e">
+      <trans-unit id="61206e8e039de14fa9e166d49ce3e3299795a37e" approved="no">
         <source>Cannot calculate accumulated dates because no lower level dates exist</source>
-        <target/>
+        <target state="translated">Não é possível calcular as datas acumuladas pois não existem datas em nível inferior</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
-      <trans-unit id="b39a4bb27bff33150a8d40bf338235babc147532">
+      <trans-unit id="b39a4bb27bff33150a8d40bf338235babc147532" approved="no">
         <source>Cannot calculate accumulated dates because this %1% has no children</source>
-        <target/>
+        <target state="translated">Não é possível calcular as datas acumuladas porque %1% não possui filhos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
       <trans-unit id="a3726fb96172eec7b5ba2fa125393173def0c88b" approved="yes" translated="yes">
@@ -2262,14 +2262,14 @@
         <target>Escolha se os links permanentes para descrições serão gerados a partir do código de referência ou título</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="7d54708e27122b97b30f683f08d9a3a90d7be801">
+      <trans-unit id="7d54708e27122b97b30f683f08d9a3a90d7be801" approved="no">
         <source>Choosing "Include descendants" will include all lower-level</source>
-        <target/>
+        <target state="translated">Ao selecionar "Incluir descendentes" todos os níveis inferiores serão incluídos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="e86b374723184f19422f88e858eb635cce000faa">
+      <trans-unit id="e86b374723184f19422f88e858eb635cce000faa" approved="no">
         <source>Choosing "Include draft records" will include those marked with a</source>
-        <target/>
+        <target state="translated">Ao selecionar "Incluir documentos rascunho" serão incluídos documentos marcados com</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="6eb4915552135823111f476864da3f654c233c54" approved="yes" translated="yes">
