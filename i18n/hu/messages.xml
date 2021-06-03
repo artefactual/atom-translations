@@ -1349,7 +1349,7 @@ Például: oai:foo.org:repositorycode_10001</target>
       </trans-unit>
       <trans-unit id="af8a4a8ce8afc698cb1bd691f263318bcbdbe5ba" approved="yes" translated="yes">
         <source>Add new archival description</source>
-        <target>Új levéltári leírás hozzáadása</target>
+        <target>Új iratleírás hozzáadása</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="c1014ef5182fb1dd51c7d6c9c0220d21ae380d07" approved="yes" translated="yes">
@@ -1750,7 +1750,7 @@ pl.: bibliográfiai idézés.</target>
       </trans-unit>
       <trans-unit id="f10dab24178e729fa5eadfdefa5f2381122134d5" approved="yes" translated="yes">
         <source>Archival descriptions</source>
-        <target>Irateírások</target>
+        <target>Iratleírások</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="daa72ca0a8406bd4455723d9050fd4ca728253aa" approved="yes" translated="yes">
@@ -3363,7 +3363,7 @@ reference/thumbnail representation?</target>
       </trans-unit>
       <trans-unit id="d4c5a77e2043627700866ae53267f1c5ab9286d9" approved="yes" translated="yes">
         <source>Edit archival description area</source>
-        <target>Levéltári leírás adatcsoport szerkesztése</target>
+        <target>Iratleírás adatcsoport szerkesztése</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="a4281d12d1b5b76cfe2fc9dcc48f78db4a7c2fa9" approved="yes" translated="yes">
@@ -3563,7 +3563,7 @@ reference/thumbnail representation?</target>
       </trans-unit>
       <trans-unit id="71a1ca18209db3318a9dc4e4ed7ecc5a604fbc32" approved="yes" translated="yes">
         <source>Editing the description title will automatically update the slug field if the "Update slug" checkbox is selected - you can still edit it after.</source>
-        <target>Ha "csupasz cím javítása" doboz ki van jelölve, a levéltári leírás címének szerkesztése során a csupasz cím mező is automatikusan felülíródik. Ezt azonban később még szerkesztheti.</target>
+        <target>Ha "csupasz cím javítása" doboz ki van jelölve, az iratleírás címének szerkesztése során a csupasz cím mező is automatikusan felülíródik. Ezt azonban később még szerkesztheti.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/renameSuccess.php</note>
       </trans-unit>
       <trans-unit id="64abb3cf155976521acc77ce8d45aaf1e951515d" approved="yes" translated="yes">
@@ -4236,7 +4236,7 @@ Publikációt meghatározó kifejezéseket illetően:
       </trans-unit>
       <trans-unit id="83943099c04cc659ec521820d9365f061042921d" approved="yes" translated="yes">
         <source>Generate archival description reports as public user</source>
-        <target>Levéltári leírás jelentések létrehozása nyilvános felhasználóként</target>
+        <target>Iratleíró jelentések létrehozása nyilvános felhasználóként</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="fe30ba52b3b4d528aebf46574a8063e20b51e8d5" approved="yes" translated="yes">
@@ -4895,12 +4895,12 @@ Publikációt meghatározó kifejezéseket illetően:
       </trans-unit>
       <trans-unit id="10c4e42701c6d24bc08d54fc71bb9a8f722abb9c" approved="yes" translated="yes">
         <source>Indicate the language(s) used to create the description of the archival material.</source>
-        <target>Jelölje meg a levéltári anyag leírásához használt nyelvet(nyelveket).</target>
+        <target>Jelölje meg a levéltári anyag leírásához használt nyelvet (nyelveket).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="801317773709900179357cd86d24e0fb03b9ec19" approved="yes" translated="yes">
         <source>Indicate the script(s) used to create the description of the archival material.</source>
-        <target>Jelölje meg a levéltári anyag leírásához használt írásrendszert(írásrendszereket).</target>
+        <target>Jelölje meg a levéltári anyag leírásához használt írásrendszert (írásrendszereket).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="af7464c04feaa53bb458212cd35ac0968e0ec11a" approved="yes" translated="yes">
@@ -7089,12 +7089,12 @@ Publikációt meghatározó kifejezéseket illetően:
       </trans-unit>
       <trans-unit id="89823f7212ba69d7bb53fa69eb5b4777640b277f" approved="yes" translated="yes">
         <source>Record citations for any external sources used in the archival description (such as the Scope and Content, Archival History, or Notes fields).</source>
-        <target>Rögzítsük a levéltári leírás készítése során (például a Tárgy és Tartalom, A Megőrzés Története, és Megjegyzések mezőkben) felhasznált külső forrásokra mutató hivatkozásokat.</target>
+        <target>Rögzítsük az iratleírás készítése során (például a Tárgy és tartalom, Megőrzés története, Megjegyzések mezőkben) felhasznált külső forrásokra mutató hivatkozásokat.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="630a27a5c9f8b0b4b821d1f2608affe848f14190" approved="yes" translated="yes">
         <source>Record citations for any external sources used in the archival description (such as the Scope and Content, Custodial History, or Notes fields).</source>
-        <target>Rögzítsük a levéltári leírás készítése során (például a Tárgy és Tartalom, A Megőrzés Története, és Megjegyzések mezőkben) felhasznált külső forrásokra mutató hivatkozásokat.</target>
+        <target>Rögzítsük az iratleírás készítése során (például a Tárgy és tartalom, Megőrzés története, Megjegyzések mezőkben) felhasznált külső forrásokra mutató hivatkozásokat.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="02cca9a8cba9848bdeb2934607c1f54a85bea539" approved="yes" translated="yes">
@@ -8198,9 +8198,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target>Állítsa be, hogy a jelen jogosultságokat kombinálni akarja-e a már meglevőkkel, vagy azok helyett kívánja ezeket alkalmazni.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/manageSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9e7f0fff4642398e44450be436025cad2d260328" approved="yes" translated="yes">
+      <trans-unit id="9e7f0fff4642398e44450be436025cad2d260328" approved="no" translated="yes">
         <source>Set the default view template when browsing archival descriptions</source>
-        <target>Állítsa be az alapértelmezett űrlap nézetet a levéltári leírások böngészéséhez</target>
+        <target>Állítsa be az alapértelmezett űrlap nézetet az iratleírások böngészéséhez</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="72e5df6aa2e5bba6fe3df1d5c607ea1f65d7d338" approved="yes" translated="yes">
@@ -9119,17 +9119,17 @@ Publikációt meghatározó kifejezéseket illetően:
       </trans-unit>
       <trans-unit id="8535c9f61ff75cfc0dd532054a8d6910ec2e4ffe" approved="yes" translated="yes">
         <source>This archival description requires at least one date.</source>
-        <target>A levéltári leíráshoz legalább egy dátumra szükség van.</target>
+        <target>Az iratleíráshoz szükség van legalább egy dátumra.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="9bea32777050c84a81d813183d5ef039c3223d42" approved="yes" translated="yes">
         <source>This archival description, or one of its higher levels, %1%requires%2% at least one %3%creator%4%.</source>
-        <target>Ehhez a levéltári leíráshoz, vagy egyik magasabb szintjéhez, legalább egy %3%iratképző%4% %1%szükséges%2%.</target>
+        <target>Ehhez az iratleíráshoz, vagy egyik magasabb szintjéhez, legalább egy %3%iratképző%4% %1%szükséges%2%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="93ac1e6b4fb6c998be5523bacaafd132b25cdd9a" approved="yes" translated="yes">
         <source>This archival description, or one of its higher levels, requires at least one creator.</source>
-        <target>Ehhez a levéltári leíráshoz, vagy egyik magasabb szintjéhez, legalább egy iratképző szükséges.</target>
+        <target>Ehhez az iratleíráshoz, vagy egyik magasabb szintjéhez, legalább egy iratképző szükséges.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="0191a6141d0f117ad83678a3456c44a9900e248e" approved="yes" translated="yes">
@@ -9484,7 +9484,7 @@ Publikációt meghatározó kifejezéseket illetően:
       </trans-unit>
       <trans-unit id="6e49e093e26813136b4e944aa89b3abab08f153d" approved="yes" translated="yes">
         <source>Update descendants</source>
-        <target>Az alárendelt egységek frissítése</target>
+        <target>Alárendelt egységek frissítése</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/updatePublicationStatusSuccess.php</note>
       </trans-unit>
       <trans-unit id="714c6a82ec13718f9013b085138a14d3a49d2e48" approved="yes" translated="yes">
@@ -9852,9 +9852,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target>Ha a beállítás &amp;quot;igen&amp;quot;, a teljes jelzet az információs objektum azonosítójából és minden nála magasabb leírási szintű elem azonosítójából áll össze.</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="409b2327e95bd19f3f14de870ded59ecde869574" approved="yes" translated="yes">
+      <trans-unit id="409b2327e95bd19f3f14de870ded59ecde869574" approved="no" translated="yes">
         <source>Where the destruction or retention of archival materials has a bearing on the interpretation and use of the unit being described, provide information about the materials destroyed or retained and provide the reason(s) for the appraisal decision(s), where known. (DACS 5.3.4)</source>
-        <target>Ahol a levéltári anyagok megtartásának vagy elpusztításának jelentősége van az értelmezés tekintetében, és leírásra kerül az egység használhatósága, adjon információt a az elpusztított vagy megtartott anyagról, és adja meg az értékelési döntés(ek) okát (okait), ahol az ismert. (DACS 5.3.4)</target>
+        <target>Ahol a levéltári anyagok megtartásának vagy megsemmisítésének jelentősége van az értelmezés tekintetében, és leírásra kerül az egység használhatósága, adjon információt a megsemmisített vagy megtartott anyagról, és adja meg az értékelési döntés(ek) okát (okait), ahol az ismert. (DACS 5.3.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="40d69781a778cea009138ad295ab3baaf51a17ea" approved="yes" translated="yes">
