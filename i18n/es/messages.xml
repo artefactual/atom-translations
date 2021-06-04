@@ -569,9 +569,9 @@
         <target>%1 - criterios de informe</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/storageLocationsCriteria.php</note>
       </trans-unit>
-      <trans-unit id="468b90bf601b414515a80106f456b7d70d0d1faa">
+      <trans-unit id="468b90bf601b414515a80106f456b7d70d0d1faa" approved="no">
         <source>%1 count</source>
-        <target/>
+        <target state="translated">%1 elementos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="29209b378915d0821cca10cdc28f5f8939b4c883" approved="yes" translated="yes">
@@ -589,9 +589,9 @@
         <target>%1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_box.php</note>
       </trans-unit>
-      <trans-unit id="72d313b243d53986d85e7e01a166a56e9459e136">
+      <trans-unit id="72d313b243d53986d85e7e01a166a56e9459e136" approved="no">
         <source>%1% %2% results for %3%</source>
-        <target/>
+        <target state="translated">%1% %2% resultados para %3%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/relatedAuthoritiesSuccess.php</note>
       </trans-unit>
       <trans-unit id="a424c225cc51a311845b00cb205a7f48c77ba76d" approved="yes" translated="yes">
@@ -604,9 +604,9 @@
         <target>%1% (iniciado: %2%, estado: %3%).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
-      <trans-unit id="756f042fcda0eb802f3df0f819513e020a8d2599">
+      <trans-unit id="756f042fcda0eb802f3df0f819513e020a8d2599" approved="no">
         <source>%1% and %2%</source>
-        <target/>
+        <target state="translated">%1% y %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="66591ce43004765a071dd97f32de7256f065a33d" approved="yes" translated="yes">
@@ -644,9 +644,9 @@
         <target>jerarquía %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0795c0a1a912aec6f9cecb289fd67b878723d1c3">
+      <trans-unit id="0795c0a1a912aec6f9cecb289fd67b878723d1c3" approved="no">
         <source>%1% identifiers: prevent entry/import of duplicates</source>
-        <target/>
+        <target state="translated">%1% identificadores: evitar la entrada ó importación de duplicados</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="63f69a6a4fa0a996b434f82acccada20a65eb8a8" approved="yes" translated="yes">
@@ -704,9 +704,9 @@
         <target>Límite de carga %1% de %2% GB excedido en %3%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/actions/uploadAction.class.php</note>
       </trans-unit>
-      <trans-unit id="aa7a47d3b9df07e362e900798b498f5265ebcfc2">
+      <trans-unit id="aa7a47d3b9df07e362e900798b498f5265ebcfc2" approved="no">
         <source>%1% upload limits</source>
-        <target/>
+        <target state="translated">%1% límite de carga</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
       <trans-unit id="0a4d6fa2c4dab64280355e4b1dc617e015edab41" approved="yes" translated="yes">
@@ -724,9 +724,9 @@
         <target>%1%: %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qbAclPlugin/modules/aclGroup/templates/indexTermAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8">
+      <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8" approved="no">
         <source>%1%Agent:%2% Enter the agent associated with the event.%3%</source>
-        <target/>
+        <target state="translated">%1%Agente:%2% Introduzca el agente asociado con el evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="85ff680a8907d82fa780e7780ab3737c953acb7f" approved="yes" translated="yes">
@@ -734,9 +734,9 @@
         <target>%1%Identificador de registro de autoridad%2% - Este es un elemento %3%obligatorio%4% </target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="98bfda47f615414dcae7d73cda462c8a9bf084c5">
+      <trans-unit id="98bfda47f615414dcae7d73cda462c8a9bf084c5" approved="no">
         <source>%1%Authority record identifier%2% - value not unique.</source>
-        <target/>
+        <target state="translated">%1%Identificador del registro de autoridad%2% - valor duplicado.</target>
       </trans-unit>
       <trans-unit id="0e7ce5d17c5b28152bb78cd86897b2bd049c2c20" approved="yes" translated="yes">
         <source>%1%Authorized form of name%2% - This is a %3%mandatory%4% element.</source>
@@ -763,9 +763,9 @@
         <target>%1%Fecha(s)%2% -  no es consistente con los %3%niveles superiores%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="ca69a8d0222647ab04e285e54916f496f96bb7a7">
+      <trans-unit id="ca69a8d0222647ab04e285e54916f496f96bb7a7" approved="no">
         <source>%1%Date:%2% Enter the date of the event.%3%</source>
-        <target/>
+        <target state="translated">%1%Fecha:%2% Introduzca la fecha del evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="1f6af5abebb9826482f288eb1649dac7566070e2" approved="yes" translated="yes">
@@ -808,14 +808,14 @@
         <target>%1%Nivel de descripción%2% - El valor "%value%" no es consistente con los niveles superiores.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="1b1e4988501ebd3c49e084a0cd85d54561703f8e">
+      <trans-unit id="1b1e4988501ebd3c49e084a0cd85d54561703f8e" approved="no">
         <source>%1%Note:%2% Enter notes associated with the event.%3%</source>
-        <target/>
+        <target state="translated">%1%Nota:%2% Introduzca notas asociadas con el evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
-      <trans-unit id="9fd6ed84039dd69491d9afb8d3770bf847b323fd">
+      <trans-unit id="9fd6ed84039dd69491d9afb8d3770bf847b323fd" approved="no">
         <source>%1%Refresh the page%2% for progress updates.</source>
-        <target/>
+        <target state="translated">%1%Refreque la página%2% para ver el progreso.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
       <trans-unit id="60a6eff30d40a00da53e674f8fe4ad7a54e94c2c" approved="yes" translated="yes">
@@ -843,9 +843,9 @@
         <target>%1%Tipo%2% - Este es un elemento %3%obligatorio%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="7c6d52017a474fb9b5e769163ec15941a50bb26f">
+      <trans-unit id="7c6d52017a474fb9b5e769163ec15941a50bb26f" approved="no">
         <source>%1%Type:%2% Select the type of the event.%3%</source>
-        <target/>
+        <target state="translated">%1%Tipo:%2% Seleccione el tipo de evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="73c0f876111616e52a79975df6ee70518eb61b7a" approved="yes" translated="yes">
@@ -863,9 +863,9 @@
         <target>%language% traducción</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfTranslatePlugin/modules/sfTranslatePlugin/templates/_translate.php</note>
       </trans-unit>
-      <trans-unit id="5eeade84e367ea4a3cb6ee27f0076ddfe2e9e9c8">
+      <trans-unit id="5eeade84e367ea4a3cb6ee27f0076ddfe2e9e9c8" approved="no">
         <source>%open_strong_tag%Note:%close_strong_tag% AtoM may remove export</source>
-        <target/>
+        <target state="translated">%open_strong_tag%Nota:%close_strong_tag% AtoM puede eliminar la exportación</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="3d62373c45c0c1572f85cfb060cf8b5760dbc574" approved="yes" translated="yes">
@@ -5984,9 +5984,9 @@
         <target/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5f837da7d6b9d15a8cf041d7ae07dbad8c93306b">
+      <trans-unit id="5f837da7d6b9d15a8cf041d7ae07dbad8c93306b" approved="no">
         <source>No items in clipboard to save.</source>
-        <target/>
+        <target state="translated">No hay items en el portapapeles para salvar</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
       <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d">
