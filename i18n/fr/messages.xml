@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
   <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-10-22T00:04:44Z" product-name="messages">
@@ -711,9 +711,9 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target xml:space="preserve">%1% : %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qbAclPlugin/modules/aclGroup/templates/indexTermAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8" approved="no">
+      <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8" approved="yes">
         <source xml:space="preserve">%1%Agent:%2% Enter the agent associated with the event.%3%</source>
-        <target state="translated" xml:space="preserve">%1%Agent:%2% Entrer l'agent associé avec l'événement.%3%</target>
+        <target state="final" xml:space="preserve">%1%Agent:%2% Entrer l'agent associé avec l'événement.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="85ff680a8907d82fa780e7780ab3737c953acb7f" approved="yes">
@@ -721,9 +721,9 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target xml:space="preserve">%1%Identifiant de la notice d'autorité%2% - Cet élément est %3%obligatoire%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="98bfda47f615414dcae7d73cda462c8a9bf084c5" approved="no">
+      <trans-unit id="98bfda47f615414dcae7d73cda462c8a9bf084c5" approved="yes">
         <source xml:space="preserve">%1%Authority record identifier%2% - value not unique.</source>
-        <target state="translated" xml:space="preserve">%1%Identifiant de notice d'autorité%2% - valeur non unique.</target>
+        <target state="final" xml:space="preserve">%1%Identifiant de notice d'autorité%2% - valeur non unique.</target>
       </trans-unit>
       <trans-unit id="0e7ce5d17c5b28152bb78cd86897b2bd049c2c20" approved="yes">
         <source xml:space="preserve">%1%Authorized form of name%2% - This is a %3%mandatory%4% element.</source>
@@ -790,9 +790,9 @@ système de symboles particuliers. " (RDDA 1.8B14). Ne pas dupliquer les informa
         <target xml:space="preserve">%1%Niveau de description%2% - La valeur "%value%" n'est pas cohérente avec celle du niveau supérieur.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="1b1e4988501ebd3c49e084a0cd85d54561703f8e" approved="no">
+      <trans-unit id="1b1e4988501ebd3c49e084a0cd85d54561703f8e" approved="yes">
         <source xml:space="preserve">%1%Note:%2% Enter notes associated with the event.%3%</source>
-        <target state="translated" xml:space="preserve">%1%Notes:%2% Saisir les notes associées avec l'événement.%3%</target>
+        <target state="final" xml:space="preserve">%1%Note:%2% Saisir les notes associées avec l'événement.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="9fd6ed84039dd69491d9afb8d3770bf847b323fd" approved="no">
