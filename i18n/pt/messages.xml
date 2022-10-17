@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
   <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-10-22T00:04:00Z" product-name="messages">
@@ -658,7 +658,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="0795c0a1a912aec6f9cecb289fd67b878723d1c3" approved="no">
         <source xml:space="preserve">%1% identifiers: prevent entry/import of duplicates</source>
-        <target state="translated" xml:space="preserve">Identificadores %1% : atenção a entrada/importação de duplicados</target>
+        <target state="translated" xml:space="preserve">Identificadores %1% : atenção à entrada/importação de duplicados</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="63f69a6a4fa0a996b434f82acccada20a65eb8a8" approved="yes">
@@ -738,7 +738,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8">
         <source xml:space="preserve">%1%Agent:%2% Enter the agent associated with the event.%3%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1%Agente:%2% Insira o agente associado ao evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="85ff680a8907d82fa780e7780ab3737c953acb7f" approved="yes">
@@ -772,7 +772,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="ca69a8d0222647ab04e285e54916f496f96bb7a7">
         <source xml:space="preserve">%1%Date:%2% Enter the date of the event.%3%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1%Data:%2% Digite a data do evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="1f6af5abebb9826482f288eb1649dac7566070e2" approved="yes">
@@ -817,12 +817,12 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="1b1e4988501ebd3c49e084a0cd85d54561703f8e">
         <source xml:space="preserve">%1%Note:%2% Enter notes associated with the event.%3%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1%Nota:%2% Digite as notas associadas com o evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="9fd6ed84039dd69491d9afb8d3770bf847b323fd">
         <source xml:space="preserve">%1%Refresh the page%2% for progress updates.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1%Refresque a página%2% para continuarem as atualizações.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
       <trans-unit id="60a6eff30d40a00da53e674f8fe4ad7a54e94c2c" approved="yes">
@@ -852,7 +852,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="7c6d52017a474fb9b5e769163ec15941a50bb26f">
         <source xml:space="preserve">%1%Type:%2% Select the type of the event.%3%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1%Tipo:%2% Selecione o tipo e evento.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="73c0f876111616e52a79975df6ee70518eb61b7a" approved="yes">
@@ -872,7 +872,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="5eeade84e367ea4a3cb6ee27f0076ddfe2e9e9c8">
         <source xml:space="preserve">%open_strong_tag%Note:%close_strong_tag% AtoM may remove export</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%open_strong_tag%Observação:%close_strong_tag% AtoM pode remover a exportação</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="3d62373c45c0c1572f85cfb060cf8b5760dbc574" approved="yes">
@@ -1001,7 +1001,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="e6bf2a6ce688da07175757b3663bb74bda3fdc85">
         <source xml:space="preserve">AIP download</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">AIP de descarga</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
       <trans-unit id="d61515ee148041bbb27b0e432639d71925f2a919" approved="yes">
@@ -1031,7 +1031,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="804920c22a8469a08c06be1810ad95d2e27f7544">
         <source xml:space="preserve">Access Copies</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Copias de acesso</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="7d35718ed77792339cf701c0ed562c8882866674" approved="yes">
@@ -1076,7 +1076,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="178c258f999e25b5f99bdde5bd3165e3f1c534b9">
         <source xml:space="preserve">Access statement</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Declaração de acesso</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="d660049bc1f2f54fc0e3f4ace6fa5eb205f2f1e0" approved="yes">
@@ -1121,12 +1121,12 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="68b5c50fbfb0eed47fded7af59ee5e8d17b214ff">
         <source xml:space="preserve">Accession event note</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Nota do evento de incorporação</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="2c1dd1ab41428e1a671da8179efc58765565b2b1">
         <source xml:space="preserve">Accession event type</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Tipo de evento de incorporação</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="dc94c7dd428fc7f45da026ba9b3c16e8b0a2cbb9" approved="yes">
@@ -1541,7 +1541,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="5ce2e6f40299204d94dfc0abf19fa8ab52d6c211">
         <source xml:space="preserve">Agent</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Agente</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="ee68d3496bb455d50d1b8a9987c710dd56818065" approved="yes">
@@ -1611,7 +1611,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="dc5994d02ce2d6ac66ed7991d0833fe8f6d5fc5b">
         <source xml:space="preserve">Allow authorized users to download a linked AIP or AIP file from</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Permitir a utilizadores autorizados descarregar um AIP ligado ou AIP de um ficheiro</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
       <trans-unit id="19c2371f978067e85c99e10fecb57b3438930f2f" approved="yes">
@@ -2151,7 +2151,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="0cd43c9651d54301014df3d8b1c6ea6c7ac4e031">
         <source xml:space="preserve">Calculate dates - Error</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Calcular datas - Erro</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
       <trans-unit id="6c938d4539ddb4d0b53121776cd5cd73282c7fca" approved="yes">
@@ -2171,12 +2171,12 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="61206e8e039de14fa9e166d49ce3e3299795a37e">
         <source xml:space="preserve">Cannot calculate accumulated dates because no lower level dates exist</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Não é possível calcular datas acumuladas porque não existem datas de nível inferior</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
       <trans-unit id="b39a4bb27bff33150a8d40bf338235babc147532">
         <source xml:space="preserve">Cannot calculate accumulated dates because this %1% has no children</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Não é possível calcular as datas acumuladas porque este %1% não tem descendentes</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
       <trans-unit id="a3726fb96172eec7b5ba2fa125393173def0c88b" approved="yes">
@@ -2246,12 +2246,12 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="7d54708e27122b97b30f683f08d9a3a90d7be801">
         <source xml:space="preserve">Choosing "Include descendants" will include all lower-level</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Escolhendo "Incluir descendentes" incluirá todos os niveis abaixo</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="e86b374723184f19422f88e858eb635cce000faa">
         <source xml:space="preserve">Choosing "Include draft records" will include those marked with a</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Escolhendo "Incluir registos de rascunho" incluirá os assinalados com um</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="6eb4915552135823111f476864da3f654c233c54" approved="yes">
@@ -3941,7 +3941,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="bbe31775cd1d2fb65f5eea53a07acb265094703a">
         <source xml:space="preserve">File UUID</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Ficheiro UUID</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="cccf53028508de752f66891e8ccf4ac2b3e1053e" approved="yes">
@@ -4641,7 +4641,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="5c5e2212c319d0febcfa025a39e1d26fb56a0904">
         <source xml:space="preserve">If no levels are selected, the export will fail. You can use</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Se nenhum nível for selecionado, a exportação falhará. Pode usar</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="daf30d89f9968099a1c838a965b907b3865183cf" approved="yes">
@@ -5955,7 +5955,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="cc6ef1ea84544e4c0f0ca31a415608968be947e3">
         <source xml:space="preserve">No records were exported for your current selection. Please</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Nenhum registro foi exportado da sua seleção atual. Por favor</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="b993b0c537190bfc94b21360ac5abe51e56be36f" approved="yes">
@@ -5990,7 +5990,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="39208c598f8f515fde64f9754eb85c702248a1b1">
         <source xml:space="preserve">Normalized</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Normalizado</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="ca1dd39379254ab3f3c73dbffb0d03d628b27d20" approved="yes">
@@ -6220,7 +6220,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="9139c8df6e7c26408fd0eacb21241cbb382b55d2">
         <source xml:space="preserve">Original file</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Ficheiro original</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="01a63c03cb6a42aa67250456e3a4c786f24ba3a6" approved="yes">
@@ -6550,7 +6550,7 @@ noutro lugar), registar a sua localização, bem como quaisquer números de cont
       </trans-unit>
       <trans-unit id="d7ef4f40303f3cec8e0cb377056eef9e0a367a48">
         <source xml:space="preserve">Physical transfer</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Tranferência física</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="c32a0147f2e47a52e082fe2dd4b6aaa36084a4cb" approved="yes">
@@ -8801,7 +8801,7 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
       </trans-unit>
       <trans-unit id="cb7599eaa2b4cd2e64fcea61e35c6f727004f467">
         <source xml:space="preserve">The clipboard is empty for this entity type.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">A área de transferência está vazia para este tipo de entidade.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="4ecde563fe4e262de9e15f563e4f4e52fc5ff982" approved="yes">
@@ -9018,7 +9018,7 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
       </trans-unit>
       <trans-unit id="8d28e517f2e8a3afedf075f046aca7ae05a6ccf1">
         <source xml:space="preserve">There was an error loading the clipboard content.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Ocorreu um erro ao carregar o conteúdo da área de transferência.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_clipboardMenu.php</note>
       </trans-unit>
       <trans-unit id="810873bad76dd53ec09f81487ede0e3f47d5d7a5" approved="yes">
@@ -9679,7 +9679,7 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
       </trans-unit>
       <trans-unit id="c98f8378524f00c5e706960a644783761e87a084">
         <source xml:space="preserve">When enabled the following text will appear in the %1% metadata section to describe how a user may access the original and preservation copy of the file stored in a linked digital preservation system. The text appears in the "Permissions" field. When disabled, the "Permissions" field is not displayed.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Quando ativado, o texto a seguir aparecerá na seção de metadados %1% para descrever como um utilizador pode aceder ao original e à cópia de preservação do ficheiro armazenado num sistema de preservação digital. O texto aparece no campo "Permissões". Quando desabilitado, o campo "Permissões" não é mostrado.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="40d418bc31781a74944b309e740c43c749195d10" approved="yes">
