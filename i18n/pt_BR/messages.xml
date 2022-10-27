@@ -9059,7 +9059,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="05ad8c47ed6b355540fe7ce663f1faf15a417d85">
         <source xml:space="preserve">Thumbnail copy</source>
-        <target state="needs-translation" xml:space="preserve">Cópia da miniatura</target>
+        <target state="translated" xml:space="preserve">Cópia do Thumbnail</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="1fe2dea0ebe57f5d9993463055229b5bf6402040" approved="yes">
@@ -9602,7 +9602,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="9edcd50b3bd0ea1bcb23203d1aa7ee2a6e061108">
         <source xml:space="preserve">When enabled, an &amp;quot;Upload limit&amp;quot; meter is displayed</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Quando ativado, um &amp;quot;Upload limit&amp;quot; medidor de upload é exibido</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
       <trans-unit id="2adff028b76aada6fd284b4151748d7d5111c8e3" approved="yes">
@@ -10172,7 +10172,7 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="a0bc1acfd6a820761a1719746d34b5d178a4a64e">
         <source xml:space="preserve">Default %1% upload limit for a new %2%.  A value of &amp;quot;0</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Limite de carregamento padrão de %1% para um novo %2%. Um valor de &amp;quot;0</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
       <trans-unit id="18f4b5c67af52f94ca6ef6f9b70f6a0d0cd07502">
@@ -10222,247 +10222,247 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="5fb24a42e9c0278c0570e5dac8e187951c5b0437">
         <source xml:space="preserve">"Choose provenance, author and other non-subject access points from the archival</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="needs-translation">"Escolha proveniência, autor e outros pontos de acesso não assuntos do arquivo</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="ad7b5e7332f7d5effa8639e094d3a9cf6dc4ae5f">
         <source xml:space="preserve">"Describe the nature of the relationships between the corporate body, person or family</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">"Descreva a natureza dos relacionamentos entre a entidade coletiva, pessoa ou família</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="a3e6db3ed7b908a43bd4ae17c9ef3c0e85bcc146">
         <source xml:space="preserve">"Identify the type of related resources, e.g. Archival materials (fonds, record</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">"Identifique o tipo de recursos relacionados, por exemplo, materiais de arquivo (fundos, documento</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="393f92d88a70a24f7f90d7c9b479b9d0883532b1">
         <source xml:space="preserve">"Provide any relevant dates for the related resources and/or the relationship between the</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">"Forneça quaisquer datas relevantes para os recursos relacionados e/ou a relação entre o</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="16220cf25bd4910343a6d154dec7439c9e0c430b">
         <source xml:space="preserve">"Provide the unique identifiers/reference codes and/or titles for the</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">"Forneça os identificadores/códigos de referência exclusivos e/ou títulos para o</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="55f7bf4c05dc20cd2513c9cc7c98a7f9ec58e867">
         <source xml:space="preserve">"Purpose: To identify the general category of relationship between the entity being</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">"Objetivo: Identificar a categoria geral de relacionamento entre a entidade que está sendo</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="b83960ec3a3ae3cd1d3e8e159ddf70a89fafe5c1">
         <source xml:space="preserve">"Record a general category into which the relationship</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">"Registre uma categoria geral na qual o relacionamento</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
       <trans-unit id="c7b7849e3e0cb5aad9e9f0b67085862edf5f7aed">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">"Registre uma descrição precisa da natureza do relacionamento</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
       <trans-unit id="37d24a43deef66ec0381744c664df5a162e09c8a">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the entity</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">"Registre uma descrição precisa da natureza do relacionamento entre a entidade</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="617d2f5e9e142d7b0f74210a0b0f5271d71c2cdc">
         <source xml:space="preserve">"Record the authorised form of name and any unique identifier</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">"Registre a forma autorizada do nome e qualquer identificador exclusivo</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
       <trans-unit id="18eb3808eb173cf082a6e99faf22df04e3f84814">
         <source xml:space="preserve">"Record the authorized form of name and any relevant unique identifiers,</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">"Registre a forma autorizada do nome e quaisquer identificadores exclusivos relevantes,</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="aa68359d0d722fe70812a6e7ba7a5082d80e6ccd">
         <source xml:space="preserve">"Record when relevant the commencement date of the relationship or succession date and,</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">"Registrar quando relevante a data de início do relacionamento ou data de sucessão e,</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="cf0daa6e13a15f80e2456abfb4cb6835aef5bda5">
         <source xml:space="preserve">"Select a descriptive term from the drop-down menu to clarify</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="needs-translation">"Selecione um termo descritivo no menu drop-down  para esclarecer</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="253eb6dde26cee95f1397729eebfe28481c39551">
         <source xml:space="preserve">%1% metadata - master file</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1% metadados - master</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="875b39bb7cec4470353fcad029056d987ea9b8f3">
         <source xml:space="preserve">%1% metadata - original file</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1% metadados - arquivo original</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="ee0754668842b05c683e95867bed2190449705ba">
         <source xml:space="preserve">%1% metadata - preservation copy</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1% metadados - cópia de preservação</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="56f3bd06c9e4705ff9b00921650ecd001440b7c2">
         <source xml:space="preserve">%1% metadata - reference copy</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1% metadados - cópia de referência</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="ada5ad5780ad4fe5d7a019bc8bd461ff28c23cbb">
         <source xml:space="preserve">%1% metadata - thumbnail copy</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1% metadados - cópia em miniatura</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="4188f6d806a7db6b5b3ccb15282d42a8b4dd06b3">
         <source xml:space="preserve">%1%Contact information%2% - You %3%must%4% at least include one of</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1%Informações de contato%2% - Você %3%deve%4% incluir pelo menos um dos</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="05f2f2376c5ced3da85c4ce70e44762215d42719">
         <source xml:space="preserve">%{complete} of %{smart_count} file uploaded</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%{complete} de %{smart_count} arquivo enviado</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="96857442e9554e1aac2aa63c2a9a1c2979674a1d">
         <source xml:space="preserve">%{complete} of %{smart_count} files uploaded</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%{complete} de %{smart_count} arquivo enviado</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="5bf22547650f22b0163394fbe371d53803c0bed8">
         <source xml:space="preserve">%{complete} of %{total}</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%{completo} de %{total}</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="0aafb9eacae6a6e03b7dee6048cf85eefdc2bebc">
         <source xml:space="preserve">%{maxFileSizeMessage}; %{maxPostSizeMessage}</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%{maxFileSizeMessage}; %{maxPostSizeMessage}</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="5ae89b129bbcbd9fd0aba21687e61a0fc2a02c09">
         <source xml:space="preserve">%{smart_count} file selected</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%{smart_count} arquivo selecionado</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="e611829addd2ccf04137d097504e506d6596e2d5">
         <source xml:space="preserve">%{smart_count} files selected</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%{smart_count} arquivo selecionado</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="9804a21d3aad77995dc60390e2b657bc85d02d40">
         <source xml:space="preserve">%{time} left</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%{time} restante</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="1373c5ddd3db23a8f8a0c0c526e1fbb0dd364afd">
         <source xml:space="preserve">&lt;p&gt;&lt;strong&gt;Child levels&lt;/strong&gt;&lt;br/&gt;Use these two fields to add lower</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">&lt;p&gt;&lt;strong&gt;N´veis inferiores&lt;/strong&gt;&lt;br/&gt;Use esses dois campos para adicionar</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="03f228f40f37c25725d10e4948359779c57db917">
         <source xml:space="preserve">&lt;p&gt;The name of a place or geographic area which is a topic of the resource</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">&lt;p&gt;O nome de um local ou área geográfica que é um tópico do recurso</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5e79afee0b6bb3ef37ab29f73720bc2b9d6034bb">
         <source xml:space="preserve">&lt;p&gt;The name of the organization which has custody of the resource.&lt;/p&gt;</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">&lt;p&gt;O nome da organização que tem a custódia do recurso.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="994d19dd6b20202cb0819e998680a1b577f76a6a">
         <source xml:space="preserve">&lt;strong&gt;Label:&lt;/strong&gt; Enter a name for the alternative identifier field</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">&lt;strong&gt;Etiqueta:&lt;/strong&gt; Insira um nome para o campo identificador alternativo</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/informationobject/templates/_identifierOptions.php</note>
       </trans-unit>
       <trans-unit id="2b0d4fdf606710e9583961cf5986cbabd37b15e7">
         <source xml:space="preserve">&lt;strong&gt;Type:&lt;/strong&gt; Enter a name for the alternative identifier field that</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">&lt;strong&gt;Tipo:&lt;/strong&gt; Insira um nome para o campo identificador alternativo que</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
       <trans-unit id="71e439181d96187177030a818fa3fae65b9b8d29">
         <source xml:space="preserve">A %1%release %2% upgrade is available.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Uma atualização %1%release %2% está disponível.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/default/templates/_updateCheck.php</note>
       </trans-unit>
       <trans-unit id="fb6f7c24d375f7b302caa158d4c4790e5a8393c6">
         <source xml:space="preserve">A brief site description or &amp;quot;tagline&amp;quot; for the header</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Uma breve descrição do site ou "slogan" para o cabeçalho</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/siteInformationSuccess.php</note>
       </trans-unit>
       <trans-unit id="30f88c252214c1a51b65a32c90c418b2b7c40b0c">
         <source xml:space="preserve">A coded designation for the copyright status of the object</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Uma designação codificada para o status de direitos autorais do objeto</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="987d49721b677e164329e70e099452599cd6a17a">
         <source xml:space="preserve">A designation of the language in which the content of a resource is expressed.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Uma designação do idioma no qual o conteúdo de um recurso é expresso.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5c49a3f13796122feb94c9e617faa917fb8e0bd5">
         <source xml:space="preserve">A term or phrase representing the primary topic(s) on which a work is focused.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Um termo ou frase que representa o(s) tópico(s) principal(is) sobre o qual um trabalho está direcionado.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="45138b5a2b70c6adf288128d1e1c25b93095d8da">
         <source xml:space="preserve">Accession number(s)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Número(s) de registro(s) de documento(s).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/informationobject/templates/_accessions.php</note>
       </trans-unit>
       <trans-unit id="066541874179953944ef9e52f3570ca1d486e955">
         <source xml:space="preserve">Accession record</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Registro de entrada de documento</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/deaccession/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="15e4e306330d19f16addff41e9fe5ae15f736440">
         <source xml:space="preserve">Add more</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Adicione mais</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="cb5c9236772f858a4d5a6406ede69270cb69e45e">
         <source xml:space="preserve">Add more files</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Adicionar mais arquivos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="a91b56583ba1e96777195318314c445a946171f4">
         <source xml:space="preserve">Add your digital objects by dragging and dropping local files into the pane below, or by clicking the browse link to open your local file explorer.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Adicione seus objetos digitais arrastando e soltando arquivos no painel abaixo ou clicando no link de navegação para abrir seu explorador de arquivos.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="c0ade02f2c45f074ee5d1a1033eebbb594379450">
         <source xml:space="preserve">Adding more files</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Adicionando mais arquivos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="1abeee71f473b1d9d46f4d871c27b859c956f955">
         <source xml:space="preserve">Additional information about the license, such as contact persons, action</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Informações adicionais sobre a licença, como pessoas de contato, ações</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5f9caaa99a5d020d418055b0502f6612ef94fd26">
         <source xml:space="preserve">Advanced %1%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Avançado %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="4f4b35c7cf57af4fe19f0258691618f91d8bb3e6">
         <source xml:space="preserve">An identifying designation for the statute. Use standard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Uma designação de identificação para o estatuto. Use o padrão</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="0d19a264b41640887176948155910231403d2ad4">
         <source xml:space="preserve">Apply to every %1%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Aplicar a cada %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="f721c73c29796e83c2e9683136e7e90a34ac678e">
         <source xml:space="preserve">Archival description images carousel</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Carrossel de imagens de descrição de arquivo</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/digitalobject/templates/_imageflow.php</note>
       </trans-unit>
       <trans-unit id="1efcc7c06dad8eb042f7ffc03a75152fd92c12e4">
         <source xml:space="preserve">Archival description title link</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Link do título da descrição do arquivo</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/digitalobject/templates/_imageflow.php</note>
       </trans-unit>
       <trans-unit id="2061b7b8472a4dc24060bf3445c956d7c76a8891">
         <source xml:space="preserve">Are you sure you want to delete these captions/subtitles/chapters?</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Tem certeza de que deseja excluir essas legendas/capítulos?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="14fea77455345c25dec4ac5d82112d5399a2183f">
@@ -10472,12 +10472,12 @@ registos completos são os que fornecem informação para todos os elementos de 
       </trans-unit>
       <trans-unit id="b76ff4906f33c2dd97ddd929b9662ba8cac6174c">
         <source xml:space="preserve">Boolean</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Boleana</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="a8f4688a58212612325a864b83219dd6da37a342">
         <source xml:space="preserve">Browse accessions</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Procurar entradas</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="3adfd195e6fc6eb1eb2421a6fd1dd187ad3f9763">
