@@ -1142,9 +1142,9 @@
         <target xml:space="preserve" state="final">Αριθμός εισαγωγής</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/browseAction.class.php</note>
       </trans-unit>
-      <trans-unit id="bdead2012720d6152aa18f95ffff4c4cd9d300a5" approved="yes">
+      <trans-unit id="bdead2012720d6152aa18f95ffff4c4cd9d300a5" approved="no">
         <source xml:space="preserve">Accession number should be a combination of values recorded in the field and should be a unique accession number for the repository</source>
-        <target xml:space="preserve" state="final">Αριθμός Εισαγωγής μπορεί να είναι ένας συνδυασμός τιμών που καταγράφεται στο πεδίο και να αποτελεί μοναδικό αριθμό εισαγωγής στο αποθετήριο</target>
+        <target xml:space="preserve" state="translated">Ο Αριθμός Εισαγωγής πρέπει να είναι ένας συνδυασμός τιμών καταγεγραμμένων στο πεδίο και να αποτελεί μοναδικό αριθμό εισαγωγής για το αποθετήριο</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5deb4f1bd5b5437f680e0d6c2bfd937d94b41658" approved="yes">
@@ -1372,9 +1372,9 @@
         <target xml:space="preserve">Προσθήκη νέων κριτηρίων</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
-      <trans-unit id="49119822b5c4397432b6b10c4da011efddfe46e1" approved="yes">
+      <trans-unit id="49119822b5c4397432b6b10c4da011efddfe46e1" approved="no">
         <source xml:space="preserve">Add new deaccession record</source>
-        <target xml:space="preserve">Προσθήκη νέας εγγραφής απόσυρσης </target>
+        <target xml:space="preserve" state="translated">Προσθήκη νέας εγγραφής απόσυρσης</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="3b21fb84f6cad4d2a7f53db817aee489db17126a" approved="yes">
@@ -1617,9 +1617,9 @@
         <target xml:space="preserve">Επιτρέψτε απεριόριστες μεταφορτώσεις</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
-      <trans-unit id="eb966ae1479fa5b47b1e3fead47e9421c8453066" approved="yes">
+      <trans-unit id="eb966ae1479fa5b47b1e3fead47e9421c8453066" approved="no">
         <source xml:space="preserve">Allowed languages for translation</source>
-        <target xml:space="preserve">Επιτρεπόμενες γλώσσες για μετάφραση </target>
+        <target xml:space="preserve" state="translated">Επιτρεπόμενες γλώσσες μετάφρασης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="db897435a84209c965f92e7b3b19facdf6d0fa95" approved="yes">
@@ -1647,9 +1647,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
-      <trans-unit id="7953715421b1a817f25a3f1e04a64aa8d5bd7829" approved="yes">
+      <trans-unit id="7953715421b1a817f25a3f1e04a64aa8d5bd7829" approved="no">
         <source xml:space="preserve">An abstract, table of contents or description of the resource's scope and contents.</source>
-        <target xml:space="preserve">Μια περίληψη, πίνακας περιεχομένων ή περιγραφή των περιεχομένων</target>
+        <target xml:space="preserve" state="translated">Μια περίληψη, πίνακας περιεχομένων ή περιγραφή της παρουσίασης των περιεχομένων του πόρου.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b7063e1e7db18c362696dec9cf8da2c9a4f40444">
@@ -2232,9 +2232,9 @@
         <target xml:space="preserve">Επίπεδα απογόνων (εάν περιγράφεται μια συλλογή)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="473e4e91d611aaf31da6b0b78a7bcaa8231f013a" approved="yes">
+      <trans-unit id="473e4e91d611aaf31da6b0b78a7bcaa8231f013a" approved="no">
         <source xml:space="preserve">Children inheriting rights from record: </source>
-        <target xml:space="preserve">Το επίπεδο απόγονος κληροδοτείται με δικαιώματα από την εγγραφή:</target>
+        <target xml:space="preserve" state="translated">Οι οντότητες-απόγονοι κληρονομούν δικαιώματα από την εγγραφή: </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/manageAction.class.php</note>
       </trans-unit>
       <trans-unit id="0774ce5b99d0e98aa50d0b0750174220902bfddb">
@@ -2767,9 +2767,9 @@
         <target xml:space="preserve" state="final">Χρονολογία(ες) - Το στοιχείο είναι υποχρεωτικό.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="01e4f7e18ccc5eb2d1a25aed358f6c6c3f14f859" approved="yes">
+      <trans-unit id="01e4f7e18ccc5eb2d1a25aed358f6c6c3f14f859" approved="no">
         <source xml:space="preserve">Date(s) - are not consistent with %1%higher levels%2%.</source>
-        <target xml:space="preserve" state="final">Χρονολογία(ες) - δεν είναι σύμφωνη(ες) με το %1%υψηλότερο επίπεδο%2%</target>
+        <target xml:space="preserve" state="translated">%1%Οι ημερομηνία(ες)%2% - %3%ανωτέρων επιπέδων%2% δεν συμφωνούν .</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="d2fb9e3d2dae1677a9269ef347adadb27723ba5b" approved="yes">
@@ -2997,9 +2997,9 @@
         <target xml:space="preserve">Περιγραφή αναγνωριστικού εγγραφής</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c490453d6c970206d1d92775c6f544e99afa1c30" approved="yes">
+      <trans-unit id="c490453d6c970206d1d92775c6f544e99afa1c30" approved="no">
         <source xml:space="preserve">Description updated.</source>
-        <target xml:space="preserve">Ενημέρωση περιγραφής</target>
+        <target xml:space="preserve" state="translated">Ενημέρωση περιγραφής.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/renameAction.class.php</note>
       </trans-unit>
       <trans-unit id="20f30d381059426feb42a023953518ded038c79d" approved="yes">
@@ -3137,9 +3137,9 @@
         <target xml:space="preserve">Να μην ευρετηριαστούν τα εισερχόμενα τεκμήρια</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8dafaa3f04cab74eb0846bdd68d8e6c932dbaedd" approved="yes">
+      <trans-unit id="8dafaa3f04cab74eb0846bdd68d8e6c932dbaedd" approved="no">
         <source xml:space="preserve">Do not use any special characters or spaces in the filename - only lower case alphanumeric characters (a-z, 0-9) and dashes (-) will be saved. Other characters will be stripped out or replaced. Editing the filename will not automatically update the other fields.</source>
-        <target xml:space="preserve">Μην χρησιμοποιείτε οιποιδήποτε ειδικό χαρακτήρα ή διάστημα στο όνομα του αρχείου - μόνο μικρούς αλφαριθμητικούς χαρακτήρες (a-z, 0-9) και παύλες (-) θα αποθηκευτούν. Λοιποί χαρακτήρες θα αγνοηθούν ή αντικατασταθούν, Η επεξεργασία του ονόματος του αρχείου δεν ενημερώνει αυτόματα τα υπόλοιπα πεδία.  </target>
+        <target xml:space="preserve" state="translated">Στο όνομα του αρχείου μην χρησιμοποιείτε ειδικούς χαρακτήρες ή διαστήματα. Αποθηκεύονται μόνο πεζοί αλφαριθμητικοί χαρακτήρες (a-z, 0-9) και παύλες (-). Λοιποί χαρακτήρες θα αγνοηθούν ή αντικατασταθούν. Η επεξεργασία του ονόματος του αρχείου δεν ενημερώνει αυτόματα τα υπόλοιπα πεδία.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/renameSuccess.php</note>
       </trans-unit>
       <trans-unit id="f685035ae35a8601c50a7e8020483324e95d0582">
@@ -3387,9 +3387,9 @@
         <target xml:space="preserve" state="final">Επεξεργασία της περιοχής χρονολογιών παραγωγής</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d5115bec87564184512f059d65d9a96b558a2877" approved="yes">
+      <trans-unit id="d5115bec87564184512f059d65d9a96b558a2877" approved="no">
         <source xml:space="preserve">Edit deaccession record</source>
-        <target xml:space="preserve">Επεξεργασία εγγραφής απόσυρσης </target>
+        <target xml:space="preserve" state="translated">Επεξεργασία εγγραφής απόσυρσης</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5268636bd85277df5baffff01e143f1be55c5417" approved="yes">
@@ -3922,9 +3922,9 @@
         <target xml:space="preserve">Fax</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_contactInformation.php</note>
       </trans-unit>
-      <trans-unit id="4adb9f6bee1da5911b3d6db8b7bf056560f433e2" approved="yes">
+      <trans-unit id="4adb9f6bee1da5911b3d6db8b7bf056560f433e2" approved="no">
         <source xml:space="preserve">Fax: </source>
-        <target xml:space="preserve">Fax:</target>
+        <target xml:space="preserve" state="translated">Τηλεομοιοτυπία (fax): </target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfEadPlugin/modules/sfEadPlugin/templates/indexSuccessBodyDidElement.xml.php</note>
       </trans-unit>
       <trans-unit id="af7d98a72d49b9a030058842ba85df839f2074e6">
@@ -4402,9 +4402,9 @@
         <target xml:space="preserve">Ιεραρχημένος κατάλογος των μενού για τον ιστότοπο, πρώτη στήλη</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/listSuccess.php</note>
       </trans-unit>
-      <trans-unit id="263ca155aab21aba3cbc330d77c5a99c47dd6248" approved="yes">
+      <trans-unit id="263ca155aab21aba3cbc330d77c5a99c47dd6248" approved="no">
         <source xml:space="preserve">Hierarchical terms</source>
-        <target xml:space="preserve">Ιεραρχημένοι όροι </target>
+        <target xml:space="preserve" state="translated">Ιεραρχημένοι όροι</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_fields.php</note>
       </trans-unit>
       <trans-unit id="bda1b9ddd2a172cd6fc2bdd66737451d25b6f867">
@@ -4826,9 +4826,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
-      <trans-unit id="b90d44713f9b698e94e40d38871b2aef40547c0f" approved="yes">
+      <trans-unit id="b90d44713f9b698e94e40d38871b2aef40547c0f" approved="no">
         <source xml:space="preserve">Indicate any important physical conditions, such as preservation requirements, that affect the use of the unit of description. Note any software and/or hardware required to access the unit of description.</source>
-        <target xml:space="preserve">Να αναφερθεί κάθε σημαντική πληροφορία σχετικά με τη φυσική κατάσταση, όπως είναι οι απαιτήσεις συντήρησης, που επηρεάζουν τη χρήση της ενότητας περιγραφής. Σημειώστε τυχόν λογισμικό και/ή εξοπλισμό που απαιτείται για την πρόσβαση της ενότητας περιγραφής</target>
+        <target xml:space="preserve" state="translated">"Υποδεικνύουμε τα σημαντικά φυσικά χαρακτηριστικά, όπως η ανάγκη συντήρησης, που επηρεάζουν τη χρήση της ενότητας περιγραφής. Σημειώνουμε οποιοδήποτε λογισμικό ή/και μηχανολογικό εξοπλισμό που απαιτείται για την πρόσβαση στην ενότητα περιγραφής." (ΔΙΠΑΠ 3.4.4).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="ee5e57c6c9f86042151d45408837ef3c5b641eb2" approved="yes">
@@ -5106,9 +5106,9 @@
         <target xml:space="preserve">Γλώσσα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ac62ee3750f8d397f0c0e9794ae14f10e1715525" approved="yes">
+      <trans-unit id="ac62ee3750f8d397f0c0e9794ae14f10e1715525" approved="no">
         <source xml:space="preserve">Language and script note</source>
-        <target xml:space="preserve">Σημείωση γλώσσας και γραφής </target>
+        <target xml:space="preserve" state="translated">Σημειώσεις για τη γλώσσα και γραφή των τεκμηρίων</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="c0242176ff29a69ed288a24543d123143d10adf4" approved="yes">
@@ -5141,9 +5141,9 @@
         <target xml:space="preserve">Γλώσσα(ες)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f7b787a1328498bb2f7022384d95ef0dfe5bd985" approved="yes">
+      <trans-unit id="f7b787a1328498bb2f7022384d95ef0dfe5bd985" approved="no">
         <source xml:space="preserve">Language(s) of this resource.</source>
-        <target xml:space="preserve">Γλώσσα(ες) της πηγής</target>
+        <target xml:space="preserve" state="translated">Γλώσσα(ες) του πόρου.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="077f2d4ddc2187c0675a3d220c3e0c2dff707344" approved="yes">
@@ -5201,9 +5201,9 @@
         <target xml:space="preserve">Επίπεδο περιγραφής</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
-      <trans-unit id="ba973e76a4daae40affb18dd6219d9e65ae988ce" approved="yes">
+      <trans-unit id="ba973e76a4daae40affb18dd6219d9e65ae988ce" approved="no">
         <source xml:space="preserve">Level of description - This is a mandatory element.</source>
-        <target xml:space="preserve">Επίπεδο περιγραφής - Το στοιχείο είναι υποχρεωτικό</target>
+        <target xml:space="preserve" state="translated">Επίπεδο περιγραφής - Το στοιχείο είναι υποχρεωτικό.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="d2bafa4da420378e0f96d55d985afeb7e3255698" approved="yes">
@@ -5421,9 +5421,9 @@
         <target xml:space="preserve">Χαμηλό</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="8c6307bfb3b795f533739b8404318fa008b26432" approved="yes">
+      <trans-unit id="8c6307bfb3b795f533739b8404318fa008b26432" approved="no">
         <source xml:space="preserve">MIME type</source>
-        <target xml:space="preserve">MIME type</target>
+        <target xml:space="preserve" state="translated">Τύπος MIME</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="62fb2ed545d72f3fb94979634f60d32407c59ca5">
@@ -5436,9 +5436,9 @@
         <target xml:space="preserve">MODS 3.5 XML</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_actionIcons.php</note>
       </trans-unit>
-      <trans-unit id="2c7ef123f225b2a1dd319d2ec2d6c7d01e4daaa2" approved="yes">
+      <trans-unit id="2c7ef123f225b2a1dd319d2ec2d6c7d01e4daaa2" approved="no">
         <source xml:space="preserve">MODS Resource Type</source>
-        <target xml:space="preserve">MODS Resource Type</target>
+        <target xml:space="preserve" state="translated">Τύπος πόρου MODS</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="e674a3b48a9df1bae0bd39e5edf8ed4730c90236" approved="yes">
@@ -5645,9 +5645,9 @@
         <target xml:space="preserve">Στρατιωτικά</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="14e7b612c404e9aba4f153eabdb3fbc2d2273dcc" approved="yes">
+      <trans-unit id="14e7b612c404e9aba4f153eabdb3fbc2d2273dcc" approved="no">
         <source xml:space="preserve">Mime-type</source>
-        <target xml:space="preserve">Mime-type</target>
+        <target xml:space="preserve" state="translated">Τύπος-Mime</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="a711cca9a4a9ca2545492f4a0d0c98fd41e07a04" approved="yes">
@@ -5810,9 +5810,9 @@
         <target xml:space="preserve">Όνομα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8145640077c0d7d46a0277a4172e50fd90647123" approved="yes">
+      <trans-unit id="8145640077c0d7d46a0277a4172e50fd90647123" approved="no">
         <source xml:space="preserve">Name - A term with this name already exists.</source>
-        <target xml:space="preserve">Όνομα - ο όρος χρησιμοποιείται ήδη </target>
+        <target xml:space="preserve" state="translated">Όνομα - ο όρος υπάρχει ήδη.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="251006aa22cca67e85ec99139025f677599ff651" approved="yes">
@@ -5875,9 +5875,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="724f7197f0ee94bc72d5e4d9e301e97e8b1f5b58" approved="yes">
+      <trans-unit id="724f7197f0ee94bc72d5e4d9e301e97e8b1f5b58" approved="no">
         <source xml:space="preserve">Narrow your results by:</source>
-        <target xml:space="preserve">Κατάλογος κατόχων δικαιωμάτων</target>
+        <target xml:space="preserve" state="translated">Περιορίστε τα αποτελέσματά σας κατά:</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="710c85efc73584b7375521cb749f2485896dfd49" approved="yes">
@@ -5905,9 +5905,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d850ee188c7c55b64bc3624534de5c5051a57dc6" approved="yes">
+      <trans-unit id="d850ee188c7c55b64bc3624534de5c5051a57dc6" approved="no">
         <source xml:space="preserve">New password</source>
-        <target xml:space="preserve">Νέος κωδικός </target>
+        <target xml:space="preserve" state="translated">Νέο σύνθημα πρόσβασης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/passwordEditSuccess.php</note>
       </trans-unit>
       <trans-unit id="792e61cd9c86da667a8e97a863646fd53fe6c14c">
@@ -6185,9 +6185,9 @@
         <target xml:space="preserve">Συγνώμη, δεν εντοπίσαμε κανένα %1 επίπεδο περιγραφής.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListError.php</note>
       </trans-unit>
-      <trans-unit id="2e759cca2dbc1c9d5887b9a37cfdbaacded11cfe" approved="yes">
+      <trans-unit id="2e759cca2dbc1c9d5887b9a37cfdbaacded11cfe" approved="no">
         <source xml:space="preserve">Oops, we couldn't find any physical storage locations for the current resource.</source>
-        <target xml:space="preserve">Δεν βρέθηκε κανένας χώρος αποθήκευσης για την τρέχουσα εγγραφή</target>
+        <target xml:space="preserve" state="translated">Φτού! Δεν βρέθηκε καταχωρημένη καμία θέση φύλαξης για το αντικείμενο της αναζήτησης.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/storageLocationsError.php</note>
       </trans-unit>
       <trans-unit id="fd40f90ee8f9dea930f73bb8de62addecd13b255">
@@ -6270,9 +6270,9 @@
         <target xml:space="preserve">Άλλες σημειώσεις</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="1abcbf833679812a741df74817b8117311e91fd8" approved="yes">
+      <trans-unit id="1abcbf833679812a741df74817b8117311e91fd8" approved="no">
         <source xml:space="preserve">Other title information</source>
-        <target xml:space="preserve">Λοιπές πληροφορίες τίτλου </target>
+        <target xml:space="preserve" state="translated">Άλλες πληροφορίες για τον τίτλο</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="bffb75dbe74054e05a0595ae557f87459df0c94a" approved="yes">
@@ -6385,9 +6385,9 @@
         <target xml:space="preserve">Μέρος του</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/boxListSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3ca168a91e24b1ce371e01343df11195c77e2a13" approved="yes">
+      <trans-unit id="3ca168a91e24b1ce371e01343df11195c77e2a13" approved="no">
         <source xml:space="preserve">Part of </source>
-        <target xml:space="preserve">Μέρος του</target>
+        <target xml:space="preserve" state="translated">Ανήκει στο: </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_searchResult.php</note>
       </trans-unit>
       <trans-unit id="65de2e2a3bcb36da6b50fd9e19f9ca0b9466de27" approved="yes">
@@ -6795,9 +6795,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="e9da9b827e60dc37063ef8b128c7d0534691727b" approved="yes">
+      <trans-unit id="e9da9b827e60dc37063ef8b128c7d0534691727b" approved="no">
         <source xml:space="preserve">Provide a brief description of the menu and it's purpose.</source>
-        <target xml:space="preserve">Δώστε μια σύντομη περιγραφή του μενού και των χρήσεων του</target>
+        <target xml:space="preserve" state="translated">Σύντομη περιγραφή του μενού και του σκοπού τον οποίο εξυπηρετεί.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="ec149016869c4285982e5cdbb68019e278c48d84" approved="yes">
