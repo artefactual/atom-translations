@@ -9,14 +9,14 @@
         <target xml:space="preserve">%1%Transferir%2%(%3% b)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
-      <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf" approved="yes">
+      <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf" approved="no">
         <source xml:space="preserve"> Auto refresh</source>
-        <target xml:space="preserve">Atualização automática</target>
+        <target xml:space="preserve" state="translated"> Atualização automática</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c283db127dc03106098aff291505eaf3c767d1af" approved="yes">
+      <trans-unit id="c283db127dc03106098aff291505eaf3c767d1af" approved="no">
         <source xml:space="preserve"> report</source>
-        <target xml:space="preserve">relatório</target>
+        <target xml:space="preserve" state="translated"> relatório</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
       <trans-unit id="9b4d2dfc0b645efe7d3cde382a35f653f85d431a" approved="yes">
@@ -169,10 +169,9 @@
         <target xml:space="preserve">"Observe quaisquer alfabetos distintos ou sistemas de símbolos empregados." (RAD 1.8.B14) Selecione o script a partir do menu drop-down; insira as primeiras letras para restringir as escolhas.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6fe62e6ce2d0b9c3f9de71c2a15095d9b84bba58" approved="yes">
+      <trans-unit id="6fe62e6ce2d0b9c3f9de71c2a15095d9b84bba58" approved="no">
         <source xml:space="preserve">"Provide a date or date span which covers the dates when the function was started and when it finished. If a function is ongoing, no end date is needed." (ISDF 5.2.1)</source>
-        <target xml:space="preserve">"Forneça uma data ou período que indique o começo e o término da função. Se a
-função é contínua, não é necessária data final." (ISDF 5.2.1)</target>
+        <target xml:space="preserve" state="translated">"Forneça uma data ou período que indique o começo e o término da função. Se a função é contínua, não é necessária data final." (ISDF 5.2.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e2e26146062adab5348e8b089e8fbc327f414435" approved="yes">
@@ -256,10 +255,9 @@ aluno de, colega profissional. Registar no elemento Regras e/ou convenções (5.
         <target xml:space="preserve">"Registar um identificador unívoco do registo de autoridade de acordo com convenções locais e/ou nacionais. Se o registo de autoridade se destinar a uma utilização internacional, registar o código do país responsável pela sua criação, de acordo com a última versão da ISO 3166 Codes for the representation of names of countries. Se o criador do registo de autoridade for uma organização internacional, fornecer o respectivo identificador, e não o código do país." (ISAAR 5.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15" approved="yes">
+      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15" approved="no">
         <source xml:space="preserve">"Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 - Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code." (ISIAH 5.6.1)</source>
-        <target xml:space="preserve">"Registe um identificador específico da descrição de acordo com convenções locais e/ou nacionais. Se a descrição é para uso internacional, registre o código do país no qual o a descrição foi produzida, de acordo com a última versão da ISO
-3166 - Codes for the representation of names of countries. Quando o produtor da descrição for uma organização internacional, forneça o identificador da organização em lugar do código do país." (ISIAH 5.6.1)</target>
+        <target xml:space="preserve" state="translated">"Registe um identificador específico da descrição de acordo com convenções locais e/ou nacionais. Se a descrição é para uso internacional, registre o código do país no qual o a descrição foi produzida, de acordo com a última versão da ISO 3166 - Codes for the representation of names of countries. Quando o produtor da descrição for uma organização internacional, forneça o identificador da organização em lugar do código do país." (ISIAH 5.6.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="fd846bcf8ecc30d07094334b4411a90abaad570b" approved="yes">
@@ -272,10 +270,9 @@ aluno de, colega profissional. Registar no elemento Regras e/ou convenções (5.
         <target xml:space="preserve">"Registar qualquer documento, lei, directiva ou estatuto que funcione como fonte de autoridade para os poderes, funções ou responsabilidades da entidade a descrever, em conjunto com informação sobre a jurisdição(ões) e as datas relativas ao exercício ou modificação do(s) mandato(s)." (ISAAR 5.2.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="89ad9c06b9e08d5a707ca7ec14cce91cc0142870" approved="yes">
+      <trans-unit id="89ad9c06b9e08d5a707ca7ec14cce91cc0142870" approved="no">
         <source xml:space="preserve">"Record any document, law, directive or charter which acts as a source of authority for the powers, functions and responsibilities of the institution, together with information on the jurisdiction(s) and covering dates when the mandate(s) applied or were changed." (ISDIAH 5.3.3)</source>
-        <target xml:space="preserve">"Registe qualquer documento, lei, diretiva ou diploma que funcione como fonte de autoridade para os poderes, funções ou responsabilidades da instituição com acervo arquivístico, juntamente com informações sobre jurisdição e datas de
-vigência ou alteração do(s) mandato(s)." (ISDIAH 5.3.3)</target>
+        <target xml:space="preserve" state="translated">"Registe qualquer documento, lei, diretiva ou diploma que funcione como fonte de autoridade para os poderes, funções ou responsabilidades da instituição com acervo arquivístico, juntamente com informações sobre jurisdição e datas de vigência ou alteração do(s) mandato(s)." (ISDIAH 5.3.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b0d712ff41fb95b3087ae7b5e7171c5c1e608818" approved="yes">
@@ -283,10 +280,9 @@ vigência ou alteração do(s) mandato(s)." (ISDIAH 5.3.3)</target>
         <target xml:space="preserve">"Registe qualquer lei, diretiva ou título que cria, altera ou extingue a função." (ISDF 5.2.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="aba1c650648834a4a21f4a445453908bcaee3008" approved="yes">
+      <trans-unit id="aba1c650648834a4a21f4a445453908bcaee3008" approved="no">
         <source xml:space="preserve">"Record any other name(s) by which the institution may be known. This could include other forms of the same name, acronyms, other institutional names, or changes of name over time, including, if possible, relevant dates." (ISDIAH 5.1.4)</source>
-        <target xml:space="preserve">"Registe qualquer (quaisquer) outro(s) nome(s) pelo qual(is) a instituição com acervo arquivístico possa ser conhecida. Incluem-se aqui outras formas do mesmo nome, acrónimos, outros nomes institucionais ou mudanças de nome ao longo do
-tempo, acrescentando, se possível, datas relevantes." (ISDIAH 5.1.4)</target>
+        <target xml:space="preserve" state="translated">"Registe qualquer (quaisquer) outro(s) nome(s) pelo qual(is) a instituição com acervo arquivístico possa ser conhecida. Incluem-se aqui outras formas do mesmo nome, acrónimos, outros nomes institucionais ou mudanças de nome ao longo do tempo, acrescentando, se possível, datas relevantes." (ISDIAH 5.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="612daef3f6bccab4cbd09e60a0298651846f3642" approved="yes">
@@ -304,16 +300,14 @@ tempo, acrescentando, se possível, datas relevantes." (ISDIAH 5.1.4)</target>
         <target xml:space="preserve">"Registe qualquer termo e/ou código de um esquema de classificação. Registe o esquema de classificação usado no elemento Regras e/ou convenções utilizadas." (ISDF 5.1.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5e0f72570ad798435a45ca195a49c0280e158faa" approved="yes">
+      <trans-unit id="5e0f72570ad798435a45ca195a49c0280e158faa" approved="no">
         <source xml:space="preserve">"Record in narrative form or as a chronology the main events relating to the function." (ISDF 5.2.3)</source>
-        <target xml:space="preserve">"Registe de forma narrativa ou como uma cronologia a história do desempenho da função. Pode ser incluída informação sobre como e por que a função foi realizada, os papéis exercidos pelos responsáveis por serviços, departamentos, organizações e
-outras entidades no desempenho da função e como isso mudou ao longo do tempo.(ISDF 5.2.3)</target>
+        <target xml:space="preserve" state="translated">"Registe de forma narrativa ou como uma cronologia a história do desempenho da função. Pode ser incluída informação sobre como e por que a função foi realizada, os papéis exercidos pelos responsáveis por serviços, departamentos, organizações e outras entidades no desempenho da função e como isso mudou ao longo do tempo.(ISDF 5.2.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="717ef2a898e0d798497b3e85947504bb0ba0236c" approved="yes">
+      <trans-unit id="717ef2a898e0d798497b3e85947504bb0ba0236c" approved="no">
         <source xml:space="preserve">"Record in narrative form or as a chronology the main life events, activities, achievements and/or roles of the entity being described. This may include information on gender, nationality, family and religious or political affiliations. Wherever possible, supply dates as an integral component of the narrative description." (ISAAR 5.2.2)</source>
-        <target xml:space="preserve">"Registar, de forma narrativa ou através de uma cronologia, os principais eventos, actividades, realizações e/ou funções da entidade descrita. Pode incluir-se informação sobre o género, a nacionalidade, a família e as convicções religiosas ou
-políticas. Sempre que possível, fornecer as datas como parte integrante da descrição narrativa." (ISAAR 5.2.2)</target>
+        <target xml:space="preserve" state="translated">"Registar, de forma narrativa ou através de uma cronologia, os principais eventos, actividades, realizações e/ou funções da entidade descrita. Pode incluir-se informação sobre o género, a nacionalidade, a família e as convicções religiosas ou políticas. Sempre que possível, fornecer as datas como parte integrante da descrição narrativa." (ISAAR 5.2.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="311beb1f72b7f6549050f588d0577b0c5b7ca5c4" approved="yes">
@@ -366,10 +360,9 @@ políticas. Sempre que possível, fornecer as datas como parte integrante da des
         <target xml:space="preserve">"Registe a(s) forma(s) autorizada(s) do nome e o identificador específico da função." (ISDF 5.3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="1f9b842b078ca2cb8c414d3a8496c23a889c1b85" approved="yes">
+      <trans-unit id="1f9b842b078ca2cb8c414d3a8496c23a889c1b85" approved="no">
         <source xml:space="preserve">"Record the authorised name of the function being described. In cases where the name is not enough, add qualifiers to make it unique such as the territorial or administrative scope, or the name of the institution which performs it. This element is to be used in conjunction with the Function description identifier element (5.4.1)." (ISDF 5.1.2)</source>
-        <target xml:space="preserve">"Registe a forma(s) autorizada(s) do nome da função. Use o âmbito territorial ou administrativo da função, o nome da instituição que a desempenhou e outros qualificativos apropriados para distingui-la de outras funções com nomes similares.
-Este elemento deve ser usado em conjunção com o elemento Identificador da descrição da função (5.4.1)." (ISDF 5.1.2)</target>
+        <target xml:space="preserve" state="translated">"Registe a forma(s) autorizada(s) do nome da função. Use o âmbito territorial ou administrativo da função, o nome da instituição que a desempenhou e outros qualificativos apropriados para distingui-la de outras funções com nomes similares. Este elemento deve ser usado em conjunção com o elemento Identificador da descrição da função (5.4.1)." (ISDF 5.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="8457d3c95f00640884a7db1d941d8a29e4516be1" approved="yes">
@@ -432,10 +425,9 @@ Este elemento deve ser usado em conjunção com o elemento Identificador da desc
         <target xml:space="preserve">"Registe o idioma ou idiomas da unidade que está a ser descrita, a menos que sejam referidos noutro lugar ou podem ser inferidos a partir de outros elementos da descrição." (RAD 1.8.B14). Selecione a lista de opções ou digite as primeiras letras para reduzir a lista.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6148ff7720ea1703b1d1f0ad9e5ea52d9ce16198" approved="yes">
+      <trans-unit id="6148ff7720ea1703b1d1f0ad9e5ea52d9ce16198" approved="no">
         <source xml:space="preserve">"Record the legal status and where appropriate the type of corporate body together with the covering dates when this status applied." (ISAAR 5.2.4)</source>
-        <target xml:space="preserve">"Registar o estatuto legal e, se apropriado, o tipo de pessoa colectiva e as datas de
-vigência desse estatuto." (ISAAR 5.2.4)</target>
+        <target xml:space="preserve" state="translated">"Registar o estatuto legal e, se apropriado, o tipo de pessoa colectiva e as datas de vigência desse estatuto." (ISAAR 5.2.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="ea96629b12520a467d7ebfa5b2cf3a8aed5663ea" approved="yes">
@@ -498,9 +490,9 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
         <target xml:space="preserve">"Registar, se possível, qualquer número oficial ou outro identificador para a pessoa colectiva (por exemplo o número de registo de uma empresa) e registar a jurisdição e circunstâncias em que esse número foi atribuído." (ISAAR 5.1.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a5162e31ab7277f79bebcb03364debdf5c0913b8" approved="yes">
+      <trans-unit id="a5162e31ab7277f79bebcb03364debdf5c0913b8" approved="no">
         <source xml:space="preserve">"Record, when relevant, the start and the end date of the relationship." (ISDF 6.3) Enter the date as you would like it to appear in the show page for the function, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target xml:space="preserve">&lt;b&gt;ISDF 6.3&lt;/b&gt;&lt;br /&gt;
+        <target xml:space="preserve" state="needs-translation">&lt;b&gt;ISDF 6.3&lt;/b&gt;&lt;br /&gt;
 &lt;strong&gt;Objetivo:&lt;/strong&gt; Indicar as datas de duração da relação entre a função e o recurso relacionado.&lt;br /&gt;
 &lt;strong&gt;Regra:&lt;/strong&gt; Registe, quando relevante, as datas de início e fim da relação.&lt;br /&gt;&lt;br /&gt;
 &lt;strong style="color:#c41f36"&gt;Insira a data que pretende mostrar na página da função, usando os símbolos necessários para referir uma data estimada.&lt;/strong&gt;</target>
@@ -885,19 +877,19 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
         <target xml:space="preserve">(Re)generar API key</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="7778c55ec2aa736498736e2555f34a7abef2000a" approved="yes">
+      <trans-unit id="7778c55ec2aa736498736e2555f34a7abef2000a" approved="no">
         <source xml:space="preserve">-- Select action --</source>
-        <target xml:space="preserve">-- Selecione  acção--</target>
+        <target xml:space="preserve" state="translated">-- Selecione acção--</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="7c87294fd595a5cce42dc7eaced0ab3290f9d3ba" approved="yes">
+      <trans-unit id="7c87294fd595a5cce42dc7eaced0ab3290f9d3ba" approved="no">
         <source xml:space="preserve">&lt;p&gt;&lt;strong&gt;Child levels&lt;/strong&gt;&lt;br/&gt;Use these two fields to add lower levels to a collection level description. Click &lt;em&gt;Add new&lt;/em&gt; to create as many child levels as necessary.&lt;/p&gt;&lt;p&gt;These fields can also be used to add any number of intermediate levels of description (e.g. series, file, etc) between the top and bottom levels in a descriptive hierarchy. Use the hierarchy treeview to re-order hierarchy levels as necessary.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Identifier&lt;/em&gt;: The unambiguous reference code used to uniquely identify the child-level resource.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Title&lt;/em&gt;: The name given to the child-level resource.&lt;/p&gt;</source>
-        <target xml:space="preserve">&lt;p&gt;&lt;strong&gt;Níveis dependentes&lt;/strong&gt;&lt;br/&gt;Use estes dois campos para adicionar níveis inferiores ao nível da descrição da colecção. Clicar &lt;em&gt;Adicionar novo&lt;/em&gt; para criar tantos níveis inferiores quanto necessário.&lt;/p&gt;&lt;p&gt;Estes campos podem também ser utilizados para adicionar qualquer número de níveis intermédios da descrição (ex: série, pasta, etc) entre os níveis de topo e da base nma hieraquia descritiva. Use a árvore da hieraquia para reordenar os vários níveis, se necessário.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Identificadorr&lt;/em&gt;: Uma referência unívoca para  identificar o recurso de nível inferior.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Título&lt;/em&gt;: O nome dado a um recurso de nível inferior.&lt;/p&gt;</target>
+        <target xml:space="preserve" state="translated">&lt;p&gt;&lt;strong&gt;Níveis dependentes&lt;/strong&gt;&lt;br/&gt;Use estes dois campos para adicionar níveis inferiores ao nível da descrição da colecção. Clicar &lt;em&gt;Adicionar novo&lt;/em&gt; para criar tantos níveis inferiores quanto necessário.&lt;/p&gt;&lt;p&gt;Estes campos podem também ser utilizados para adicionar qualquer número de níveis intermédios da descrição (ex: série, pasta, etc) entre os níveis de topo e da base nma hieraquia descritiva. Use a árvore da hieraquia para reordenar os vários níveis, se necessário.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Identificadorr&lt;/em&gt;: Uma referência unívoca para identificar o recurso de nível inferior.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Título&lt;/em&gt;: O nome dado a um recurso de nível inferior.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2ae47113540460180dc4be6804b881eb4854d29b" approved="yes">
+      <trans-unit id="2ae47113540460180dc4be6804b881eb4854d29b" approved="no">
         <source xml:space="preserve">&lt;p&gt;The file format, physical medium, or dimensions of the resource.&lt;/p&gt;&lt;p&gt;Please note: if this resource is linked to a digital object, the Internet Media Types (MIME) will be added automatically upon output, so don't duplicate those values here.&lt;/p&gt;</source>
-        <target xml:space="preserve">&lt;p&gt;O formato do ficheiro, suporte físico, ou dimensões do recurso.&lt;/p&gt;&lt;p&gt;Notar que se este recurso estiver ligado a um objecto digital,  será adicionado automaticamente o Internet Media Types (MIME)ao resultado, portanto não duplique aqui este valor.&lt;/p&gt;</target>
+        <target xml:space="preserve" state="translated">&lt;p&gt;O formato do ficheiro, suporte físico, ou dimensões do recurso.&lt;/p&gt;&lt;p&gt;Notar que se este recurso estiver ligado a um objecto digital, será adicionado automaticamente o Internet Media Types (MIME)ao resultado, portanto não duplique aqui este valor.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="870c7f78d415fd403fafaca9ae0d75d250291841" approved="yes">
@@ -1604,9 +1596,9 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
         <target xml:space="preserve">Permitir</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="20a61b49fb16be8008aef5aad33e3f6c1c0ebf5b" approved="yes">
+      <trans-unit id="20a61b49fb16be8008aef5aad33e3f6c1c0ebf5b" approved="no">
         <source xml:space="preserve">Allow any valid URI PATH segment character to appear in a slug, including UTF-8 glyphs. Restricted IRI characters ( /?#{} ) and literal spaces will be replaced with dashes</source>
-        <target xml:space="preserve">Permitir qualquer carácter de segmento URI PATH válido  aparecer num slug, incluindo glifos UTF-8. Caracteres IRI restritos ( /?#{} ) e espaços literais serão substituídos por traços</target>
+        <target xml:space="preserve" state="translated">Permitir qualquer carácter de segmento URI PATH válido aparecer num slug, incluindo glifos UTF-8. Caracteres IRI restritos ( /?#{} ) e espaços literais serão substituídos por traços</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="dc5994d02ce2d6ac66ed7991d0833fe8f6d5fc5b">
@@ -2031,7 +2023,7 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
       </trans-unit>
       <trans-unit id="1f4698382842477e211eb46de81fa506f01a8c34" approved="yes">
         <source xml:space="preserve">Both</source>
-        <target xml:space="preserve">Ambos </target>
+        <target xml:space="preserve" state="final">Ambos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/descriptionUpdatesAction.class.php</note>
       </trans-unit>
       <trans-unit id="9a5f21c8f5cd4940eec3fb9eece5ad218d289f2b" approved="yes">
@@ -2234,9 +2226,9 @@ vigência desse estatuto." (ISAAR 5.2.4)</target>
         <target xml:space="preserve">Nível dependente (para uma colecção)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="473e4e91d611aaf31da6b0b78a7bcaa8231f013a" approved="yes">
+      <trans-unit id="473e4e91d611aaf31da6b0b78a7bcaa8231f013a" approved="no">
         <source xml:space="preserve">Children inheriting rights from record: </source>
-        <target xml:space="preserve">Os filhos herdam os direitos de registo:</target>
+        <target xml:space="preserve" state="translated">Os filhos herdam os direitos de registo: </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/manageAction.class.php</note>
       </trans-unit>
       <trans-unit id="0774ce5b99d0e98aa50d0b0750174220902bfddb" approved="yes">
