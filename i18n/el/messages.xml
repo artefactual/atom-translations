@@ -239,9 +239,9 @@
         <target xml:space="preserve">"Δίνουμε μία ακριβή περιγραφή της φύσης της σχέσης μεταξύ της περιγραφόμενης οντότητας στην καθιερωμένη εγγραφή και της άλλης σχετιζόμενης  οντότητας... Καταγράφουμε στο στοιχείο Κανόνες και/ή πρότυπα (5.4.3) οποιοδήποτε πλαίσιο αναφοράς χρησιμοποιήθηκε ως πηγή ελεγχόμενου λεξιλογίου όρων   στην περιγραφή της σχέσης. Μπορεί, επίσης, να δοθεί εδώ μια περιγραφή -σε αφηγηματική μορφή- του ιστορικού και/ή της φύσης της σχέσης"(ISAAR 5.3.3). Σημειώστε ότι το κείμενο που θα εισαχθεί σε αυτό το πεδίο θα εμφανιστεί επίσης στην σχετικής καθιερωμένη εγγραφή.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="c4d61803b0c775664785408a8c8277a8a922fa92">
+      <trans-unit id="c4d61803b0c775664785408a8c8277a8a922fa92" approved="yes">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the function being described and the related function." (ISDF 5.3.3) Note that the text entered in this field will also appear in the related function.</source>
-        <target xml:space="preserve" state="translated">"Δίνουμε μία ακριβή περιγραφή της φύσης της σχέσης μεταξύ της περιγραφόμενης λειτουργίας και της σχετιζόμενης λειτουργίας." (ΔΙΠΠΕΛ 5.3. Σημειώστε ότι το κείμενο που εισάγεται σε αυτό το πεδίο θα εμφανίζεται και στη σχετιζόμενη λειτουργία.</target>
+        <target xml:space="preserve" state="final">"Δίνουμε μία ακριβή περιγραφή της φύσης της σχέσης μεταξύ της περιγραφόμενης λειτουργίας και της σχετιζόμενης λειτουργίας." (ΔΙΠΠΕΛ 5.3.3) Σημειώστε ότι το κείμενο που εισάγεται σε αυτό το πεδίο θα εμφανίζεται και στη σχετιζόμενη λειτουργία.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
       <trans-unit id="f2cffe2c4b81b6e676278e7a74d2c45a3290dc0c" approved="yes">
@@ -294,10 +294,9 @@
         <target xml:space="preserve">"Καταγράφουμε κάθε πληροφορία σχετική με την ιστορία του φορέα διατήρησης αρχείων. Το στοιχείο αυτό μπορεί να περιλαμβάνει πληροφορίες για τις ημερομηνίες ίδρυσης, αλλαγών του ονόματος, αλλαγών του νομοθετικού πλαισίου ή όποιων άλλων πηγών δικαιοδοσίας του φορέα διατήρησης αρχείων." (ISDIAH 5.3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9f7c8d7614b7199872c46e10f1f3d9b3538929aa">
+      <trans-unit id="9f7c8d7614b7199872c46e10f1f3d9b3538929aa" approved="yes">
         <source xml:space="preserve">"Record any term and/or code from a classification scheme of functions. Record the classification scheme used in the element Rules and/or conventions used (5.4.3)." (ISDF 5.1.5)</source>
-        <target xml:space="preserve" state="translated">"Στόχος: Να ενταχθεί η λειτουργία σε ένα πλαίσιο κατάταξης.
-Κανόνας: Χρησιμοποιούμε κάθε όρο ή κωδικό που αναφέρεται σε ένα πλαίσιο κατάταξης λειτουργιών. Καταχωρούμε το πλαίσιο κατάταξης που χρησιμοποιούμε στο στοιχείο Κανόνες και/ή συμβάσεις (5.4.3)." (ΔΙΠΠΕΛ 5.1.5)</target>
+        <target xml:space="preserve" state="final">"Στόχος: Να ενταχθεί η λειτουργία σε ένα πλαίσιο κατάταξης. Κανόνας: Χρησιμοποιούμε κάθε όρο ή κωδικό που αναφέρεται σε ένα πλαίσιο κατάταξης λειτουργιών. Καταχωρούμε το πλαίσιο κατάταξης που χρησιμοποιούμε στο στοιχείο Κανόνες και/ή συμβάσεις (5.4.3)." (ΔΙΠΠΕΛ 5.1.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5e0f72570ad798435a45ca195a49c0280e158faa" approved="yes">
@@ -360,9 +359,9 @@
         <target xml:space="preserve">Καταγράφουμε την καθιερωμένη μορφή του ονόματος και κάθε μοναδικό αναγνωριστικό της σχετιζόμενης λειτουργίας." (ISDF 5.3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="1f9b842b078ca2cb8c414d3a8496c23a889c1b85">
+      <trans-unit id="1f9b842b078ca2cb8c414d3a8496c23a889c1b85" approved="yes">
         <source xml:space="preserve">"Record the authorised name of the function being described. In cases where the name is not enough, add qualifiers to make it unique such as the territorial or administrative scope, or the name of the institution which performs it. This element is to be used in conjunction with the Function description identifier element (5.4.1)." (ISDF 5.1.2)</source>
-        <target xml:space="preserve" state="translated">"Καταγράφουμε την προτυποποιημένη μορφή του ονόματος της λειτουργίας. Χρησιμοποιούμε την εδαφική ή διοικητική δικαιοδοσία της λειτουργίας, το όνομα του φορέα που την επιτελεί και άλλα προσδιοριστικά στοιχεία απαραίτητα για τη διάκριση της λειτουργίας από άλλες με παρόμοια ονόματα. Το στοιχείο προορίζεται να χρησιμοποιηθεί σε συνδυασμό με το στοιχείο Κωδικός αναγνώρισης της περιγραφής λειτουργίας (5.4.1)." (ΔΙΠΠΕΛ 5.1.2)</target>
+        <target xml:space="preserve" state="final">"Καταγράφουμε την προτυποποιημένη μορφή του ονόματος της λειτουργίας. Χρησιμοποιούμε την εδαφική ή διοικητική δικαιοδοσία της λειτουργίας, το όνομα του φορέα που την επιτελεί και άλλα προσδιοριστικά στοιχεία απαραίτητα για τη διάκριση της λειτουργίας από άλλες με παρόμοια ονόματα. Το στοιχείο προορίζεται να χρησιμοποιηθεί σε συνδυασμό με το στοιχείο Κωδικός αναγνώρισης της περιγραφής λειτουργίας (5.4.1)." (ΔΙΠΠΕΛ 5.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="8457d3c95f00640884a7db1d941d8a29e4516be1" approved="yes">
@@ -490,9 +489,9 @@
         <target xml:space="preserve">"Καταγράφουμε, όπου είναι δυνατό, κάθε επίσημο αριθμό ή άλλον κωδικό (π.χ., τον αριθμό στο Μητρώο Επιχειρήσεων) για το νομικό πρόσωπο και αναφέρουμε το νομικό καθεστώς και το πλαίσιο σύμφωνα με το οποίο αποδόθηκε." (ISAAR 5.1.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a5162e31ab7277f79bebcb03364debdf5c0913b8">
+      <trans-unit id="a5162e31ab7277f79bebcb03364debdf5c0913b8" approved="yes">
         <source xml:space="preserve">"Record, when relevant, the start and the end date of the relationship." (ISDF 6.3) Enter the date as you would like it to appear in the show page for the function, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target xml:space="preserve" state="translated">"Καταγράφουμε, όπου είναι δυνατό, τις ημερομηνίες έναρξης και λήξης της σχέσης." (ΔΙΠΠΕΛ 6.3). Εισάγετε τις ημερομηνίες με τη μορφή που θέλετε να εμφανίζονται στη σελίδα προβολής της λειτουργίας, χρησιμοποιώντας προσδιοριστικά ή/και τυπογραφικά σύμβολα που εκφράζουν αβεβαιότητα, αν χρειάζεται.</target>
+        <target xml:space="preserve" state="final">"Καταγράφουμε, όπου είναι δυνατό, τις ημερομηνίες έναρξης και λήξης της σχέσης." (ΔΙΠΠΕΛ 6.3). Εισάγετε τις ημερομηνίες με τη μορφή που θέλετε να εμφανίζονται στη σελίδα προβολής της λειτουργίας, χρησιμοποιώντας προσδιοριστικά ή/και τυπογραφικά σύμβολα που εκφράζουν αβεβαιότητα, αν χρειάζεται.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/relation/actions/editComponent.class.php</note>
       </trans-unit>
       <trans-unit id="f732bf87d0ed8af374fed8615f2ffe68276f87e9">
@@ -505,9 +504,9 @@
         <target xml:space="preserve">"Προσδιορίζουμε τον τύπο της οντότητας που περιγράφεται στην καθιερωμένη εγγραφή." (ISAAR 5.1.1) Επιλέξτε Νομικό Πρόσωπο, Οικογένεια ή Φυσικό Πρόσωπο από το αναδιπλούμενο μενού.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c026cf03b3a849136c96e53f0ab910bacfea5f89">
+      <trans-unit id="c026cf03b3a849136c96e53f0ab910bacfea5f89" approved="yes">
         <source xml:space="preserve">"Specify whether the description is a function or one of its subdivisions." (ISDF 5.1.1) Select the type from the drop-down menu; these values are drawn from the ISDF Function Types taxonomy.</source>
-        <target xml:space="preserve" state="translated">"Προσδιορίζουμε αν η περιγραφή είναι μια λειτουργία ή κάποια από τις υποδιαιρέσεις της, σύμφωνα με την εθνική ή διεθνή ορολογία." (ΔΙΠΠΕΛ 5.1.1). Επιλέξτε το επίπεδο από τον αναδιπλούμενο πίνακα. Οι τιμές αντλούνται από την ταξινομία "Είδη Λειτουργιών".</target>
+        <target xml:space="preserve" state="final">"Προσδιορίζουμε αν η περιγραφή είναι μια λειτουργία ή κάποια από τις υποδιαιρέσεις της, σύμφωνα με την εθνική ή διεθνή ορολογία." (ΔΙΠΠΕΛ 5.1.1). Επιλέξτε το επίπεδο από τον αναδιπλούμενο πίνακα. Οι τιμές αντλούνται από την ταξινομία "Είδη Λειτουργιών".</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="bfcdc2a643be0c1a93801a5cc200cfcffe7c48ea">
@@ -730,9 +729,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
-      <trans-unit id="85ff680a8907d82fa780e7780ab3737c953acb7f">
+      <trans-unit id="85ff680a8907d82fa780e7780ab3737c953acb7f" approved="yes">
         <source xml:space="preserve">%1%Authority record identifier%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve" state="translated">%1%Κωδικός αναγνώρισης καθιερωμένης εγγραφής%2% - %3%Υποχρεωτικό %4% στοιχείο.</target>
+        <target xml:space="preserve" state="final">%1%Κωδικός αναγνώρισης καθιερωμένης εγγραφής%2% - %3%Υποχρεωτικό %4% στοιχείο.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="98bfda47f615414dcae7d73cda462c8a9bf084c5">
@@ -1780,7 +1779,7 @@
       </trans-unit>
       <trans-unit id="d277b4a07124048314876e5303331f38db4d3552" approved="yes">
         <source xml:space="preserve">Archivist and date</source>
-        <target xml:space="preserve">Όνομα αρχειονόμου και ημερομηνίες </target>
+        <target xml:space="preserve" state="final">Όνομα αρχειονόμου και ημερομηνίες</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="6831ca4512171d4fb5d963b7b5bfb8b6092a8b30" approved="yes">
@@ -4453,14 +4452,14 @@
         <target xml:space="preserve">ISAAR(CPF), 2nd ed. International Council on Archives</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsDefaultTemplateForm.class.php</note>
       </trans-unit>
-      <trans-unit id="af8b85ebb2b6c1a69de90ba4b95993b77dfbf6a9">
+      <trans-unit id="af8b85ebb2b6c1a69de90ba4b95993b77dfbf6a9" approved="yes">
         <source xml:space="preserve">ISAD template - area headings</source>
-        <target xml:space="preserve" state="translated">Σχεδιότυπο ΔΙΠΑΠ - περιοχή επικεφαλίδων</target>
+        <target xml:space="preserve" state="final">Σχεδιότυπο ΔΙΠΑΠ - περιοχή επικεφαλίδων</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4824cad04a5c00a035001a3763a5da098aa1cc49">
+      <trans-unit id="4824cad04a5c00a035001a3763a5da098aa1cc49" approved="yes">
         <source xml:space="preserve">ISAD template - elements</source>
-        <target xml:space="preserve" state="translated">Σχεδιότυπο ΔΙΠΑΠ - στοιχεία</target>
+        <target xml:space="preserve" state="final">Σχεδιότυπο ΔΙΠΑΠ - στοιχεία</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="4804af7ec03e6a711bf53ba0a03b11280de6cd93" approved="yes">
@@ -4468,9 +4467,9 @@
         <target xml:space="preserve">ISAD(G), 2nd ed. International Council on Archives</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsDefaultTemplateForm.class.php</note>
       </trans-unit>
-      <trans-unit id="c9bd2f317c7cfbd580f5c07416a138314eb3d9d7">
+      <trans-unit id="c9bd2f317c7cfbd580f5c07416a138314eb3d9d7" approved="yes">
         <source xml:space="preserve">ISDF Function Types</source>
-        <target xml:space="preserve" state="translated">ΔΙΠΠΕΛ Είδη Λειτουργιών</target>
+        <target xml:space="preserve" state="final">ΔΙΠΠΕΛ Είδη Λειτουργιών</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="26a6a1f7ba8a43cebcb3ea34c0f7367adf0f7bc3" approved="yes">
@@ -6979,8 +6978,7 @@
       </trans-unit>
       <trans-unit id="ec177c36f9020b04d5735612ec19d256e5929b12" approved="yes">
         <source xml:space="preserve">Record a citation to, and/or information about a publication that is about or based on the use, study, or analysis of the unit of description. Include references to published facsimiles or transcriptions. (ISAD 3.5.4)</source>
-        <target xml:space="preserve">Αναφέρουμε την παραπομπή και/ή την πληροφορία για οποιαδήποτε δημοσίευση σχετίζεται ή βασίζεται στη χρήση, τη μελέτη ή την ανάλυση της ενότητας περιγραφής. Συμπεριλαμβάνουμε αναφορές σε δημοσιευμένα πανομοιότυπα ή μεταγραφές. (ISAD 3.5.4)
-</target>
+        <target xml:space="preserve" state="final">Αναφέρουμε την παραπομπή και/ή την πληροφορία για οποιαδήποτε δημοσίευση σχετίζεται ή βασίζεται στη χρήση, τη μελέτη ή την ανάλυση της ενότητας περιγραφής. Συμπεριλαμβάνουμε αναφορές σε δημοσιευμένα πανομοιότυπα ή μεταγραφές. (ISAD 3.5.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="5abafdf357f92215784bc8ce12a4ef41f2cf56cc">
@@ -7045,8 +7043,7 @@
       </trans-unit>
       <trans-unit id="b5ed865bd130aa9047b8cc4b5d512e2ca1ab7d23" approved="yes">
         <source xml:space="preserve">Record notes on sources consulted in preparing the description and who prepared it. (ISAD 3.7.1)</source>
-        <target xml:space="preserve">Αναφέρουμε τις πηγές που χρησιμοποιήθηκαν κατά την περιγραφή και το συντάκτη της. (ISAD 3.7.1)
-</target>
+        <target xml:space="preserve" state="final">Αναφέρουμε τις πηγές που χρησιμοποιήθηκαν κατά την περιγραφή και το συντάκτη της. (ISAD 3.7.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="706e447c81b4753d8bf46e5052f9002a7b744aa1">
@@ -7144,9 +7141,9 @@
         <target xml:space="preserve">Καταγράψτε την γραφή(ες) του υλικού που περιγράφεται.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9627293440f7aa885e7bd585206d38d0182898ac">
+      <trans-unit id="9627293440f7aa885e7bd585206d38d0182898ac" approved="yes">
         <source xml:space="preserve">Record the source from which the unit of description was acquired and the date and/or method of acquisition if any or all of this information is not confidential. If the source is unknown, record that information. Optionally, add accession numbers or codes. (ISAD 3.2.4)</source>
-        <target xml:space="preserve" state="translated">"Καταγράφουμε την πηγή από την οποία προέρχεται η ενότητα περιγραφής καθώς και την χρονολογία και/ή τον τρόπο εισαγωγής, με την προϋπόθεση ότι αυτές οι πληροφορίες δεν είναι εμπιστευτικές. Αν η πηγή είναι άγνωστη, το σημειώνουμε. Προαιρετικά, προσθέτουμε τους αριθμούς ή κωδικούς εισαγωγής της ενότητας." (ΔΙΠΑΠ 3.2.4)</target>
+        <target xml:space="preserve" state="final">"Καταγράφουμε την πηγή από την οποία προέρχεται η ενότητα περιγραφής καθώς και την χρονολογία και/ή τον τρόπο εισαγωγής, με την προϋπόθεση ότι αυτές οι πληροφορίες δεν είναι εμπιστευτικές. Αν η πηγή είναι άγνωστη, το σημειώνουμε. Προαιρετικά, προσθέτουμε τους αριθμούς ή κωδικούς εισαγωγής της ενότητας." (ΔΙΠΑΠ 3.2.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="f7fed15633c7ea0ea0783ef29a15656e05fc4ac0">
@@ -7994,9 +7991,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/inventorySuccess.php</note>
       </trans-unit>
-      <trans-unit id="4025dd713faa8982e92de1a6aa9bd25188a51251">
+      <trans-unit id="4025dd713faa8982e92de1a6aa9bd25188a51251" approved="yes">
         <source xml:space="preserve">Select the name from the drop-down menu; enter the identifier or the first few letters to narrow the choices. (ISDF 6.1)</source>
-        <target xml:space="preserve" state="translated">Επιλέξτε την ονομασία από τον αναδιπλούμενο πίνακα. Εισάγετε τον κωδικό ή τους πρώτους χαρακτήρες του ονόματος για να περιορίσετε τις επιλογές (ΔΙΠΠΕΛ 6.1)</target>
+        <target xml:space="preserve" state="final">Επιλέξτε την ονομασία από τον αναδιπλούμενο πίνακα. Εισάγετε τον κωδικό ή τους πρώτους χαρακτήρες του ονόματος για να περιορίσετε τις επιλογές (ΔΙΠΠΕΛ 6.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="c6328f0c08059e2984280e71ef824e40f5761f9e">
@@ -8024,9 +8021,9 @@
         <target xml:space="preserve">Επιλέξτε τη γλώσσα(ες) της εγγραφής από το αναδιπλούμενο μενού, εισάγετε τα πρώτα γράμματα για να περιορίσετε τις επιλογές. (ISDIAH 5.6.7)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3c690e3f42863ba59436e70dffa3f2ce0307d978">
+      <trans-unit id="3c690e3f42863ba59436e70dffa3f2ce0307d978" approved="yes">
         <source xml:space="preserve">Select the title from the drop-down menu; enter the identifier or the first few letters to narrow the choices. (ISDF 6.1)</source>
-        <target xml:space="preserve" state="translated">Επιλέξτε τον τίτλο από τον αναδιπλούμενο πίνακα. Πληκτρολογήστε τον κωδικό αναγνώρισης ή τους πρώτους χαρακτήρες του ονόματος για να περιορίσετε τις επιλογές (ΔΙΠΠΕΛ 6.1)</target>
+        <target xml:space="preserve" state="final">Επιλέξτε τον τίτλο από τον αναδιπλούμενο πίνακα. Πληκτρολογήστε τον κωδικό αναγνώρισης ή τους πρώτους χαρακτήρες του ονόματος για να περιορίσετε τις επιλογές (ΔΙΠΠΕΛ 6.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedResource.php</note>
       </trans-unit>
       <trans-unit id="411d633aa5e9bef53a46f6cb8b03a9f60941e778">
@@ -8893,10 +8890,9 @@
         <target xml:space="preserve">Ο στόχος του πεδίου αυτού είναι "να προσδιοριστεί το στάδιο στο οποίο βρίσκεται η επεξεργασία της καθιερωμένης εγγραφής ώστε οι χρήστες να μπορούν να κατανοήσουν την παρούσα κατάστασή της".(ISAAR 5.4.4). Επιλέξτε Final, Revised ή Draft από το αναδιπλούμενο μενού.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8f84309093382faccc595214fa95ac7c4b8d93cc">
+      <trans-unit id="8f84309093382faccc595214fa95ac7c4b8d93cc" approved="yes">
         <source xml:space="preserve">The purpose of this field is "[t]o indicate the drafting status of the description so that users can understand the current status of the description." (ISDF 5.4.4). Select Final, Revised or Draft from the drop-down menu.</source>
-        <target xml:space="preserve" state="translated">Σκοπός αυτού του πεδίου είναι "Να προσδιοριστεί η φάση επεξεργασίας της περιγραφής ώστε οι χρήστες να μπορούν να κατανοήσουν την παρούσα κατάστασή της." (ΔΙΠΠΕΛ 5.4.4).
-Επιλέξτε από τον αναδιπλούμενο πίνακα αν η περιγραφή είναι 'Προσωρινή', 'Ολοκληρωμένη', 'Αναθεωρημένη' και/ή 'Καταργημένη'.</target>
+        <target xml:space="preserve" state="final">Σκοπός αυτού του πεδίου είναι "Να προσδιοριστεί η φάση επεξεργασίας της περιγραφής ώστε οι χρήστες να μπορούν να κατανοήσουν την παρούσα κατάστασή της." (ΔΙΠΠΕΛ 5.4.4). Επιλέξτε από τον αναδιπλούμενο πίνακα αν η περιγραφή είναι 'Προσωρινή', 'Ολοκληρωμένη', 'Αναθεωρημένη' και/ή 'Καταργημένη'.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="6e4e461ebb656124044f7554c67b883a70c1dd97" approved="yes">
@@ -10871,9 +10867,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a608e1adcfac38c2634213225b50dfe7abdcf4e8">
+      <trans-unit id="a608e1adcfac38c2634213225b50dfe7abdcf4e8" approved="yes">
         <source xml:space="preserve">Record the type of the institution. (ISDIAH 5.1.5) Select as many types as desired</source>
-        <target xml:space="preserve" state="translated">Εισάγουμε το είδος του φορέα διατήρησης αρχείων (ΔΙΠΠΕΦΔΑ 5.1.5). Επιλέγουμε περισσότερους από έναν όρους, αν απαιτείται. Οι τιμές των πεδίων προέρχονται από την ταξινομία "Είδη φορέων διατήρησης αρχείων".</target>
+        <target xml:space="preserve" state="final">Εισάγουμε το είδος του φορέα διατήρησης αρχείων (ΔΙΠΠΕΦΔΑ 5.1.5). Επιλέγουμε περισσότερους από έναν όρους, αν απαιτείται. Οι τιμές των πεδίων προέρχονται από την ταξινομία "Είδη φορέων διατήρησης αρχείων"</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="25cdc1ce58c54892d6eabdfb1773e5db10e61cfe">
