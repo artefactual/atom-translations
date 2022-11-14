@@ -283,9 +283,9 @@
         <target xml:space="preserve" state="final">"Καταγράφουμε όλα τα νομιμοποιητικά κείμενα, νόμους, οδηγίες ή καταστατικά, τα οποία αποτελούν τη θεσμική βάση για τις εξουσίες, τις λειτουργίες και τις αρμοδιότητες του φορέα διατήρησης αρχείων, καθώς και τις πληροφορίες που αφορούν την έκταση και τις χρονολογίες ισχύος ή μεταβολής τους." (ΔΙΠΠΕΦΔΑ 5.3.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b0d712ff41fb95b3087ae7b5e7171c5c1e608818" approved="yes">
+      <trans-unit id="b0d712ff41fb95b3087ae7b5e7171c5c1e608818" approved="no">
         <source xml:space="preserve">"Record any law, directive or charter which creates, changes or ends the function." (ISDF 5.2.4)</source>
-        <target xml:space="preserve" state="final">"Καταγράψτε κάθε νόμο ή οδηγία που δημιουργεί, τροποποιεί ή τερματίζει την λειτουργία."(ISDF 5.2.4)</target>
+        <target xml:space="preserve" state="translated">"Καταγράψτε κάθε νόμο ή οδηγία που δημιουργεί, τροποποιεί ή τερματίζει την λειτουργία. "(ISDF 5.2.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="aba1c650648834a4a21f4a445453908bcaee3008" approved="yes">
@@ -1137,9 +1137,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
-      <trans-unit id="86645101d9fdb6263af6120a131d3222bc34fb92" approved="yes">
+      <trans-unit id="86645101d9fdb6263af6120a131d3222bc34fb92" approved="no">
         <source xml:space="preserve">Accession number</source>
-        <target xml:space="preserve">Αριθμός εισαγωγής </target>
+        <target xml:space="preserve" state="translated">Αριθμός εισαγωγής</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/browseAction.class.php</note>
       </trans-unit>
       <trans-unit id="bdead2012720d6152aa18f95ffff4c4cd9d300a5" approved="yes">
