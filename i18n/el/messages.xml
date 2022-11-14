@@ -189,7 +189,7 @@
       </trans-unit>
       <trans-unit id="40597e7260c092209258b4bbc2414b1a579f0c8b" approved="no">
         <source xml:space="preserve">"Provide the unique identifiers/reference codes and/or titles for the related resources." (ISAAR 6.1) Select the title from the drop-down menu; enter the identifier or the first few letters to narrow the choices.</source>
-        <target xml:space="preserve" state="translated">"Αναφέρουμε τους κωδικούς αναγνώρισης και/ή του τίτλους των σχετιζόμενων πηγών. Όπου είναι δυνατόν δίνουμε επίσης τον κωδικό αναγνώρισης οποιασδήποτε ξεχωριστής περιγραφής της πηγής αυτής." (ΔΠΚΑΕ 6.1). Επιλέξτε τον τίτλο από τον αναδιπλούμενο πίνακα. Πληκτρολογήστε τον κωδικό ή τους αρχικούς χαρακτήρες του τίτλου για να περιορίσετε τις επιλογές.</target>
+        <target xml:space="preserve" state="translated">"Να προσδιοριστούν με μοναδικό τρόπο οι σχετιζόμενες πηγές και/ή να δοθεί η δυνατότητα σύνδεσης της καθιερωμένης εγγραφής με την περιγραφή της σχετιζόμενης πηγής, όταν υπάρχει τέτοια περιγραφή." (ISAAR 6.1) Επιλέξτε τον τίτλο από το αναδιπλούμενο μενού, εισάγοντας τον Κωδικό Αναγνώρισης ή τα πρώτα γράμματα για περιηγηθείτε στις επιλογές.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="09a47a3da4d9f6328c4e96ef6d8395b7d8b531a5" approved="no">
@@ -223,7 +223,8 @@
       </trans-unit>
       <trans-unit id="e7e21651fa1aeaf087f693b08ab6f2fc3be11ad8" approved="no">
         <source xml:space="preserve">"Purpose: To indicate the various forms in which the authorized form(s) of name occurs in other languages or script forms. Rule: Record the parallel form(s) of name in accordance with any relevant national or international conventions or rules applied by the agency that created the description, including any necessary sub elements and/or qualifiers required by those conventions or rules. Specify in the Rules and/or conventions element (5.4.3.) which rules have been applied." (ISDF 5.1.3)</source>
-        <target xml:space="preserve" state="translated">"Στόχος: Να υποδειχθούν οι ποικίλες μορφές στις οποίες η καθιερωμένη μορφή του ονόματος συναντάται σε άλλες γλώσσες ή γραφές. Κανόνας: Καταγράφουμε τις παράλληλες μορφές του ονόματος σύμφωνα με τις εθνικές ή διεθνείς συμβάσεις και/ή κανόνες που εφαρμόζονται από τον φορέα ο οποίος δημιούργησε την περιγραφή, περιλαμβάνοντας όλα τα απαραίτητα συστατικά και/ή προσδιοριστικά στοιχεία που απαιτούνται από αυτές τις συμβάσεις ή κανόνες. Προσδιορίστε στα χρησιμοποιούμενα στοιχεία των κανόνων ή / και συμβάσεων (5.4.3), ποιοι κανόνες έχουν έχουν εφαρμοστεί (ISDF 5.1.3)</target>
+        <target xml:space="preserve" state="translated">"Στόχος: Να υποδειχθούν οι ποικίλες μορφές στις οποίες η καθιερωμένη μορφή του ονόματος συναντάται σε άλλες γλώσσες ή γραφές.
+Κανόνας: Καταγράφουμε την ή τις παράλληλες μορφές του ονόματος σύμφωνα με τις εθνικές ή διεθνείς συμβάσεις και/ή κανόνες που εφαρμόζονται από τον αρχειακό φορέα ο οποίος δημιούργησε την περιγραφή, περιλαμβάνοντας όλα τα απαραίτητα συστατικά και/ή προσδιοριστικά στοιχεία που απαιτούνται από αυτές τις συμβάσεις ή τους κανόνες. Διευκρινίζουμε στο στοιχείο Κανόνες και/ή συμβάσεις (5.4.3) ποιοι κανόνες έχουν εφαρμοσθεί για τη συγκεκριμένη παράλληλη μορφή του ονόματος." (ΔΙΠΠΕΛ 5.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b9a8801c80f2a693ddd0e7d1bed087a6833951d2" approved="no">
@@ -244,8 +245,7 @@
       </trans-unit>
       <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea" approved="no">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the entity described in this authority record and the other related entity....Record in the Rules and/or conventions element (5.4.3) any classification scheme used as a source of controlled vocabulary terms to describe the relationship. A narrative description of the history and/or nature of the relationship may also be provided here." (ISAAR 5.3.3). Note that the text entered in this field will also appear in the related authority record.</source>
-        <target xml:space="preserve" state="translated">"Δίνουμε μία ακριβή περιγραφή της φύσης της σχέσης μεταξύ της περιγραφόμενης οντότητας στην καθιερωμένη εγγραφή και της άλλης σχετιζόμενης οντότητας π.χ. ιεραρχικά ανώτε-ρη/υφιστάμενη υπηρεσία, ιδιοκτήτης, προκάτοχος, σύζυγος, γιος, κόρη, εξάδελφος/εξαδέλφη, δάσκαλος, μαθητής, συνάδελφος, ...
-Καταγράφουμε στο στοιχείο Κανόνες και/ή πρότυπα (5.4.3) οποιοδήποτε πλαίσιο αναφοράς χρησιμοποιήθηκε ως πηγή ελεγχόμενου λεξιλογίου όρων στην περιγραφή της σχέσης. Μπορεί, επίσης, να δοθεί εδώ μια περιγραφή -σε αφηγηματική μορφή- του ιστορικού και/ή της φύσης της σχέσης." (ΔΙΠΚΑΕ 5.3.3). Σημειώστε ότι το κείμενο που θα εισαχθεί σ' αυτό το πεδίο, θα εμφανίζεται και στη σχετιζόμενη καθιερωμένη εγγραφή.</target>
+        <target xml:space="preserve" state="translated">"Δίνουμε μία ακριβή περιγραφή της φύσης της σχέσης μεταξύ της περιγραφόμενης οντότητας στην καθιερωμένη εγγραφή και της άλλης σχετιζόμενης οντότητας... Καταγράφουμε στο στοιχείο Κανόνες και/ή πρότυπα (5.4.3) οποιοδήποτε πλαίσιο αναφοράς χρησιμοποιήθηκε ως πηγή ελεγχόμενου λεξιλογίου όρων στην περιγραφή της σχέσης. Μπορεί, επίσης, να δοθεί εδώ μια περιγραφή -σε αφηγηματική μορφή- του ιστορικού και/ή της φύσης της σχέσης"(ISAAR 5.3.3). Σημειώστε ότι το κείμενο που θα εισαχθεί σε αυτό το πεδίο θα εμφανιστεί επίσης στην σχετικής καθιερωμένη εγγραφή.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="c4d61803b0c775664785408a8c8277a8a922fa92" approved="yes">
@@ -285,7 +285,7 @@
       </trans-unit>
       <trans-unit id="b0d712ff41fb95b3087ae7b5e7171c5c1e608818" approved="no">
         <source xml:space="preserve">"Record any law, directive or charter which creates, changes or ends the function." (ISDF 5.2.4)</source>
-        <target xml:space="preserve" state="translated">"Καταγράφουμε κάθε νόμο, οδηγία ή διάταξη που αφορά τη δημιουργία, την τροποποίηση ή την κατάργηση της λειτουργίας." (ΔΙΠΠΕΛ 5.2.4)</target>
+        <target xml:space="preserve" state="translated">"Καταγράψτε κάθε νόμο ή οδηγία που δημιουργεί, τροποποιεί ή τερματίζει την λειτουργία."(ISDF 5.2.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="aba1c650648834a4a21f4a445453908bcaee3008" approved="no">
@@ -295,7 +295,7 @@
       </trans-unit>
       <trans-unit id="612daef3f6bccab4cbd09e60a0298651846f3642" approved="no">
         <source xml:space="preserve">"Record any other names for the function being described." (ISDF 5.1.4)</source>
-        <target xml:space="preserve" state="translated">"Καταγράφουμε κάθε άλλη μορφή του ονόματος της λειτουργίας." (ΔΙΠΠΕΛ 5.1.4)</target>
+        <target xml:space="preserve" state="translated">Καταγράψτε κάθε άλλο όνομα για την λειτουργία που περιγράφεται. (ISDF 5.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="c4bfa76c92f013f0045966a6c9b85b8b50fa7365" approved="no">
@@ -325,7 +325,7 @@
       </trans-unit>
       <trans-unit id="2d6354b879648be0b8d2d7dd39107b9bc0b16546" approved="no">
         <source xml:space="preserve">"Record information about spaces available for public use (permanent or temporary exhibitions, free or charged internet connection, cash machines, cafeterias, restaurants, shops, etc.)." (ISDIAH 5.5.3)</source>
-        <target xml:space="preserve" state="translated">"Καταγράφουμε πληροφορίες σχετικά με τους χώρους που είναι διαθέσιμοι για κοινή χρήση (μόνιμες ή προσωρινές εκθέσεις, σύνδεση στο Διαδίκτυο δωρεάν ή με χρέωση, ATM, αναψυκτήρια, εστιατόρια, καταστήματα κ.λπ.)." (ΔΙΠΠΕΦΔΑ 5.5.3)</target>
+        <target xml:space="preserve" state="translated">Καταγράφουμε πληροφορίες σχετικά με τους διαθέσιμους χώρους για χρήση από το κοινό (μόνιμες ή προσωρινές εκθέσεις, ελεύθερη ή με χρέωση πρόσβαση στο διαδίκτυο, ΑΤΜ, καφετέριες, εστιατόρια, μαγαζιά, κλπ). (ISDIAH 5.5.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="db53deef0ae0aacea72e37581125584cce1678b6" approved="no">
@@ -411,7 +411,7 @@
       </trans-unit>
       <trans-unit id="0e0f66c625ae807b0787a80ea7cc00e5fd672696" approved="no">
         <source xml:space="preserve">"Record the full authorised form of name(s) of the agency(ies) responsible for creating, modifying or disseminating the description or, alternatively, record a code for the agency in accordance with the national or international agency code standard." (ISDIAH 5.6.2)</source>
-        <target xml:space="preserve" state="translated">"Καταγράφουμε την πλήρη καθιερωμένη μορφή (ή μορφές) του ονόματος του φορέα ή των φορέων που είναι υπεύθυνοι για τη δημιουργία, τροποποίηση ή δημοσιοποίηση της περιγραφής ή, εναλλακτικά, καταγράφουμε έναν κωδικό αναγνώρισης της υπηρεσίας, σύμφωνα με τα εθνικά ή διεθνή πρότυπα κωδικοποίησης υπηρεσιών." (ΔΙΠΠΕΦΔΑ 5.6.2)</target>
+        <target xml:space="preserve" state="translated">Καταγράφουμε την πλήρη καθιερωμένη μορφή του ονόματος κάθε μιας από τις υπηρεσίες που είναι υπεύθυνες για τη δημιουργία, τροποποίηση ή δημοσιοποίηση της περιγραφής ή, εναλλακτικά, καταγράφουμε έναν κωδικό αναγνώρισης της υπηρεσίας, σύμφωνα με τα εθνικά ή διεθνή πρότυπα κωδικοποίησης υπηρεσιών. (ISDIAH 5.6.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="4a6ce9681da939a81a758edacc5f37a5f143169a" approved="no">
@@ -491,7 +491,7 @@
       </trans-unit>
       <trans-unit id="5ec7f5e4f7d5ef80be07aa136d2cc6487111acd1" approved="no">
         <source xml:space="preserve">"Record when relevant the commencement date of the relationship or succession date and, when relevant, the cessation date of the relationship." (ISAAR 5.3.4) Enter the date as you would like it to appear in the show page for the authority record, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target xml:space="preserve" state="translated">"Καταγράφουμε τις χρονολογίες έναρξης, διαδοχής και παύσης της σχέσης. Προσδιορίζουμε στο στοιχείο Κανόνες και/ή συμβάσεις (5.4.3) τα συστήματα χρονολόγησης που χρησιμοποιήθηκαν (πχ. ISO 8601)." (ΔΙΠΚΑΕ 5.3.4). Εισάγετε τη χρονολογία με τη μορφή που επιθυμείτε να εμφανίζεται στη σελίδα προβολής της καθιερωμένης εγγραφής. Χρησιμοποιείστε προσδιοριστικά ή τυπογραφικά σύμβολα για την έκφραση αμφιβολίας, αν χρειάζεται.</target>
+        <target xml:space="preserve" state="translated">"Καταγράφουμε, τις χρονολογίες έναρξης, διαδοχής και παύσης της σχέσης." (ISAAR 5.3.4) Εισάγεται την χρονολογία όπως επιθυμείτε να εμφανίζεται στην Καθιερωμένη εγγραφή, χρησιμοποιώντας προσδιοριστικά στοιχεία και/ή τυπογραφικά σύμβολα για να προσδιορίσετε αβεβαιότητες.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="9afe17e3b6fcc285b8717356f5b254e2f46a3595" approved="no">
@@ -741,7 +741,7 @@
       </trans-unit>
       <trans-unit id="85ff680a8907d82fa780e7780ab3737c953acb7f" approved="no">
         <source xml:space="preserve">%1%Authority record identifier%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve" state="translated">%1%Κωδικός αναγνώρισης καθιερωμένης εγγραφής%2% - Το πεδίο είναι %3%υποχρεωτικό%4%.</target>
+        <target xml:space="preserve" state="translated">%1%Κωδικός αναγνώρισης καθιερωμένης εγγραφής%2% - Το στοιχείο είναι %3%υποχρεωτικό%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="98bfda47f615414dcae7d73cda462c8a9bf084c5">
@@ -750,17 +750,17 @@
       </trans-unit>
       <trans-unit id="0e7ce5d17c5b28152bb78cd86897b2bd049c2c20" approved="no">
         <source xml:space="preserve">%1%Authorized form of name%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve" state="translated">%1%Καθιερωμένη μορφή του Ονόματος%2% - Το πεδίο είναι %3%υποχρεωτικό%4%.</target>
+        <target xml:space="preserve" state="translated">%1%Καθιερωμένη μορφή του Ονόματος%2% - Το στοιχείο είναι %3%υποχρεωτικό%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="3809e163849fdf5b57fdc06516e2c9aac16d86fb" approved="no">
         <source xml:space="preserve">%1%Contact information%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve" state="translated">%1%Στοιχεία επικοινωνίας%2% - Το πεδίο είναι %3%υποχρεωτικό%4%.</target>
+        <target xml:space="preserve" state="translated">%1%Στοιχεία επικοινωνίας%2% -Το στοιχείο είναι %3%υποχρεωτικό%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="ca46d94dee1c34d23a58c24eec8cde5aa6a79a2f" approved="no">
         <source xml:space="preserve">%1%Date(s)%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve" state="translated">%1% Ημερομηνία(-ες)%2% - Το πεδίο είναι %3%υποχρεωτικό%4%.</target>
+        <target xml:space="preserve" state="translated">%1% Ημερομηνία(-ες)%2% - Το στοιχείο είναι %3%υποχρεωτικό%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="c343f06a983aec23ab373c7bbcb60208f163a076" approved="yes">
@@ -775,12 +775,12 @@
       </trans-unit>
       <trans-unit id="1f6af5abebb9826482f288eb1649dac7566070e2" approved="no">
         <source xml:space="preserve">%1%Dates of existence%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve" state="translated">%1%Ημερομηνίες ύπαρξης %2% - Το πεδίο είναι %3%υποχρεωτικό%4%.</target>
+        <target xml:space="preserve" state="translated">%1%Ημερομηνίες ύπαρξης %2% - Το στοιχείο είναι %3%υποχρεωτικό%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="e6180f4195083a7a9fa49d9ddb5fc0f2886541a3" approved="no">
         <source xml:space="preserve">%1%Description identifier%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve" state="translated">%1%Κωδικός αναγνώρισης της περιγραφής%2% - Το πεδίο είναι %3%υποχρεωτικό%4%.</target>
+        <target xml:space="preserve" state="translated">%1%Κωδικός αναγνώρισης της περιγραφής%2% - Το στοιχείο είναι %3%υποχρεωτικό%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="e3d1028b31fadd55009d342064c067a627b8cbc4">
@@ -790,7 +790,7 @@
       </trans-unit>
       <trans-unit id="a203c1f0b502d748a466bc46e95ccec9e475eedf" approved="no">
         <source xml:space="preserve">%1%Extent and medium%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve" state="translated">%1%Μέγεθος και υπόστρωμα%2% - Το πεδίο είναι %3%υποχρεωτικό%4%.</target>
+        <target xml:space="preserve" state="translated">%1%Μέγεθος και υπόστρωμα%2% - Το στοιχείο είναι %3%υποχρεωτικό%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="81e55b0864b25e4c50a22243308c60a084b9bd2d" approved="no">
@@ -7907,12 +7907,12 @@
       </trans-unit>
       <trans-unit id="3177038df51eb25c39996f1151499664580c7b5e" approved="no">
         <source xml:space="preserve">Select Full, Partial or Minimal from the drop-down menu. "In the absence of national guidelines or rules, minimal descriptions are those that consist only of the three essential elements of an ISIAH compliant description (see 4.7), while full records are those that convey information for all relevant ISDIAH elements of description." (ISDIAH 5.6.5)</source>
-        <target xml:space="preserve" state="translated">Επιλέξτε: στοιχειώδης, μερική ή πλήρης. "Προσδιορίζουμε εάν το επίπεδο λεπτομέρειας της περιγραφής είναι στοιχειώδες, μερικό ή πλήρες, σύμφωνα με διεθνείς ή και εθνικές οδηγίες και κανόνες. Εάν δεν υπάρχουν εθνικές οδηγίες ή κανόνες, ως εγγραφές στοιχειώδους επιπέδου θεωρούνται εκείνες που περιλαμβάνουν μόνο τα τρία απαραίτητα στοιχεία μιας εγγραφής συμβατής με το ΔΙΠΠΕΦΔΑ (βλ. 4.7), ενώ πλήρεις εγγραφές είναι εκείνες που περιλαμβάνουν πληροφορίες για όλα τα στοιχεία περιγραφής του προτύπου." (ΔΙΠΠΕΦΔΑ 5.6.5)</target>
+        <target xml:space="preserve" state="translated">Επιλέξτε Full, Partial ή Minimal από το αναδιπλούμενο μενού. "Εάν δεν υπάρχουν εθνικές οδηγίες ή κανόνες, ως ελάχιστες περιγραφές θεωρούνται εκείνες που περιλαμβάνουν μόνο τα τρία απαραίτητα στοιχεία μιας περιγραφής συμβατής με το ISIAH (βλ. 4.7), ενώ πλήρεις εγγραφές είναι εκείνες που περιλαμβάνουν πληροφορίες για όλα τα στοιχεία περιγραφής." (ISDIAH 5.6.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e7d9a4f65186fcdf57dc7126796314826e0fb7c7" approved="no">
         <source xml:space="preserve">Select Full, Partial or Minimal from the drop-down menu. "In the absence of national guidelines or rules, minimal records are those that consist only of the four essential elements of an ISAAR(CPF) compliant authority record (see 4.8), while full records are those that convey information for all relevant ISAAR(CPF) elements of description." (ISAAR 5.4.5)</source>
-        <target xml:space="preserve" state="translated">Επιλέξτε 'Στοιχειώδες', 'Μερικό' ή 'Πλήρες' από τον αναδιπλούμενο πίνακα. "Εάν δεν υπάρχουν εθνικές οδηγίες ή κανόνες, ως καθιερωμένες εγγραφές στοιχειώδους επιπέδου θεωρούνται εκείνες που περιλαμβάνουν μόνο τα τέσσερα απαραίτητα στοιχεία μιας εγγραφής συμβατής με το ISAAR (CPF) (βλ. 4.8), ενώ πλήρεις εγγραφές είναι εκείνες που περιλαμβάνουν πληροφορίες για όλα τα στοιχεία περιγραφής του προτύπου." (ΔΙΠΚΑΕ 5.4.5)</target>
+        <target xml:space="preserve" state="translated">Επιλέξτε Full, Partial ή Minimal από το αναδιπλούμενο μενού. "Εάν δεν υπάρχουν εθνικές οδηγίες ή κανόνες, ως καθιερωμένες εγγραφές στοιχειώδους επιπέδου θεωρούνται εκείνες που περιλαμβάνουν μόνο τα τέσσερα απαραίτητα στοιχεία μιας εγγραφής συμβατής με το ISAAR(CPF) (βλ. 4.8), ενώ πλήρεις εγγραφές είναι εκείνες που περιλαμβάνουν πληροφορίες για όλα τα στοιχεία περιγραφής του προτύπου." (ISAAR 5.4.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e9aa8a002f1a5daf9fcea35d53be764cc0d16a85" approved="no">
@@ -8360,9 +8360,9 @@
         <target xml:space="preserve">Σημείωση(εις) πηγής</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="98c05cc017ae9a4d858bf9b42a2110ffd8b4c8e5" approved="yes">
+      <trans-unit id="98c05cc017ae9a4d858bf9b42a2110ffd8b4c8e5" approved="no">
         <source xml:space="preserve">Source of acquisition - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">Διαδικασία πρόσκτησης - Υποχρεωτικό στοιχείο.</target>
+        <target xml:space="preserve" state="translated">Διαδικασία πρόσκτησης - Το στοιχείο είναι υποχρεωτικό.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="2fca7dc59f08552a47cb16b319ca1a5ed66dc37e" approved="yes">
@@ -9060,9 +9060,9 @@
         <target xml:space="preserve">Αυτό το στοιχείο είναι υποχρεωτικό για αυτό το πόρο ή για ένα υψηλότερου επιπέδου (εάν αποτελεί μέρος μια ιεραρχημένης συλλογής)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="423e0daa898ce63fd24668eb17bf7dbd30029f09" approved="yes">
+      <trans-unit id="423e0daa898ce63fd24668eb17bf7dbd30029f09" approved="no">
         <source xml:space="preserve">This is a mandatory element.</source>
-        <target xml:space="preserve">Αυτό το στοιχείο είναι υποχρεωτικό.</target>
+        <target xml:space="preserve" state="translated">To στοιχείο είναι υποχρεωτικό.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="3ad9e7c6da113d9eb29bc427f213d7b6605ba37e" approved="yes">
@@ -11329,7 +11329,7 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
       </trans-unit>
       <trans-unit id="cbc19bd0db5c2096870bab38fd6a2cf22f3578cd">
         <source xml:space="preserve">records added</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">εγγραφές που έχουν προστεθεί</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/menu/templates/_clipboardMenu.php</note>
       </trans-unit>
     </body>
