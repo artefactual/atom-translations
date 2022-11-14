@@ -49,25 +49,25 @@
         <target xml:space="preserve">Επιλέξτε προέλευση, συγγραφέα και άλλα μη-θεματικά σημεία πρόσβασης από την αρχειακή περιγραφή, ανάλογα με την περίπτωση. Όλα τα σημεία πρόσβασης πρέπει να προκύπτουν από την αρχειακή περιγραφή στην οποία αναφέρονται." (RAD 21.0B). Οι τιμές στο πεδίο αυτό λαμβάνονται από το πεδίο Καθιερωμένη μορφή ονόματος της καθιερωμένης εγγραφής. Αναζητήστε για ένα υπάρχον όνομα πληκτρολογώντας τους πρώτους χαρακτήρες του ονόματος. Εναλλακτικά, πληκτρολογήστε ένα νέο όνομα για να δημιουργήσετε και να συνδέσετε σε μια νέο καθιερωμένη εγγραφή.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e8ea0c576b98d7c7dbab79b32cd27e453ba71ee9" approved="no">
+      <trans-unit id="e8ea0c576b98d7c7dbab79b32cd27e453ba71ee9" approved="yes">
         <source xml:space="preserve">"Describe access policies, including any restrictions and/or regulations for the use of materials and facilities. Record information about registration, appointments, readers’ tickets, letters of introduction, admission fees, etc. Where appropriate, make reference to the relevant legislation." (ISDIAH 5.4.2)</source>
-        <target xml:space="preserve" state="translated">"Περιγράφουμε τις πολιτικές πρόσβασης, συμπεριλαμβάνοντας κάθε όρο ή κανονισμό που αναφέρεται στη χρήση του αρχειακού υλικού και του εξοπλισμού. Καταγράφουμε τις πληροφορίες που αφορούν την εγγραφή, τα ραντεβού, τα δελτία ερευνητή, τις συστατικές επιστολές, τις συνδρομές κ.λπ. Κατά περίπτωση, παραπέμπουμε στη σχετική νομοθεσία." (ΔΙΠΠΕΦΔΑ 5.4.2)</target>
+        <target xml:space="preserve" state="final">"Περιγράφουμε τις πολιτικές πρόσβασης, συμπεριλαμβάνοντας κάθε όρο ή κανονισμό που αναφέρεται στη χρήση του αρχειακού υλικού και του εξοπλισμού. Καταγράφουμε τις πληροφορίες που αφορούν την εγγραφή, τα ραντεβού, τα δελτία ερευνητή, τις συστατικές επιστολές, τις συνδρομές κ.λπ. Κατά περίπτωση, παραπέμπουμε στη σχετική νομοθεσία." (ΔΙΠΠΕΦΔΑ 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="65f3abd8a2aebd05fa257cab8863af114902845c" approved="no">
+      <trans-unit id="65f3abd8a2aebd05fa257cab8863af114902845c" approved="yes">
         <source xml:space="preserve">"Describe the internal structure of a corporate body and the dates of any changes to that structure that are significant to the understanding of the way that corporate body conducted its affairs (e.g. by means of dated organization charts). Describe the genealogy of a family (e.g. by means of a family tree) in a way that demonstrates the inter-relationships of its members with covering dates." (ISAAR 5.2.7)</source>
-        <target xml:space="preserve" state="translated">"Περιγράφουμε την εσωτερική δομή ενός νομικού προσώπου και τις χρονολογίες που οριοθετούν κάθε αλλαγή στη δομή του και είναι σημαντικές για την κατανόηση του τρόπου με τον οποίο το νομικό πρόσωπο διεκπεραίωσε τις υποθέσεις του (π.χ. με τη βοήθεια χρονολογημένων οργανογραμμάτων).
+        <target xml:space="preserve" state="final">"Περιγράφουμε την εσωτερική δομή ενός νομικού προσώπου και τις χρονολογίες που οριοθετούν κάθε αλλαγή στη δομή του και είναι σημαντικές για την κατανόηση του τρόπου με τον οποίο το νομικό πρόσωπο διεκπεραίωσε τις υποθέσεις του (π.χ. με τη βοήθεια χρονολογημένων οργανογραμμάτων).
 Παρουσιάζουμε τη γενεαλογία μιας οικογένειας (π.χ. με ένα γενεαλογικό δέντρο) με τρόπο που να αποτυπώνονται οι εσωτερικές σχέσεις των μελών της σε συνδυασμό με τις χρονολογίες που καλύπτουν." (ΔΙΠΚΑΕ 5.2.7)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4abdc061edd4f6bf29618b5b4dfcca4504c653c5" approved="no">
+      <trans-unit id="4abdc061edd4f6bf29618b5b4dfcca4504c653c5" approved="yes">
         <source xml:space="preserve">"Describe the nature of the relationships between the corporate body, person or family and the related resource." (ISAAR 6.3) Select the type of relationship from the drop-down menu; these values are drawn from the Event Types taxonomy.</source>
-        <target xml:space="preserve" state="translated">"Περιγράφουμε τη φύση των σχέσεων μεταξύ του νομικού προσώπου, φυσικού προσώπου ή της οικογένειας και των σχετιζόμενων πηγών, δηλαδή αν είναι: ο παραγωγός, συγγραφέας, το θέμα, ο κάτοχος, ο καταθέτης, ο υπεύθυνος φύλαξης, ο κάτοχος πνευματικών δικαιωμάτων, ο ιδιοκτήτης κ.ά." (ΔΙΠΚΑΕ 6.3). Επιλέξτε τη φύση της σχέσης από τον αναδιπλούμενο πίνακα: οι τιμές αντλούνται από την ταξινομία "Τύποι Συμβάντων".</target>
+        <target xml:space="preserve" state="final">"Περιγράφουμε τη φύση των σχέσεων μεταξύ του νομικού προσώπου, φυσικού προσώπου ή της οικογένειας και των σχετιζόμενων πηγών, δηλαδή αν είναι: ο παραγωγός, συγγραφέας, το θέμα, ο κάτοχος, ο καταθέτης, ο υπεύθυνος φύλαξης, ο κάτοχος πνευματικών δικαιωμάτων, ο ιδιοκτήτης κ.ά." (ΔΙΠΚΑΕ 6.3). Επιλέξτε τη φύση της σχέσης από τον αναδιπλούμενο πίνακα: οι τιμές αντλούνται από την ταξινομία "Τύποι Συμβάντων".</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
-      <trans-unit id="e2e719ee155ed54c4b313ad0f1c67be4edf7ed6e" approved="no">
+      <trans-unit id="e2e719ee155ed54c4b313ad0f1c67be4edf7ed6e" approved="yes">
         <source xml:space="preserve">"Describe, in narrative form or using organisational charts, the current administrative structure of the institution." (ISDIAH 5.3.4)</source>
-        <target xml:space="preserve" state="translated">"Περιγράφουμε, σε αφηγηματική μορφή ή σε μορφή οργανογράμματος, την τρέχουσα διοικητική δομή του φορέα διατήρησης αρχείων."  ΔΙΠΠΕΦΔΑ 5.3.4)</target>
+        <target xml:space="preserve" state="final">"Περιγράφουμε, σε αφηγηματική μορφή ή σε μορφή οργανογράμματος, την τρέχουσα διοικητική δομή του φορέα διατήρησης αρχείων."  ΔΙΠΠΕΦΔΑ 5.3.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="770bdba90f877683f82eef6ff5b5ea7270521ae1">
@@ -120,21 +120,21 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="dc68fed162f0faefeea9e375eadf4b9bc7a48784" approved="no">
+      <trans-unit id="dc68fed162f0faefeea9e375eadf4b9bc7a48784" approved="yes">
         <source xml:space="preserve">"Identify and record the date(s) of the unit of description. Identify the type of date given. Record as a single date or a range of dates as appropriate.” (ISAD 3.1.3). The Date display field can be used to enter free-text date information, including typographical marks to express approximation, uncertainty, or qualification. Use the start and end fields to make the dates searchable. Do not use any qualifiers or typographical symbols to express uncertainty. Acceptable date formats: YYYYMMDD, YYYY-MM-DD, YYYY-MM, YYYY.</source>
-        <target xml:space="preserve" state="translated">"Αναφέρουμε για κάθε ενότητα περιγραφής, τουλάχιστον, έναν από τους ακόλουθους τύπους χρονολογίας, που ταιριάζει στο περιγραφόμενο υλικό και το επίπεδο περιγραφής: Χρονολογία/ες συγκρότησης του αρχείου στο πλαίσιο δραστηριοτήτων του παραγωγού. Χρονολογία/ες δημιουργίας των εγγράφων. Συμπεριλαμβάνονται ημερομηνίες δημιουργίας των αντιγράφων, των εκδόσεων ή των διαφορετικών εκδοχών, των συνημμένων τεκμηρίων ακόμη και/ή των πρωτοτύπων τεκμηρίων που δημιουργήθηκαν πριν τη συγκρότησή τους σε αρχείο.
+        <target xml:space="preserve" state="final">"Αναφέρουμε για κάθε ενότητα περιγραφής, τουλάχιστον, έναν από τους ακόλουθους τύπους χρονολογίας, που ταιριάζει στο περιγραφόμενο υλικό και το επίπεδο περιγραφής: Χρονολογία/ες συγκρότησης του αρχείου στο πλαίσιο δραστηριοτήτων του παραγωγού. Χρονολογία/ες δημιουργίας των εγγράφων. Συμπεριλαμβάνονται ημερομηνίες δημιουργίας των αντιγράφων, των εκδόσεων ή των διαφορετικών εκδοχών, των συνημμένων τεκμηρίων ακόμη και/ή των πρωτοτύπων τεκμηρίων που δημιουργήθηκαν πριν τη συγκρότησή τους σε αρχείο.
 Καταγράφουμε μία ή περισσότερες χρονολογίες όπου χρειάζεται. Οι ακραίες χρονολογίες θα πρέπει να συμπεριλαμβάνονται, εκτός αν η ενότητα περιγραφής αποτελεί ενεργό ή μέρος ενεργού αρχείου." (ΔΙΠΑΠ 3.1.3)
 Χρησιμοποιείστε τη μορφή ΕΕΕΕ-ΜΜ-ΗΗ για το πεδίο <em>Έναρξη</em>. Το πεδίο <em>Έως</em> μπορεί να χρησιμοποιηθεί για την ένδειξη χρονολογικού εύρους. Το πεδίο <em>Ημερομηνία(ες)</em> μπορεί να χρησιμοποιηθεί για την εισαγωγή χρονολογικών πληροφοριών σε μορφή ελεύθερου κειμένου.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="36ddf9b510c2bc89b2e9bd29f5d188ff655acce1" approved="no">
+      <trans-unit id="36ddf9b510c2bc89b2e9bd29f5d188ff655acce1" approved="yes">
         <source xml:space="preserve">"Identify the geographical area the institution belongs to. Record any other relevant information about the cultural context of the institution." (ISDIAH 5.3.2)</source>
-        <target xml:space="preserve" state="translated">"Προσδιορίζουμε τη γεωγραφική περιοχή όπου έχει την έδρα του ο φορέας διατήρησης αρχείων. Καταγράφουμε κάθε άλλη πληροφορία σχετική με το πολιτιστικό του πλαίσιο." (ΔΙΠΠΕΦΔΑ 5.3.2)</target>
+        <target xml:space="preserve" state="final">"Προσδιορίζουμε τη γεωγραφική περιοχή όπου έχει την έδρα του ο φορέας διατήρησης αρχείων. Καταγράφουμε κάθε άλλη πληροφορία σχετική με το πολιτιστικό του πλαίσιο." (ΔΙΠΠΕΦΔΑ 5.3.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2206345ab7fa0daf4cca1b31e3e2dd2776a5037f" approved="no">
+      <trans-unit id="2206345ab7fa0daf4cca1b31e3e2dd2776a5037f" approved="yes">
         <source xml:space="preserve">"Identify the type of related resources, e.g. Archival materials (fonds, record series, etc), archival description, finding aid, monograph, journal article, web site, photograph, museum collection, documentary film, oral history recording." (ISAAR 6.2) In the current version of the software, Archival material is provided as the only default value.</source>
-        <target xml:space="preserve" state="translated">"Προσδιορίζουμε το είδος των σχετιζόμενων πηγών: αρχειακό υλικό (αρχείο, αρχειακή σειρά κλπ.), αρχειακή περιγραφή, εργαλείο έρευνας, μονογραφία, άρθρο περιοδικού, ιστότοπος, φωτογραφία, μουσειακή συλλογή, ντοκιμαντέρ, μαρτυρίες προφορικής ιστορίας κ.ά." (ΔΙΠΚΑΕ 6.2). Στην παρούσα έκδοση του λογισμικού, η μόνη προεπιλεγμένη τιμή είναι 'αρχειακό υλικό'.</target>
+        <target xml:space="preserve" state="final">"Προσδιορίζουμε το είδος των σχετιζόμενων πηγών: αρχειακό υλικό (αρχείο, αρχειακή σειρά κλπ.), αρχειακή περιγραφή, εργαλείο έρευνας, μονογραφία, άρθρο περιοδικού, ιστότοπος, φωτογραφία, μουσειακή συλλογή, ντοκιμαντέρ, μαρτυρίες προφορικής ιστορίας κ.ά." (ΔΙΠΚΑΕ 6.2). Στην παρούσα έκδοση του λογισμικού, η μόνη προεπιλεγμένη τιμή είναι 'αρχειακό υλικό'.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="bcbfb996c6d81164e036dd09594679d5002244ea">
@@ -172,19 +172,19 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6fe62e6ce2d0b9c3f9de71c2a15095d9b84bba58" approved="no">
+      <trans-unit id="6fe62e6ce2d0b9c3f9de71c2a15095d9b84bba58" approved="yes">
         <source xml:space="preserve">"Provide a date or date span which covers the dates when the function was started and when it finished. If a function is ongoing, no end date is needed." (ISDF 5.2.1)</source>
-        <target xml:space="preserve" state="translated">"Καταγράφουμε τη χρονολογία ή το χρονικό διάστημα που καλύπτουν η έναρξη και η λήξη της λειτουργίας. Αν η λειτουργία συνεχίζεται, δεν απαιτείται χρονολογία λήξης." (ΔΙΠΠΕΛ 5.2.1)</target>
+        <target xml:space="preserve" state="final">"Καταγράφουμε τη χρονολογία ή το χρονικό διάστημα που καλύπτουν η έναρξη και η λήξη της λειτουργίας. Αν η λειτουργία συνεχίζεται, δεν απαιτείται χρονολογία λήξης." (ΔΙΠΠΕΛ 5.2.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e2e26146062adab5348e8b089e8fbc327f414435" approved="no">
+      <trans-unit id="e2e26146062adab5348e8b089e8fbc327f414435" approved="yes">
         <source xml:space="preserve">"Provide any relevant dates for the related resources and/or the relationship between the corporate body, person or family and the related resource." (ISAAR 6.4) Enter the date as you would like it to appear in the show page for the authority record, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target xml:space="preserve" state="translated">"Καταγράφουμε κάθε σημαντική χρονολογία για τη σχετιζόμενη πηγή πληροφόρησης και/ή τις χρονολογίες που αναφέρονται στη σχέση του νομικού προσώπου, φυσικού προσώπου ή της οικογένειας με τις σχετιζόμενες πηγές και προσδιορίζουμε τη σημασία αυτών των χρονολογιών." (ΔΙΠΚΑΕ 6.4). Εισάγετε τη χρονολογία με τη μορφή που επιθυμείτε να εμφανίζεται στη σελίδα προβολής της καθιερωμένης εγγραφής, χρησιμοποιώντας προσδιοριστικά ή τυπογραφικά σύμβολα για την έκφραση αβεβαιότητας, αν χρειάζεται.</target>
+        <target xml:space="preserve" state="final">"Καταγράφουμε κάθε σημαντική χρονολογία για τη σχετιζόμενη πηγή πληροφόρησης και/ή τις χρονολογίες που αναφέρονται στη σχέση του νομικού προσώπου, φυσικού προσώπου ή της οικογένειας με τις σχετιζόμενες πηγές και προσδιορίζουμε τη σημασία αυτών των χρονολογιών." (ΔΙΠΚΑΕ 6.4). Εισάγετε τη χρονολογία με τη μορφή που επιθυμείτε να εμφανίζεται στη σελίδα προβολής της καθιερωμένης εγγραφής, χρησιμοποιώντας προσδιοριστικά ή τυπογραφικά σύμβολα για την έκφραση αβεβαιότητας, αν χρειάζεται.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
-      <trans-unit id="b331b2cdadf5822d793cd63220e40481485c2e8a" approved="no">
+      <trans-unit id="b331b2cdadf5822d793cd63220e40481485c2e8a" approved="yes">
         <source xml:space="preserve">"Provide any significant information on the social, cultural, economic, political and/or historical context in which the entity being described operated." (ISAAR 5.2.8)</source>
-        <target xml:space="preserve" state="translated">"Καταγράφουμε κάθε σημαντική πληροφορία για το κοινωνικό, πολιτιστικό, οικονομικό πολιτικό και/ή ιστορικό πλαίσιο μέσα στο οποίο έδρασε η περιγραφόμενη οντότητα." (ΔΙΠΚΑΕ 5.2.8)</target>
+        <target xml:space="preserve" state="final">"Καταγράφουμε κάθε σημαντική πληροφορία για το κοινωνικό, πολιτιστικό, οικονομικό πολιτικό και/ή ιστορικό πλαίσιο μέσα στο οποίο έδρασε η περιγραφόμενη οντότητα." (ΔΙΠΚΑΕ 5.2.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="40597e7260c092209258b4bbc2414b1a579f0c8b" approved="no">
