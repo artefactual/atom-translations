@@ -4,9 +4,9 @@
   <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-10-22T00:04:00Z" product-name="messages">
     <header/>
     <body>
-      <trans-unit id="f191b2120c9efa7b0c1411d6989e325561707ddb" approved="yes">
+      <trans-unit id="f191b2120c9efa7b0c1411d6989e325561707ddb" approved="no">
         <source xml:space="preserve"> %1%Download%2% (%3% b)</source>
-        <target xml:space="preserve">%1%Transferir%2%(%3% b)</target>
+        <target xml:space="preserve" state="translated"> %1%Transferir%2%(%3% b)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
       <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf" approved="no">
@@ -6977,9 +6977,7 @@
       </trans-unit>
       <trans-unit id="ec177c36f9020b04d5735612ec19d256e5929b12" approved="no">
         <source xml:space="preserve">Record a citation to, and/or information about a publication that is about or based on the use, study, or analysis of the unit of description. Include references to published facsimiles or transcriptions. (ISAD 3.5.4)</source>
-        <target xml:space="preserve" state="needs-translation">&lt;b&gt;ISAD (G) 3.5.4&lt;/b&gt;&lt;br /&gt;
-&lt;strong&gt;Objetivo:&lt;/strong&gt; Identificar quaisquer publicações que tratem ou se baseiem na utilização, estudo ou análise da unidade de descrição.&lt;br /&gt;
-&lt;strong&gt;Regra:&lt;/strong&gt; Registar referências e/ou informações sobre publicações que tratem ou se baseiem na utilização, estudo ou análise da unidade de descrição. Incluir referências a facsímiles ou transcrições publicadas.</target>
+        <target xml:space="preserve" state="translated">Registar uma citação e/ou informação sobre uma publicação que seja sobre ou baseada na utilização, estudo ou análise da unidade de descrição. Incluir referências a fac-símiles ou transcrições publicadas. (ISAD 3.5.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="5abafdf357f92215784bc8ce12a4ef41f2cf56cc" approved="yes">
@@ -8870,9 +8868,9 @@
         <target xml:space="preserve">Número de entidades a incluir numa lista de resposta OAI antes de inserir um nova repetição</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
-      <trans-unit id="14daa7824c74ddc0ed9911336fe25e098d6be126" approved="yes">
+      <trans-unit id="14daa7824c74ddc0ed9911336fe25e098d6be126" approved="no">
         <source xml:space="preserve">The number of records shown per page on list pages</source>
-        <target xml:space="preserve">Número de registos a mostrar em cada cada página</target>
+        <target xml:space="preserve" state="translated">Número de registos apresentados por cada página da lista</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="bbec9d963892e8e5edd5f6a3059af631600a002f" approved="no">
