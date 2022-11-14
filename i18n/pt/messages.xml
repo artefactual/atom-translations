@@ -234,10 +234,9 @@
         <target xml:space="preserve">"Registe de forma narrativa o objetivo da função." (ISDF 5.2.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea" approved="yes">
+      <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea" approved="no">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the entity described in this authority record and the other related entity....Record in the Rules and/or conventions element (5.4.3) any classification scheme used as a source of controlled vocabulary terms to describe the relationship. A narrative description of the history and/or nature of the relationship may also be provided here." (ISAAR 5.3.3). Note that the text entered in this field will also appear in the related authority record.</source>
-        <target xml:space="preserve">"Registar uma descrição precisa da natureza da relação entre a entidade descrita no registo de autoridade e a outra entidade relacionada, por exemplo: subordinante, subordinada, proprietário, predecessor, marido, mulher, filho, primo, professor de,
-aluno de, colega profissional. Registar no elemento Regras e/ou convenções (5.4.3.) qualquer esquema de classificação usado como fonte dos termos do vocabulário controlado para descrever a relação. Também pode ser dada, neste elemento, uma descrição narrativa da história e/ou natureza da relação. (ISAAR 5.3.3). O texto aqui incluido também aparce no registo de autoridade relacionado.</target>
+        <target xml:space="preserve" state="translated">"Registar uma descrição precisa da natureza da relação entre a entidade descrita no registo de autoridade e a outra entidade relacionada, por exemplo: subordinante, subordinada, proprietário, predecessor, marido, mulher, filho, primo, professor de, aluno de, colega profissional. Registar no elemento Regras e/ou convenções (5.4.3.) qualquer esquema de classificação usado como fonte dos termos do vocabulário controlado para descrever a relação. Também pode ser dada, neste elemento, uma descrição narrativa da história e/ou natureza da relação. (ISAAR 5.3.3). O texto aqui incluido também aparce no registo de autoridade relacionado.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="c4d61803b0c775664785408a8c8277a8a922fa92" approved="yes">
@@ -6993,7 +6992,7 @@ aluno de, colega profissional. Registar no elemento Regras e/ou convenções (5.
       </trans-unit>
       <trans-unit id="337852fdcfb743f2f72dcadc2baa2dfc056c114e" approved="yes">
         <source xml:space="preserve">Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 - Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code.</source>
-        <target xml:space="preserve">Registar, se necessário para a sua identificação unívoca, os seguintes elementos: o código do país, de acordo com a última versão da ISO 3166: Codes for the representation of names of countries;  o código da entidade detentora, de acordo com a norma nacional de codificação das entidades detentoras, ou outro identificador específico de localização; Um código de referência local unívoco, um número de controlo, ou outro identificador único.</target>
+        <target xml:space="preserve" state="final">Registar, se necessário para a sua identificação unívoca, os seguintes elementos: o código do país, de acordo com a última versão da ISO 3166: Codes for the representation of names of countries; o código da entidade detentora, de acordo com a norma nacional de codificação das entidades detentoras, ou outro identificador específico de localização; Um código de referência local unívoco, um número de controlo, ou outro identificador único.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d699ea4bee23132e3cf1cb8584feb9eb6f400d13" approved="yes">
@@ -7006,14 +7005,14 @@ aluno de, colega profissional. Registar no elemento Regras e/ou convenções (5.
         <target xml:space="preserve">Registar quaisquer acções de avaliação, selecção e eliminação ocorridas ou planeadas para a unidade de descrição, especialmente se tais acções puderem afectar a interpretação da documentação. (ISAD 3.3.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="89823f7212ba69d7bb53fa69eb5b4777640b277f" approved="yes">
+      <trans-unit id="89823f7212ba69d7bb53fa69eb5b4777640b277f" approved="no">
         <source xml:space="preserve">Record citations for any external sources used in the archival description (such as the Scope and Content, Archival History, or Notes fields).</source>
-        <target xml:space="preserve">Registar as citações para quaisquer fontes externas utilizadas na descrição arquivística (tais como nos campos &lt;strong&gt;Âmbito e conteúdo&lt;/strong&gt;, &lt;strong&gt;História do arquivo&lt;/strong&gt;, ou &lt;strong&gt;Notas&lt;/strong&gt;)</target>
+        <target xml:space="preserve" state="needs-translation">Registar as citações para quaisquer fontes externas utilizadas na descrição arquivística (tais como nos campos &lt;strong&gt;Âmbito e conteúdo&lt;/strong&gt;, &lt;strong&gt;História do arquivo&lt;/strong&gt;, ou &lt;strong&gt;Notas&lt;/strong&gt;)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="630a27a5c9f8b0b4b821d1f2608affe848f14190" approved="yes">
+      <trans-unit id="630a27a5c9f8b0b4b821d1f2608affe848f14190" approved="no">
         <source xml:space="preserve">Record citations for any external sources used in the archival description (such as the Scope and Content, Custodial History, or Notes fields).</source>
-        <target xml:space="preserve">Registe citações para quaisquer fontes externas usadas na descrição arquivística (tais como Âmbito e Conteúdo, História Custodial ou Campos de notas). </target>
+        <target xml:space="preserve" state="translated">Registe citações para quaisquer fontes externas usadas na descrição arquivística (tais como Âmbito e Conteúdo, História Custodial ou Campos de notas).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="02cca9a8cba9848bdeb2934607c1f54a85bea539" approved="yes">
@@ -7041,15 +7040,14 @@ aluno de, colega profissional. Registar no elemento Regras e/ou convenções (5.
         <target xml:space="preserve">Registre as informações sobre a natureza dos materiais e atividades que reflitam na unidade que está sendo descrita para permitir que os usuários possam julgar sua potencial relevância, incluindo informações sobre as funções, atividades, transações e processos; forma documental ou características intelectuais; datas de conteúdo; áreas e lugares geográficos; assunto; integridade dos materiais; ou qualquer outra informação que auxilie o usuário na avaliação da relevância dos materiais. (DACS 3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="15e886438452d0c66cc125d4a65cb9de4754051a" approved="yes">
+      <trans-unit id="15e886438452d0c66cc125d4a65cb9de4754051a" approved="no">
         <source xml:space="preserve">Record information about units of description in the same repository or elsewhere that are related by provenance or other association(s). Use appropriate introductory wording and explain the nature of the relationship . If the related unit of description is a finding aid, use the finding aids element of description (3.4.5) to make the reference to it. (ISAD 3.5.3)</source>
-        <target xml:space="preserve">Registar informação sobre unidades de descrição existentes na mesma entidade detentora, ou em qualquer outro lugar, que com elas estejam relacionadas, pela proveniência ou outro tipo de associação. Elaborar uma introdução adequada, explicando
-a natureza da relação. Se a unidade de descrição relacionada for um instrumento de descrição, usar o elemento de informação Instrumentos de descrição (3.4.5) para o referenciar. (ISAD 3.5.3)</target>
+        <target xml:space="preserve" state="translated">Registar informação sobre unidades de descrição existentes na mesma entidade detentora, ou em qualquer outro lugar, que com elas estejam relacionadas, pela proveniência ou outro tipo de associação. Elaborar uma introdução adequada, explicando a natureza da relação. Se a unidade de descrição relacionada for um instrumento de descrição, usar o elemento de informação Instrumentos de descrição (3.4.5) para o referenciar. (ISAD 3.5.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b5ed865bd130aa9047b8cc4b5d512e2ca1ab7d23" approved="yes">
+      <trans-unit id="b5ed865bd130aa9047b8cc4b5d512e2ca1ab7d23" approved="no">
         <source xml:space="preserve">Record notes on sources consulted in preparing the description and who prepared it. (ISAD 3.7.1)</source>
-        <target xml:space="preserve">&lt;b&gt;ISAD (G) 3.7.1&lt;/b&gt;&lt;br /&gt;
+        <target xml:space="preserve" state="needs-translation">&lt;b&gt;ISAD (G) 3.7.1&lt;/b&gt;&lt;br /&gt;
 &lt;strong&gt;Objetivo:&lt;/strong&gt; Explicitar como e por quem foi elaborada a descrição.&lt;br /&gt;
 &lt;strong&gt;Regra:&lt;/strong&gt; Registar a informação sobre as fontes consultadas e o(s) responsável(eis) pela elaboração da descrição.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
@@ -7071,9 +7069,9 @@ a natureza da relação. Se a unidade de descrição relacionada for um instrume
         <target xml:space="preserve">Registar o estado da descrição, indicando se está em elaboração, concluida e/ou revista ou eliminada.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5202fa49336301176423186943b12d8982597269" approved="yes">
+      <trans-unit id="5202fa49336301176423186943b12d8982597269" approved="no">
         <source xml:space="preserve">Record the date(s) the entry was prepared and/or revised.</source>
-        <target xml:space="preserve">Registar a data(s) em que foi elaborada ou revista. </target>
+        <target xml:space="preserve" state="translated">Registar a data(s) em que foi elaborada ou revista.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="1eeba2cf911eb2c29c1fe4547699216e015a6c8a" approved="yes">
@@ -7086,16 +7084,14 @@ a natureza da relação. Se a unidade de descrição relacionada for um instrume
         <target xml:space="preserve">Registar a forma autorizada do nome da agência responsável pela criação, modificação e divulgação da descrição ou, alternativamente, o código normalizado da agência de acordo com as convenções internacionais ou nacionais.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="bd2ecd635ee8592aaf36912c9af9a53ec93cfab7" approved="yes">
+      <trans-unit id="bd2ecd635ee8592aaf36912c9af9a53ec93cfab7" approved="no">
         <source xml:space="preserve">Record the international, national and/or local rules or conventions followed in preparing the description.</source>
-        <target xml:space="preserve">Registar as regras ou convenções internacionais, nacionais e/ou locais utilizadas na
-elaboração da descrição.</target>
+        <target xml:space="preserve" state="translated">Registar as regras ou convenções internacionais, nacionais e/ou locais utilizadas na elaboração da descrição.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d9eb8a807b17f53aacd22ab17a49c3b562e9dee2" approved="yes">
+      <trans-unit id="d9eb8a807b17f53aacd22ab17a49c3b562e9dee2" approved="no">
         <source xml:space="preserve">Record the international, national and/or local rules or conventions followed in preparing the description. (ISAD 3.7.2)</source>
-        <target xml:space="preserve">Registar as regras ou convenções internacionais, nacionais e/ou locais utilizadas na
-elaboração da descrição. (ISAD 3.7.2)</target>
+        <target xml:space="preserve" state="translated">Registar as regras ou convenções internacionais, nacionais e/ou locais utilizadas na elaboração da descrição. (ISAD 3.7.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="0af384cb8f685b35d53a8365bc1406823ffb7056" approved="yes">
@@ -7288,9 +7284,9 @@ elaboração da descrição. (ISAD 3.7.2)</target>
         <target xml:space="preserve">Informação de contacto relacionada</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
       </trans-unit>
-      <trans-unit id="14191949e2aebeb1a1dc25fce075683e2eb0f700" approved="yes">
+      <trans-unit id="14191949e2aebeb1a1dc25fce075683e2eb0f700" approved="no">
         <source xml:space="preserve">Related corporate bodies, persons or families</source>
-        <target xml:space="preserve">Pessoas colectivas, pessoas singulares ou famílias relacionadas </target>
+        <target xml:space="preserve" state="translated">Pessoas colectivas, pessoas singulares ou famílias relacionadas</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="4503eb36bf0e523b68b51463a9adb7ee90d40c62" approved="yes">
@@ -7473,9 +7469,9 @@ elaboração da descrição. (ISAD 3.7.2)</target>
         <target xml:space="preserve">Renomear</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_actions.php</note>
       </trans-unit>
-      <trans-unit id="6acb16803398b7de29fa6648c822e2108ac3cbe5" approved="yes">
+      <trans-unit id="6acb16803398b7de29fa6648c822e2108ac3cbe5" approved="no">
         <source xml:space="preserve">Replace existing clipboard results with saved clipboard</source>
-        <target xml:space="preserve">Substitua os resultados existentes da área de transferência pela  área de transferência salva</target>
+        <target xml:space="preserve" state="translated">Substitua os resultados existentes da área de transferência pela área de transferência salva</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="16462c5c970a03afa087f3d8dc3253607857ea08" approved="yes">
@@ -7533,9 +7529,9 @@ elaboração da descrição. (ISAD 3.7.2)</target>
         <target xml:space="preserve">Necessita de senhas seguras</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="1adeeae8555a2b1ea4bcd3fc8c19acca3c3bcdb4" approved="yes">
+      <trans-unit id="1adeeae8555a2b1ea4bcd3fc8c19acca3c3bcdb4" approved="no">
         <source xml:space="preserve">Requirements: PNG format, 256K max. size.&lt;br /&gt;Recommended dimensions of %1%x%2%px, it will be cropped if ImageMagick is installed.</source>
-        <target xml:space="preserve">Requisitos: formato PNG, tamanho máx. 256K.&lt;br /&gt;Dimensões recomendadas %1%x%2%px,  será cortada se o ImageMagick estiver instalado.</target>
+        <target xml:space="preserve" state="translated">Requisitos: formato PNG, tamanho máx. 256K.&lt;br /&gt;Dimensões recomendadas %1%x%2%px, será cortada se o ImageMagick estiver instalado.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/actions/editThemeAction.class.php</note>
       </trans-unit>
       <trans-unit id="4408c2c27c3389f14f9330d6d1678003e82a735f" approved="yes">
@@ -7893,9 +7889,9 @@ elaboração da descrição. (ISAD 3.7.2)</target>
         <target xml:space="preserve">Configurações de segurança</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/securitySuccess.php</note>
       </trans-unit>
-      <trans-unit id="d143531462d4d87047092f70571c3d3bbe146ccb" approved="yes">
+      <trans-unit id="d143531462d4d87047092f70571c3d3bbe146ccb" approved="no">
         <source xml:space="preserve">Security settings saved.</source>
-        <target xml:space="preserve">Definições de segurança  guardadas.</target>
+        <target xml:space="preserve" state="translated">Definições de segurança guardadas.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
       </trans-unit>
       <trans-unit id="71c34424882612f7c29feaf3bfa76ae4d07878b0" approved="yes">
@@ -7903,22 +7899,19 @@ elaboração da descrição. (ISAD 3.7.2)</target>
         <target xml:space="preserve">Ver ISDIAH 5.2 relativamente à zona de informação e exemplos.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="3177038df51eb25c39996f1151499664580c7b5e" approved="yes">
+      <trans-unit id="3177038df51eb25c39996f1151499664580c7b5e" approved="no">
         <source xml:space="preserve">Select Full, Partial or Minimal from the drop-down menu. "In the absence of national guidelines or rules, minimal descriptions are those that consist only of the three essential elements of an ISIAH compliant description (see 4.7), while full records are those that convey information for all relevant ISDIAH elements of description." (ISDIAH 5.6.5)</source>
-        <target xml:space="preserve">Seleccionar Completo, Parcial ou Minimos da lista de opções. "Na ausência de regras ou diretrizes nacionais, as descrições mínimas são aquelas que consistem somente dos três elementos essenciais de um registo conforme à ISDIAH, enquanto
-registos completos são os que fornecem informação para todos os elementos de descrição da ISDIAH pertinentes. (ISDIAH 5.4.5)</target>
+        <target xml:space="preserve" state="translated">Seleccionar Completo, Parcial ou Minimos da lista de opções. "Na ausência de regras ou diretrizes nacionais, as descrições mínimas são aquelas que consistem somente dos três elementos essenciais de um registo conforme à ISDIAH, enquanto registos completos são os que fornecem informação para todos os elementos de descrição da ISDIAH pertinentes. (ISDIAH 5.4.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e7d9a4f65186fcdf57dc7126796314826e0fb7c7" approved="yes">
+      <trans-unit id="e7d9a4f65186fcdf57dc7126796314826e0fb7c7" approved="no">
         <source xml:space="preserve">Select Full, Partial or Minimal from the drop-down menu. "In the absence of national guidelines or rules, minimal records are those that consist only of the four essential elements of an ISAAR(CPF) compliant authority record (see 4.8), while full records are those that convey information for all relevant ISAAR(CPF) elements of description." (ISAAR 5.4.5)</source>
-        <target xml:space="preserve">Seleccionar Completo, Parcial ou Minimos da lista de opções. "Na ausência de regras ou diretrizes nacionais, registos mínimos são aqueles que consistem somente dos quatro elementos essenciais de um registo conforme à ISAAR (CPF), enquanto
-registos completos são os que fornecem informação para todos os elementos de descrição da ISAAR(CPF) pertinentes. (ISDF 5.4.5)</target>
+        <target xml:space="preserve" state="translated">Seleccionar Completo, Parcial ou Minimos da lista de opções. "Na ausência de regras ou diretrizes nacionais, registos mínimos são aqueles que consistem somente dos quatro elementos essenciais de um registo conforme à ISAAR (CPF), enquanto registos completos são os que fornecem informação para todos os elementos de descrição da ISAAR(CPF) pertinentes. (ISDF 5.4.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e9aa8a002f1a5daf9fcea35d53be764cc0d16a85" approved="yes">
+      <trans-unit id="e9aa8a002f1a5daf9fcea35d53be764cc0d16a85" approved="no">
         <source xml:space="preserve">Select Full, Partial or Minimal from the drop-down menu. "In the absence of national guidelines or rules, minimum records are those that consist only of the three essential elements of an ISDF compliant record (see 4.7), while full records are those that convey information for all relevant ISDF elements of description." (ISDF 5.4.5)</source>
-        <target xml:space="preserve">Seleccionar Completo, Parcial ou Minimos da lista de opções. "Na ausência de regras ou diretrizes nacionais, registos mínimos são aqueles que consistem somente dos três elementos essenciais de um registo conforme à ISDF (ver 4.7), enquanto
-registos completos são os que fornecem informação para todos os elementos de descrição da ISDF pertinentes. (ISDF 5.4.5)</target>
+        <target xml:space="preserve" state="translated">Seleccionar Completo, Parcial ou Minimos da lista de opções. "Na ausência de regras ou diretrizes nacionais, registos mínimos são aqueles que consistem somente dos três elementos essenciais de um registo conforme à ISDF (ver 4.7), enquanto registos completos são os que fornecem informação para todos os elementos de descrição da ISDF pertinentes. (ISDF 5.4.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b9760a5584370c8dfbf07e5131471909931fc475" approved="yes">
@@ -7981,9 +7974,9 @@ registos completos são os que fornecem informação para todos os elementos de 
         <target xml:space="preserve">Selecionar fonte</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfSkosPlugin/modules/sfSkosPlugin/templates/importSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7606781c47732829fc15bd494d59e07588aaddd9" approved="yes">
+      <trans-unit id="7606781c47732829fc15bd494d59e07588aaddd9" approved="no">
         <source xml:space="preserve">Select the General Material Designation at the highest level of description. If there are more than three, select "multiple media" (RAD 1.1C)</source>
-        <target xml:space="preserve">Seleccionar a Designação Geral do Material da descrição de nível mais elevado. Se houver mais do que três, escolher  "múltiplos suportes" (RAD 1.1C)</target>
+        <target xml:space="preserve" state="translated">Seleccionar a Designação Geral do Material da descrição de nível mais elevado. Se houver mais do que três, escolher "múltiplos suportes" (RAD 1.1C)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="2ac74e6a8d9975ceee52b1d184fdf46cbc4cc151" approved="yes">
@@ -8391,16 +8384,14 @@ registos completos são os que fornecem informação para todos os elementos de 
         <target xml:space="preserve">Notas especializadas</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="01025c2224dc256c363700f3ffe14314e2c114ea" approved="yes">
+      <trans-unit id="01025c2224dc256c363700f3ffe14314e2c114ea" approved="no">
         <source xml:space="preserve">Specify the internal structure, order and/or the system of classification of the unit of description. Note how these have been treated by the archivist. For electronic records, record or reference information on system design. (ISAD 3.3.4)</source>
-        <target xml:space="preserve">Facultar informação sobre a estrutura interna, ordenação e/ou sistema de classificação
-da unidade de descrição. Para documentos electrónicos, registar ou referenciar informação sobre a arquitectura do sistema. (ISAD 3.3.4)</target>
+        <target xml:space="preserve" state="translated">Facultar informação sobre a estrutura interna, ordenação e/ou sistema de classificação da unidade de descrição. Para documentos electrónicos, registar ou referenciar informação sobre a arquitectura do sistema. (ISAD 3.3.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e07c4ba083467213f908b9321e4e1b7d917926e3" approved="yes">
+      <trans-unit id="e07c4ba083467213f908b9321e4e1b7d917926e3" approved="no">
         <source xml:space="preserve">Specify the law or legal status, contract, regulation or policy that affects access to the unit of description. Indicate the extent of the period of closure and the date at which the material will open when appropriate. (ISAD 3.4.1)</source>
-        <target xml:space="preserve">Facultar informação sobre o estatuto legal ou outras disposições que restrinjam ou
-afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
+        <target xml:space="preserve" state="translated">Facultar informação sobre o estatuto legal ou outras disposições que restrinjam ou afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="fb9f1afcc8c8b0af8e54c0c55454bb17a252af21" approved="yes">
@@ -8785,9 +8776,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target xml:space="preserve">Data de início da permissão atribuída.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4a8201c11ba306a8de15ea0851c8c7b51f49a5ce" approved="yes">
+      <trans-unit id="4a8201c11ba306a8de15ea0851c8c7b51f49a5ce" approved="no">
         <source xml:space="preserve">The character separating hierarchical elements in a reference code</source>
-        <target xml:space="preserve">Caracter separador dos níveis hierárquicos do código de referência </target>
+        <target xml:space="preserve" state="translated">Caracter separador dos níveis hierárquicos do código de referência</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="cb7599eaa2b4cd2e64fcea61e35c6f727004f467">
@@ -8800,9 +8791,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target xml:space="preserve">O código só pode conter letras e números</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
-      <trans-unit id="9ee7eb27b511d633126d3c339d6e21bf6069e339" approved="yes">
+      <trans-unit id="9ee7eb27b511d633126d3c339d6e21bf6069e339" approved="no">
         <source xml:space="preserve">The country or other political body that has enacted the statute.</source>
-        <target xml:space="preserve">País ou outra entidade administrativa que atribuiu o estatuto. </target>
+        <target xml:space="preserve" state="translated">País ou outra entidade administrativa que atribuiu o estatuto.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="6495ec343ae86e9aafddec69205a7b6feb1ba7d8" approved="yes">
@@ -8887,9 +8878,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target xml:space="preserve">Número de registos a mostrar em cada cada página</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="bbec9d963892e8e5edd5f6a3059af631600a002f" approved="yes">
+      <trans-unit id="bbec9d963892e8e5edd5f6a3059af631600a002f" approved="no">
         <source xml:space="preserve">The number of units as a whole number and the measurement of the received volume of records in the accession.</source>
-        <target xml:space="preserve">O número de unidades, representado por um inteiro, e o volume de registos recebidos por ingresso</target>
+        <target xml:space="preserve" state="translated">O número de unidades, representado por um inteiro, e o volume de registos recebidos por ingresso.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="7e7340bedf136260b54ab7bd2baf651e02e7c0da" approved="yes">
@@ -9468,9 +9459,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target xml:space="preserve" state="translated">Atualizações</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="ff7827bdef5e829d5542b2ad08736f166f3be29e" approved="yes">
+      <trans-unit id="ff7827bdef5e829d5542b2ad08736f166f3be29e" approved="no">
         <source xml:space="preserve">Uploads for &lt;a href="%1%"&gt;%2%&lt;/a&gt; are disabled</source>
-        <target xml:space="preserve">As transferências para &lt;a href="%1%"&gt;%2%&lt;/a&gt; estão desativadas.</target>
+        <target xml:space="preserve" state="translated">As transferências para &lt;a href="%1%"&gt;%2%&lt;/a&gt; estão desativadas</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/addDigitalObjectSuccess.php</note>
       </trans-unit>
       <trans-unit id="4659dd21d783081b27c44db0868deae8b01c22f3">
@@ -9493,9 +9484,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target xml:space="preserve">Usado por</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2167c39cc5d3d8aafeb1fa1263b49f6b1e8b97ac" approved="yes">
+      <trans-unit id="2167c39cc5d3d8aafeb1fa1263b49f6b1e8b97ac" approved="no">
         <source xml:space="preserve">Use for: </source>
-        <target xml:space="preserve">Usado por:</target>
+        <target xml:space="preserve" state="translated">Usado por: </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="7f2c2029af462f4021d0d20994e9606eee38faf6" approved="yes">
@@ -9503,9 +9494,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target xml:space="preserve">Usar o campo do nome do produtor para ligar um registo de autoridade à sua descrição. Pesquisar por um nome existente no ficheiro de autoridade, digitando apenas os primeiros caracteres. Alternativamente, digitar um novo nome para criar essa ligação a um novo registo de autoridade.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/eventComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="9c2301950cca7fa4df350366a40a4f07a5707576" approved="yes">
+      <trans-unit id="9c2301950cca7fa4df350366a40a4f07a5707576" approved="no">
         <source xml:space="preserve">Use these two fields to add lower levels to a collection-level description. Click Add new to add as many child levels as necessary. Identifer: enter a unique standard number or code that distinctively identifies the resource. Title: enter A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it.</source>
-        <target xml:space="preserve">Use estes dois campos para adicionar níveis inferiores a uma descrição ao nível de colecção. Clicar em - Adicionar novo - tantas vezes quanto o necessário. Identificador: digitar um número único normalizado que garanta uma identificação única  do recurso. Título: digitar uma palavra, frase, caracter ou grupo de caracteres existentes no recurso, para procurar a descrição onde está contido.</target>
+        <target xml:space="preserve" state="translated">Use estes dois campos para adicionar níveis inferiores a uma descrição ao nível de colecção. Clicar em - Adicionar novo - tantas vezes quanto o necessário. Identificador: digitar um número único normalizado que garanta uma identificação única do recurso. Título: digitar uma palavra, frase, caracter ou grupo de caracteres existentes no recurso, para procurar a descrição onde está contido.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="6b647f96fc712dc598e4e9dea145df439f07fe84" approved="yes">
@@ -9803,9 +9794,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target xml:space="preserve">A sua descrição foi atualizada. Os níveis de descrição inferiores estão a ser atualizados agora - verifique a &lt;a href="%1"&gt;página de tarefas agendadas&lt;/a&gt; para estado e detalhes.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/updatePublicationStatusAction.class.php</note>
       </trans-unit>
-      <trans-unit id="3ce21b73e93a6e6184c5b82162d8d2b7a5d5b4a4" approved="yes">
+      <trans-unit id="3ce21b73e93a6e6184c5b82162d8d2b7a5d5b4a4" approved="no">
         <source xml:space="preserve">Your edits to this description have been saved and the description has reverted to Draft status. Please ask a user with sufficient permissions to publish the description again to make it publicly visible.</source>
-        <target xml:space="preserve">As suas edições nesta descrição foram gravadas e a descrição reverteu  para Rascunho. Por favor, pergunte a um utilizador com permissões suficientes para publicar a descrição novamente para torná-la publicamente visível.</target>
+        <target xml:space="preserve" state="translated">As suas edições nesta descrição foram gravadas e a descrição reverteu para Rascunho. Por favor, pergunte a um utilizador com permissões suficientes para publicar a descrição novamente para torná-la publicamente visível.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="5971e540d1db1ad60fe77b3f97b48070aea20c28" approved="yes">
@@ -10073,9 +10064,9 @@ afectem o acesso à unidade de descrição. (ISAD 3.4.1)</target>
         <target xml:space="preserve">é o superior de</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="b5ddde8aff62af6c9d3ce7696eeacd70c8e416ff" approved="yes">
+      <trans-unit id="b5ddde8aff62af6c9d3ce7696eeacd70c8e416ff" approved="no">
         <source xml:space="preserve">job management</source>
-        <target xml:space="preserve"> gestão de tarefas</target>
+        <target xml:space="preserve" state="translated">gestão de tarefas</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/actions/moveAction.class.php</note>
       </trans-unit>
       <trans-unit id="7f3cd5fcb66799ef036d1d8109dff20db80c0447" approved="yes">
