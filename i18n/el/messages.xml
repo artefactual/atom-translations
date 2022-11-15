@@ -1612,9 +1612,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="19c2371f978067e85c99e10fecb57b3438930f2f" approved="yes">
+      <trans-unit id="19c2371f978067e85c99e10fecb57b3438930f2f" approved="no">
         <source xml:space="preserve">Allow unlimited uploads</source>
-        <target xml:space="preserve">Επιτρέψτε απεριόριστες μεταφορτώσεις</target>
+        <target xml:space="preserve" state="translated">Επιτρέψτε απεριόριστες αναφορτώσεις</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
       <trans-unit id="eb966ae1479fa5b47b1e3fead47e9421c8453066" approved="yes">
@@ -2212,9 +2212,9 @@
         <target xml:space="preserve">Κατηγορία σχέσεων</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8c684290ce0b8a8e6cee79a145e17554064a4760" approved="yes">
+      <trans-unit id="8c684290ce0b8a8e6cee79a145e17554064a4760" approved="no">
         <source xml:space="preserve">Change password</source>
-        <target xml:space="preserve">Αλλαγή κωδικού</target>
+        <target xml:space="preserve" state="translated">Αλλαγή συνθήματος πρόσβασης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="736b9062b33638b3eccd593deae38fa35b66c94e" approved="yes">
@@ -2232,9 +2232,9 @@
         <target xml:space="preserve">Επίπεδα απογόνων (εάν περιγράφεται μια συλλογή)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="473e4e91d611aaf31da6b0b78a7bcaa8231f013a" approved="yes">
+      <trans-unit id="473e4e91d611aaf31da6b0b78a7bcaa8231f013a" approved="no">
         <source xml:space="preserve">Children inheriting rights from record: </source>
-        <target xml:space="preserve" state="final">Οι οντότητες-απόγονοι κληρονομούν δικαιώματα από την εγγραφή: </target>
+        <target xml:space="preserve" state="translated">Οι οντότητες-απόγονοι κληρονομούν δικαιώματα από την εγγραφή: </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/manageAction.class.php</note>
       </trans-unit>
       <trans-unit id="0774ce5b99d0e98aa50d0b0750174220902bfddb">
@@ -2447,9 +2447,9 @@
         <target xml:space="preserve">Στοιχεία Όρων Πρόσβασης και Χρήσης</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4a7c565d4c4430e3bb8fa6c560125d5eb37e7c3d" approved="yes">
+      <trans-unit id="4a7c565d4c4430e3bb8fa6c560125d5eb37e7c3d" approved="no">
         <source xml:space="preserve">Confirm password</source>
-        <target xml:space="preserve">Επιβεβαίωση κωδικού</target>
+        <target xml:space="preserve" state="translated">Επιβεβαίωση συνθήματος πρόσβασης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d2ccd8109361016c08d3eb776799efa1d9052d8d" approved="yes">
@@ -3022,9 +3022,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="c06c0afa72cfe94700e0c32481bbc96b96389502" approved="yes">
+      <trans-unit id="c06c0afa72cfe94700e0c32481bbc96b96389502" approved="no">
         <source xml:space="preserve">Did you follow a broken link?</source>
-        <target xml:space="preserve">Μήπως ακολουθήσατε ένα καταργημένο σύνδεσμο; </target>
+        <target xml:space="preserve" state="translated">Μήπως ακολουθήσατε ένα καταργημένο σύνδεσμο;</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/admin/templates/error404Success.php</note>
       </trans-unit>
       <trans-unit id="9cd884bbde6d66f0aef422a346df1c7dd95d4fc5" approved="yes">
@@ -3522,9 +3522,9 @@
         <target xml:space="preserve">Επεξεργασία ορίου μεταφόρτωσης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
-      <trans-unit id="539b1c4d7f35c30b40d5503039b72ad912345b1a" approved="yes">
+      <trans-unit id="539b1c4d7f35c30b40d5503039b72ad912345b1a" approved="no">
         <source xml:space="preserve">Edit your password</source>
-        <target xml:space="preserve">Επεξεργασία κωδικού</target>
+        <target xml:space="preserve" state="translated">Επεξεργασία συνθήματος πρόσβασης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/passwordEditSuccess.php</note>
       </trans-unit>
       <trans-unit id="ec2e306ec0869a064528aa5f9180d82f5d7a8cd1">
@@ -6180,9 +6180,9 @@
         <target xml:space="preserve">Μόνο περιγραφές στο ανώτερο επίπεδο</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="433f456fb46c810efb1c761208597a87d277d48a" approved="yes">
+      <trans-unit id="433f456fb46c810efb1c761208597a87d277d48a" approved="no">
         <source xml:space="preserve">Oops, we couldn't find any %1 level descriptions.</source>
-        <target xml:space="preserve">Συγνώμη, δεν εντοπίσαμε κανένα %1 επίπεδο περιγραφής.</target>
+        <target xml:space="preserve" state="translated">Φτού! Δεν μπόρεσα να βρω καμία περιγραφή σε επίπεδο %1 .</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListError.php</note>
       </trans-unit>
       <trans-unit id="2e759cca2dbc1c9d5887b9a37cfdbaacded11cfe" approved="yes">
@@ -6395,19 +6395,19 @@
         <target xml:space="preserve">Μερική</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="8be3c943b1609fffbfc51aad666d0a04adf83c9d" approved="yes">
+      <trans-unit id="8be3c943b1609fffbfc51aad666d0a04adf83c9d" approved="no">
         <source xml:space="preserve">Password</source>
-        <target xml:space="preserve">Κωδικός</target>
+        <target xml:space="preserve" state="translated">Σύνθημα πρόσβασης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c10b14453c6fe3de45ac534fcdedfca13d804249" approved="yes">
+      <trans-unit id="c10b14453c6fe3de45ac534fcdedfca13d804249" approved="no">
         <source xml:space="preserve">Password strength:</source>
-        <target xml:space="preserve">Αντοχή Κωδικού:</target>
+        <target xml:space="preserve" state="translated">Αντοχή συνθήματος πρόσβασης:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4dd738a49cd69129e37d4925f62389fd65d65163" approved="yes">
+      <trans-unit id="4dd738a49cd69129e37d4925f62389fd65d65163" approved="no">
         <source xml:space="preserve">Passwords match:</source>
-        <target xml:space="preserve">Ταίριασμα κωδικού:</target>
+        <target xml:space="preserve" state="translated">Ταίριασμα συνθήματος πρόσβασης:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="519e39132bb98418cc0483cc446ccf5f3c8dcffe" approved="yes">
@@ -6810,10 +6810,9 @@
         <target xml:space="preserve" state="final">Εισάγετε έναν τίτλο του μενού για τους χρήστες. Για τμήματα του μενού που δεν θα εμφανίζονται, το πεδίο πρέπει να παραμείνει κενό.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d8ff3cec76ae8e151d06cd58a4a33bbd2208a945" approved="yes">
+      <trans-unit id="d8ff3cec76ae8e151d06cd58a4a33bbd2208a945" approved="no">
         <source xml:space="preserve">Provide a reason why the records are being deaccessioned.</source>
-        <target xml:space="preserve">Καταγράψτε τους λόγους που η εγγραφές αποσύρονται.
-</target>
+        <target xml:space="preserve" state="translated">Αιτιολογήστε την απόσυρση του αρχειακού υλικού.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="256f0c0016798c13a758bdbbd3ba97346ca72b06" approved="yes">
@@ -6821,9 +6820,9 @@
         <target xml:space="preserve" state="final">"Εγγράφουμε, στο μέτρο που είναι απαραίτητο για την πληρέστερη αναγνώριση, τα ακόλουθα στοιχεία: τον κωδικό της χώρας σύμφωνα με την τελευταία εκδοχή του ΙSO 3166, "Κωδικοί για την αναπαράσταση των ονομάτων των χωρών" -τον κωδικό του αρχειακού φορέα σύμφωνα με το εθνικό πρότυπο κωδικοποίησης των Αρχείων, ή κάθε άλλο στοιχείο προσδιορισμού του χώρου φύλαξης -τον ιδιαίτερο, τοπικό κωδικό αναγνώρισης, τον αριθμό ελέγχου ή οποιοδήποτε άλλο μοναδικό αναγνωριστικό στοιχείο. Και τα τρία παραπάνω στοιχεία θα πρέπει να υπάρχουν εμφανή στις περιπτώσεις ανταλλαγής πληροφοριών σε διεθνές επίπεδο." (ΔΙΠΑΠ 3.1.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="843df52a67f0bcaecd854ec6e0141454859b0f72" approved="yes">
+      <trans-unit id="843df52a67f0bcaecd854ec6e0141454859b0f72" approved="no">
         <source xml:space="preserve">Provide an internal menu name.  This is not visible to users.</source>
-        <target xml:space="preserve">Δώστε ένα εσωτερικό όνομα μενού. Αυτό δεν θα είναι ορατό στους χρήστες.  </target>
+        <target xml:space="preserve" state="translated">Εισάγετε μια εσωτερική ονομασία του μενού (δεν εμφανίζεται στους χρήστες).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="576cf1d447768fc7d179fb3a1e0da6db2bb3b0c7" approved="yes">
@@ -7004,14 +7003,14 @@
         <target xml:space="preserve">Καταγράψτε ένα μοναδικό Αναγνωριστικό Περιγραφής σύμφωνα με τις τοπικές ή/και εθνικές συμβάσεις. Αν η περιγραφή πρέπει να χρησιμοποιείται διεθνώς, καταγράψτε τον κωδικό της χώρας στην οποία η περιγραφή δημιουργήθηκε σύμφωνα με την τελευταία έκδοση του προτύπου ISO 3166 - Codes for the representation of names of countries. Όταν ο δημιουργός της περιγραφής είναι ένας διεθνής οργανισμός, δώστε το αναγνωριστικό του οργανισμού στη θέση του κωδικού της χώρας.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d699ea4bee23132e3cf1cb8584feb9eb6f400d13" approved="yes">
+      <trans-unit id="d699ea4bee23132e3cf1cb8584feb9eb6f400d13" approved="no">
         <source xml:space="preserve">Record appraisal, destruction and scheduling actions taken on or planned for the unit of description, especially if they may affect the interpretation of the material.</source>
-        <target xml:space="preserve">Αναφέρουμε όλες τις ενέργειες επιλογής, εκκαθαρίσεων και διατήρησης που έγιναν  ή  που  προγραμματίζονται  για  την  ενότητα  περιγραφής,  κυρίως  εάν επηρεάζουν την κατανόηση/ερμηνεία του υλικού.</target>
+        <target xml:space="preserve" state="translated">"Αναφέρουμε όλες τις ενέργειες επιλογής, εκκαθαρίσεων και διατήρησης που έγιναν ή που προγραμματίζονται για την ενότητα περιγραφής, κυρίως εάν επηρεάζουν την κατανόηση/ερμηνεία του υλικού. Όπου χρειάζεται αναφέρουμε τον υπεύθυνο για τις ενέργειες αυτές." (ΔΙΠΑΠ 3.3.2).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9406f57b308a67385a75bbe1eb9490647b57a64e" approved="yes">
+      <trans-unit id="9406f57b308a67385a75bbe1eb9490647b57a64e" approved="no">
         <source xml:space="preserve">Record appraisal, destruction and scheduling actions taken on or planned for the unit of description, especially if they may affect the interpretation of the material. (ISAD 3.3.2)</source>
-        <target xml:space="preserve" state="final">"Αναφέρουμε όλες τις ενέργειες επιλογής, εκκαθαρίσεων και διατήρησης που έγιναν ή που προγραμματίζονται για την ενότητα περιγραφής, κυρίως εάν επηρεάζουν την κατανόηση/ερμηνεία του υλικού. Όπου χρειάζεται αναφέρουμε τον υπεύθυνο για τις ενέργειες αυτές." (ΔΙΠΑΠ 3.3.2).</target>
+        <target xml:space="preserve" state="translated">"Αναφέρουμε όλες τις ενέργειες επιλογής, εκκαθαρίσεων και διατήρησης που έγιναν ή που προγραμματίζονται για την ενότητα περιγραφής, κυρίως εάν επηρεάζουν την κατανόηση/ερμηνεία του υλικού. Όπου χρειάζεται αναφέρουμε τον υπεύθυνο για τις ενέργειες αυτές." (ΔΙΠΑΠ 3.3.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="89823f7212ba69d7bb53fa69eb5b4777640b277f" approved="yes">
@@ -7145,9 +7144,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="814cdfd64a4f7d7342c819ab8ff6ba5650fd6d62" approved="yes">
+      <trans-unit id="814cdfd64a4f7d7342c819ab8ff6ba5650fd6d62" approved="no">
         <source xml:space="preserve">Record the script(s) of the materials comprising the unit of description. (ISAD 3.4.3)</source>
-        <target xml:space="preserve" state="final">Επιλέγουμε από τον αναδιπλούμενο πίνακα τη γραφή ή τις γραφές που περιλαμβάνει το αρχειακό υλικό της ενότητας περιγραφής (ΔΙΠΑΠ 3.4.3). Πληκτρολογήστε τους αρχικούς χαρακτήρες της γραφής για να περιορίσετε τις επιλογές.</target>
+        <target xml:space="preserve" state="translated">Καταγράφουμε τη γραφή ή τις γραφές που περιλαμβάνει το αρχειακό υλικό της ενότητας περιγραφής (ΔΙΠΑΠ 3.4.3).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="9f5907a300926cf3385b1dacf0a92f1d41373e49" approved="yes">
@@ -7270,9 +7269,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ca95a344fd4334045c6a908e05616fbe31903213" approved="yes">
+      <trans-unit id="ca95a344fd4334045c6a908e05616fbe31903213" approved="no">
         <source xml:space="preserve">Related archival materials</source>
-        <target xml:space="preserve">Συνδεόμενο αρχειακό υλικό </target>
+        <target xml:space="preserve" state="translated">Σχετιζόμενο αρχειακό υλικό</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d077a7edf2c0f77ecf4775ad6b1a9a77555c405d" approved="yes">
@@ -7530,9 +7529,9 @@
         <target xml:space="preserve">Απαιτείται SSL για όλες τις λειτουργίες του διαχειριστή</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
       </trans-unit>
-      <trans-unit id="2f7513657ba7cafee5dfd8e46b81cd9002e5bcc0" approved="yes">
+      <trans-unit id="2f7513657ba7cafee5dfd8e46b81cd9002e5bcc0" approved="no">
         <source xml:space="preserve">Require strong passwords</source>
-        <target xml:space="preserve">Απαιτείται ισχυρός κωδικός</target>
+        <target xml:space="preserve" state="translated">Απαιτείται ισχυρό σύνθημα πρόσβασης</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="1adeeae8555a2b1ea4bcd3fc8c19acca3c3bcdb4">
@@ -7550,9 +7549,9 @@
         <target xml:space="preserve">Διαγραφή</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/browse/templates/hierarchySuccess.php</note>
       </trans-unit>
-      <trans-unit id="5c4bc97ee5d0ac344829dbcef02d7302feb098a8" approved="yes">
+      <trans-unit id="5c4bc97ee5d0ac344829dbcef02d7302feb098a8" approved="no">
         <source xml:space="preserve">Reset password</source>
-        <target xml:space="preserve">Διαγραφή κωδικού</target>
+        <target xml:space="preserve" state="translated">Επαναφορά συνθήματος πρόσβασης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="1782c3c8e727df8f9b8079a639d7e364fb7f8da0">
@@ -8275,9 +8274,9 @@
         <target xml:space="preserve">Συγνώμη, η σελίδα δεν βρέθηκε</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/admin/templates/error404Success.php</note>
       </trans-unit>
-      <trans-unit id="b21fa4c547923a71ed38042cc8e969215c5da158" approved="yes">
+      <trans-unit id="b21fa4c547923a71ed38042cc8e969215c5da158" approved="no">
         <source xml:space="preserve">Sorry, this Term is locked</source>
-        <target xml:space="preserve">Συγνώμη, αυτός ο όρος είναι κλειδωμένος </target>
+        <target xml:space="preserve" state="translated">Συγνώμη, αυτός ο όρος είναι κλειδωμένος</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/admin/templates/termPermissionSuccess.php</note>
       </trans-unit>
       <trans-unit id="cc516036cd8ebb7042616f9c21b22243744ad210" approved="yes">
@@ -8285,9 +8284,9 @@
         <target xml:space="preserve">Συγνώμη, αυτός ο όρος είναι κλειδωμένος και δεν μπορεί να διαγραφεί</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/admin/templates/termPermissionSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3d112158533315aafbb1da1dee975e6fbc64bd0a" approved="yes">
+      <trans-unit id="3d112158533315aafbb1da1dee975e6fbc64bd0a" approved="no">
         <source xml:space="preserve">Sorry, you do not have permission to access that page</source>
-        <target xml:space="preserve">Συγνώμη, δεν έχετε δικαιώματα πρόσβασης σε αυτή τη σελίδα </target>
+        <target xml:space="preserve" state="translated">Συγνώμη, δεν έχετε άδεια πρόσβασης σε αυτή τη σελίδα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/admin/templates/secureSuccess.php</note>
       </trans-unit>
       <trans-unit id="26d60b29a89fbdf42f1fbb60c914fd6015aea4ff" approved="yes">
@@ -8435,14 +8434,14 @@
         <target xml:space="preserve">Δήλωση των συντεταγμένων (χαρτογραφικό)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6cdf52b87da1be0228c18736c061c7e42cdda8ac" approved="yes">
+      <trans-unit id="6cdf52b87da1be0228c18736c061c7e42cdda8ac" approved="no">
         <source xml:space="preserve">Statement of coordinates (cartographic) - This is a mandatory element for cartographic material.</source>
-        <target xml:space="preserve">Δήλωση των συντεταγμένων (χαρτογραφικό) - Το στοιχείο είναι υποχρεωτικό για το χαρτογραφικό υλικό </target>
+        <target xml:space="preserve" state="translated">Δήλωση των συντεταγμένων (χαρτογραφικό) - Το στοιχείο είναι υποχρεωτικό για το χαρτογραφικό υλικό.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f5df22b8ee3e7e19432d9437ce7fb2f7f096b2f3" approved="yes">
+      <trans-unit id="f5df22b8ee3e7e19432d9437ce7fb2f7f096b2f3" approved="no">
         <source xml:space="preserve">Statement of projection (cartographic)</source>
-        <target xml:space="preserve">Δήλωση της προβολής (Χαρτογραφικό) </target>
+        <target xml:space="preserve" state="translated">Δήλωση της προβολής (χαρτογραφικό)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d5aea2b170262fd5bf57c5164714d12f7cc40eab">
@@ -8470,9 +8469,9 @@
         <target xml:space="preserve">Δήλωση της κλίμακας (αρχιτεκτονικό)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6c95838777ceb4a424092f565a0cba1ed4ac8e8d" approved="yes">
+      <trans-unit id="6c95838777ceb4a424092f565a0cba1ed4ac8e8d" approved="no">
         <source xml:space="preserve">Statement of scale (architectural) - This is a mandatory element for architectural drawing.</source>
-        <target xml:space="preserve">Δήλωση της κλίμακας (αρχιτεκτονικό) - Το στοιχείο είναι υποχρεωτικό για τα αρχιτεκτονικά σχέδια</target>
+        <target xml:space="preserve" state="translated">Δήλωση της κλίμακας (αρχιτεκτονικό) - Το στοιχείο είναι υποχρεωτικό για τα αρχιτεκτονικά σχέδια.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="c48f895f08c8e31c2e83857a39b589fcbe498e3b" approved="yes">
@@ -8480,9 +8479,9 @@
         <target xml:space="preserve">Δήλωση της κλίμακας (Χαρτογραφικό)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="91af2897896dbbfe1c5de1dce642bd386a12fe74" approved="yes">
+      <trans-unit id="91af2897896dbbfe1c5de1dce642bd386a12fe74" approved="no">
         <source xml:space="preserve">Statement of scale (cartographic) - This is a mandatory element for cartographic material.</source>
-        <target xml:space="preserve">Δήλωση της κλίμακας (Χαρτογραφικό) - Το στοιχείο είναι υποχρεωτικό για το χαρτογραφικό υλικό</target>
+        <target xml:space="preserve" state="translated">Δήλωση της κλίμακας (χαρτογραφικό) - Το στοιχείο είναι υποχρεωτικό για το χαρτογραφικό υλικό.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="88bf7ea9d4fa86c2e19fba7b7554a869de46c627" approved="yes">
@@ -8849,14 +8848,14 @@
         <source xml:space="preserve">The graph is empty.</source>
         <target xml:space="preserve"/>
       </trans-unit>
-      <trans-unit id="f19ac75efc1ab54cf37d987d1f0c343148ae36bf" approved="yes">
+      <trans-unit id="f19ac75efc1ab54cf37d987d1f0c343148ae36bf" approved="no">
         <source xml:space="preserve">The maximum disk space of %1% GB available for uploading digital objects has been reached. Please contact your AtoM system administrator to increase the available disk space.</source>
-        <target xml:space="preserve">Ο μέγιστος διαθέσιμος χώρος των %1% GB στο δίσκο για μεταφόρτωση ψηφιακών αντικειμένων έχει καλυφθεί. Επικοινωνήστε με το διαχειριστή του συστήματος για να αυξήσει το διαθέσιμο χώρο   </target>
+        <target xml:space="preserve" state="translated">Ο μέγιστος διαθέσιμος χώρος των %1% GB στο δίσκο για αναφόρτωση ψηφιακών αντικειμένων έχει καλυφθεί. Επικοινωνήστε με το διαχειριστή του συστήματος για να αυξήσει το διαθέσιμο χώρο.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/addDigitalObjectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ca7f60bc12531ad3f9e59ab97c1431e7fb6cb815" approved="yes">
+      <trans-unit id="ca7f60bc12531ad3f9e59ab97c1431e7fb6cb815" approved="no">
         <source xml:space="preserve">The maximum disk space of %1% GB available for uploading digital objects has been reached. Please contact your system administrator to increase the available disk space.</source>
-        <target xml:space="preserve">Ο μέγιστος διαθέσιμος χώρος των %1% GB στο δίσκο για μεταφόρτωση ψηφιακών αντικειμένων έχει καλυφθεί. Επικοινωνήστε με το διαχειριστή του συστήματος για να αυξήσει το διαθέσιμο χώρο   </target>
+        <target xml:space="preserve" state="translated">Ο μέγιστος διαθέσιμος χώρος των %1% GB στο δίσκο για αναφόρτωση ψηφιακών αντικειμένων έχει καλυφθεί. Επικοινωνήστε με το διαχειριστή του συστήματος για να αυξήσει το διαθέσιμο χώρο.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="7f48076d994553c44e2b81e2b8701d527278b007">
@@ -8956,19 +8955,19 @@
         <target xml:space="preserve" state="final">Ο σαφής κωδικός αναγνώρισης που χρησιμοποιείται για να προσδιορίσει μοναδικά αυτόν τον πόρο.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7e4f9856b9c62bfe3143c722ce98ff561dfcc0e6" approved="yes">
+      <trans-unit id="7e4f9856b9c62bfe3143c722ce98ff561dfcc0e6" approved="no">
         <source xml:space="preserve">The upload limit of %1% GB for &lt;a href="%2%"&gt;%3%&lt;/a&gt; has been exceeded (%4% GB currently used)</source>
-        <target xml:space="preserve">Το όριο μεταφόρτωσης των %1% GB  για το &lt;a href="%2%"&gt;%3%&lt;/a&gt; έχει ήδη εξαντληθεί (%4% GB χρησιμοποιούνται ήδη)</target>
+        <target xml:space="preserve" state="translated">Το όριο αναφόρτωσης των %1% GB  για το &lt;a href="%2%"&gt;%3%&lt;/a&gt; έχει ήδη εξαντληθεί (%4% GB χρησιμοποιούνται ήδη)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/uploadLimitExceededSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5e8ce4b3e3d2d02f7dc87be0f433fb3d64579821" approved="yes">
+      <trans-unit id="5e8ce4b3e3d2d02f7dc87be0f433fb3d64579821" approved="no">
         <source xml:space="preserve">The upload limit of %1% GB for &lt;a href="%2%"&gt;%3%&lt;/a&gt; has been reached</source>
-        <target xml:space="preserve">Το όριο μεταφόρτωσης των %1% για  &lt;a href="%2%"&gt;%3%&lt;/a&gt; έχει εξαντληθεί.</target>
+        <target xml:space="preserve" state="translated">Το όριο αναφόρτωσης των %1% για  &lt;a href="%2%"&gt;%3%&lt;/a&gt; έχει εξαντληθεί.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/addDigitalObjectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="517985e5d6fa7b5f1b4bedd841d96134cc649b65" approved="yes">
+      <trans-unit id="517985e5d6fa7b5f1b4bedd841d96134cc649b65" approved="no">
         <source xml:space="preserve">The uploads directory has not been created yet.</source>
-        <target xml:space="preserve">Ο φάκελος μεταφόρτωσης δεν έχει δημιουργηθεί ακόμη</target>
+        <target xml:space="preserve" state="translated">Ο κατάλογος αναφόρτωσης δεν έχει δημιουργηθεί ακόμη.</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/arWidgetFormUploadQuota.class.php</note>
       </trans-unit>
       <trans-unit id="f0cbd4e121ad7e1fad20acb8378d866774ada90d" approved="yes">
@@ -9021,14 +9020,14 @@
         <target xml:space="preserve" state="final">Η αρχειακή περιγραφή χρειάζεται τουλάχιστον μία χρονολογία.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="9bea32777050c84a81d813183d5ef039c3223d42" approved="yes">
+      <trans-unit id="9bea32777050c84a81d813183d5ef039c3223d42" approved="no">
         <source xml:space="preserve">This archival description, or one of its higher levels, %1%requires%2% at least one %3%creator%4%.</source>
-        <target xml:space="preserve" state="final">Η αρχειακή περιγραφή, ή ένα από τα υψηλότερα επίπεδα της, %1%χρειάζεται%2% τουλάχιστον έναν %3%δημιουργό%4%.</target>
+        <target xml:space="preserve" state="translated">Η αρχειακή περιγραφή, ή ένα από τα υψηλότερα επίπεδα της, %1%χρειάζεται%2% τουλάχιστον έναν %3%παραγωγό%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="93ac1e6b4fb6c998be5523bacaafd132b25cdd9a" approved="yes">
+      <trans-unit id="93ac1e6b4fb6c998be5523bacaafd132b25cdd9a" approved="no">
         <source xml:space="preserve">This archival description, or one of its higher levels, requires at least one creator.</source>
-        <target xml:space="preserve" state="final">Η αρχειακή περιγραφή, ή ένα από τα υψηλότερα επίπεδα της, χρειάζεται τουλάχιστον έναν δημιουργό.</target>
+        <target xml:space="preserve" state="translated">Η αρχειακή περιγραφή, ή ένα από τα υψηλότερα επίπεδα της, χρειάζεται τουλάχιστον έναν παραγωγό.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="0191a6141d0f117ad83678a3456c44a9900e248e">
@@ -9041,13 +9040,13 @@
         <target xml:space="preserve">Το πεδίο αυτό είναι απαραίτητο</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
-      <trans-unit id="595961d78eb8666f3239d816184a6d484352ee9f" approved="yes">
+      <trans-unit id="595961d78eb8666f3239d816184a6d484352ee9f" approved="no">
         <source xml:space="preserve">This identifer is already in use.</source>
-        <target xml:space="preserve">Ο Κωδικός Αναγνώρισης χρησιμοποιείται ήδη</target>
+        <target xml:space="preserve" state="translated">Ο Κωδικός Αναγνώρισης χρησιμοποιείται ήδη.</target>
       </trans-unit>
-      <trans-unit id="58f4434e064c3652c0df898350c598d84badac6a" approved="yes">
+      <trans-unit id="58f4434e064c3652c0df898350c598d84badac6a" approved="no">
         <source xml:space="preserve">This is a duplicate of record %1%</source>
-        <target xml:space="preserve">Αυτό είναι αντίγραφο της εγγραφής %1% </target>
+        <target xml:space="preserve" state="translated">Αυτό είναι αντίγραφο της εγγραφής %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="387ff6d6c5cce06d40dae3b806fca8809b2d5fbc" approved="yes">
@@ -9055,9 +9054,9 @@
         <target xml:space="preserve">Αυτό το στοιχείο είναι υποχρεωτικό</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="75d56ae241973aed7190054cdd1f94c0693731f4" approved="yes">
+      <trans-unit id="75d56ae241973aed7190054cdd1f94c0693731f4" approved="no">
         <source xml:space="preserve">This is a mandatory element for this resource or one of its higher descriptive levels (if part of a collection hierarchy).</source>
-        <target xml:space="preserve">Αυτό το στοιχείο είναι υποχρεωτικό για αυτό το πόρο ή για ένα υψηλότερου επιπέδου (εάν αποτελεί μέρος μια ιεραρχημένης συλλογής)</target>
+        <target xml:space="preserve" state="translated">Αυτό το στοιχείο είναι υποχρεωτικό για αυτόν το πόρο ή για έναν σε ανώτερο επίπεδο περιγραφής (εάν αποτελεί μέρος μιας ιεραρχίας συλλογής).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="423e0daa898ce63fd24668eb17bf7dbd30029f09" approved="yes">
@@ -9080,9 +9079,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
-      <trans-unit id="2b37cb2739e8dc25c25668fcfbaa12df488aaf43" approved="yes">
+      <trans-unit id="2b37cb2739e8dc25c25668fcfbaa12df488aaf43" approved="no">
         <source xml:space="preserve">This isn't a valid email address</source>
-        <target xml:space="preserve">Αυτό το e-mail δεν είναι έγκυρο  </target>
+        <target xml:space="preserve" state="translated">Αυτή η ηλεκτρονική διεύθυνση δεν είναι έγκυρη.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/loginAction.class.php</note>
       </trans-unit>
       <trans-unit id="02e4ad7f88566779ac3cae243dcc57c91c088e9f">
@@ -9190,14 +9189,14 @@
         <target xml:space="preserve">Για να δημιουργήσετε μια σχέση μεταξύ αυτής της περιγραφής με κάποια άλλη που περιέχεται στο AtoM, ξεκινήστε να πληκτρολογείται το όνομα της σχετιζόμενης περιγραφής και επιλέξτε την από το αυτό-συμπληρώμενο αναδιπλούμενο μενού όταν εμφανιστεί. Πολλαπλές σχέσεις είναι εφικτό να δημιουργηθούν.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="65d54b152319613b2708fad8429ec6278d08f4e0" approved="yes">
+      <trans-unit id="65d54b152319613b2708fad8429ec6278d08f4e0" approved="no">
         <source xml:space="preserve">To make your password stronger:</source>
-        <target xml:space="preserve">Για να κάνετε τον κωδικό σας ισχυρότερο:</target>
+        <target xml:space="preserve" state="translated">Για να κάνετε το σύνθημα πρόσβασης ισχυρότερο:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="22316db656705fa4ea6c67be96fb0fa6b48d7d2b" approved="yes">
+      <trans-unit id="22316db656705fa4ea6c67be96fb0fa6b48d7d2b" approved="no">
         <source xml:space="preserve">To upload a new %1%</source>
-        <target xml:space="preserve">Για να μεταφορτώσετε ένα νέο %1% </target>
+        <target xml:space="preserve" state="translated">Για να αναφορτώσετε ένα νέο %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/uploadLimitExceededSuccess.php</note>
       </trans-unit>
       <trans-unit id="cae0435c41e816c24f0838fdf4e76c044c8b4e00" approved="yes">
@@ -9333,9 +9332,9 @@
         <target xml:space="preserve">Άγνωστο</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/findingAidComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="684a9593f9c537db8ccbbe941f713b7c0defaad6" approved="yes">
+      <trans-unit id="684a9593f9c537db8ccbbe941f713b7c0defaad6" approved="no">
         <source xml:space="preserve">Unknown value detected.</source>
-        <target xml:space="preserve">Εντοπίστηκε άγνωστη τιμή</target>
+        <target xml:space="preserve" state="translated">Εντοπίστηκε άγνωστη τιμή.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/inventorySuccess.php</note>
       </trans-unit>
       <trans-unit id="b8bef37b7153b5665e94cf9b212c8708eb06db1f" approved="yes">
@@ -9467,9 +9466,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="ff7827bdef5e829d5542b2ad08736f166f3be29e" approved="yes">
+      <trans-unit id="ff7827bdef5e829d5542b2ad08736f166f3be29e" approved="no">
         <source xml:space="preserve">Uploads for &lt;a href="%1%"&gt;%2%&lt;/a&gt; are disabled</source>
-        <target xml:space="preserve">Οι μεταφορτώσεις για  &lt;a href="%1%"&gt;%2%&lt;/a&gt; είναι απενεργοποιημένη</target>
+        <target xml:space="preserve" state="translated">Οι ανάφορτώσεις για  &lt;a href="%1%"&gt;%2%&lt;/a&gt; είναι απενεργοποιημένες</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/addDigitalObjectSuccess.php</note>
       </trans-unit>
       <trans-unit id="4659dd21d783081b27c44db0868deae8b01c22f3">
@@ -9607,9 +9606,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5795184b338bb96cec54b3733ea0ab58f8808862" approved="yes">
+      <trans-unit id="5795184b338bb96cec54b3733ea0ab58f8808862" approved="no">
         <source xml:space="preserve">View deaccession record</source>
-        <target xml:space="preserve">Προβολή εγγραφής απόσυρσης </target>
+        <target xml:space="preserve" state="translated">Προβολή της εγγραφής απόσυρσης</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="48ab1410cc968413d2f96f1e8626789c9db08984">
@@ -9657,9 +9656,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/visibleElementsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="855f182f6b15ab5e4f30b5ee931b3f8c2befb7aa" approved="yes">
+      <trans-unit id="855f182f6b15ab5e4f30b5ee931b3f8c2befb7aa" approved="no">
         <source xml:space="preserve">We couldn't find any results matching your search.</source>
-        <target xml:space="preserve">Δεν μπορέσαμε να βρούμε κανένα αποτέλεσμα που να ταιριάζει με την αναζήτηση σας </target>
+        <target xml:space="preserve" state="translated">Δεν μπορέσαμε να βρούμε κανένα αποτέλεσμα που να ταιριάζει στην αναζήτηση σας.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/relatedAuthoritiesSuccess.php</note>
       </trans-unit>
       <trans-unit id="2e8a57cc5c472f4ac3b071979a38e80db7e59e87" approved="yes">
@@ -9757,9 +9756,9 @@
         <target xml:space="preserve">Δεν μπορείτε να προβάλετε περισσότερα από %max% αποτελέσματα ανά σελίδα</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="effcd964457987df5627f005cd37b12c967032c1" approved="yes">
+      <trans-unit id="effcd964457987df5627f005cd37b12c967032c1" approved="no">
         <source xml:space="preserve">You may only clear jobs belonging to you.</source>
-        <target xml:space="preserve">Μπορείτε να καθαρίσετε μόνο εργασίες που ανήκουν σε εσάς</target>
+        <target xml:space="preserve" state="translated">Μπορείτε να καθαρίσετε μόνο εργασίες που ανήκουν σε εσάς.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="ae5883a623518731e3e0ce34b99c181ffbe9f069" approved="yes">
@@ -9767,14 +9766,14 @@
         <target xml:space="preserve">Πρέπει να εισάγεται το email σας</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/loginAction.class.php</note>
       </trans-unit>
-      <trans-unit id="a60f203f82bc301ad483b81fa9851357231f10fd" approved="yes">
+      <trans-unit id="a60f203f82bc301ad483b81fa9851357231f10fd" approved="no">
         <source xml:space="preserve">You must enter your password</source>
-        <target xml:space="preserve">Πρέπει να εισάγεται τον κωδικό σας</target>
+        <target xml:space="preserve" state="translated">Πρέπει να εισάγεται το σύνθημα πρόσβασης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/loginAction.class.php</note>
       </trans-unit>
-      <trans-unit id="32a695f00e7eecfa1aefa9c0a9c090d03d1d4383" approved="yes">
+      <trans-unit id="32a695f00e7eecfa1aefa9c0a9c090d03d1d4383" approved="no">
         <source xml:space="preserve">You must enter your username</source>
-        <target xml:space="preserve">Πρέπει να εισάγετε το username σας </target>
+        <target xml:space="preserve" state="translated">Πρέπει να εισάγετε το όνομα χρήστη σας</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/loginAction.class.php</note>
       </trans-unit>
       <trans-unit id="38a80b3aa563366f6093af62acc3f86e19dbc9b5">
@@ -9782,9 +9781,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfSkosPlugin/modules/sfSkosPlugin/actions/importAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5b8d7eb4c328e630fac3c1f8df87917cba800edd" approved="yes">
+      <trans-unit id="5b8d7eb4c328e630fac3c1f8df87917cba800edd" approved="no">
         <source xml:space="preserve">You must show at least %min% hits per page</source>
-        <target xml:space="preserve">Πρέπει αν προβάλετε τουλάχιστον %min% αποτελέσματα ανά σελίδα </target>
+        <target xml:space="preserve" state="translated">Πρέπει αν προβάλετε τουλάχιστον %min% αποτελέσματα ανά σελίδα</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="5690bab5bc0502a82a0d8fd948a3b47d467cd5e0">
@@ -9807,19 +9806,19 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5971e540d1db1ad60fe77b3f97b48070aea20c28" approved="yes">
+      <trans-unit id="5971e540d1db1ad60fe77b3f97b48070aea20c28" approved="no">
         <source xml:space="preserve">Your password confirmation did not match your password.</source>
-        <target xml:space="preserve">Η επιβεβαίωση του κωδικού δεν ταιριάζει με τον κωδικό.</target>
+        <target xml:space="preserve" state="translated">Η επιβεβαίωση δεν ταιριάζει με το σύνθημα πρόσβασης.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="53d0bee69b2202d18c59ef084c4c314434e5c621" approved="yes">
+      <trans-unit id="53d0bee69b2202d18c59ef084c4c314434e5c621" approved="no">
         <source xml:space="preserve">Your password is not strong enough (too short).</source>
-        <target xml:space="preserve">Ο κωδικός σας δεν είναι αρκετά ισχυρός (πολύ μικρός).</target>
+        <target xml:space="preserve" state="translated">Το σύνθημα πρόσβασης σας δεν είναι αρκετά ισχυρό (πολύ σύντομο).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="36159a378e8c8a08097ad7da6ad47d4299ae6ac0" approved="yes">
+      <trans-unit id="36159a378e8c8a08097ad7da6ad47d4299ae6ac0" approved="no">
         <source xml:space="preserve">Your password is not strong enough.</source>
-        <target xml:space="preserve">Ο κωδικός σας δεν είναι αρκετά ισχυρός.</target>
+        <target xml:space="preserve" state="translated">Το σύνθημα πρόσβασης σας δεν είναι αρκετά ισχυρό.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="172415f02e562cd029620c3db12fb3cbb83c4208">
