@@ -114,9 +114,9 @@
         <target xml:space="preserve">"Identifique a área geográfica à qual pertence a instituição com acervo arquivístico. Registre quaisquer outras informações relevantes sobre o contexto cultural." (ISDIAH 5.3.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2206345ab7fa0daf4cca1b31e3e2dd2776a5037f" approved="yes">
+      <trans-unit id="2206345ab7fa0daf4cca1b31e3e2dd2776a5037f" approved="no">
         <source xml:space="preserve">"Identify the type of related resources, e.g. Archival materials (fonds, record series, etc), archival description, finding aid, monograph, journal article, web site, photograph, museum collection, documentary film, oral history recording." (ISAAR 6.2) In the current version of the software, Archival material is provided as the only default value.</source>
-        <target xml:space="preserve">"Identifique os tipos dos recursos relacionados, por exemplo, material arquivístico (fundo, série etc.), descrição arquivística, instrumento de pesquisa, monografia, artigo de periódico, web site, fotografia, coleção museológica, documentário, gravação de história oral." (ISAAR 6.2) Na versão atual do software, material  arquivístico é a única opção disponível.</target>
+        <target xml:space="preserve" state="translated">"Identifique os tipos dos recursos relacionados, por exemplo, material arquivístico (fundo, série etc.), descrição arquivística, instrumento de pesquisa, monografia, artigo de periódico, web site, fotografia, coleção museológica, documentário, gravação de história oral." (ISAAR 6.2) Na versão atual do software, material arquivístico é a única opção disponível.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="bcbfb996c6d81164e036dd09594679d5002244ea" approved="yes">
@@ -199,9 +199,9 @@
         <target xml:space="preserve">"Registre a(s) forma(s) paralela(s) do nome da instituição com acervo arquivístico de acordo com quaisquer convenções ou regras nacionais ou internacionais relevantes aplicadas pela instituição que criou a descrição, incluindo quaisquer subelementos e/ou qualificadores necessários, requeridos por essas convenções ou regras. Especifique no elemento Regras e/ou convenções utilizadas (5.6.3) as regras aplicadas." (ISDIAH 5.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e7e21651fa1aeaf087f693b08ab6f2fc3be11ad8" approved="yes">
+      <trans-unit id="e7e21651fa1aeaf087f693b08ab6f2fc3be11ad8" approved="no">
         <source xml:space="preserve">"Purpose: To indicate the various forms in which the authorized form(s) of name occurs in other languages or script forms. Rule: Record the parallel form(s) of name in accordance with any relevant national or international conventions or rules applied by the agency that created the description, including any necessary sub elements and/or qualifiers required by those conventions or rules. Specify in the Rules and/or conventions element (5.4.3.) which rules have been applied." (ISDF 5.1.3)</source>
-        <target xml:space="preserve">"Objetivo: Indicar as várias maneiras em que a(s) forma(s) autorizada(s) do nome ocorre(m) em outras línguas ou formas de escrita. Regra: Registre a(s) forma(s) paralela(s) do nome de acordo com quaisquer regras ou convenções nacionais ou internacionais aplicadas pela instituição arquivística que criou a descrição, incluindo quaisquer subelementos necessários e/ou qualificadores requeridos por essas convenções ou regras. Especifique no elemento Regras e/ou convenções utilizadas (5.4.3.) quais regras foram aplicadas."  (ISDF 5.1.3)</target>
+        <target xml:space="preserve" state="translated">"Objetivo: Indicar as várias maneiras em que a(s) forma(s) autorizada(s) do nome ocorre(m) em outras línguas ou formas de escrita. Regra: Registre a(s) forma(s) paralela(s) do nome de acordo com quaisquer regras ou convenções nacionais ou internacionais aplicadas pela instituição arquivística que criou a descrição, incluindo quaisquer subelementos necessários e/ou qualificadores requeridos por essas convenções ou regras. Especifique no elemento Regras e/ou convenções utilizadas (5.4.3.) quais regras foram aplicadas." (ISDF 5.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b9a8801c80f2a693ddd0e7d1bed087a6833951d2" approved="yes">
@@ -239,10 +239,9 @@
         <target xml:space="preserve">"Registre um identificador específico do registro de autoridade, de acordo com convenções locais e/ou internacionais. Se o registro de autoridade é para uso internacional, registre o código do país no qual este registro de autoridade foi criado, de acordo com a última versão da ISO 3166 Codes for the representation of names of countries. Quando o produtor de um registro de autoridade for uma organização internacional, forneça o identificador da organização em lugar do código do país." (ISAAR 5.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15" approved="yes">
+      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15" approved="no">
         <source xml:space="preserve">"Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 - Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code." (ISIAH 5.6.1)</source>
-        <target xml:space="preserve">"Registe um identificador específico da descrição de acordo com convenções locais e/ou nacionais. Se a descrição é para uso internacional, registre o código do país no qual o a descrição foi produzida, de acordo com a última versão da ISO
-3166 - Codes for the representation of names of countries. Quando o produtor da descrição for uma organização internacional, forneça o identificador da organização em lugar do código do país." (ISIAH 5.6.1)</target>
+        <target xml:space="preserve" state="translated">"Registe um identificador específico da descrição de acordo com convenções locais e/ou nacionais. Se a descrição é para uso internacional, registre o código do país no qual o a descrição foi produzida, de acordo com a última versão da ISO 3166 - Codes for the representation of names of countries. Quando o produtor da descrição for uma organização internacional, forneça o identificador da organização em lugar do código do país." (ISIAH 5.6.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="fd846bcf8ecc30d07094334b4411a90abaad570b" approved="yes">
@@ -485,14 +484,14 @@
         <target xml:space="preserve">"Selecione um termo descritivo a partir da lista de opções para indicar o tipo de relação entre estas duas entidades produtoras."</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="8eb2ceb4b96941d5a450a10a7d833412106b33e4" approved="yes">
+      <trans-unit id="8eb2ceb4b96941d5a450a10a7d833412106b33e4" approved="no">
         <source xml:space="preserve">"Specify the type of entity that is being described in this authority record." (ISAAR 5.1.1) Select Corporate body, Family or Person from the drop-down menu.</source>
-        <target xml:space="preserve">"Especifique o tipo de entidade que está sendo descrita no registro de autoridade." (ISAAR 5.1.1) Selecionar  Entidade coletiva, Pessoa, ou Família do menu drop-down.</target>
+        <target xml:space="preserve" state="translated">"Especifique o tipo de entidade que está sendo descrita no registro de autoridade." (ISAAR 5.1.1) Selecionar Entidade coletiva, Pessoa, ou Família do menu drop-down.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c026cf03b3a849136c96e53f0ab910bacfea5f89" approved="yes">
+      <trans-unit id="c026cf03b3a849136c96e53f0ab910bacfea5f89" approved="no">
         <source xml:space="preserve">"Specify whether the description is a function or one of its subdivisions." (ISDF 5.1.1) Select the type from the drop-down menu; these values are drawn from the ISDF Function Types taxonomy.</source>
-        <target xml:space="preserve">"Especifique se a descrição é de uma função ou de uma de suas subdivisões, de acordo com a terminologia nacional ou internacional." (ISDF 5.1.1) Seleccionar da lista de opções relativa à taxonomia de Funções ISDF</target>
+        <target xml:space="preserve" state="translated">"Especifique se a descrição é de uma função ou de uma de suas subdivisões, de acordo com a terminologia nacional ou internacional." (ISDF 5.1.1) Selecionar da lista de opções relativa à taxonomia de Funções ISDF.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="bfcdc2a643be0c1a93801a5cc200cfcffe7c48ea" approved="yes">
@@ -764,24 +763,24 @@
         <target xml:space="preserve">%1% Exportação iniciada. %2% Marque %3% gerenciador de trabalhos %4% página para baixar os resultados quando completos.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/actions/holdingsReportExportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="a203c1f0b502d748a466bc46e95ccec9e475eedf" approved="yes">
+      <trans-unit id="a203c1f0b502d748a466bc46e95ccec9e475eedf" approved="no">
         <source xml:space="preserve">%1%Extent and medium%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve">%1%Dimensão e suporte%2% - É um  %3%elemento%4% obrigatório.</target>
+        <target xml:space="preserve" state="translated">%1%Dimensão e suporte%2% - É um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="81e55b0864b25e4c50a22243308c60a084b9bd2d" approved="yes">
+      <trans-unit id="81e55b0864b25e4c50a22243308c60a084b9bd2d" approved="no">
         <source xml:space="preserve">%1%Identifier%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve">%1%Identificador%2% - É um  %3%elemento%4% obrigatório.</target>
+        <target xml:space="preserve" state="translated">%1%Identificador%2% - É um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="e7a0ed0861ed3cafcd69a76e040321da501e9e7a" approved="yes">
+      <trans-unit id="e7a0ed0861ed3cafcd69a76e040321da501e9e7a" approved="no">
         <source xml:space="preserve">%1%Identifier%2% - This is a mandatory element.</source>
-        <target xml:space="preserve">%1%Identificador%2% - É um  %3%elemento%4% obrigatório.</target>
+        <target xml:space="preserve" state="translated">%1%Identificador%2% - É um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="1b796481921290f4b070bff37797bb269e6c0b89" approved="yes">
+      <trans-unit id="1b796481921290f4b070bff37797bb269e6c0b89" approved="no">
         <source xml:space="preserve">%1%Level of description%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve">%1%Nível de descrição%2% - É um  %3%elemento%4% obrigatório.</target>
+        <target xml:space="preserve" state="translated">%1%Nível de descrição%2% - É um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="afede96aa7ea62bda367c89bfc3f30c6b57611a3" approved="yes">
@@ -804,9 +803,9 @@
         <target xml:space="preserve">%1%Relação%2% (%3%está localizado em%4%) - é um elemento obrigatório para este recurso ou um de seus níveis descritivos mais elevados (se parte de uma hierarquia de coleção).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="1400b0b793d9e20117f146e4778506a17c7d1066" approved="yes">
+      <trans-unit id="1400b0b793d9e20117f146e4778506a17c7d1066" approved="no">
         <source xml:space="preserve">%1%Title%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve">%1%Título%2% - É um  %3%elemento%4% obrigatório.</target>
+        <target xml:space="preserve" state="translated">%1%Título%2% - É um %3%elemento%4% obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="1290dae91dc3a3f6a16983d2b4fcd4b59d7a5369" approved="yes">
@@ -864,14 +863,14 @@
         <target xml:space="preserve">-- Selecionar ação --</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="7c87294fd595a5cce42dc7eaced0ab3290f9d3ba" approved="yes">
+      <trans-unit id="7c87294fd595a5cce42dc7eaced0ab3290f9d3ba" approved="no">
         <source xml:space="preserve">&lt;p&gt;&lt;strong&gt;Child levels&lt;/strong&gt;&lt;br/&gt;Use these two fields to add lower levels to a collection level description. Click &lt;em&gt;Add new&lt;/em&gt; to create as many child levels as necessary.&lt;/p&gt;&lt;p&gt;These fields can also be used to add any number of intermediate levels of description (e.g. series, file, etc) between the top and bottom levels in a descriptive hierarchy. Use the hierarchy treeview to re-order hierarchy levels as necessary.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Identifier&lt;/em&gt;: The unambiguous reference code used to uniquely identify the child-level resource.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Title&lt;/em&gt;: The name given to the child-level resource.&lt;/p&gt;</source>
-        <target xml:space="preserve">&lt;p&gt;&lt;strong&gt;Níveis dependentes&lt;/strong&gt;&lt;br/&gt;Use estes dois campos para adicionar níveis inferiores ao nível da descrição da colecção. Clicar &lt;em&gt;Adicionar novo&lt;/em&gt; para criar tantos níveis inferiores quanto necessário.&lt;/p&gt;&lt;p&gt;Estes campos podem também ser utilizados para adicionar qualquer número de níveis intermédios da descrição (ex: série, pasta, etc) entre os níveis de topo e da base nma hieraquia descritiva. Use a árvore da hieraquia para reordenar os vários níveis, se necessário.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Identificadorr&lt;/em&gt;: Uma referência unívoca para  identificar o recurso de nível inferior.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Título&lt;/em&gt;: O nome dado a um recurso de nível inferior.&lt;/p&gt;</target>
+        <target xml:space="preserve" state="translated">&lt;p&gt;&lt;strong&gt;Níveis dependentes&lt;/strong&gt;&lt;br/&gt;Use estes dois campos para adicionar níveis inferiores ao nível da descrição da colecção. Clicar &lt;em&gt;Adicionar novo&lt;/em&gt; para criar tantos níveis inferiores quanto necessário.&lt;/p&gt;&lt;p&gt;Estes campos podem também ser utilizados para adicionar qualquer número de níveis intermédios da descrição (ex: série, pasta, etc) entre os níveis de topo e da base nma hieraquia descritiva. Use a árvore da hieraquia para reordenar os vários níveis, se necessário.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Identificadorr&lt;/em&gt;: Uma referência unívoca para identificar o recurso de nível inferior.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Título&lt;/em&gt;: O nome dado a um recurso de nível inferior.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2ae47113540460180dc4be6804b881eb4854d29b" approved="yes">
+      <trans-unit id="2ae47113540460180dc4be6804b881eb4854d29b" approved="no">
         <source xml:space="preserve">&lt;p&gt;The file format, physical medium, or dimensions of the resource.&lt;/p&gt;&lt;p&gt;Please note: if this resource is linked to a digital object, the Internet Media Types (MIME) will be added automatically upon output, so don't duplicate those values here.&lt;/p&gt;</source>
-        <target xml:space="preserve">&lt;p&gt;O formato do ficheiro, suporte físico, ou dimensões do recurso.&lt;/p&gt;&lt;p&gt;Notar que se este recurso estiver ligado a um objecto digital,  será adicionado automaticamente o Internet Media Types (MIME)ao resultado, portanto não duplique aqui este valor.&lt;/p&gt;</target>
+        <target xml:space="preserve" state="translated">&lt;p&gt;O formato do ficheiro, suporte físico, ou dimensões do recurso.&lt;/p&gt;&lt;p&gt;Notar que se este recurso estiver ligado a um objecto digital, será adicionado automaticamente o Internet Media Types (MIME)ao resultado, portanto não duplique aqui este valor.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="870c7f78d415fd403fafaca9ae0d75d250291841" approved="yes">
@@ -894,9 +893,9 @@
         <target xml:space="preserve">&lt;strong&gt;Identificador&lt;/strong&gt; &lt;br /&gt;Forneça um identificador exclusivo para os materiais que estão sendo descritos de acordo com o sistema de controle administrativo da instituição.&lt;br /&gt;&lt;strong&gt;Nível de descrição&lt;/strong&gt;&lt;br /&gt;Registre o nível desta unidade de descrição.&lt;br /&gt;&lt;strong&gt;Título&lt;/strong&gt;&lt;br /&gt;na ausência de um título formal significativo, componha um breve título que identifique o material.&lt;br /&gt;&lt;strong&gt;Data&lt;/strong&gt;&lt;br /&gt;Registre uma data de criação.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="07c1e69f661a4419aa070bb8497aecfd199afba6" approved="yes">
+      <trans-unit id="07c1e69f661a4419aa070bb8497aecfd199afba6" approved="no">
         <source xml:space="preserve">&lt;strong&gt;Label:&lt;/strong&gt; Enter a name for the alternative identifier field that indicates its purpose and usage.&lt;br/&gt;&lt;strong&gt;Identifier:&lt;/strong&gt; Enter a legacy reference code, alternative identifier, or any other alpha-numeric string associated with the record.</source>
-        <target xml:space="preserve">&lt;strong&gt;Etiqueta:&lt;/strong&gt; Digite um nome para o campo identificador alternativo que indique sua finalidade e uso.&lt;br/&gt; &lt;strong&gt;Identificador:&lt;/strong&gt; Introduza um código de referência anterior, identificador alternativo, ou qualquer outra sequência alfanumérica associada ao registro. </target>
+        <target xml:space="preserve" state="translated">&lt;strong&gt;Etiqueta:&lt;/strong&gt; Digite um nome para o campo identificador alternativo que indique sua finalidade e uso.&lt;br/&gt; &lt;strong&gt;Identificador:&lt;/strong&gt; Introduza um código de referência anterior, identificador alternativo, ou qualquer outra sequência alfanumérica associada ao registro.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
       <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" approved="yes">
@@ -914,9 +913,9 @@
         <target xml:space="preserve">Uma designação codificada para os direitos de autor do objeto no momento em que a declaração de direitos de autor é registrada.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4bc18f6bb33a2e46f543669342dc568810d5d3ce" approved="yes">
+      <trans-unit id="4bc18f6bb33a2e46f543669342dc568810d5d3ce" approved="no">
         <source xml:space="preserve">A condition or limitation on the act.</source>
-        <target xml:space="preserve">Condição ou limitação sobre o ato</target>
+        <target xml:space="preserve" state="translated">Condição ou limitação sobre o ato.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e3391f550439fcce85bd5eb0a84fd6de98ff7843" approved="yes">
@@ -1188,9 +1187,9 @@
         <target xml:space="preserve">Data(s) da(s) aquisição(ões)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/browseAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d9d155cebbb688885502285619ccafb08ccd9ed9" approved="yes">
+      <trans-unit id="d9d155cebbb688885502285619ccafb08ccd9ed9" approved="no">
         <source xml:space="preserve">Acquisition date - This is a mandatory element.</source>
-        <target xml:space="preserve">Data(s) da(s) aquisição(ões) – É um elemento obrigatório</target>
+        <target xml:space="preserve" state="translated">Data(s) da(s) aquisição(ões) – É um elemento obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="459c3e0c4e105aa9d41283400696dc760dc0f643" approved="yes">
@@ -1283,9 +1282,9 @@
         <target xml:space="preserve">Adicionar identificador(es) alternativo(s)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_identifierOptions.php</note>
       </trans-unit>
-      <trans-unit id="9f780ca0f3cbaf61d43c297030552bdee2a5bf50" approved="yes">
+      <trans-unit id="9f780ca0f3cbaf61d43c297030552bdee2a5bf50" approved="no">
         <source xml:space="preserve">Add an alpha-numeric code to uniquely identify this particular OAI repository within its network domain to create a unique, OAI-compliant identifier, e.g. oai:foo.org:repositorycode_10001</source>
-        <target xml:space="preserve">Adicionar um código alfanumérico para identificar este específico repositório OAI dentro de seu domínio de rede, para criar um único identificador em conformidade à OAI, por exemplo,  oai:foo.org:repositorycode_10001</target>
+        <target xml:space="preserve" state="translated">Adicionar um código alfanumérico para identificar este específico repositório OAI dentro de seu domínio de rede, para criar um único identificador em conformidade à OAI, por exemplo, oai:foo.org:repositorycode_10001</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
       <trans-unit id="a84d1bcde446d597125baa5356ce054d95555ca3" approved="yes">
@@ -1758,9 +1757,9 @@
         <target xml:space="preserve">Tipo de arquivo</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d8e5edb022a5a862ecfa03b23a8347a95befa1de" approved="yes">
+      <trans-unit id="d8e5edb022a5a862ecfa03b23a8347a95befa1de" approved="no">
         <source xml:space="preserve">Archive type:</source>
-        <target xml:space="preserve">Tipo de arquivo</target>
+        <target xml:space="preserve" state="translated">Tipo de arquivo:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_advancedFilters.php</note>
       </trans-unit>
       <trans-unit id="d277b4a07124048314876e5303331f38db4d3552" approved="yes">
@@ -1808,9 +1807,9 @@
         <target xml:space="preserve">Tem certeza de que deseja excluir este direito?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/deleteSuccess.php</note>
       </trans-unit>
-      <trans-unit id="01850f0b38dbc0ccf240926c3bb291e710cdacc0" approved="yes">
+      <trans-unit id="01850f0b38dbc0ccf240926c3bb291e710cdacc0" approved="no">
         <source xml:space="preserve">Are you sure you want to replace "%1%" with "%2%" in %3%?</source>
-        <target xml:space="preserve">Tem certeza que pretende substituir "%1%" por "%2%" em "%3%"</target>
+        <target xml:space="preserve" state="translated">Tem certeza que pretende substituir "%1%" por "%2%" em "%3%"?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/globalReplaceAction.class.php</note>
       </trans-unit>
       <trans-unit id="d9b949cc8611a0716b225e5cb8842fd12efa321c" approved="yes">
@@ -1933,9 +1932,9 @@
         <target xml:space="preserve">Voltar para a página anterior</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/readOnlySuccess.php</note>
       </trans-unit>
-      <trans-unit id="aa98926049679386ccb311e11a2c620586b7b531" approved="yes">
+      <trans-unit id="aa98926049679386ccb311e11a2c620586b7b531" approved="no">
         <source xml:space="preserve">Back to previous page.</source>
-        <target xml:space="preserve">voltar à página anterior</target>
+        <target xml:space="preserve" state="translated">voltar à página anterior.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/errorSuccess.php</note>
       </trans-unit>
       <trans-unit id="1a0371e373ff2700ab0c7bb696ff5d8fb3aad23d" approved="yes">
@@ -2063,9 +2062,9 @@
         <target xml:space="preserve">Navegar %1% resultados</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_maintainedActors.php</note>
       </trans-unit>
-      <trans-unit id="2c9abb550a6c7b975efff8480d8b9587dc7366fa" approved="yes">
+      <trans-unit id="2c9abb550a6c7b975efff8480d8b9587dc7366fa" approved="no">
         <source xml:space="preserve">Browse %1%:</source>
-        <target xml:space="preserve">Navegar %1%</target>
+        <target xml:space="preserve" state="translated">Navegar %1%:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="ae2f8272fa7ed3652061336906f093a9447422f3" approved="yes">
@@ -2198,9 +2197,9 @@
         <target xml:space="preserve">Verificar atualizações</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="42b5b7f5fcfcf179d04c845e5dd3e14535d4adb2" approved="yes">
+      <trans-unit id="42b5b7f5fcfcf179d04c845e5dd3e14535d4adb2" approved="no">
         <source xml:space="preserve">Check the %1% page to determine present status. You can keep moving nodes if you don't reload the page. Once the page is reloaded, if a move job hasn't ended, your recent change(s) may not yet be displayed and new changes may fail. After the move job ends and the page is reloaded, the treeview will be back to a stable status.</source>
-        <target xml:space="preserve">Verifique a %1% página para determinar o estado atual. Você pode continuar movendo os nós enquanto não atualizar a página. Uma vez que a página é atualizada, se uma tarefa de mudança não tiver terminado, sua(s) mudança(s) recente(s) talvez não sejam exibidas momentaneamente e novas mudanças podem falhar. Depois que a tarefa de mudança finalizar e a página atualizar, a  visualização em árvore voltará a um estado estável. </target>
+        <target xml:space="preserve" state="translated">Verifique a página %1% para determinar o estado atual. Você pode continuar movendo os nós enquanto não atualizar a página. Uma vez que a página é atualizada, se uma tarefa de mudança não tiver terminado, sua(s) mudança(s) recente(s) talvez não sejam exibidas momentaneamente e novas mudanças podem falhar. Depois que a tarefa de mudança finalizar e a página atualizar, a visualização em árvore voltará a um estado estável.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewMoveAction.class.php</note>
       </trans-unit>
       <trans-unit id="9e54a5e815ec97037c9b119291e721df203598c1" approved="yes">
@@ -2713,9 +2712,9 @@
         <target xml:space="preserve">Data</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_updatesSearch.php</note>
       </trans-unit>
-      <trans-unit id="ace76c4c758f39701d405a96ced699ff75361ec7" approved="yes">
+      <trans-unit id="ace76c4c758f39701d405a96ced699ff75361ec7" approved="no">
         <source xml:space="preserve">Date of acquisition - This is a mandatory element.</source>
-        <target xml:space="preserve">Data de aquisição - elemento obrigatório</target>
+        <target xml:space="preserve" state="translated">Data de aquisição - elemento obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="a3df46d69c5a94a13fd231ad16a4fb3cdbb8cf2c" approved="yes">
@@ -2918,9 +2917,9 @@
         <target xml:space="preserve">Descrição</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/editThemeSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3abd2c5d023c5b19ef18d318bc587e8dbc61b5f9" approved="yes">
+      <trans-unit id="3abd2c5d023c5b19ef18d318bc587e8dbc61b5f9" approved="no">
         <source xml:space="preserve">Description - This is a mandatory element.</source>
-        <target xml:space="preserve">Descrição - elemento obrigatório</target>
+        <target xml:space="preserve" state="translated">Descrição - elemento obrigatório.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="47c60b64dc2a82d260de02c14794796cfc71ce85" approved="yes">
@@ -3108,9 +3107,9 @@
         <target xml:space="preserve">Não utilize caracteres especiais ou espaços no nome do arquivo - apenas caracteres alfanuméricos em caixa baixa (a-z, 0-9) e hífens (-) serão salvos. Demais caracteres serão retirados ou substituídos. Outros campos não serão automaticamente atualizados ao editar o nome do arquivo.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/renameSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f685035ae35a8601c50a7e8020483324e95d0582" approved="yes">
+      <trans-unit id="f685035ae35a8601c50a7e8020483324e95d0582" approved="no">
         <source xml:space="preserve">Do not use any special characters or spaces in the slug - only lower case alphanumeric characters (a-z, 0-9) and dashes (-) will be saved. Other characters will be stripped out or replaced. Editing the slug will not automatically update the other fields.</source>
-        <target xml:space="preserve">Não use caracteres especiais ou espaços no slug - apenas caracteres alfanuméricos em  letra minúscula (a-z, 0-9) e traços (-) serão salvos. Outros caracteres serão ser retirados ou substituídos. Editando o slug não implica na atualização automática dos outros campos.</target>
+        <target xml:space="preserve" state="translated">Não use caracteres especiais ou espaços no slug - apenas caracteres alfanuméricos em letra minúscula (a-z, 0-9) e traços (-) serão salvos. Outros caracteres serão ser retirados ou substituídos. Editando o slug não implica na atualização automática dos outros campos.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/renameSuccess.php</note>
       </trans-unit>
       <trans-unit id="49d010b43fef51e679bfa687236f9d9547b43de4" approved="yes">
@@ -3643,9 +3642,9 @@
         <target xml:space="preserve">Data final</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="dfe6a07c57eee4e4e9db3b226403a24db11ec77c" approved="yes">
+      <trans-unit id="dfe6a07c57eee4e4e9db3b226403a24db11ec77c" approved="no">
         <source xml:space="preserve">Enter an unambiguous code used to uniquely identify the description.</source>
-        <target xml:space="preserve">Digitar um código unívoco para identificar a descrição</target>
+        <target xml:space="preserve" state="translated">Digitar um código unívoco para identificar a descrição.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="0e58ad386dae9642f84207d280dd7175abeaebcf" approved="yes">
@@ -3658,14 +3657,14 @@
         <target xml:space="preserve">Digite o ID da área de transferência que você deseja carregar.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d186bd7f7c43e70b908e186473d02190ade84297" approved="yes">
+      <trans-unit id="d186bd7f7c43e70b908e186473d02190ade84297" approved="no">
         <source xml:space="preserve">Enter the copyright end date, if known. Acceptable date format: YYYY-MM-DD.</source>
-        <target xml:space="preserve">Insira a data final de copyright, se conhecida. Formato de data aceitável: AAAA-MM-DD</target>
+        <target xml:space="preserve" state="translated">Insira a data final de copyright, se conhecida. Formato de data aceitável: AAAA-MM-DD.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="eeb7969637498f3b3a365a9ca17c1c96f58a5400" approved="yes">
+      <trans-unit id="eeb7969637498f3b3a365a9ca17c1c96f58a5400" approved="no">
         <source xml:space="preserve">Enter the copyright start date, if known. Acceptable date format: YYYY-MM-DD.</source>
-        <target xml:space="preserve">Insira a data de início de copyright, se conhecida. Formato de data aceitável: AAAA-MM-DD</target>
+        <target xml:space="preserve" state="translated">Insira a data de início de copyright, se conhecida. Formato de data aceitável: AAAA-MM-DD.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="c7856c267f042afefdcdeaff2246bad18c9a6b70" approved="yes">
@@ -3683,14 +3682,14 @@
         <target xml:space="preserve">Digite o(s) endereço(s) de e-mail de pelo menos um administrador para o repositório. Vários endereços poderão ser inseridos, separados por vírgulas. O e-mail será apresentado como parte de uma resposta a uma solicitação de identificação.</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
-      <trans-unit id="4f83d31d66cec4d3a556ed4055976117d787540e" approved="yes">
+      <trans-unit id="4f83d31d66cec4d3a556ed4055976117d787540e" approved="no">
         <source xml:space="preserve">Enter the end year. Do not use any qualifiers or typographical symbols to express uncertainty. Acceptable date formats: YYYYMMDD, YYYY-MM-DD, YYYY-MM, YYYY.</source>
-        <target xml:space="preserve">Digite o ano final. Não use os qualificadores ou símbolos tipográficos para expressar incerteza. Formatos aceitáveis ​​de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.</target>
+        <target xml:space="preserve" state="translated">Insira o ano final. Não use qualificadores ou símbolos tipográficos para expressar incerteza. Formatos aceitáveis de data: AAAAMMDD, AAAA-MM-DD, AAAA-MM, AAAA.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/event/actions/editComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="29c58a5024104dca6fe572960fd838d5b4311e87" approved="yes">
+      <trans-unit id="29c58a5024104dca6fe572960fd838d5b4311e87" approved="no">
         <source xml:space="preserve">Enter the end year. Do not use any qualifiers or typographical symbols to express uncertainty. If the start and end years are the same, enter data only in the "Date" field and leave the "End date" blank.</source>
-        <target xml:space="preserve">Registre o ano final. Não use nenhum qualificador ou símbolo tipográfico para expressar incerteza.  Se o ano inicial e final são os mesmos, registrar os dados somente no campo "Data" e deixar o "Data final" em branco.</target>
+        <target xml:space="preserve" state="translated">Registre o ano final. Não use nenhum qualificador ou símbolo tipográfico para expressar incerteza. Se o ano inicial e final são os mesmos, registrar os dados somente no campo "Data" e deixar o "Data final" em branco.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/relation/actions/editComponent.class.php</note>
       </trans-unit>
       <trans-unit id="ab2246356f61b6c431dbdfe3d565066133a908c0" approved="yes">
