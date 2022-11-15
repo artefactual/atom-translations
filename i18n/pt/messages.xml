@@ -19,9 +19,9 @@
         <target xml:space="preserve" state="translated"> relatório</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9b4d2dfc0b645efe7d3cde382a35f653f85d431a" approved="yes">
+      <trans-unit id="9b4d2dfc0b645efe7d3cde382a35f653f85d431a" approved="no">
         <source xml:space="preserve">"At all levels record the extent of the unit being described by giving the number of physical units in arabic numerals and the specific material designation as instructed in subrule .5B in the chapter(s) dealing with the broad class(es) of material to which the unit being described belongs." (RAD 1.5B1) Include other physical details and dimensions as specified in RAD 1.5C and 1.5D. Separate multiple entries in this field with a carriage return (i.e. press the Enter key on your keyboard).</source>
-        <target xml:space="preserve">Em todos os níveis, gravar a extensão da unidade que está a ser descrita, indicando o número de unidades físicas em algarismos arábes e a designação específica do material conforme a sub-regra .5B do(s) capítulo(s) relativo(s) à classe genérica de material a que a unidade a ser descrita pertence." (RAD 1.5B1) Incluir outros detalhes físicos e dimensões conforme especificado na RAD 1.5C e 1.5D. Separar as várias entradas neste campo pressionando a tecla Enter do teclado.</target>
+        <target xml:space="preserve" state="translated">"Em todos os níveis, gravar a extensão da unidade que está a ser descrita, indicando o número de unidades físicas em algarismos árabes e a designação específica do material conforme a sub-regra .5B do(s) capítulo(s) relativo(s) à classe genérica de material a que a unidade a ser descrita pertence." (RAD 1.5B1) Incluir outros detalhes físicos e dimensões conforme especificado na RAD 1.5C e 1.5D. Separar as várias entradas neste campo pressionando a tecla Enter do teclado.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0" approved="yes">
@@ -7050,11 +7050,9 @@
         <target xml:space="preserve">Registre informação relevante sobre as fontes consultadas estabelecendo ou revisando a descrição. (DACS 8.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="53acccead279f0e87c4051db5cefa6dbe4ec049f" approved="yes">
+      <trans-unit id="53acccead279f0e87c4051db5cefa6dbe4ec049f" approved="no">
         <source xml:space="preserve">Record specialized or other important information not accommodated by any of the defined elements of description. (ISAD 3.6.1)</source>
-        <target xml:space="preserve">&lt;b&gt;ISAD (G) 3.6.1&lt;/b&gt;&lt;br /&gt;
-&lt;strong&gt;Objetivo:&lt;/strong&gt; Facultar informação que não possa ser incluída em qualquer das outras zonas.&lt;br /&gt;
-&lt;strong&gt;Regra:&lt;/strong&gt; Registar informação especializada ou outra informação significativa não incluída em nenhum dos elementos de informação definidos.</target>
+        <target xml:space="preserve" state="translated">Registar informação especializada ou outra informação significativa não incluída em nenhum dos elementos de descrição definidos. (ISAD 3.6.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="207f5301f91d5e1f1109378e73408948e559b50d" approved="yes">
