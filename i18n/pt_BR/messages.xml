@@ -4,19 +4,19 @@
   <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-10-21T23:54:57Z" product-name="messages">
     <header/>
     <body>
-      <trans-unit id="9b4d2dfc0b645efe7d3cde382a35f653f85d431a" approved="yes">
+      <trans-unit id="9b4d2dfc0b645efe7d3cde382a35f653f85d431a" approved="no">
         <source xml:space="preserve">"At all levels record the extent of the unit being described by giving the number of physical units in arabic numerals and the specific material designation as instructed in subrule .5B in the chapter(s) dealing with the broad class(es) of material to which the unit being described belongs." (RAD 1.5B1) Include other physical details and dimensions as specified in RAD 1.5C and 1.5D. Separate multiple entries in this field with a carriage return (i.e. press the Enter key on your keyboard).</source>
-        <target xml:space="preserve">Em todos os níveis, gravar a extensão da unidade que está a ser descrita, indicando o número de unidades físicas em algarismos arábes e a designação específica do material conforme a sub-regra .5B do(s) capítulo(s) relativo(s) à classe genérica de material a que a unidade a ser descrita pertence." (RAD 1.5B1) Incluir outros detalhes físicos e dimensões conforme especificado na RAD 1.5C e 1.5D. Separar as várias entradas neste campo pressionando a tecla Enter do teclado.</target>
+        <target xml:space="preserve" state="translated">Em todos os níveis, gravar a extensão da unidade que está a ser descrita, indicando o número de unidades físicas em algarismos arábicos e a designação específica do material conforme a sub-regra .5B do(s) capítulo(s) relativo(s) à classe genérica de material a que a unidade a ser descrita pertence." (RAD 1.5B1) Incluir outros detalhes físicos e dimensões conforme especificado na RAD 1.5C e 1.5D. Separar as várias entradas neste campo pressionando a tecla Enter do teclado.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0" approved="yes">
+      <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0" approved="no">
         <source xml:space="preserve">"At the fonds, series or file levels, record coordinates for the maximum coverage provided by the materials in the unit, as long as they are reasonably contiguous." (RAD 5.3D)</source>
-        <target xml:space="preserve">"Ao nível de fundos, séries ou unidades documentais, gravar as coordenadas para uma abrangência máxima fornecida pelos materiais a descrever, enquanto sejam razoavelmente contíguos." (RAD 5.3D)</target>
+        <target xml:space="preserve" state="translated">"Ao nível de fundos, séries ou dossiês, gravar as coordenadas para uma abrangência máxima fornecida pelos materiais a descrever, enquanto sejam razoavelmente contíguos." (RAD 5.3D)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e39858fff058c3d097605036f0d85826da7029ee" approved="yes">
+      <trans-unit id="e39858fff058c3d097605036f0d85826da7029ee" approved="no">
         <source xml:space="preserve">"At the fonds, series, and collection levels of description, and when necessary at the file and the item levels of description, indicate the level being described and give information about the scope and the internal structure of or arrangement of the records, and about their contents." (RAD 1.7D) "For the scope of the unit being described, give information about the functions and/or kinds of activities generating the records, the period of time, the subject matter, and the geographical area to which they pertain. For the content of the unit being described, give information about its internal structure by indicating its arrangement, organization, and/or enumerating its next lowest level of description. Summarize the principal documentary forms (e.g., reports, minutes, correspondence, drawings, speeches)." (RAD 1.7D1)</source>
-        <target xml:space="preserve">"Aos níveis de descrição de fundos, séries e colecções e, quando necessário, ao nível de pasta e documento, indicar o nível que está a ser descrito e informação sobre o âmbito e a estrutura interna ou organização dos documentos, e acerca o seu conteúdo. "(RAD 1.7D) "Para o âmbito da unidade que está a ser descrita, fornecer informações sobre as funções e / ou tipos de atividades que originaram os documentos, o período de tempo, o assunto e a área geográfica. Para o conteúdo da unidade que está a ser descrita, dar informações sobre sua estrutura interna, indicando a sua organização e / ou enumerando o seu nível mais baixo da descrição. Resumir as principais tipologias documentais (por exemplo, relatórios, atas, correspondências, desenhos, discursos). "(RAD 1.7D1)</target>
+        <target xml:space="preserve" state="translated">"Aos níveis de descrição de fundos, séries e coleções e, quando necessário, ao nível de pasta e documento, indicar o nível que está a ser descrito e informação sobre o âmbito e a estrutura interna ou organização dos documentos, e acerca o seu conteúdo. "(RAD 1.7D) "Para o âmbito da unidade que está a ser descrita, fornecer informações sobre as funções e / ou tipos de atividades que originaram os documentos, o período de tempo, o assunto e a área geográfica. Para o conteúdo da unidade que está a ser descrita, dar informações sobre sua estrutura interna, indicando a sua organização e / ou enumerando o seu nível mais baixo da descrição. Resumir as principais tipologias documentais (por exemplo, relatórios, atas, correspondências, desenhos, discursos). "(RAD 1.7D1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="59fcc3ec9ef8fed2f8021ef533dfdeb13dc18997" approved="yes">
@@ -3365,7 +3365,7 @@
       </trans-unit>
       <trans-unit id="906bdcd441965dfa4186d966dab83872b8e92269" approved="yes">
         <source xml:space="preserve">Edit description control area</source>
-        <target xml:space="preserve">Editar zona do controlo da descrição </target>
+        <target xml:space="preserve" state="final">Editar área de controle da descrição</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="30c016876b7676850dd8b3853ced9071b6c83c0f" approved="yes">
