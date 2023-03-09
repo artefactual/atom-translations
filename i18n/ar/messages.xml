@@ -129,34 +129,34 @@
         <target xml:space="preserve" state="final">"حدد المنطقة الجغرافية التي تنتمي إليها المؤسسة. سجل أي معلومات أخرى ذات صلة حول السياق الثقافي للمؤسسة." (ISDIAH 5.3.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2206345ab7fa0daf4cca1b31e3e2dd2776a5037f">
+      <trans-unit id="2206345ab7fa0daf4cca1b31e3e2dd2776a5037f" approved="yes">
         <source xml:space="preserve">"Identify the type of related resources, e.g. Archival materials (fonds, record series, etc), archival description, finding aid, monograph, journal article, web site, photograph, museum collection, documentary film, oral history recording." (ISAAR 6.2) In the current version of the software, Archival material is provided as the only default value.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"حدد نوع المصادر ذات الصلة ، على سبيل المثال ، مواد أرشيفية (وحدات أرشيفية، سلسلة وثائقية، إلخ) ، تسجيلة وصف أرشيفية ، وسائل الإيجاد ، دراسة ، مقال في مجلة ، موقع ويب ، صور فوتوغرافية ، ومجموعة متحفية ، وفيلم وثائقي ، وتسجيل التاريخ الشفوي." (ISAAR 6.2) في الإصدار الحالي من التطبيق، يتم توفير المادة الأرشيفية باعتبارها القيمة الافتراضية الوحيدة.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
-      <trans-unit id="bcbfb996c6d81164e036dd09594679d5002244ea">
+      <trans-unit id="bcbfb996c6d81164e036dd09594679d5002244ea" approved="yes">
         <source xml:space="preserve">"If all or part of the unit being described is available (either in the institution or elsewhere) in another format(s), e.g., if the text being described is also available on microfilm; or if a film is also available on videocassette, make a note indicating the other format(s) in which the unit being described is available and its location, if that information is known. If only a part of the unit being described is available in another format(s), indicate which parts." (RAD 1.8B15b)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"إذا كان كل أو جزء من الوحدة الموصوفة متاحًا (سواء في المؤسسة أو في مكان آخر) بتنسيق (تنسيقات) آخر ، على سبيل المثال ، إذا كان النص الموصوف متاحًا أيضًا على الميكروفيلم ؛ أو إذا كان الفيلم متاحًا أيضًا على شريط فيديو ، قم بتدوين ملاحظة تشير إلى التنسيق (التنسيقات) الأخرى التي تتوفر بها الوحدة الموصوفة وموقعها ، إذا كانت هذه المعلومات معروفة.إذا كان جزء فقط من الوحدة الموصوفة متاحًا في تنسيق (تنسيقات) آخر ، فاذكر الأجزاء. " (RAD 1.8B15b)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="92f8cdf3c5707744f2006096e580c089207d4617">
+      <trans-unit id="92f8cdf3c5707744f2006096e580c089207d4617" approved="yes">
         <source xml:space="preserve">"If the unit being described is a reproduction and the location of the original material is known, give that location. Give, in addition, any identifying numbers that may help in locating the original material in the cited location. If the originals are known to be no longer extant, give that information." (RAD 1.8B15a)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"إذا كانت الوحدة الموصوفة عبارة عن استنساخ وكان موقع المادة الأصلية معروفًا ، فاذكر ذلك الموقع. بالإضافة إلى ذلك ، أعط أي أرقام تعريفية قد تساعد في تحديد موقع المادة الأصلية في الموقع المذكور. إذا كانت النسخ الأصلية معروفة لـ لم تعد موجودة ، أعط هذه المعلومات ". (RAD 1.8B15a)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="209902b55e20d96aa67c511e2df290dbbe086b29">
+      <trans-unit id="209902b55e20d96aa67c511e2df290dbbe086b29" approved="yes">
         <source xml:space="preserve">"Make notes on dates and any details pertaining to the dates of creation, publication, or distribution, of the unit being described that are not included in the Date(s) of creation, including publication, distribution, etc., area and that are considered to be important." (RAD 1.8B8) "Make notes on the date(s) of accumulation or collection of the unit being described." (RAD 1.8B8a)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"قم بتدوين ملاحظات حول التواريخ وأي تفاصيل تتعلق بتواريخ الإنشاء أو النشر أو التوزيع للوحدة الموصوفة والتي لم يتم تضمينها في تاريخ (تواريخ) الإنشاء ، بما في ذلك النشر والتوزيع وما إلى ذلك ، والنطاق لأهميته ". (RAD 1.8B8) "قم بتدوين ملاحظات حول تاريخ (تواريخ) تجميع أو جمع الوحدة الموصوفة." (RAD 1.8B8a)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f0119e7c28d5c6815d4a47c0e068b7a6b7270a5c">
+      <trans-unit id="f0119e7c28d5c6815d4a47c0e068b7a6b7270a5c" approved="yes">
         <source xml:space="preserve">"Make notes on important details of publisher's series that are not included in the Publisher's series area, including variant series titles, incomplete series, and of numbers or letters that imply a series." (RAD 1.8B10)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"قم بتدوين ملاحظات حول التفاصيل المهمة لسلسلة الناشر التي لم يتم تضمينها في منطقة سلسلة الناشر ، بما في ذلك عناوين السلاسل المتغيرة ، والسلسلة غير المكتملة ، والأرقام أو الأحرف التي تشير ضمنًا إلى سلسلة." (RAD 1.8B10)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b68fbf2355980fbfa09c06ee0e07f4ca8d0ed80e">
+      <trans-unit id="b68fbf2355980fbfa09c06ee0e07f4ca8d0ed80e" approved="yes">
         <source xml:space="preserve">"Make notes on the arrangement of the unit being described which contribute significantly to its understanding but cannot be put in the Scope and content (see 1.7D), e.g., about reorganisation(s) by the creator, arrangement by the archivist, changes in the classification scheme, or reconstitution of original order." (RAD 1.8B13)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"تدوين ملاحظات حول ترتيب الوحدة التي يتم وصفها والتي تساهم بشكل كبير في فهمها ولكن لا يمكن وضعها في النطاق والمحتوى (انظر 1.7 د) ، على سبيل المثال ، حول إعادة التنظيم (عمليات) من قبل المنشئ ، والترتيب من قبل أمين الأرشيف ، والتغييرات في مخطط التصنيف ، أو إعادة الترتيب الأصلي ". (RAD 1.8B13)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="59dd8325a02b0b4cf2526e14714cc0e085127767">
