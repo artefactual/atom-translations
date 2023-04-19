@@ -169,14 +169,14 @@
         <target xml:space="preserve" state="final">"لاحظ أي أبجديات مميزة أو أنظمة رموز مستخدمة." (RAD 1.8.B14) حدد البرنامج النصي من القائمة المنسدلة ؛ أدخل الأحرف القليلة الأولى لتضييق الخيارات.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6fe62e6ce2d0b9c3f9de71c2a15095d9b84bba58">
+      <trans-unit id="6fe62e6ce2d0b9c3f9de71c2a15095d9b84bba58" approved="yes">
         <source xml:space="preserve">"Provide a date or date span which covers the dates when the function was started and when it finished. If a function is ongoing, no end date is needed." (ISDF 5.2.1)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">يرجى تقديم تاريخ أو فترة تغطي تواريخ بدء وانتهاء الوظيفة. إذا كانت الوظيفة مستمرة، فلا يلزم تحديد تاريخ الانتهاء. (ISDF 5.2.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e2e26146062adab5348e8b089e8fbc327f414435">
+      <trans-unit id="e2e26146062adab5348e8b089e8fbc327f414435" approved="yes">
         <source xml:space="preserve">"Provide any relevant dates for the related resources and/or the relationship between the corporate body, person or family and the related resource." (ISAAR 6.4) Enter the date as you would like it to appear in the show page for the authority record, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"يرجى تقديم أي تواريخ ذات صلة للموارد ذات الصلة و/أو العلاقة بين الجهة القانونية أو الشخص أو العائلة والمورد ذي الصلة." (ISAAR 6.4) يرجى إدخال التاريخ كما ترغب بظهوره في صفحة العرض للتسجيلة الاستنادية، باستخدام المُعرفات و/أو الرموز الطباعية للتعبير عن عدم وضوح التاريخ إذا رغبت في ذلك.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="b331b2cdadf5822d793cd63220e40481485c2e8a">
