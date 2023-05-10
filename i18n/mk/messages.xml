@@ -224,9 +224,9 @@
         <target xml:space="preserve" state="final">„Цел: Да се идентификува општата врска на односи помеѓу ентитетот што се опишува и друго правно, физичко лице или семејство“. (ISAAR 5.3.2). Изберете категорија од паѓачкото мени: хиерархиска, временска, семејна или асоцијативна.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="da5780323ea32c7a7ebb44deda6c1887e16ff67b">
+      <trans-unit id="da5780323ea32c7a7ebb44deda6c1887e16ff67b" approved="yes">
         <source xml:space="preserve">"Purpose: To identify the national or international conventions or rules applied in creating the archival authority record. Rule: Record the names and where useful the editions or publication dates of the conventions or rules applied. Specify separately which rules have been applied for creating the Authorized form of name. Include reference to any system(s) of dating used to identify dates in this authority record (e.g. ISO 8601)." (ISAAR 5.4.3)</source>
-        <target xml:space="preserve" state="translated">„Цел: Да се идентификуваат националните или меѓународните прописи или правилата кои се применувале при изработката на архивскиот нормативен запис. Правило: запишете ги сите називи и ако е потребно и изданијата или датумите на објавување на применетите конвенции или правила. Одделно наведете кои правила се применети за создавање на нормиран облик на назив. Вклучете референца за кој било систем(и) на датирање што се користат за идентификување датуми во овој авторитетен запис (на пр. ISO 8601).“ (ISAAR 5.4.3) внесат пристапните точки на сите системи на датирање што биле користени за утврдување на датумите во тој нормативен запис (на пр. ISO 8601).“ (ISAAR 5.4.3)</target>
+        <target xml:space="preserve" state="final">„Цел: Да се утврдат националните и/или меѓународните прописи, како и правилата што се применувале во изработката на архивскиот нормативен запис. Правило: Да се запишат сите називи, а ако е потребно и изданијата или датумите на објавување на прописите или правилата што биле применети. Посебно да се наведат правилата што биле применети во изработката на официјалната форма на називот. Да се внесат пристапните точки на сите системи на датирање што биле користени за утврдување на датумите во тој нормативен запис (на пр. ISO 8601).“ (ISAAR 5.4.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="4e1e1a09c2c53165defe55b47ececa5c56388e05" approved="yes">
@@ -244,369 +244,369 @@
         <target xml:space="preserve" state="final">„Цел: Да се наведат различните облици во кои стандардизираниот облик на називот на установата со архивски материјал се појавува во другите јазици или ракописи. Правило: Да се забележат паралелните облици на називот на установата со архивски материјал во согласност со соодветните национални и меѓународни договори и правила што ги применува установата која го создала описот, вклучувајќи ги сите потребни поделементи и/или одредницишто се бараат со тие договори или правила. Во елементот (5.6.3) во врска соправилата и/или договорите, да се наведе кои правила се применети." (ISDIAH 5.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e7e21651fa1aeaf087f693b08ab6f2fc3be11ad8">
+      <trans-unit id="e7e21651fa1aeaf087f693b08ab6f2fc3be11ad8" approved="yes">
         <source xml:space="preserve">"Purpose: To indicate the various forms in which the authorized form(s) of name occurs in other languages or script forms. Rule: Record the parallel form(s) of name in accordance with any relevant national or international conventions or rules applied by the agency that created the description, including any necessary sub elements and/or qualifiers required by those conventions or rules. Specify in the Rules and/or conventions element (5.4.3.) which rules have been applied." (ISDF 5.1.3)</source>
-        <target xml:space="preserve" state="translated">„Цел: Да се наведат различните форми во кои авторизираните форми на името се појавуваат на други јазици или форми на писмо. Правило: Запишете ги паралелните форми на името во согласност со сите релевантни национални или меѓународни конвенции или правила што ги применува агенцијата што го создала описот, вклучувајќи ги сите неопходни поделементи и/или квалификатори што ги бараат тие конвенции или правила. Наведете во елементот Правила и/или конвенции (5.4.3.) кои правила се применети." (ISDF 5.1.3)</target>
+        <target xml:space="preserve" state="final">„Цел: Да се наведат различни форми во кои стандардизираната(ните) форма(и) на имиња се појавуваат на други јазици и писма. Правило: Да се забележат напоредниот(те) форма(и) на имиња согласно со сите релевантни национални и меѓународни прописи или правила што ги применува архивската установа која го изработила описот, вклучувајќи ги и сите неопходни поделементи и/или одредници што тој пропис или правила ги налагаат. Во елементот Користени правила и/или прописи (5.4.3) да се наведат кои правила се користени." (ISDF 5.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b9a8801c80f2a693ddd0e7d1bed087a6833951d2">
+      <trans-unit id="b9a8801c80f2a693ddd0e7d1bed087a6833951d2" approved="yes">
         <source xml:space="preserve">"Purpose: to indicate the predominant places and/or jurisdictions where the corporate body, person or family was based, lived or resided or had some other connection. Rule: record the name of the predominant place(s)/jurisdiction(s), together with the nature and covering dates of the relationship with the entity." (ISAAR 5.2.3)</source>
-        <target xml:space="preserve" state="translated">„Цел: да се наведат доминантните места и/или јурисдикции каде што корпоративното тело, лице или семејство било со седиште, живеело или престојувало или имало некоја друга поврзаност. Правило: запишете го името на преовладувачкото место(и)/јурисдикција(и), заедно со природата и датумите на покривање на односот со субјектот“. (ISAAR 5.2.3)</target>
+        <target xml:space="preserve" state="final">„Цел: Да се наведат најважните места и/или месни надлежности каде што правното, физичкото лице или семејството имале седиште, живееле, или имале некоја друга поврзаност со него. Правило: Да се запишат називите на најважните места и подрачја на месна надлежност, како и видот и датумите на траење на таа врска со ентитетот.“ (ISAAR 5.2.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b83960ec3a3ae3cd1d3e8e159ddf70a89fafe5c1">
+      <trans-unit id="b83960ec3a3ae3cd1d3e8e159ddf70a89fafe5c1" approved="yes">
         <source xml:space="preserve">"Record a general category into which the relationship</source>
-        <target xml:space="preserve" state="translated">„Снимете општа категорија во која врската</target>
+        <target xml:space="preserve" state="final">„Да се наведе дали врската</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="791f48c60443ce93b2ca73568ecfc8bf6cafd04f">
+      <trans-unit id="791f48c60443ce93b2ca73568ecfc8bf6cafd04f" approved="yes">
         <source xml:space="preserve">"Record a general category into which the relationship being described falls." (ISDF 5.3.2) Select a category from the drop-down menu: hierarchical, temporal or associative.</source>
-        <target xml:space="preserve" state="translated">„Запишете општа категорија во која спаѓа врската што се опишува“. (ISDF 5.3.2) Изберете категорија од паѓачкото мени: хиерархиска, временска или асоцијативна.</target>
+        <target xml:space="preserve" state="final">„Да се наведе дали врската се утврдува со функцијата или со некоја од нејзините понатамошни поделби.“ (ISDF 5.3.2) Изберете категорија од паѓачкото мени: хиерархиска, временска или асоцијативна.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="b810b9bc42ebb02b815a45fbe0f16f6dc495de79">
+      <trans-unit id="b810b9bc42ebb02b815a45fbe0f16f6dc495de79" approved="yes">
         <source xml:space="preserve">"Record a narrative description of the purpose of the function." (ISDF 5.2.2)</source>
-        <target xml:space="preserve" state="translated">„Снимете наративен опис на целта на функцијата“. (ISDF 5.2.2)</target>
+        <target xml:space="preserve" state="final">„Да се даде информација за целта на функцијата“. (ISDF 5.2.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c7b7849e3e0cb5aad9e9f0b67085862edf5f7aed">
+      <trans-unit id="c7b7849e3e0cb5aad9e9f0b67085862edf5f7aed" approved="yes">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship</source>
-        <target xml:space="preserve" state="translated">„Запишете прецизен опис на природата на врската</target>
+        <target xml:space="preserve" state="final">„Да се даде специфичен опис на видот на врските."</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="37d24a43deef66ec0381744c664df5a162e09c8a">
+      <trans-unit id="37d24a43deef66ec0381744c664df5a162e09c8a" approved="yes">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the entity</source>
-        <target xml:space="preserve" state="translated">„Запишете прецизен опис на природата на односот помеѓу субјектот</target>
+        <target xml:space="preserve" state="final">„Да се даде специфичен опис на видот на врските."</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea">
+      <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea" approved="yes">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the entity described in this authority record and the other related entity....Record in the Rules and/or conventions element (5.4.3) any classification scheme used as a source of controlled vocabulary terms to describe the relationship. A narrative description of the history and/or nature of the relationship may also be provided here." (ISAAR 5.3.3). Note that the text entered in this field will also appear in the related authority record.</source>
-        <target xml:space="preserve" state="translated">„Запишете прецизен опис на природата на односот помеѓу субјектот опишан во овој орган запис и другиот поврзан ентитет... Запишете во елементот Правила и/или конвенции (5.4.3) која било шема за класификација што се користи како извор на Контролирани термини вокабулар за опишување на врската. Овде може да се даде и наративен опис на историјата и/или природата на врската.“ (ISAAR 5.3.3). Имајте предвид дека текстот внесен во ова поле ќе се појави и во записот поврзан со авторитет.</target>
+        <target xml:space="preserve" state="final">„Да се направи прецизен опис на видот на врските меѓу ентитетот што се опишува во овој нормативен запис со другите поврзани ентитети, на пр. надреден орган, подреден орган, сопственик, претходник, сопруг, сопруга, син, роднина, наставник, ученик, колега. Во елементот Прописи и/или правила (5.4.3) да се наведат сите класификациски шеми што се користени како извор на термини на контролираниот речник за опишување на таа врска. Тука може да се направи и наративен опис за историјата и/или природата на таа врска.“ (ISAAR 5.3.3). Имајте предвид дека текстот внесен во ова поле ќе се појави и во записот поврзан со авторитет.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="c4d61803b0c775664785408a8c8277a8a922fa92">
+      <trans-unit id="c4d61803b0c775664785408a8c8277a8a922fa92" approved="yes">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the function being described and the related function." (ISDF 5.3.3) Note that the text entered in this field will also appear in the related function.</source>
-        <target xml:space="preserve" state="translated">„Запишете прецизен опис на природата на врската помеѓу функцијата што се опишува и поврзаната функција“. (ISDF 5.3.3) Имајте предвид дека текстот внесен во ова поле ќе се појави и во поврзаната функција.</target>
+        <target xml:space="preserve" state="final">„Да се утврди општиот вид на врската меѓу функцијата и поврзаната функција“. (ISDF 5.3.3) Имајте предвид дека текстот внесен во ова поле ќе се појави и во поврзаната функција.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="f2cffe2c4b81b6e676278e7a74d2c45a3290dc0c">
+      <trans-unit id="f2cffe2c4b81b6e676278e7a74d2c45a3290dc0c" approved="yes">
         <source xml:space="preserve">"Record a short description of the holdings of the institution, describing how and when they were formed. Provide information on volume of holdings, media formats, thematic coverage, etc." (ISDIAH 5.3.7)</source>
-        <target xml:space="preserve" state="translated">„Запишете краток опис на стопанствата на институцијата, опишувајќи како и кога се формирани. Обезбедете информации за обемот на имотите, медиумските формати, тематската покриеност итн.“ (ИСДИА 5.3.7)</target>
+        <target xml:space="preserve" state="final">„Да се изработи краток опис на фондовите/збирките на установата со архивски материјал, со објаснување кога и како се формирани. Да се даде информација за количината на архивскиот материјал, видот на медиумите, тематските целини што ги покрива итн.“ (ISDIAH 5.3.7)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="185e47912e973aa0f8067c329f2585f090343416">
+      <trans-unit id="185e47912e973aa0f8067c329f2585f090343416" approved="yes">
         <source xml:space="preserve">"Record a unique authority record identifier in accordance with local and/or national conventions. If the authority record is to be used internationally, record the country code of the country in which the authority record was created in accordance with the latest version of ISO 3166 Codes for the representation of names of countries. Where the creator of the authority record is an international organization, give the organizational identifier in place of the country code." (ISAAR 5.4.1)</source>
-        <target xml:space="preserve" state="translated">„Снимајте единствен идентификатор за запис на овластување во согласност со локалните и/или националните конвенции. Ако евиденцијата на авторитетот треба да се користи на меѓународно ниво, запишете го кодот на земјата на земјата во која е креиран записот на авторитетот во согласност со најновата верзија на ISO 3166 Шифри за претставување на имињата на земјите. Онаму каде што креаторот на записот за авторитет е меѓународна организација, дајте го организацискиот идентификатор наместо кодот на државата.“ (ISAAR 5.4.1)</target>
+        <target xml:space="preserve" state="final">„Да се запише единствена сигнатура на нормативниот запис во согласност со локалните и/или националните прописи. Кога нормативниот запис треба да се користи интернационално, да се запише кодот на земјата во која е изработен нормативниот запис во согласност со најновата верзија ISO 3166 – Кодови за презентирање на називите на земјите. Кога нормативниот запис се однесува на меѓународна организација, да се даде сигнатура на организацијата наместо кодот на земјата.“ (ISAAR 5.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15">
+      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15" approved="yes">
         <source xml:space="preserve">"Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 - Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code." (ISIAH 5.6.1)</source>
-        <target xml:space="preserve" state="translated">„Запишете единствен идентификатор за опис во согласност со локалните и/или националните конвенции. Доколку описот треба да се користи на меѓународно ниво, запишете го кодот на земјата во која е креиран описот во согласност со најновата верзија на ISO 3166 - Кодови за претставување на имињата на државите. Кога креаторот на описот е меѓународна организација, дајте го организацискиот идентификатор наместо кодот на државата.“ (ИСИА 5.6.1)</target>
+        <target xml:space="preserve" state="final">„Да се наведе единствената сигнатура на описниот запис, во согласност со локалните и/или националните договори. Ако описот треба да се користи на меѓународно ниво, да се наведе ознаката на земјата во која настанал записот, а во согласност со последната верзија на ISO 3166 – Ознака за претставување имиња на држави. Во случај кога изготвувач на описот е меѓународна организација, наместо ознаката на земјата наведете ја ознаката на организацијата.“ (ISDIAH 5.6.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="fd846bcf8ecc30d07094334b4411a90abaad570b">
+      <trans-unit id="fd846bcf8ecc30d07094334b4411a90abaad570b" approved="yes">
         <source xml:space="preserve">"Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code." (ISDF 5.4.1)</source>
-        <target xml:space="preserve" state="translated">„Снимајте единствен идентификатор за опис во согласност со локалните и/или националните конвенции. Ако описот треба да се користи на меѓународно ниво, запишете го кодот на земјата во која е креиран описот во согласност со најновата верзија на ISO 3166 кодови за застапеност на имињата на земјите. Кога креаторот на описот е меѓународна организација, дајте го организацискиот идентификатор наместо кодот на државата.“ (ISDF 5.4.1)</target>
+        <target xml:space="preserve" state="final">„Да се забележи еднозначното обележје на описот согласно со локалните и/или националните прописи. Ако описот се користи на меѓународно ниво, да се забележи ознаката на земјата во која настанал, согласно со последната верзија ISO 3166 - Обележја за претставување на името на земјата). Во случај кога подготвувач на описот е меѓународна организација, наместо ознаката на земјата се наведува ознаката на организацијата.“ (ISDF 5.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="29af9d35158ea35820a340b060a37e6f70492b0b">
+      <trans-unit id="29af9d35158ea35820a340b060a37e6f70492b0b" approved="yes">
         <source xml:space="preserve">"Record any document, law, directive or charter which acts as a source of authority for the powers, functions and responsibilities of the entity being described, together with information on the jurisdiction(s) and covering dates when the mandate(s) applied or were changed." (ISAAR 5.2.6)</source>
-        <target xml:space="preserve" state="translated">„Запишете го секој документ, закон, директива или повелба што делува како извор на овластување за овластувањата, функциите и одговорностите на субјектот што се опишува, заедно со информации за јурисдикцијата(ите) и покривајќи ги датумите кога се применувале мандатите или беа сменети“. (ISAAR 5.2.6)</target>
+        <target xml:space="preserve" state="final">„Да се запишат сите документи, закони, упатства или повелби што се сметаат за извори за одредени овластувања, функции и одговорности на ентитетот што се опишува, и да се дадат информации за реалната територијална надлежност и за времетраењето или промените во тие надлежности.“ (ISAAR 5.2.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="89ad9c06b9e08d5a707ca7ec14cce91cc0142870">
+      <trans-unit id="89ad9c06b9e08d5a707ca7ec14cce91cc0142870" approved="yes">
         <source xml:space="preserve">"Record any document, law, directive or charter which acts as a source of authority for the powers, functions and responsibilities of the institution, together with information on the jurisdiction(s) and covering dates when the mandate(s) applied or were changed." (ISDIAH 5.3.3)</source>
-        <target xml:space="preserve" state="translated">„Забележете го секој документ, закон, директива или повелба што делува како извор на овластување за овластувањата, функциите и одговорностите на институцијата, заедно со информации за јурисдикцијата(ите) и покривајќи ги датумите кога мандатот(ите) се применувал или биле сменети. . (ИСДИА 5.3.3)</target>
+        <target xml:space="preserve" state="final">„Да се наведе секој документ, закон, директива или повелба, врз која се темелат надлежностите и овластувањата на установата со архивски материјал, заедно со информациите за надлежностите, времето на примена на надлежностите или времето на промена на надлежноста." (ISDIAH 5.3.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b0d712ff41fb95b3087ae7b5e7171c5c1e608818">
+      <trans-unit id="b0d712ff41fb95b3087ae7b5e7171c5c1e608818" approved="yes">
         <source xml:space="preserve">"Record any law, directive or charter which creates, changes or ends the function." (ISDF 5.2.4)</source>
-        <target xml:space="preserve" state="translated">„Запишете го секој закон, директива или повелба што ја создава, менува или завршува функцијата“. (ISDF 5.2.4)</target>
+        <target xml:space="preserve" state="final">„Да се забележат сите закони, наредби или договори што ја создаваат, менуваат или ограничуваат функцијата“. (ISDF 5.2.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="aba1c650648834a4a21f4a445453908bcaee3008">
+      <trans-unit id="aba1c650648834a4a21f4a445453908bcaee3008" approved="yes">
         <source xml:space="preserve">"Record any other name(s) by which the institution may be known. This could include other forms of the same name, acronyms, other institutional names, or changes of name over time, including, if possible, relevant dates." (ISDIAH 5.1.4)</source>
-        <target xml:space="preserve" state="translated">„Запишете кое било друго име(и) со кое институцијата може да биде позната. Ова може да вклучува други форми со исто име, акроними, други институционални имиња или промени на имињата со текот на времето, вклучувајќи, доколку е можно, релевантни датуми“. (ИСДИА 5.1.4)</target>
+        <target xml:space="preserve" state="final">„Да се забележат другите називи под кои установата со архивски материјал е позната. Овде може да се вклучат поинакви форми од називот, кратенки, други називи на установата или промените на називот со текот на времето и, доколку е можно, со релевантните датуми." (ISDIAH 5.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="612daef3f6bccab4cbd09e60a0298651846f3642">
+      <trans-unit id="612daef3f6bccab4cbd09e60a0298651846f3642" approved="yes">
         <source xml:space="preserve">"Record any other names for the function being described." (ISDF 5.1.4)</source>
-        <target xml:space="preserve" state="translated">"Снимајте ги сите други имиња за функцијата што се опишува." (ISDF 5.1.4)</target>
+        <target xml:space="preserve" state="final">"Да се наведат сите други имиња на функции што се опишани." (ISDF 5.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c4bfa76c92f013f0045966a6c9b85b8b50fa7365">
+      <trans-unit id="c4bfa76c92f013f0045966a6c9b85b8b50fa7365" approved="yes">
         <source xml:space="preserve">"Record any relevant information about the history of the institution. This element may include information on dates of establishment, changes of names, changes of legislative mandates, or of any other sources of authority for the institution." (ISDIAH 5.3.1)</source>
-        <target xml:space="preserve" state="translated">„Запишете ги сите релевантни информации за историјата на институцијата. Овој елемент може да вклучува информации за датумите на основање, промените на имињата, промените на законодавните мандати или на кои било други извори на овластување на институцијата. (ISDIAH 5.3.1)</target>
+        <target xml:space="preserve" state="final">„Да се наведе секоја релевантна информација за историјата на установата со архивски материјал. Овој елемент може да вклучува информации за датите на основањето на установата, промените на називот, измените во правните надлежности или некои други надлежности на установата со архивски материјал." (ISDIAH 5.3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9f7c8d7614b7199872c46e10f1f3d9b3538929aa">
+      <trans-unit id="9f7c8d7614b7199872c46e10f1f3d9b3538929aa" approved="yes">
         <source xml:space="preserve">"Record any term and/or code from a classification scheme of functions. Record the classification scheme used in the element Rules and/or conventions used (5.4.3)." (ISDF 5.1.5)</source>
-        <target xml:space="preserve" state="translated">"Запишете кој било термин и/или код од шема за класификација на функции. Запишете ја шемата за класификација користена во елементот Употребени правила и/или конвенции (5.4.3)." (ISDF 5.1.5)</target>
+        <target xml:space="preserve" state="final">"Да се забележат сите поими и/или обележја од класификацискиот план на функции. Да се забележи користениот класификациски план во елементот Користени правила и/или прописи (5.4.3)." (ISDF 5.1.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5e0f72570ad798435a45ca195a49c0280e158faa">
+      <trans-unit id="5e0f72570ad798435a45ca195a49c0280e158faa" approved="yes">
         <source xml:space="preserve">"Record in narrative form or as a chronology the main events relating to the function." (ISDF 5.2.3)</source>
-        <target xml:space="preserve" state="translated">„Забележете ги во наративна форма или како хронологија главните настани што се однесуваат на функцијата“. (ISDF 5.2.3)</target>
+        <target xml:space="preserve" state="final">„Накратко во наративен облик да се изнесе хронологија на историјата на функцијата“. (ISDF 5.2.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="717ef2a898e0d798497b3e85947504bb0ba0236c">
+      <trans-unit id="717ef2a898e0d798497b3e85947504bb0ba0236c" approved="yes">
         <source xml:space="preserve">"Record in narrative form or as a chronology the main life events, activities, achievements and/or roles of the entity being described. This may include information on gender, nationality, family and religious or political affiliations. Wherever possible, supply dates as an integral component of the narrative description." (ISAAR 5.2.2)</source>
-        <target xml:space="preserve" state="translated">„Запишете ги во наративна форма или како хронологија главните животни настани, активности, достигнувања и/или улоги на субјектот што се опишува. Ова може да вклучува информации за полот, националноста, семејството и религиозните или политичките припадности. Секогаш кога е можно, датумите на набавка како интегрална компонента на наративниот опис“. (ISAAR 5.2.2)</target>
+        <target xml:space="preserve" state="final">„Да се запишат во наративна форма или во хронологија најважните настани во животот, дејствувањето, достигнувањата и/или улогите на ентитетот што се опишува. Тука може да бидат опфатени информациите за раѓањето, полот, националноста, семејната и верската или политичката припадност. Секаде каде што е можно да се наведат датуми како составен дел на наративниот опис.“. (ISAAR 5.2.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="311beb1f72b7f6549050f588d0577b0c5b7ca5c4">
+      <trans-unit id="311beb1f72b7f6549050f588d0577b0c5b7ca5c4" approved="yes">
         <source xml:space="preserve">"Record information about reproduction services available to the public (microfilms, photocopies, photographs, digitised copies). Specify general conditions and restrictions to the services, including applicable fees and publication rules." (ISDIAH 5.5.2)</source>
-        <target xml:space="preserve" state="translated">„Снимајте информации за услугите за репродукција достапни за јавноста (микрофилмови, фотокопии, фотографии, дигитализирани копии). Наведете општи услови и ограничувања за услугите, вклучувајќи ги применливите такси и правилата за објавување“. (ISDIAH 5.5.2)</target>
+        <target xml:space="preserve" state="final">„Да се наведат информации за услугите за изработка на копии достапни за јавноста (микрофилмови, фотокопии, фотографии, дигитални копии). Да се потенцираат општите услови и ограничувањата поврзани со услугите, вклучувајќи го важечкиот ценовник и правилата за објавување на архивскиот материјал.“. (ISDIAH 5.5.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2d6354b879648be0b8d2d7dd39107b9bc0b16546">
+      <trans-unit id="2d6354b879648be0b8d2d7dd39107b9bc0b16546" approved="yes">
         <source xml:space="preserve">"Record information about spaces available for public use (permanent or temporary exhibitions, free or charged internet connection, cash machines, cafeterias, restaurants, shops, etc.)." (ISDIAH 5.5.3)</source>
-        <target xml:space="preserve" state="translated">„Снимајте информации за просторите достапни за јавна употреба (постојани или привремени изложби, бесплатна или наплаќана интернет конекција, каси, кафетерии, ресторани, продавници итн.)“. (ИСДИА 5.5.3)</target>
+        <target xml:space="preserve" state="final">„Да се наведат информации за просториите наменети за јавна употреба (постојани или привремени изложби, користење интернет со или без надокнада, банкомати, кафетерии, ресторани, продавници итн.)“. (ISDIAH 5.5.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="db53deef0ae0aacea72e37581125584cce1678b6">
+      <trans-unit id="db53deef0ae0aacea72e37581125584cce1678b6" approved="yes">
         <source xml:space="preserve">"Record information about the onsite services provided by the institution such as languages spoken by staff, research and consultation rooms, enquiry services, internal libraries, map, microfiches, audio-visual, computer rooms, etc. Record as well any relevant information about research services, such as research undertaken by the institution, and the fee charge if applicable." (ISDIAH 5.5.1)</source>
-        <target xml:space="preserve" state="translated">„Снимајте информации за услугите на лице место што ги дава институцијата, како што се јазиците што ги зборува персоналот, просториите за истражување и консултации, услуги за испитување, внатрешни библиотеки, мапи, микрофиши, аудио-визуелни, компјутерски простории итн. Снимајте ги како и сите релевантни информации за истражувањето услуги, како што се истражувањата преземени од институцијата, и надоместокот доколку е применливо“. (ИСДИА 5.5.1)</target>
+        <target xml:space="preserve" state="final">„Да се наведат информации за услугите што установата со архивски материјал им ги дава на лице место на корисниците, како што се информации за тоа кои странски јазици ги зборува персоналот, информации за просториите наменети за истражувачи и преглед на материјалот, услуги за пребарување, библиотеки во составот на установата, географски карти, микрофиши, аудио-визуелен архивски материјал, простории со компјутери итн. Исто така, да се наведат сите релевантни информации за услугите за истражување, како што се истражувања кои ги извршува установата со архивски материјал, а по потреба и информации за цените за истражување." (ISDIAH 5.5.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="844bfbebb65773fcb66595fdddb89924d023f226">
+      <trans-unit id="844bfbebb65773fcb66595fdddb89924d023f226" approved="yes">
         <source xml:space="preserve">"Record information about the records management and collecting policies of the institution. Define the scope and nature of material which the institution accessions. Indicate whether the repository seeks to acquire archival materials by transfer, gift, purchase and/or loan. If the policy includes active survey and/or rescue work, this might be spelt out." (ISDIAH 5.3.5)</source>
-        <target xml:space="preserve" state="translated">„Запишете ги информациите за политиките за управување и собирање на евиденцијата на институцијата. Дефинирајте го обемот и природата на материјалот на кој институцијата пристапува. Наведете дали складиштето бара да стекне архивски материјали со пренос, подарок, купување и/или заем. Ако политиката вклучува активна анкета и/или спасувачка работа, ова може да биде наведено“. (ISDIAH 5.3.5)</target>
+        <target xml:space="preserve" state="final">„Да се наведат информации за управувањето документи и аквизициската политика на установата со архивски материјал. Да се дефинира видот и природата на материјалот што установата со архивски материјал го презема. Да се наведе дали архивскиот материјал доаѓа во установата по пат на службено предавање, како подарок, по пат на откуп или по пат на позајмување. Ако аквизициската политика вклучува активен надзор и заштита, и тие податоци треба да се изнесат.“ (ISDIAH 5.3.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b3241618a27ecff4f4e560d3945a58a621053dcf">
+      <trans-unit id="b3241618a27ecff4f4e560d3945a58a621053dcf" approved="yes">
         <source xml:space="preserve">"Record information about travelling to the institution and details for users with disabilities, including building features, specialised equipment or tools, parking or lifts." (ISDIAH 5.4.3)</source>
-        <target xml:space="preserve" state="translated">„Запишете ги информациите за патувањето до институцијата и деталите за корисниците со попреченост, вклучувајќи карактеристики на зградата, специјализирана опрема или алатки, паркинг или лифтови“. (ИСДИА 5.4.3)</target>
+        <target xml:space="preserve" state="final">"Да се наведат информации за тоа како да ја најдете установата со архивски материјал и детали за корисниците со попреченост, вклучувајќи ги карактеристиките на зградата, специјализирана опрема или уреди, паркинг или лифтови." (ISDIAH 5.4.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1a716df241ec13cc746bbd07b71b96b668001182">
+      <trans-unit id="1a716df241ec13cc746bbd07b71b96b668001182" approved="yes">
         <source xml:space="preserve">"Record information on the building(s) of the institution (general and architectural characteristics of the building, capacity of storage areas, etc). Where possible, provide information which can be used for generating statistics." (ISDIAH 5.3.6)</source>
-        <target xml:space="preserve" state="translated">„Забележете ги информациите за зградата(ите) на институцијата (општи и архитектонски карактеристики на зградата, капацитетот на складиштата итн.). Онаму каде што е можно, обезбедете информации што може да се користат за генерирање статистика“. (ИСДИА 5.3.6)</target>
+        <target xml:space="preserve" state="final">„Да се даде информација за зградата (зградите) на установата со архивски материјал (општи и архитектонски карактеристики на зградата, капацитет на просторот за складирање итн.). Каде што е можно да се дадат информации што можат да се искористат за изработка на статистика.“ (ISDIAH 5.3.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="54867318861de9866c4697130c43e3c2a2dfb770">
+      <trans-unit id="54867318861de9866c4697130c43e3c2a2dfb770" approved="yes">
         <source xml:space="preserve">"Record notes pertinent to the creation and maintenance of the authority record. The names of persons responsible for creating the authority record may be recorded here." (ISAAR 5.4.9)</source>
-        <target xml:space="preserve" state="translated">„Забелешки за евиденција кои се однесуваат на создавањето и одржувањето на овластениот запис. (ISAAR 5.4.9)</target>
+        <target xml:space="preserve" state="final">„Да се запишат сите информации што се однесуваат на изработката на стандардизираниот запис. Тука може да бидат наведени имињата на лицата што биле задолжени за изработката на стандардизираниот запис." (ISAAR 5.4.9)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2df943bafaf8aeb03216b882e9bad10783e72087">
+      <trans-unit id="2df943bafaf8aeb03216b882e9bad10783e72087" approved="yes">
         <source xml:space="preserve">"Record notes pertinent to the creation and maintenance of the description." (ISDF 5.4.9)</source>
-        <target xml:space="preserve" state="translated">„Забележете ги белешките поврзани со создавањето и одржувањето на описот“. (ISDF 5.4.9)</target>
+        <target xml:space="preserve" state="final">„Да се забележат информациите кои се однесуваат на изработката и одржувањето на описот“. (ISDF 5.4.9)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9219668a3aa29654331fc599eeeaaa03ad95611d">
+      <trans-unit id="9219668a3aa29654331fc599eeeaaa03ad95611d" approved="yes">
         <source xml:space="preserve">"Record notes pertinent to the creation and maintenance of the description." (ISDIAH 5.6.9)</source>
-        <target xml:space="preserve" state="translated">„Забележете ги белешките поврзани со создавањето и одржувањето на описот“. (ISDF 5.4.9)</target>
+        <target xml:space="preserve" state="final">"Да се наведат податоци кои се однесуваат на изработката и одржувањето на стандардизираниот запис. Овде може да се наведат и имиња на лицата одговорни за изработка и/или измена на описот." (ISDIAH 5.6.9)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="617d2f5e9e142d7b0f74210a0b0f5271d71c2cdc">
+      <trans-unit id="617d2f5e9e142d7b0f74210a0b0f5271d71c2cdc" approved="yes">
         <source xml:space="preserve">"Record the authorised form of name and any unique identifier</source>
-        <target xml:space="preserve" state="translated">„Запишете ја овластената форма на име и кој било единствен идентификатор</target>
+        <target xml:space="preserve" state="final">„Да се забележи(ат) стандардизираната(те) форма(и) на називот и сите еднозначни обележја на поврзаната функција</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="479574ac7fc9e95152d70b72b3fbf4182891e82b">
+      <trans-unit id="479574ac7fc9e95152d70b72b3fbf4182891e82b" approved="yes">
         <source xml:space="preserve">"Record the authorised form of name and any unique identifier of the related function." (ISDF 5.3.1)</source>
-        <target xml:space="preserve" state="translated">„Запишете ја овластената форма на име и кој било единствен идентификатор на поврзаната функција“. (ISDF 5.3.1)</target>
+        <target xml:space="preserve" state="final">„Да се забележи(ат) стандардизираната(те) форма(и) на називот и сите еднозначни обележја на поврзаната функција“. (ISDF 5.3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="1f9b842b078ca2cb8c414d3a8496c23a889c1b85">
+      <trans-unit id="1f9b842b078ca2cb8c414d3a8496c23a889c1b85" approved="yes">
         <source xml:space="preserve">"Record the authorised name of the function being described. In cases where the name is not enough, add qualifiers to make it unique such as the territorial or administrative scope, or the name of the institution which performs it. This element is to be used in conjunction with the Function description identifier element (5.4.1)." (ISDF 5.1.2)</source>
-        <target xml:space="preserve" state="translated">„Запишете го овластеното име на функцијата што се опишува. Во случаи кога името не е доволно, додајте квалификатори за да го направите единствено, како што се територијалниот или административниот опсег или името на институцијата што го врши. Овој елемент треба да се користи во врска со елементот за идентификатор за опис на функцијата (5.4.1)." (ISDF 5.1.2)</target>
+        <target xml:space="preserve" state="final">„Да се забележи(ат) стандардизираниот(те) форма(и) на називот на функцијата. Да се користи територијалниот и управниот домен на функцијата, називот на установата која ја извршувала како и други соодветни одредници за функцијата да се разликува од другите функции со слични имиња. Овој елемент е наменет за употреба заедно со елементот Обележје на описот на функцијата (5.4.1)." (ISDF 5.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="18eb3808eb173cf082a6e99faf22df04e3f84814">
+      <trans-unit id="18eb3808eb173cf082a6e99faf22df04e3f84814" approved="yes">
         <source xml:space="preserve">"Record the authorized form of name and any relevant unique identifiers,</source>
-        <target xml:space="preserve" state="translated">„Забележете ја овластената форма на име и сите релевантни единствени идентификатори,</target>
+        <target xml:space="preserve" state="final">„Да се запише официјалната форма на називите и сите значајни единствени идентификациски ознаки</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="8457d3c95f00640884a7db1d941d8a29e4516be1">
+      <trans-unit id="8457d3c95f00640884a7db1d941d8a29e4516be1" approved="yes">
         <source xml:space="preserve">"Record the authorized form of name and any relevant unique identifiers, including the authority record identifier, for the related entity." (ISAAR 5.3.1) Select the name from the drop-down menu; enter the first few letters to narrow the choices.</source>
-        <target xml:space="preserve" state="translated">„Запишете го овластениот образец на име и сите релевантни единствени идентификатори, вклучувајќи го и идентификаторот за запис на авторитет, за поврзаниот субјект“. (ISAAR 5.3.1) Изберете го името од паѓачкото мени; внесете ги првите неколку букви за да го стесните изборот.</target>
+        <target xml:space="preserve" state="final">„Да се запише официјалната форма на називите и сите значајни единствени идентификациски ознаки за поврзаните ентитети, вклучувајќи ја и сигнатурата на нормативниот запис“. (ISAAR 5.3.1) Изберете го името од паѓачкото мени; внесете ги првите неколку букви за да го стесните изборот.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="2a3e0cee1cb1033f53f8baa5d1d91b1c5e0de71f">
+      <trans-unit id="2a3e0cee1cb1033f53f8baa5d1d91b1c5e0de71f" approved="yes">
         <source xml:space="preserve">"Record the date the authority record was created and the dates of any revisions to the record." (ISAAR 5.4.6)</source>
-        <target xml:space="preserve" state="translated">„Запишете го датумот кога е креиран записот на авторитетот и датумите на какви било ревизии на записот“. (ISAAR 5.4.6)</target>
+        <target xml:space="preserve" state="final">„Да се запише датумот на изработка на нормативниот запис, како и датумите на сите измени на записот. Во елементот Прописи и/или правила (5.4.3) точно да се наведе кои системи на датирање се користени (на пр. ISO 8601).“ (ISAAR 5.4.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ce3628ea9acf0a0ceca45f366e8cf6befcab0511">
+      <trans-unit id="ce3628ea9acf0a0ceca45f366e8cf6befcab0511" approved="yes">
         <source xml:space="preserve">"Record the date the description was created and the dates of any revisions to the description." (ISDF 5.4.6)</source>
-        <target xml:space="preserve" state="translated">„Запишете го датумот кога е креиран описот и датумите на какви било ревизии на описот“. (ISDF 5.4.6)</target>
+        <target xml:space="preserve" state="final">„Да се забележи датумот на изработка на стандардизираниот запис, како и датумите на сите измени на описот“. (ISDF 5.4.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="88bf6fe3f09d35bc6ee9f2b58f38ddc07026e835">
+      <trans-unit id="88bf6fe3f09d35bc6ee9f2b58f38ddc07026e835" approved="yes">
         <source xml:space="preserve">"Record the date the description was created and the dates of any revisions to the description." (ISDIAH 5.6.6)</source>
-        <target xml:space="preserve" state="translated">„Запишете го датумот кога е креиран описот и датумите на какви било ревизии на описот“. (ИСДИА 5.6.6)</target>
+        <target xml:space="preserve" state="final">„Да се наведе датата на изработка на описот, како и датата на сите измени на описот.“ (ISDIAH 5.6.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="37afc74316934a734b22022a839f67e80c804c9c">
+      <trans-unit id="37afc74316934a734b22022a839f67e80c804c9c" approved="yes">
         <source xml:space="preserve">"Record the dates of existence of the entity being described. For corporate bodies include the date of establishment/foundation/enabling legislation and dissolution. For persons include the dates or approximate dates of birth and death or, when these dates are not known, floruit dates. Where parallel systems of dating are used, equivalences may be recorded according to relevant conventions or rules. Specify in the Rules and/or conventions element (5.4.3) the system(s) of dating used, e.g. ISO 8601." (ISAAR 5.2.1)</source>
-        <target xml:space="preserve" state="translated">„Запишете ги датумите на постоење на субјектот што се опишува. За корпоративните тела вклучете го датумот на основање/фондација/овозможување законодавство и распуштање. датуми. Онаму каде што се користат паралелни системи за датирање, еквиваленциите може да се евидентираат според релевантните конвенции или правила. Наведете во елементот Правила и/или конвенции (5.4.3) употребениот систем(и) на датирање, на пр. ISO 8601." (ISAAR 5.2.1)</target>
+        <target xml:space="preserve" state="final">"Да се внесат датумите на постоење на ентитетот што се опишува. За правните лица да се вклучат и датумите на основање (се наведува правниот акт за почеток и престанок на работењето). За физички лица да се наведат датумите или приближните датуми на раѓање и смрт, или, ако тие датуми не се познати, да се наведат датумите на процвет на активноста (floruit15). Ако се користат системи на паралелно датирање, можат да се наведат еквиваленти во согласност со соодветните прописи или правила." (ISAAR 5.2.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="468a7abd67f7eed1b5ff0c30ca25ccf18eb1ffe8">
+      <trans-unit id="468a7abd67f7eed1b5ff0c30ca25ccf18eb1ffe8" approved="yes">
         <source xml:space="preserve">"Record the donor or source (i.e., the immediate prior custodian) from whom the unit being described was acquired, and the date and method of acquisition, as well as the source/donor's relationship to the material, if any or all of this information is not confidential. If the source/donor is unknown, record that information." (RAD 1.8B12)</source>
-        <target xml:space="preserve" state="translated">„Забележете го донаторот или изворот (т.е. непосредниот претходен чувар) од кого е купена единицата што се опишува, како и датумот и начинот на стекнување, како и односот на изворот/донаторот со материјалот, доколку ги има или сите овие информации не е доверливо. Доколку изворот/донаторот е непознат, запишете ја таа информација“. (RAD 1.8B12)</target>
+        <target xml:space="preserve" state="final">„Да се наведе имателот што предава архивски материјал или изворот (т.е. непосредниот претходен имател) од кого е купена единицата што се опишува, како и датумот и начинот на стекнување, како и односот на изворот/предавателот со материјалот, доколку овие информации не се доверливи. Доколку изворот/донаторот е непознат, да се запише ја таа информација“. (RAD 1.8B12)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="83db42f337862c92169f8b713836913474e93bd8">
+      <trans-unit id="83db42f337862c92169f8b713836913474e93bd8" approved="yes">
         <source xml:space="preserve">"Record the full authorised form of name(s) of agency(ies) responsible for creating, modifying or disseminating the description or, alternatively, record a recognized code for the agency." (ISDF 5.4.2)</source>
-        <target xml:space="preserve" state="translated">„Запишете ја целосната овластена форма на име(и) на агенција(и) одговорни за креирање, менување или ширење на описот или, алтернативно, запишете признаен код за агенцијата." (ISDF 5.4.2)</target>
+        <target xml:space="preserve" state="final">„Да се забележи целосната(те) стандардизирана(и) форма(и) на називот(-ите) на установата(ите) задолжена(и) за изработка, измена и дисеминација на описот или, алтернативно, да се наведе признаената ознака за установата." (ISDF 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0e0f66c625ae807b0787a80ea7cc00e5fd672696">
+      <trans-unit id="0e0f66c625ae807b0787a80ea7cc00e5fd672696" approved="yes">
         <source xml:space="preserve">"Record the full authorised form of name(s) of the agency(ies) responsible for creating, modifying or disseminating the description or, alternatively, record a code for the agency in accordance with the national or international agency code standard." (ISDIAH 5.6.2)</source>
-        <target xml:space="preserve" state="translated">„Запишете ја целосната овластена форма на име(и) на агенција(и) одговорни за креирање, измена или ширење на описот или, алтернативно, запишете шифра за агенцијата во согласност со националниот или меѓународниот стандард за код на агенцијата." (ИСДИА 5.6.2)</target>
+        <target xml:space="preserve" state="final">"Да се забележи комплетниот стандардизиран опис на установата (установите) одговорни за изработка, измена или дисеминација на описниот запис или алтернативно, да се забележи ознаката на установата во согласност со националниот и меѓународниот стандард за означување установи." (ISDIAH 5.6.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4a6ce9681da939a81a758edacc5f37a5f143169a">
+      <trans-unit id="4a6ce9681da939a81a758edacc5f37a5f143169a" approved="yes">
         <source xml:space="preserve">"Record the full authorized form of name(s) of the agency(ies) responsible for creating, modifying or disseminating the authority record or, alternatively, record a code for the agency in accordance with the national or international agency code standard. Include reference to any systems of identification used to identify the institutions (e.g. ISO 15511)." (ISAAR 5.4.2)</source>
-        <target xml:space="preserve" state="translated">„Запишете го целосниот овластен формулар на име(и) на агенција(и) одговорни за создавање, менување или ширење на записот на авторитетот или, алтернативно, запишете шифра за агенцијата во согласност со националниот или меѓународниот стандард за код на агенцијата. Вклучете референца на кој било систем за идентификација што се користи за идентификација на институциите (на пр. ISO 15511).“ (ISAAR 5.4.2)</target>
+        <target xml:space="preserve" state="final">„Да се запише целосната официјална форма на називот на институцијата одговорна за изработката, измените или дистрибуирањето на нормативниот запис или, по избор, да се запише кодот на институцијата во согласност со националните или меѓународните стандарди за кодови на институции. Да се стави и пристапната точка за сите системи на идентификација користени за идентификација на институциите (на пр. ISO 155111).“ (ISAAR 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="bf08aca69da6f65ce89e8d212e5eb715a28e72c9">
+      <trans-unit id="bf08aca69da6f65ce89e8d212e5eb715a28e72c9" approved="yes">
         <source xml:space="preserve">"Record the functions, occupations and activities performed by the entity being described, together with the covering dates when useful. If necessary, describe the nature of the function, occupation or activity." (ISAAR 5.2.5)</source>
-        <target xml:space="preserve" state="translated">„Забележете ги функциите, занимањата и активностите што ги извршува субјектот што се опишува, заедно со датумите на покривање кога е корисно. Доколку е потребно, опишете ја природата на функцијата, занимањето или активноста“. (ISAAR 5.2.5)</target>
+        <target xml:space="preserve" state="final">„Да се запишат функциите, занимањата и надлежностите на ентитетот што се опишува, како и времетраењето на таа активност. По потреба, да се опише видот на функциите, занимањата и надлежностите“. (ISAAR 5.2.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6584121a517870bfbb095c77c01998ed58d30f4f">
+      <trans-unit id="6584121a517870bfbb095c77c01998ed58d30f4f" approved="yes">
         <source xml:space="preserve">"Record the language or languages of the unit being described, unless they are noted elsewhere or are apparent from other elements of the description. Also note any distinctive alphabets or symbol systems employed." (RAD 1.8B14). Do not duplicate information added via the drop-down in the language or script fields.</source>
-        <target xml:space="preserve" state="translated">„Забележете го јазикот или јазиците на единицата што се опишува, освен ако не се забележани на друго место или не се видливи од другите елементи на описот. Исто така, забележете ги сите употребени карактеристични азбуки или симболи“. (RAD 1.8B14). Не дуплирајте информации додадени преку паѓачкото мени во полињата за јазик или скрипта.</target>
+        <target xml:space="preserve" state="final">„Забележете го јазикот или јазиците на единицата што се опишува, освен ако не се забележани на друго место или не се видливи од другите елементи на описот. Исто така, забележете ги сите употребени карактеристични азбуки или симболи“. (RAD 1.8B14). Не дуплирајте информации додадени преку паѓачкото мени во полињата за јазик или скрипта.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="69b15b1a56e271a5ca2b9b1fa838a481a99459bc">
+      <trans-unit id="69b15b1a56e271a5ca2b9b1fa838a481a99459bc" approved="yes">
         <source xml:space="preserve">"Record the language or languages of the unit being described, unless they are noted elsewhere or are apparent from other elements of the description." (RAD 1.8.B14). Select the language from the drop-down menu; enter the first few letters to narrow the choices.</source>
-        <target xml:space="preserve" state="translated">„Запишете го јазикот или јазиците на единицата што се опишува, освен ако тие не се забележани на друго место или се видливи од други елементи на описот“. (RAD 1.8.B14). Изберете го јазикот од опаѓачкото мени; внесете ги првите неколку букви за да го стесните изборот.</target>
+        <target xml:space="preserve" state="final">„Запишете го јазикот или јазиците на единицата што се опишува, освен ако тие не се забележани на друго место или се видливи од други елементи на описот“. (RAD 1.8.B14). Изберете го јазикот од опаѓачкото мени; внесете ги првите неколку букви за да го стесните изборот.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6148ff7720ea1703b1d1f0ad9e5ea52d9ce16198">
+      <trans-unit id="6148ff7720ea1703b1d1f0ad9e5ea52d9ce16198" approved="yes">
         <source xml:space="preserve">"Record the legal status and where appropriate the type of corporate body together with the covering dates when this status applied." (ISAAR 5.2.4)</source>
-        <target xml:space="preserve" state="translated">„Забележете го правниот статус и каде што е соодветно видот на корпоративното тело заедно со датумите кога се применува овој статус. (ISAAR 5.2.4)</target>
+        <target xml:space="preserve" state="final">„Да се запише правниот статус и кога е тоа можно да се запише видот на правното лице, како и периодот во кој го имало тој статус." (ISAAR 5.2.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ea96629b12520a467d7ebfa5b2cf3a8aed5663ea">
+      <trans-unit id="ea96629b12520a467d7ebfa5b2cf3a8aed5663ea" approved="yes">
         <source xml:space="preserve">"Record the names, and, where useful, the editions or publication dates of the conventions or rules applied. Specify, separately, which rules have been applied for creating the Authorised form(s) of name. Include reference to any system(s) of dating used to identify dates in this description (e.g. ISO 8601)." (ISDIAH 5.6.3)</source>
-        <target xml:space="preserve" state="translated">„Забележете ги имињата и, каде што е корисно, изданијата или датумите на објавување на применетите конвенции или правила. Одделно наведете кои правила се применети за создавање на Овластени форми на име. Вклучете повикување на кој било систем(и) на датирањето што се користи за да се идентификуваат датумите во овој опис (на пр. ISO 8601).“ (ISDIAH 5.6.3)</target>
+        <target xml:space="preserve" state="final">„Да се наведе називот и каде што е тоа потребно изданијата или датите на изданијата на користените конвенции и правила. Посебно да се наведат правилата користени при изработката на стандардизираниот облик на називот. Да се вклучи насока кон секој систем на датирање според кој се обликувани датите во овој опис (на пример ISO 8601).“ (ISDIAH 5.6.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="910f2ea9de9822b625f4ce6450f9ddb8ffa2e401">
+      <trans-unit id="910f2ea9de9822b625f4ce6450f9ddb8ffa2e401" approved="yes">
         <source xml:space="preserve">"Record the numeric or alpha-numeric code identifying the institution in accordance with the relevant international and national standards." (ISDIAH 5.1.1)</source>
-        <target xml:space="preserve" state="translated">„Запишете го нумеричкиот или алфа-нумеричкиот код кој ја идентификува институцијата во согласност со релевантните меѓународни и национални стандарди“. (ИСДИА 5.1.1)</target>
+        <target xml:space="preserve" state="final">„Да се забележи нумеричката или алфа-нумеричката сигнатура со која се идентификува установата со архивски материјал во согласност со релевантните меѓународни и национални стандарди“. (ISDIAH 5.1.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a76b511b26b5b2ca28880d10bd8cb3af79409b9e">
+      <trans-unit id="a76b511b26b5b2ca28880d10bd8cb3af79409b9e" approved="yes">
         <source xml:space="preserve">"Record the opening hours of the institution and annual, seasonal and public holidays, and any other planned closures. Record times associated with the availability and/or delivery of services (for example, exhibition spaces, reference services, etc.)." (ISDIAH 5.4.1)</source>
-        <target xml:space="preserve" state="translated">„Забележете го работното време на институцијата и годишните, сезонските и државните празници, како и сите други планирани затворања. Забележете ги времињата поврзани со достапноста и/или испораката на услугите (на пример, изложбени простори, референтни услуги итн.)“. (ИСДИА 5.4.1)</target>
+        <target xml:space="preserve" state="final">„Да се назначи работното време на установата со архивски материјал, како и сите денови во текот на годината, сезонски и јавни празници и сите други денови кога установата нема да работи. Да се наведе времето поврзано со можностите за користење и/или давање поединечни услуги (на пример: изложбени простори, служби за корисници итн.).“ (ISDIAH 5.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2d2ed0f8c887605ffa298755505eb43381425991">
+      <trans-unit id="2d2ed0f8c887605ffa298755505eb43381425991" approved="yes">
         <source xml:space="preserve">"Record the sources consulted in establishing the authority record." (ISAAR 5.4.8)</source>
-        <target xml:space="preserve" state="translated">„Забележете ги изворите кои се консултирани при воспоставувањето на евиденцијата на органот“. (ISAAR 5.4.8)</target>
+        <target xml:space="preserve" state="final">„Да се запишат изворите што се користени за изработка на нормативниот запис.“. (ISAAR 5.4.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="00e08c8bd346677c58477e7cd8c6c1c285da1485">
+      <trans-unit id="00e08c8bd346677c58477e7cd8c6c1c285da1485" approved="yes">
         <source xml:space="preserve">"Record the sources consulted in establishing the description of the institution." (ISDIAH 5.6.8)</source>
-        <target xml:space="preserve" state="translated">„Забележете ги изворите кои се консултирани при утврдувањето на описот на институцијата. (ИСДИА 5.6.8)</target>
+        <target xml:space="preserve" state="final">„Да се забележат изворите користени при изработката на описот на установата со архивски материјал. (ISDIAH 5.6.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d7256d3cc6330fe3d928e525c003a03bd7bc7877">
+      <trans-unit id="d7256d3cc6330fe3d928e525c003a03bd7bc7877" approved="yes">
         <source xml:space="preserve">"Record the sources consulted in establishing the function description." (ISDF 5.4.8)</source>
-        <target xml:space="preserve" state="translated">„Забележете ги изворите кои се консултирани при утврдувањето на описот на функцијата“. (ISDF 5.4.8)</target>
+        <target xml:space="preserve" state="final">„Да се забележат изворите користени при утврдувањето на описот на функцијата“. (ISDF 5.4.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2f18bb4e9038d9fab8c0a1c4e89936897f8c73af">
+      <trans-unit id="2f18bb4e9038d9fab8c0a1c4e89936897f8c73af" approved="yes">
         <source xml:space="preserve">"Record the standardised form of name of the institution, adding appropriate qualifiers (for instance dates, place, etc.), if necessary. Specify separately in the Rules and/or conventions used element (5.6.3) which set of rules has been applied for this element." (ISDIAH 5.1.2)</source>
-        <target xml:space="preserve" state="translated">„Забележете ја стандардизираната форма на името на институцијата, додавајќи соодветни квалификатори (на пример, датуми, место, итн.), доколку е потребно. Одделно наведете во употребените правила и/или конвенции елемент (5.6.3) кој збир на правила е се применува за овој елемент“. (ИСДИА 5.1.2)</target>
+        <target xml:space="preserve" state="final">„Евидентирање на стандардизираниот облик на називот на установата со архивски материјал, со додавање според потребата на соодветни одредници (на пример дата, место, итн.). Во елементот Правила и/или конвенции (5.6.3) посебно да се наведе која група правила се применува за овој елемент“. (ISDIAH 5.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c7ffd80055f6378a2468229164be45b0617650ae">
+      <trans-unit id="c7ffd80055f6378a2468229164be45b0617650ae" approved="yes">
         <source xml:space="preserve">"Record the standardized form of name for the entity being described in accordance with any relevant national or international conventions or rules applied by the agency that created the authority record. Use dates, place, jurisdiction, occupation, epithet and other qualifiers as appropriate to distinguish the authorized form of name from those of other entities with similar names." (ISAAR 5.1.2)</source>
-        <target xml:space="preserve" state="translated">„Запишете ја стандардизираната форма на име за субјектот што е опишан во согласност со сите релевантни национални или меѓународни конвенции или правила што ги применува агенцијата што го создала записот на авторитетот. Користете датуми, место, јурисдикција, занимање, епитет и други квалификатори како што е соодветно за да се разликуваат овластен облик на име од оние на други субјекти со слични имиња“. (ISAAR 5.1.2)</target>
+        <target xml:space="preserve" state="final">„Да се запише официјалниот назив на ентитетот што се опишува во согласност со националните и меѓународните стандарди што биле користени при изработката на описот. Да се користат и други релевантни одредници (датуми, место, надлежности, и сл) за да се направи разлика помеѓу опишаниот ентитет и други ентитети со слични називи. Во елементот Правила и/или конвенции (5.4.3.) посебно да се наведе кои правила се применуваат за овој елемент.“ (ISAAR 5.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="11d53e3b0ecbbb082a406e546675b58ca1ae7b12">
+      <trans-unit id="11d53e3b0ecbbb082a406e546675b58ca1ae7b12" approved="yes">
         <source xml:space="preserve">"Record the standardized form of name for the entity being described in accordance with other conventions or rules. Specify the rules and/or if appropriate the name of the agency by which these standardized forms of name have been constructed." (ISAAR 5.1.4)</source>
-        <target xml:space="preserve" state="translated">„Забележете ја стандардизираната форма на име за ентитетот што се опишува во согласност со други конвенции или правила. Наведете ги правилата и/или доколку е соодветно името на агенцијата со која се конструирани овие стандардизирани форми на име“. (ISAAR 5.1.4)</target>
+        <target xml:space="preserve" state="final">„Да се запише стандардизираната форма на називите/имињата на ентитетот што се опишува во согласност со другите правила или прописи. Да се наведат правилата и/или (ако е потребно) институцијата што ги изработила.“ (ISAAR 5.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="59d2adcb935a03faf6d6cc14d68545ed8b3f95ff">
+      <trans-unit id="59d2adcb935a03faf6d6cc14d68545ed8b3f95ff" approved="yes">
         <source xml:space="preserve">"Record the title and other pertinent details of the published and/or unpublished finding aids and guides prepared by the institution and of any other relevant publications. Use ISO 690 Information and documentation – Bibliographic references and other national or international cataloguing rules." (ISDIAH 5.3.8)</source>
-        <target xml:space="preserve" state="translated">„Запишете го насловот и другите релевантни детали на објавените и/или необјавените помагала и водичи за наоѓање подготвени од институцијата и од кои било други релевантни публикации. Користете информации и документација ISO 690 – Библиографски референци и други национални или меѓународни правила за каталогизација“. (ИСДИА 5.3.8)</target>
+        <target xml:space="preserve" state="final">„Да се наведе насловот и сите релевантни детали за објавените и/или необјавените информативни средства и водичи подготвени од установата со архивски материјал и од сите други релевантни публикации. Да се употреби ISO 690 – Информации и документација – Библиографски упатства и останатите национални или меѓународни правила за каталогизација.“ (ISDIAH 5.3.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="aa68359d0d722fe70812a6e7ba7a5082d80e6ccd">
+      <trans-unit id="aa68359d0d722fe70812a6e7ba7a5082d80e6ccd" approved="yes">
         <source xml:space="preserve">"Record when relevant the commencement date of the relationship or succession date and,</source>
-        <target xml:space="preserve" state="translated">„Забележете го кога е релевантно датумот на започнување на врската или датумот на наследување и,</target>
+        <target xml:space="preserve" state="final">„Забележете кога е релевантно датумот на започнување на врската или датумот на наследување и,</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="5ec7f5e4f7d5ef80be07aa136d2cc6487111acd1">
+      <trans-unit id="5ec7f5e4f7d5ef80be07aa136d2cc6487111acd1" approved="yes">
         <source xml:space="preserve">"Record when relevant the commencement date of the relationship or succession date and, when relevant, the cessation date of the relationship." (ISAAR 5.3.4) Enter the date as you would like it to appear in the show page for the authority record, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target xml:space="preserve" state="translated">„Забележете кога е релевантно датумот на започнување на врската или датумот на наследување и, кога е релевантно, датумот на престанок на врската“. (ISAAR 5.3.4) Внесете го датумот како што сакате да се појави на страницата за прикажување за авторитет, користејќи квалификатори и/или типографски симболи за да изразите несигурност доколку сакате.</target>
+        <target xml:space="preserve" state="final">„Ако е значајно, да се запише датумот на почетокот на врската или датумот на наследувањето и датумот на престанок на врската. Во елементот Прописи и/или правила (ISAAR 5.3.4) да се наведат сите користени системи за датирање (на пр. ISO 8601 и сл.). Внесете го датумот во саканиот формат за прикажување на стандардизираниот опис, користејќи квалификатори и/или типографски симболи за да изразите несигурност, доколку сакате.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="9afe17e3b6fcc285b8717356f5b254e2f46a3595">
+      <trans-unit id="9afe17e3b6fcc285b8717356f5b254e2f46a3595" approved="yes">
         <source xml:space="preserve">"Record where possible any official number or other identifier (e.g. a company registration number) for the corporate body and reference the jurisdiction and scheme under which it has been allocated." (ISAAR 5.1.6)</source>
-        <target xml:space="preserve" state="translated">„Забележете каде што е можно кој било официјален број или друг идентификатор (на пример, регистарски број на компанија) за корпоративното тело и упатете ја јурисдикцијата и шемата според која е доделен“. (ISAAR 5.1.6)</target>
+        <target xml:space="preserve" state="final">„Секаде каде што е можно да се внесат официјалните броеви или други ознаки (матичен број на правното лице) и да се дадат информации за правната надлежност и шема врз чија основа е добиен бројот“. (ISAAR 5.1.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a5162e31ab7277f79bebcb03364debdf5c0913b8">
+      <trans-unit id="a5162e31ab7277f79bebcb03364debdf5c0913b8" approved="yes">
         <source xml:space="preserve">"Record, when relevant, the start and the end date of the relationship." (ISDF 6.3) Enter the date as you would like it to appear in the show page for the function, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target xml:space="preserve" state="translated">„Запишете го, кога е релевантно, датумот на почеток и крај на врската“. (ISDF 6.3) Внесете го датумот како што сакате да се појави на страницата за прикажување за функцијата, користејќи квалификатори и/или типографски симболи за да изразите несигурност доколку сакате.</target>
+        <target xml:space="preserve" state="final">„Секогаш кога тоа е потребно, да се забележи датумот на почеток и на завршување на врската“. (ISDF 6.3) Внесете го датумот како што сакате да се појави на страницата за прикажување за функцијата, користејќи квалификатори и/или типографски симболи за да изразите несигурност, доколку сакате.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/relation/actions/editComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="cf0daa6e13a15f80e2456abfb4cb6835aef5bda5">
+      <trans-unit id="cf0daa6e13a15f80e2456abfb4cb6835aef5bda5" approved="yes">
         <source xml:space="preserve">"Select a descriptive term from the drop-down menu to clarify</source>
-        <target xml:space="preserve" state="translated">„Изберете описен термин од паѓачкото мени за да појасните</target>
+        <target xml:space="preserve" state="final">„Изберете описен термин од паѓачкото мени за да појасните</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="f732bf87d0ed8af374fed8615f2ffe68276f87e9">
+      <trans-unit id="f732bf87d0ed8af374fed8615f2ffe68276f87e9" approved="yes">
         <source xml:space="preserve">"Select a descriptive term from the drop-down menu to clarify the type of relationship between these two actors."</source>
-        <target xml:space="preserve" state="translated">„Изберете описен термин од паѓачкото мени за да го разјасните типот на врската помеѓу овие двајца актери."</target>
+        <target xml:space="preserve" state="final">„Изберете описен термин од паѓачкото мени за да го разјасните типот на врската/односот помеѓу овие два иматели."</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="8eb2ceb4b96941d5a450a10a7d833412106b33e4">
+      <trans-unit id="8eb2ceb4b96941d5a450a10a7d833412106b33e4" approved="yes">
         <source xml:space="preserve">"Specify the type of entity that is being described in this authority record." (ISAAR 5.1.1) Select Corporate body, Family or Person from the drop-down menu.</source>
-        <target xml:space="preserve" state="translated">„Наведете го типот на ентитет што е опишан во овој запис на авторитет. (ISAAR 5.1.1) Изберете Корпоративно тело, Семејство или Лице од паѓачкото мени.</target>
+        <target xml:space="preserve" state="final">„Да се утврди видот на ентитет (правно, физичко лице или семејство) што се опишува во тој нормативен запис. (ISAAR 5.1.1) Изберете Правно лице, Физичко лице или Семејство од паѓачкото мени.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c026cf03b3a849136c96e53f0ab910bacfea5f89">
+      <trans-unit id="c026cf03b3a849136c96e53f0ab910bacfea5f89" approved="yes">
         <source xml:space="preserve">"Specify whether the description is a function or one of its subdivisions." (ISDF 5.1.1) Select the type from the drop-down menu; these values are drawn from the ISDF Function Types taxonomy.</source>
-        <target xml:space="preserve" state="translated">„Наведете дали описот е функција или една од нејзините подподелби“. (ISDF 5.1.1) Изберете го типот од паѓачкото мени; овие вредности се извлечени од таксономијата на типови на функции ISDF.</target>
+        <target xml:space="preserve" state="final">„Да се одреди дали описот се однесува на функцијата или на некоја од нејзините понатамошни поделби е во согласност со националната и меѓународната терминологија. (ISDF 5.1.1) Изберете го типот од паѓачкото мени; овие вредности се извлечени од таксономијата на типови на ISDF функции.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="bfcdc2a643be0c1a93801a5cc200cfcffe7c48ea">
+      <trans-unit id="bfcdc2a643be0c1a93801a5cc200cfcffe7c48ea" approved="yes">
         <source xml:space="preserve">"Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of the item being described following the edition statement if there is one." (RAD 1.2.C1) "When describing the first edition, give all statements of responsibility in the Title and statement of responsibility area." (RAD 1.2C2)</source>
-        <target xml:space="preserve" state="translated">„Препишете изјава за одговорност која се однесува на едно или повеќе изданија, но не и на сите изданија, на ставката што е опишана по изјавата за изданието, доколку постои“. (RAD 1.2.C1) „Кога го опишувате првото издание, дајте ги сите изјави за одговорност во областа Наслов и изјава за одговорност“. (RAD 1.2C2)</target>
+        <target xml:space="preserve" state="final">„Препишете ја изјавата за одговорност (извршете транскрипција) која се однесува на едно или повеќе изданија, но не и на сите изданија, на ставката што е опишана по изјавата за изданието, доколку постои“. (RAD 1.2.C1) „Кога го опишувате првото издание, наведете ги сите податоци за одговорност во областа Наслов и изјава за одговорност." (RAD 1.2C2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ea5bef24a5a748e7475ce2e211d5ff0ba504b2a7">
+      <trans-unit id="ea5bef24a5a748e7475ce2e211d5ff0ba504b2a7" approved="yes">
         <source xml:space="preserve">"Transcribe explicit statements of responsibility appearing in conjunction with a formal title proper of a publisher's series as instructed in 1.1F and only if considered necessary for identifying the publisher's series." (RAD 1.6E1)</source>
-        <target xml:space="preserve" state="translated">„Препишете ги експлицитните изјави за одговорност што се појавуваат заедно со формалниот наслов соодветен на серијата на издавачот како што е наведено во 1.1F и само ако се смета дека е неопходно за идентификување на серијата на издавачот“. (RAD 1.6E1)</target>
+        <target xml:space="preserve" state="final">„Препишете ги експлицитните изјави за одговорност што се појавуваат заедно со формалниот наслов соодветен на серијата на издавачот како што е наведено во 1.1F и само ако се смета дека е неопходно за идентификување на серијата на издавачот“. (RAD 1.6E1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="884370864ea7ccc2b28b558b869671c8319a326d">
+      <trans-unit id="884370864ea7ccc2b28b558b869671c8319a326d" approved="yes">
         <source xml:space="preserve">"Transcribe other title information of a publisher's series as instructed in 1.1E and only if considered necessary for identifying the publisher's series." (RAD 1.6D1)</source>
-        <target xml:space="preserve" state="translated">„Транскрибирајте други информации за насловот на сериите на издавачот како што е наведено во 1.1E и само ако се смета дека е неопходно за идентификување на сериите на издавачот“. (RAD 1.6D1)</target>
+        <target xml:space="preserve" state="final">„Впишете (со транскрипција) и други информации за насловот на сериите на издавачот како што е наведено во 1.1E ,и само ако се смета дека е неопходно за идентификување на сериите на издавачот“. (RAD 1.6D1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f2f7c5b76c50ad60737966c4c04007938dd33c11">
+      <trans-unit id="f2f7c5b76c50ad60737966c4c04007938dd33c11" approved="yes">
         <source xml:space="preserve">"Transcribe other title information that appears in conjunction with the formal title proper..." (RAD 1.1E)</source>
-        <target xml:space="preserve" state="translated">„Транскрибирајте други информации за насловот што се појавуваат заедно со официјалниот наслов...“ (RAD 1.1E)</target>
+        <target xml:space="preserve" state="final">„Препишете и други информации за насловот што се појавуваат заедно со официјалниот наслов...“ (RAD 1.1E)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="de5c5e84e0761f05abe44c14615384dbdbd8174a">
+      <trans-unit id="de5c5e84e0761f05abe44c14615384dbdbd8174a" approved="yes">
         <source xml:space="preserve">"Transcribe parallel titles of a publisher's series as instructed in 1.1D." (RAD 1.6C1)</source>
-        <target xml:space="preserve" state="translated">„Препишете ги паралелните наслови на сериите на издавачот како што е наведено во 1.1D“. (RAD 1.6C1)</target>
+        <target xml:space="preserve" state="final">„Препишете ги паралелните наслови на сериите на издавачот како што е наведено во 1.1D“. (RAD 1.6C1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3308662b1f4c5a2c34a0e55b104e02ddcac6e5b8">
+      <trans-unit id="3308662b1f4c5a2c34a0e55b104e02ddcac6e5b8" approved="yes">
         <source xml:space="preserve">"Use for" labels</source>
-        <target xml:space="preserve" state="translated">Етикети „Користете за“</target>
+        <target xml:space="preserve" state="final">Ознаки „Користете за“</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="805ba0366b6dc66d2899b0f1c031c375ea48666e">
         <source xml:space="preserve">"Use this area only in item level description to record statements relating to versions of items existing in two or more versions or states in single or multiple copies." (RAD 1.2A1) "Transcribe the edition statement relating to the item being described." (RAD 1.2B1) "If the item being described lacks an edition statement but is known to contain significant changes from other editions, supply a suitable brief statement in the language and script of the title proper and enclose it in square brackets." (RAD 1.2B3)</source>
-        <target xml:space="preserve" state="translated">„Користете ја оваа област само во описот на ниво на ставка за да снимате изјави кои се однесуваат на верзии на ставки што постојат во две или повеќе верзии или состојби во единечни или повеќекратни копии“. (RAD 1.2A1) „Препишете ја изјавата за изданието што се однесува на ставката што се опишува“. (RAD 1.2B1) „Ако на ставката што се опишува нема изјава за издание, но се знае дека содржи значителни промени од другите изданија, наведете соодветна кратка изјава на јазикот и писмото на вистинскиот наслов и ставете ја во квадратни загради“. (RAD 1.2B3)</target>
+        <target xml:space="preserve" state="translated">„Користете го ова поле само во описот на ниво на документ за да се наведат податоци кои се однесуваат на постоење во две или повеќе верзии или состојби во единечни или повеќекратни копии“. (RAD 1.2A1) „Препишете ја изјавата за изданието што се однесува на ставката што се опишува“. (RAD 1.2B1) „Ако единицата што се опишува нема податок за изданието, но се знае дека содржи значителни разлики од другите изданија, наведете кратка информација на јазикот и писмото на вистинскиот наслов и ставете ја во квадратни загради“. (RAD 1.2B3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="64fd8c42c5f1e293434c6df28ed6b3aaa8b66ce0">
