@@ -11346,6 +11346,41 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/menu/templates/_clipboardMenu.php</note>
       </trans-unit>
+      <trans-unit id="b01756bc32329c27d56020880cc41721c687791f">
+        <source xml:space="preserve">A slug based on this name already exists so a number has been added to pad the slug.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/renameSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="a99c2c5975c63438a2845bf12812885af80529d6">
+        <source xml:space="preserve">Editing the authorized form of name will automatically update the slug field if the "Update slug" checkbox is selected - you can still edit it after.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/renameSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="d7327c52d1d6b8a28d5d0a159b270aa7e0d415ec">
+        <source xml:space="preserve">Original authorized form of name</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/renameSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="6a1c6604365e38640333c513d9915bf450855910">
+        <source xml:space="preserve">Sync failed: resource not found</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewSyncAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="95abb6afca666a8503dea05ac5e4665a846ba4d6">
+        <source xml:space="preserve">Sync not allowed: log in required</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewSyncAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="10e42e16ff3a1c65ff56dccce342f8732ceedef0">
+        <source xml:space="preserve">Update authorized form of name</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/renameSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="cd206c6022fe6b06ab956a241f23d9649e545e15">
+        <source xml:space="preserve">Use this interface to update the authorized form of name, slug (permalink), and/or %1% filename.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/renameSuccess.php</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
