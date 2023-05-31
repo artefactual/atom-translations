@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
   <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-10-22T00:04:22Z" product-name="messages">
@@ -219,9 +219,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b9a8801c80f2a693ddd0e7d1bed087a6833951d2">
+      <trans-unit id="b9a8801c80f2a693ddd0e7d1bed087a6833951d2" approved="yes">
         <source xml:space="preserve">"Purpose: to indicate the predominant places and/or jurisdictions where the corporate body, person or family was based, lived or resided or had some other connection. Rule: record the name of the predominant place(s)/jurisdiction(s), together with the nature and covering dates of the relationship with the entity." (ISAAR 5.2.3)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"الغرض: للإشارة إلى الأماكن و / أو الولايات القضائية السائدة حيث كان المجتمع أو الشخص أو الأسرة قائمًا أو يعيش أو يقيم أو كان له صلة أخرى. القاعدة: تسجيل اسم المكان (الأماكن) / الولاية (السلطات) السائدة ، جنبًا إلى جنب مع طبيعة وتغطية تواريخ العلاقة مع الكيان ". (ISAAR 5.2.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="791f48c60443ce93b2ca73568ecfc8bf6cafd04f">
@@ -229,19 +229,19 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="b810b9bc42ebb02b815a45fbe0f16f6dc495de79">
+      <trans-unit id="b810b9bc42ebb02b815a45fbe0f16f6dc495de79" approved="yes">
         <source xml:space="preserve">"Record a narrative description of the purpose of the function." (ISDF 5.2.2)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل وصفا سرديا للغرض من الوظيفة". (ISDF 5.2.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea">
+      <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea" approved="yes">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the entity described in this authority record and the other related entity....Record in the Rules and/or conventions element (5.4.3) any classification scheme used as a source of controlled vocabulary terms to describe the relationship. A narrative description of the history and/or nature of the relationship may also be provided here." (ISAAR 5.3.3). Note that the text entered in this field will also appear in the related authority record.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل وصفاً دقيقاً لطبيعة العلاقة بين الكيان الموصوف في التسجيلة الاستنادية هذا والكيان الآخر ذي الصلة .... سجل في عنصر القواعد و / أو الاصطلاحات (5.4.3) أي مخطط تصنيف مستخدم كمصدر مصطلحات منضبطة في المفردات لوصف العلاقة. ويمكن هنا أيضًا توفير وصف سردي لتاريخ و / أو طبيعة العلاقة ". (ISAAR 5.3.3). لاحظ أن النص الذي تم إدخاله في هذا الحقل سيظهر أيضًا في التسجيلة الاستنادية ذات الصلة.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="c4d61803b0c775664785408a8c8277a8a922fa92">
+      <trans-unit id="c4d61803b0c775664785408a8c8277a8a922fa92" approved="yes">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the function being described and the related function." (ISDF 5.3.3) Note that the text entered in this field will also appear in the related function.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل وصفاً دقيقاً لطبيعة العلاقة بين الوظيفة الموصوفة والوظيفة ذات الصلة." (ISDF 5.3.3) لاحظ أن النص الذي تم إدخاله في هذا الحقل سيظهر أيضًا في الوظيفة ذات الصلة.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
       <trans-unit id="f2cffe2c4b81b6e676278e7a74d2c45a3290dc0c">
@@ -259,9 +259,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="fd846bcf8ecc30d07094334b4411a90abaad570b">
+      <trans-unit id="fd846bcf8ecc30d07094334b4411a90abaad570b" approved="yes">
         <source xml:space="preserve">"Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code." (ISDF 5.4.1)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل وصفًا موجزًا لمقتنيات المؤسسة ، واصفًا كيف ومتى تم تشكيلها. قدم معلومات عن حجم المقتنيات ، وأشكال الوسائط ، والتغطية الموضوعية، وما إلى ذلك." (ISDIAH 5.3.7)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="29af9d35158ea35820a340b060a37e6f70492b0b">
