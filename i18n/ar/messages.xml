@@ -236,17 +236,17 @@
       </trans-unit>
       <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea" approved="yes">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the entity described in this authority record and the other related entity....Record in the Rules and/or conventions element (5.4.3) any classification scheme used as a source of controlled vocabulary terms to describe the relationship. A narrative description of the history and/or nature of the relationship may also be provided here." (ISAAR 5.3.3). Note that the text entered in this field will also appear in the related authority record.</source>
-        <target xml:space="preserve" state="final">"سجل وصفاً دقيقاً لطبيعة العلاقة بين الكيان الموصوف في التسجيلة الاستنادية هذا والكيان الآخر ذي الصلة .... سجل في عنصر القواعد و / أو الاصطلاحات (5.4.3) أي مخطط تصنيف مستخدم كمصدر مصطلحات منضبطة في المفردات لوصف العلاقة. ويمكن هنا أيضًا توفير وصف سردي لتاريخ و / أو طبيعة العلاقة ". (ISAAR 5.3.3). لاحظ أن النص الذي تم إدخاله في هذا الحقل سيظهر أيضًا في التسجيلة الاستنادية ذات الصلة.</target>
+        <target xml:space="preserve" state="final">"سجل وصفًا دقيقًا لطبيعة العلاقة بين الكيان الموصوف في التسجيلة الاستنادية هذا والكيان الآخر ذي الصلة .... سجل في عنصر القواعد و / أو الاصطلاحات (5.4.3) أي مخطط تصنيف مستخدم كمصدر مصطلحات منضبطة في المفردات لوصف العلاقة. ويمكن هنا أيضًا توفير وصف سردي لتاريخ و / أو طبيعة العلاقة ". (ISAAR 5.3.3). لاحظ أن النص الذي تم إدخاله في هذا الحقل سيظهر أيضًا في التسجيلة الاستنادية ذات الصلة.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="c4d61803b0c775664785408a8c8277a8a922fa92" approved="yes">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the function being described and the related function." (ISDF 5.3.3) Note that the text entered in this field will also appear in the related function.</source>
-        <target xml:space="preserve" state="final">"سجل وصفاً دقيقاً لطبيعة العلاقة بين الوظيفة الموصوفة والوظيفة ذات الصلة." (ISDF 5.3.3) لاحظ أن النص الذي تم إدخاله في هذا الحقل سيظهر أيضًا في الوظيفة ذات الصلة.</target>
+        <target xml:space="preserve" state="final">"سجل وصفًا دقيقًا لطبيعة العلاقة بين الوظيفة الموصوفة والوظيفة ذات الصلة." (ISDF 5.3.3) لاحظ أن النص الذي تم إدخاله في هذا الحقل سيظهر أيضًا في الوظيفة ذات الصلة.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="f2cffe2c4b81b6e676278e7a74d2c45a3290dc0c">
+      <trans-unit id="f2cffe2c4b81b6e676278e7a74d2c45a3290dc0c" approved="yes">
         <source xml:space="preserve">"Record a short description of the holdings of the institution, describing how and when they were formed. Provide information on volume of holdings, media formats, thematic coverage, etc." (ISDIAH 5.3.7)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل وصفًا موجزًا لمقتنيات المؤسسة ، واصفًا كيف ومتى تم تشكيلها. قدم معلومات عن حجم المقتنيات ، وأشكال الوسائط ، والتغطية الموضوعية، وما إلى ذلك." (ISDIAH 5.3.7)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="185e47912e973aa0f8067c329f2585f090343416">
@@ -279,14 +279,14 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="aba1c650648834a4a21f4a445453908bcaee3008">
+      <trans-unit id="aba1c650648834a4a21f4a445453908bcaee3008" approved="yes">
         <source xml:space="preserve">"Record any other name(s) by which the institution may be known. This could include other forms of the same name, acronyms, other institutional names, or changes of name over time, including, if possible, relevant dates." (ISDIAH 5.1.4)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل أي اسم (أسماء) أخرى يمكن أن تُعرف بها المؤسسة. ويمكن أن يشمل ذلك أشكالًا أخرى من نفس الاسم ، أو الاختصارات ، أو الأسماء المؤسسية الأخرى ، أو تغييرات الاسم بمرور الوقت ، بما في ذلك ، إن أمكن ، التواريخ ذات الصلة." (ISDIAH 5.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="612daef3f6bccab4cbd09e60a0298651846f3642">
+      <trans-unit id="612daef3f6bccab4cbd09e60a0298651846f3642" approved="yes">
         <source xml:space="preserve">"Record any other names for the function being described." (ISDF 5.1.4)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل أي أسماء أخرى للوظيفة الموصوفة." (ISDF 5.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="c4bfa76c92f013f0045966a6c9b85b8b50fa7365">
