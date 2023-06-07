@@ -249,34 +249,34 @@
         <target xml:space="preserve" state="final">"سجل وصفًا موجزًا لمقتنيات المؤسسة ، واصفًا كيف ومتى تم تشكيلها. قدم معلومات عن حجم المقتنيات ، وأشكال الوسائط ، والتغطية الموضوعية، وما إلى ذلك." (ISDIAH 5.3.7)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="185e47912e973aa0f8067c329f2585f090343416">
+      <trans-unit id="185e47912e973aa0f8067c329f2585f090343416" approved="yes">
         <source xml:space="preserve">"Record a unique authority record identifier in accordance with local and/or national conventions. If the authority record is to be used internationally, record the country code of the country in which the authority record was created in accordance with the latest version of ISO 3166 Codes for the representation of names of countries. Where the creator of the authority record is an international organization, give the organizational identifier in place of the country code." (ISAAR 5.4.1)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل معرّف تسجيلة استنادية فريدًا وفقًا للاتفاقيات المحلية و / أو الوطنية. إذا كان السجل الاستنادي سيتم استخدامه دوليًا ، فقم بتسجيل رمز البلد الخاص بالدولة التي تم فيها إنشاء السجل الاستنادي وفقًا لأحدث إصدار من ISO 3166 رموز لتمثيل أسماء البلدان. عندما يكون منشئ السجل الاستنادي منظمة دولية ، فقم بإعطاء المعرّف التنظيمي بدلاً من رمز البلد ". (ISAAR 5.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15">
+      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15" approved="yes">
         <source xml:space="preserve">"Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 - Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code." (ISIAH 5.6.1)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجلرمزًا تعريفيًا فريدًا وفقًا للاتفاقيات المحلية و / أو الوطنية. وإذا كان الوصف سيستخدم دوليًا ، فقم بتسجيل رمز البلد الذي تم فيه إنشاء الوصف وفقًا لأحدث إصدار من ISO 3166 - رموز لـ تمثيل أسماء البلدان. وإذا كان منشئ الوصف منظمة دولية ، فقم بإعطاء المعرّف التنظيمي بدلاً من رمز البلد ". (ISIAH 5.6.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="fd846bcf8ecc30d07094334b4411a90abaad570b" approved="yes">
         <source xml:space="preserve">"Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code." (ISDF 5.4.1)</source>
-        <target xml:space="preserve" state="final">"سجل وصفًا موجزًا لمقتنيات المؤسسة ، واصفًا كيف ومتى تم تشكيلها. قدم معلومات عن حجم المقتنيات ، وأشكال الوسائط ، والتغطية الموضوعية، وما إلى ذلك." (ISDIAH 5.3.7)</target>
+        <target xml:space="preserve" state="final">"سجل رمزًا تعريفيًا فريدًا وفقًا للاتفاقيات المحلية و / أو الوطنية. إذا كان الوصف سيستخدم دوليًا ، فقم بتسجيل رمز البلد الذي تم فيه إنشاء الوصف وفقًا لأحدث إصدار من رموز ISO 3166 للتمثيل من أسماء البلدان. وعندما يكون منشئ الوصف منظمة دولية ، فقم بإعطاء المعرّف التنظيمي بدلاً من رمز البلد ". (ISDF 5.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="29af9d35158ea35820a340b060a37e6f70492b0b">
+      <trans-unit id="29af9d35158ea35820a340b060a37e6f70492b0b" approved="yes">
         <source xml:space="preserve">"Record any document, law, directive or charter which acts as a source of authority for the powers, functions and responsibilities of the entity being described, together with information on the jurisdiction(s) and covering dates when the mandate(s) applied or were changed." (ISAAR 5.2.6)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل أي مستند أو قانون أو توجيه أو ميثاق يعمل كمصدر تشريعي أو قانوني لسلطات ووظائف ومسؤوليات الكيان الموصوف ، جنبًا إلى جنب مع معلومات عن الاختصاص (الاختصاصات) وتغطية التواريخ التي تم فيها تطبيق التفويض (التفويضات) أو تم تغييرها." (ISAAR 5.2.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="89ad9c06b9e08d5a707ca7ec14cce91cc0142870" approved="yes">
         <source xml:space="preserve">"Record any document, law, directive or charter which acts as a source of authority for the powers, functions and responsibilities of the institution, together with information on the jurisdiction(s) and covering dates when the mandate(s) applied or were changed." (ISDIAH 5.3.3)</source>
-        <target xml:space="preserve" state="final">"سجل أي مستند أو قانون أو توجيه أو ميثاق يعمل كمصدر تشريعي يُحدد وظائف ومسؤوليات الكيان الموصوف ، جنبًا إلى جنب مع معلومات الاختصاص (الاختصاصات) وتغطية التواريخ التي تم فيها تطبيق التفويض (التفويضات) أو تم تغييرها." (ISAAR 5.2.6)</target>
+        <target xml:space="preserve" state="final">"سجل أي مستند أو قانون أو توجيه أو ميثاق يعمل كمصدر تشريعي أو قانوني لسلطات ووظائف ومسؤوليات المؤسسة ، جنبًا إلى جنب مع معلومات عن الولاية (الاختصاصات) وتغطية التواريخ التي تم فيها تطبيق التفويض (التفويضات) أو تغييرها . " (ISDIAH 5.3.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b0d712ff41fb95b3087ae7b5e7171c5c1e608818">
+      <trans-unit id="b0d712ff41fb95b3087ae7b5e7171c5c1e608818" approved="yes">
         <source xml:space="preserve">"Record any law, directive or charter which creates, changes or ends the function." (ISDF 5.2.4)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل أي قانون أو توجيه أو ميثاق ينشئ أو يغير أو ينهي الوظيفة". (ISDF 5.2.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="aba1c650648834a4a21f4a445453908bcaee3008" approved="yes">
@@ -289,14 +289,14 @@
         <target xml:space="preserve" state="final">"سجل أي أسماء أخرى للوظيفة الموصوفة." (ISDF 5.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c4bfa76c92f013f0045966a6c9b85b8b50fa7365">
+      <trans-unit id="c4bfa76c92f013f0045966a6c9b85b8b50fa7365" approved="yes">
         <source xml:space="preserve">"Record any relevant information about the history of the institution. This element may include information on dates of establishment, changes of names, changes of legislative mandates, or of any other sources of authority for the institution." (ISDIAH 5.3.1)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل أي معلومات ذات صلة حول تاريخ المؤسسة. قد يتضمن هذا العنصر معلومات عن تواريخ التأسيس ، وتغييرات الأسماء ، والتغييرات في التفويضات التشريعية ، أو أي مصادر أخرى لسلطة المؤسسة." (ISDIAH 5.3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9f7c8d7614b7199872c46e10f1f3d9b3538929aa">
+      <trans-unit id="9f7c8d7614b7199872c46e10f1f3d9b3538929aa" approved="yes">
         <source xml:space="preserve">"Record any term and/or code from a classification scheme of functions. Record the classification scheme used in the element Rules and/or conventions used (5.4.3)." (ISDF 5.1.5)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل أي مصطلح و / أو رمز من مخطط التصنيف الوظيفي للوثائق. طبقًا للقواعد و / أو الاصطلاحات المستخدمة للعنصر (5.4.3)." (ISDF 5.1.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5e0f72570ad798435a45ca195a49c0280e158faa">
