@@ -903,9 +903,9 @@
         <target xml:space="preserve">&lt;strong&gt;Tipo:&lt;/strong&gt; Insira um nome para o campo de identificador alternativo que indica seu objetivo e uso.&lt;br/&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; Insira um código de referência legado, identificador alternativo, ou qualquer outra string alfanumérica associada com o registro.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
-      <trans-unit id="39c6fe6bbe18b341f05e967d01ffa968b9c550e1" approved="yes">
+      <trans-unit id="39c6fe6bbe18b341f05e967d01ffa968b9c550e1" approved="no">
         <source xml:space="preserve">A %1%release %2%%3% upgrade is available.</source>
-        <target xml:space="preserve">Está disponível uma %1%versão %2%%3% de atualização.</target>
+        <target xml:space="preserve" state="translated">A %1%versão %2%%3% está disponível para atualização.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_updateCheck.php</note>
       </trans-unit>
       <trans-unit id="3e9664b32ca01b20a5fd36e87057ea6e742b937e" approved="yes">
