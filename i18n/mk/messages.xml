@@ -5059,9 +5059,9 @@
         <target xml:space="preserve" state="final">Идентификувајте и запишете го датумот(ите) на единицата за опис.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfDcPlugin/templates/_dcDates.php</note>
       </trans-unit>
-      <trans-unit id="59d0ced1bcd7180f0f24ad79f6e55e7f4b95d0a0">
+      <trans-unit id="59d0ced1bcd7180f0f24ad79f6e55e7f4b95d0a0" approved="yes">
         <source xml:space="preserve">Identify and record the date(s) of the unit of description. Identify the type of date given. Record as a single date or a range of dates as appropriate. The Date display field can be used to enter free-text date information, including typographical marks to express approximation, uncertainty, or qualification. Use the start and end fields to make the dates searchable. Do not use any qualifiers or typographical symbols to express uncertainty. Acceptable date formats: YYYYMMDD, YYYY-MM-DD, YYYY-MM, YYYY.</source>
-        <target xml:space="preserve" state="translated">Идентификувајте и запишете го датумот(ите) на единицата за опис. Идентификувајте го типот на даден датум. Снимајте како единствен датум или опсег на датуми како што е соодветно. Полето за приказ на датум може да се користи за внесување информации за датумот на слободен текст, вклучувајќи типографски знаци за изразување приближување, несигурност или квалификација. Користете ги полињата за почеток и крај за да ги направите датумите да се пребаруваат. Не користете никакви квалификатори или типографски симболи за да изразите несигурност. Прифатливи формати на датуми: ГГГГММДД, ГГГГ-ММ-ДД, ГГГГ-ММ, ГГГГГ.</target>
+        <target xml:space="preserve" state="final">Идентификувајте и запишете го датумот(ите) на единицата за опис. Идентификувајте го типот на даден датум. Запишете како единствен датум или гранични години како што е соодветно. Полето за приказ на датум може да се користи за внесување информации за датумот во форма на слободен текст, вклучувајќи типографски знаци за изразување приближување, несигурност или квалификација. Користете ги полињата за почеток и крај за да ги направите датумите да се пребаруваат. Не користете никакви квалификатори или типографски симболи за да изразите несигурност. Прифатливи формати на датуми: ГГГГММДД, ГГГГ-ММ-ДД, ГГГГ-ММ, ГГГГГ.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/_dcDates.php</note>
       </trans-unit>
       <trans-unit id="c0ca32d10eface1a640cdbb89c13e52b3a7f412b" approved="yes">
@@ -5069,94 +5069,94 @@
         <target xml:space="preserve" state="final">Идентификувајте и запишете ги називот/имињата и типот(вите) на единицата за опис.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/_dcNames.php</note>
       </trans-unit>
-      <trans-unit id="e9c06aec16e164836d249626e6fd7a53ce044923">
+      <trans-unit id="e9c06aec16e164836d249626e6fd7a53ce044923" approved="yes">
         <source xml:space="preserve">Identify if the whole accession is being deaccessioned or if only a part of the accession is being deaccessioned.</source>
-        <target xml:space="preserve" state="translated">Идентификувајте дали целото пристапување се прекинува или ако само дел од пристапувањето се прекинува.</target>
+        <target xml:space="preserve" state="final">Да се утврди дали целиот инвентарен внес се излачува или само негов дел.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/deaccession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="14bb5300fd2baa14c5ba43b868aa00f0440d86aa">
+      <trans-unit id="14bb5300fd2baa14c5ba43b868aa00f0440d86aa" approved="yes">
         <source xml:space="preserve">Identify immediate source of acquisition or transfer, and date and method of acquisition IF the information is NOT confidential.</source>
-        <target xml:space="preserve" state="translated">Идентификувајте го непосредниот извор на стекнување или пренос, како и датумот и начинот на стекнување АКО информацијата НЕ е доверлива.</target>
+        <target xml:space="preserve" state="final">Да се утврди непосредниот извор на преземање или пренос на материјал, како и датумот и начинот на стекнување АКО информацијата НЕ е доверлива.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3ad21a646981e50961994e6b7bb62136d745c784">
+      <trans-unit id="3ad21a646981e50961994e6b7bb62136d745c784" approved="yes">
         <source xml:space="preserve">Identify what materials are being deaccessioned.</source>
-        <target xml:space="preserve" state="translated">Идентификувајте кои материјали се отстапуваат.</target>
+        <target xml:space="preserve" state="final">Идентификувајте кои материјали се излачуваат.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/deaccession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="20d9c9c5fffabec39cefaf8e72e140a7cf144cba">
+      <trans-unit id="20d9c9c5fffabec39cefaf8e72e140a7cf144cba" approved="yes">
         <source xml:space="preserve">Identity area</source>
-        <target xml:space="preserve" state="translated">Област на идентитет</target>
+        <target xml:space="preserve" state="final">Подрачје на идентитет</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="227e158790e4b8bbff48297e5dade239c3ee7cbd">
+      <trans-unit id="227e158790e4b8bbff48297e5dade239c3ee7cbd" approved="yes">
         <source xml:space="preserve">Identity elements</source>
-        <target xml:space="preserve" state="translated">Елементи на идентитетот</target>
+        <target xml:space="preserve" state="final">Елементи на идентитетот</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b60afc056a071a1efd3be31df41ba7739d6be3d4">
+      <trans-unit id="b60afc056a071a1efd3be31df41ba7739d6be3d4" approved="yes">
         <source xml:space="preserve">If "no", just show one OAI set per collection</source>
-        <target xml:space="preserve" state="translated">Ако „не“, само покажете по еден сет OAI по колекција</target>
+        <target xml:space="preserve" state="final">Ако „не“, прикажи само еден ОAI сет по збирка</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
-      <trans-unit id="3c5ea76ab1430b6aabad6ad6494b01684901fb95">
+      <trans-unit id="3c5ea76ab1430b6aabad6ad6494b01684901fb95" approved="yes">
         <source xml:space="preserve">If a copy of all or part of the material being described is available, in addition to the originals, record information about the medium and location of the copy, any identifying numbers, and any conditions on the use or availability of the copy. If a copy of only a part of the unit being described is available, indicate which part. If the materials being described are available via remote access (electronically or otherwise), provide the relevant information needed to access them. (DACS 6.2.3)</source>
-        <target xml:space="preserve" state="translated">Доколку е достапна копија од целиот или дел од материјалот што се опишува, покрај оригиналите, запишете ги информациите за медиумот и локацијата на копијата, сите идентификациски броеви и сите услови за употреба или достапност на копијата. Ако е достапна копија од само дел од единицата што се опишува, наведете кој дел. Ако материјалите што се опишани се достапни преку далечински пристап (електронски или на друг начин), наведете ги релевантните информации потребни за пристап до нив. (DACS 6.2.3)</target>
+        <target xml:space="preserve" state="final">Доколку е достапна копија од целиот или дел од материјалот што се опишува, покрај оригиналите, запишете ги информациите за медиумот и локацијата на копијата, сите идентификациски броеви и сите услови за употреба или достапност на копијата. Ако е достапна копија од само дел од единицата што се опишува, наведете кој дел. Ако материјалите што се опишани се достапни преку далечински пристап (електронски или на друг начин), наведете ги релевантните информации потребни за пристап до нив. (DACS 6.2.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ab55771c33fa1605dbc598fc79ff2ec47a2ecf27">
+      <trans-unit id="ab55771c33fa1605dbc598fc79ff2ec47a2ecf27" approved="yes">
         <source xml:space="preserve">If job hasn't already completed, check %1% page to determine present status.</source>
-        <target xml:space="preserve" state="translated">Ако работата не е веќе завршена, проверете ја страницата %1% за да го одредите моменталниот статус.</target>
+        <target xml:space="preserve" state="final">Ако работата уште не е завршена, проверете ја страницата %1% за да го одредите моменталниот статус.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/actions/moveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="8a15106603fdf2bf3280ff1e7d2b0fdcdd577d0a">
+      <trans-unit id="8a15106603fdf2bf3280ff1e7d2b0fdcdd577d0a" approved="yes">
         <source xml:space="preserve">If known, indicate whether or not further accruals are expected. When appropriate, indicate frequency and volume. (DACS 5.4.2)</source>
-        <target xml:space="preserve" state="translated">Доколку е познато, наведете дали се очекуваат дополнителни акумулации или не. Кога е соодветно, наведете ја фреквенцијата и јачината на звукот. (DACS 5.4.2)</target>
+        <target xml:space="preserve" state="final">Доколку е познато, наведете дали се очекуваат понатамошни дополнувања или не. По потреба, наведете проценка на количината и честотата. (DACS 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5c5e2212c319d0febcfa025a39e1d26fb56a0904">
+      <trans-unit id="5c5e2212c319d0febcfa025a39e1d26fb56a0904" approved="yes">
         <source xml:space="preserve">If no levels are selected, the export will fail. You can use</source>
-        <target xml:space="preserve" state="translated">Ако не се изберат нивоа, извозот ќе пропадне. Можеш да користиш</target>
+        <target xml:space="preserve" state="final">Ако не се избере ниту едно ниво, извозот ќе пропадне. Можеш да се користи</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="daf30d89f9968099a1c838a965b907b3865183cf">
+      <trans-unit id="daf30d89f9968099a1c838a965b907b3865183cf" approved="yes">
         <source xml:space="preserve">If the copy of the unit of description is available (either in the institution or elsewhere) record its location, together with any significant control numbers. (ISAD 3.5.2)</source>
-        <target xml:space="preserve" state="translated">Ако копијата од единицата за опис е достапна (или во институцијата или на друго место) запишете ја нејзината локација, заедно со сите значајни контролни броеви. (ISAD 3.5.2)</target>
+        <target xml:space="preserve" state="final">Ако копијата од единицата за опис е достапна (или во институцијата или на друго место) запишете ја нејзината локација, заедно со сите значајни контролни броеви. (ISAD 3.5.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f18616d6858c5afed733fffed6e2c7c70c695d02">
+      <trans-unit id="f18616d6858c5afed733fffed6e2c7c70c695d02" approved="yes">
         <source xml:space="preserve">If the finding aid is an uploaded PDF, the transcript will be deleted too.</source>
-        <target xml:space="preserve" state="translated">Ако помошта за наоѓање е поставена PDF, и преписот ќе биде избришан.</target>
+        <target xml:space="preserve" state="final">Ако информативното средство е пренесено во PDF, и преписот ќе биде избришан.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/deleteFindingAidSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b44801c66a54fd64a38ab9a52bea93b31a2ee928">
+      <trans-unit id="b44801c66a54fd64a38ab9a52bea93b31a2ee928" approved="yes">
         <source xml:space="preserve">If the materials being described are reproductions and the originals are located elsewhere, give the location of the originals (DACS 6.1.4). Record any identifying numbers that may help in locating the originals in the cited location (DACS 6.1.6).</source>
-        <target xml:space="preserve" state="translated">Ако материјалите што се опишани се репродукции, а оригиналите се наоѓаат на друго место, наведете ја локацијата на оригиналите (DACS 6.1.4). Запишете ги сите идентификациски броеви што може да помогнат во лоцирањето на оригиналите на наведената локација (DACS 6.1.6).</target>
+        <target xml:space="preserve" state="final">Ако материјалите што се опишани се копии, а оригиналите се наоѓаат на друго место, наведете ја локацијата на оригиналите (DACS 6.1.4). Запишете ги сите идентификациски броеви што може да помогнат во лоцирањето на оригиналите на наведената локација (DACS 6.1.6).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="cab2fd73bf51f6c91cf997af8e877c6179767231">
+      <trans-unit id="cab2fd73bf51f6c91cf997af8e877c6179767231" approved="yes">
         <source xml:space="preserve">If the original of the unit of description is available (either in the institution or elsewhere) record its location, together with any significant control numbers. If the originals no longer exist, or their location is unknown, give that information. (ISAD 3.5.1)</source>
-        <target xml:space="preserve" state="translated">Доколку е достапен оригиналот на единицата за опис (или во институцијата или на друго место) запишете ја нејзината локација, заедно со сите значајни контролни броеви. Ако оригиналите повеќе не постојат или нивната локација е непозната, дајте ги тие информации. (ISAD 3.5.1)</target>
+        <target xml:space="preserve" state="final">Доколку е достапен оригиналот на единицата за опис (или во институцијата или на друго место) запишете ја нејзината локација, заедно со сите значајни контролни броеви. Ако оригиналот повеќе не постои или неговата локација е непозната, дајте ги тие информации. (ISAD 3.5.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="caeb0f968c54a0f7b51ffd2cb07f0d5ba29da724">
+      <trans-unit id="caeb0f968c54a0f7b51ffd2cb07f0d5ba29da724" approved="yes">
         <source xml:space="preserve">If the page number does not exist, the derivative will be generated from the previous closest one.</source>
-        <target xml:space="preserve" state="translated">Ако бројот на страницата не постои, дериватот ќе се генерира од претходната најблиска.</target>
+        <target xml:space="preserve" state="final">Ако бројот на страницата не постои, ќе се генерира од претходната најблиска страница.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/digitalObjectDerivativesSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d3063cf71c3e980e760ec977dffec6319fc41bdf">
+      <trans-unit id="d3063cf71c3e980e760ec977dffec6319fc41bdf" approved="yes">
         <source xml:space="preserve">If there are materials that have a direct and significant connection to those being described by reason of closely shared responsibility or sphere of activity, provide the title, location, and, optionally, the reference number(s) of the related materials and their relationship with the materials being described. (DACS 6.3.5)</source>
-        <target xml:space="preserve" state="translated">Доколку има материјали кои имаат директна и значајна врска со оние што се опишани поради тесно споделена одговорност или сфера на активност, наведете го насловот, локацијата и, по избор, референтниот број(и) на поврзаните материјали и нивната врска со материјалите што се опишани. (DACS 6.3.5)</target>
+        <target xml:space="preserve" state="final">Доколку има материјали кои имаат директна и значајна врска со оние што се опишани поради тесно споделена одговорност или дејност, наведете го насловот, локацијата и, по избор, сигнатура(и) на поврзаните материјали и нивната врска со материјалите што се опишани. (DACS 6.3.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1bc34d1ad9a60bd0c7632620c5133749b5c43a11">
+      <trans-unit id="1bc34d1ad9a60bd0c7632620c5133749b5c43a11" approved="yes">
         <source xml:space="preserve">If you are importing a SKOS file to a taxonomy other than subjects, please go to the %1%</source>
-        <target xml:space="preserve" state="translated">Ако увезувате датотека SKOS во таксономијата различна од предметите, ве молиме одете на %1%</target>
+        <target xml:space="preserve" state="final">Ако вчитувате датотека SKOS во таксономијата, која не се однесува на предметите, ве молиме одете на %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9f718474ff9448b7c82b04a58d2feb9fec82b746">
+      <trans-unit id="9f718474ff9448b7c82b04a58d2feb9fec82b746" approved="yes">
         <source xml:space="preserve">Ignore matches and create new records on import</source>
-        <target xml:space="preserve" state="translated">Игнорирајте совпаѓања и креирајте нови записи при увоз</target>
+        <target xml:space="preserve" state="final">Игнорирајте совпаѓања и креирајте нови записи при вчитување</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
       <trans-unit id="9c99bf2c75218af6f1a3069c538fac1aa3033130" approved="yes">
@@ -5428,34 +5428,34 @@
         <target xml:space="preserve" state="translated">Интеграции</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/globalSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ee27f282a47df7b5e8aa76d6365b3b1739b15d0d">
+      <trans-unit id="ee27f282a47df7b5e8aa76d6365b3b1739b15d0d" approved="yes">
         <source xml:space="preserve">Internal structures/genealogy</source>
-        <target xml:space="preserve" state="translated">Внатрешни структури/генеалогија</target>
+        <target xml:space="preserve" state="final">Внатрешни структури/генеалогија</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="bc440f645cdff406eed4e069bad2e5ce18261283">
+      <trans-unit id="bc440f645cdff406eed4e069bad2e5ce18261283" approved="yes">
         <source xml:space="preserve">International</source>
-        <target xml:space="preserve" state="translated">Меѓународен</target>
+        <target xml:space="preserve" state="final">Меѓународен</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="85662331e63a4c750bbdbeb7f1f0256b214241c3">
+      <trans-unit id="85662331e63a4c750bbdbeb7f1f0256b214241c3" approved="yes">
         <source xml:space="preserve">Internet media type</source>
-        <target xml:space="preserve" state="translated">Тип на интернет медиум</target>
+        <target xml:space="preserve" state="final">Тип на интернет медиум</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9d20cd4e40109b4551bd55f79cf728da4c1da6a9">
+      <trans-unit id="9d20cd4e40109b4551bd55f79cf728da4c1da6a9" approved="yes">
         <source xml:space="preserve">Interviews</source>
-        <target xml:space="preserve" state="translated">Интервјуа</target>
+        <target xml:space="preserve" state="final">Интервјуа</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="68eb792884e39d24c9127f1d693ea625e672dab5">
+      <trans-unit id="68eb792884e39d24c9127f1d693ea625e672dab5" approved="yes">
         <source xml:space="preserve">Invalid end date</source>
-        <target xml:space="preserve" state="translated">Неважечки краен датум</target>
+        <target xml:space="preserve" state="final">Невалиден краен датум</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/descriptionUpdatesAction.class.php</note>
       </trans-unit>
-      <trans-unit id="cd3d9e6c84783a067735b7d6861c533e895d2abe">
+      <trans-unit id="cd3d9e6c84783a067735b7d6861c533e895d2abe" approved="yes">
         <source xml:space="preserve">Invalid export options.</source>
-        <target xml:space="preserve" state="translated">Неважечки опции за извоз.</target>
+        <target xml:space="preserve" state="final">Невалидни опции за извоз.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="92aea10bd9c44d77364ae6e13506a56d897b7d5a" approved="yes">
@@ -6037,9 +6037,9 @@
         <target xml:space="preserve" state="final">Уреди ги работните места</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="80d943a5d27452fb18c2f9b788affe4bba40d1cb">
+      <trans-unit id="80d943a5d27452fb18c2f9b788affe4bba40d1cb" approved="yes">
         <source xml:space="preserve">Manage rights inheritance</source>
-        <target xml:space="preserve" state="translated">Уреди го правото на наследството</target>
+        <target xml:space="preserve" state="final">Уреди го правото на наследство</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/manageSuccess.php</note>
       </trans-unit>
       <trans-unit id="48181470f8352a8c83a2ffbfaaeb860351d18a4a" approved="yes">
@@ -6047,9 +6047,9 @@
         <target xml:space="preserve" state="final">Овластувања/Извори на овластувања</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="378190b2fb998583ee1a172ab4dd47e226bf363f">
+      <trans-unit id="378190b2fb998583ee1a172ab4dd47e226bf363f" approved="yes">
         <source xml:space="preserve">Mandates/sources of authority</source>
-        <target xml:space="preserve" state="translated">Овластувања/извори на овластувања</target>
+        <target xml:space="preserve" state="final">Надлежности/извори на овластувања</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="4e836fdc2572ab23d5dc8c36bd613ac6b0f82d63" approved="yes">
@@ -6057,134 +6057,134 @@
         <target xml:space="preserve" state="final">Прирачник</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/treeviewAction.class.php</note>
       </trans-unit>
-      <trans-unit id="0471386edfe0bf057e3ed471b66689189fdc892c">
+      <trans-unit id="0471386edfe0bf057e3ed471b66689189fdc892c" approved="yes">
         <source xml:space="preserve">Manufacturing</source>
-        <target xml:space="preserve" state="translated">Производство</target>
+        <target xml:space="preserve" state="final">Производство</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="975ac656c6c1170862810c044e3eaef9ee5868e7">
+      <trans-unit id="975ac656c6c1170862810c044e3eaef9ee5868e7" approved="yes">
         <source xml:space="preserve">Manuscripts</source>
-        <target xml:space="preserve" state="translated">Ракописи</target>
+        <target xml:space="preserve" state="final">Ракописи</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="4af527f2dd831706ff7c8875c3660b49844f4d2c">
+      <trans-unit id="4af527f2dd831706ff7c8875c3660b49844f4d2c" approved="yes">
         <source xml:space="preserve">Map cabinet</source>
-        <target xml:space="preserve" state="translated">Кабинет со карти</target>
+        <target xml:space="preserve" state="final">Ормар за картотека</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="69953bb6790ee524ad03b01fb3cbf0301c4dcdd8">
+      <trans-unit id="69953bb6790ee524ad03b01fb3cbf0301c4dcdd8" approved="yes">
         <source xml:space="preserve">Map of %1%</source>
-        <target xml:space="preserve" state="translated">Карта од %1%</target>
+        <target xml:space="preserve" state="final">Карта од %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_fields.php</note>
       </trans-unit>
-      <trans-unit id="80071cd75107cd5c4afdb2571725ea6733631038">
+      <trans-unit id="80071cd75107cd5c4afdb2571725ea6733631038" approved="yes">
         <source xml:space="preserve">Maps</source>
-        <target xml:space="preserve" state="translated">Карти</target>
+        <target xml:space="preserve" state="final">Карти</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="23e67fceae0d77dd571dd25695fc0499faf1bb77">
+      <trans-unit id="23e67fceae0d77dd571dd25695fc0499faf1bb77" approved="yes">
         <source xml:space="preserve">Markdown</source>
-        <target xml:space="preserve" state="translated">Маркдаун</target>
+        <target xml:space="preserve" state="final">Обележување</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="706927f0006998ad32ffe347ec54e68a62f0878a">
+      <trans-unit id="706927f0006998ad32ffe347ec54e68a62f0878a" approved="yes">
         <source xml:space="preserve">Markdown settings</source>
-        <target xml:space="preserve" state="translated">Поставки за обележување</target>
+        <target xml:space="preserve" state="final">Поставки за обележување</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/markdownSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b38564a34406cb19dbafbb09eedad8ea29c36f30">
+      <trans-unit id="b38564a34406cb19dbafbb09eedad8ea29c36f30" approved="yes">
         <source xml:space="preserve">Markdown settings saved.</source>
-        <target xml:space="preserve" state="translated">Поставките за Markdown се зачувани.</target>
+        <target xml:space="preserve" state="final">Поставките за обележување се зачувани.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/markdownAction.class.php</note>
       </trans-unit>
-      <trans-unit id="78f3842f0201c993fec13905f2ff9ec3fdd39056">
+      <trans-unit id="78f3842f0201c993fec13905f2ff9ec3fdd39056" approved="yes">
         <source xml:space="preserve">Master</source>
-        <target xml:space="preserve" state="translated">Главен</target>
+        <target xml:space="preserve" state="final">Главен/мастер документ</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ce429cdfe927689c43754e53045867274714b859">
+      <trans-unit id="ce429cdfe927689c43754e53045867274714b859" approved="yes">
         <source xml:space="preserve">Master file</source>
-        <target xml:space="preserve" state="translated">Главна датотека</target>
+        <target xml:space="preserve" state="final">Главна/мастер датотека</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="839de310ff883dc5f22ec85eb75776dc0946a190">
+      <trans-unit id="839de310ff883dc5f22ec85eb75776dc0946a190" approved="yes">
         <source xml:space="preserve">Material Type</source>
-        <target xml:space="preserve" state="translated">Тип на материјал</target>
+        <target xml:space="preserve" state="final">Тип на материјал</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="b4ea9ecfda5f420f24978976d21d1dbcd27df1c6">
+      <trans-unit id="b4ea9ecfda5f420f24978976d21d1dbcd27df1c6" approved="yes">
         <source xml:space="preserve">Material type</source>
-        <target xml:space="preserve" state="translated">Тип на материјал</target>
+        <target xml:space="preserve" state="final">Тип на материјал</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="d8c6bb5a79933e8d9cc5ef9f91915300e9fd5595">
+      <trans-unit id="d8c6bb5a79933e8d9cc5ef9f91915300e9fd5595" approved="yes">
         <source xml:space="preserve">Max. size ~%1%</source>
-        <target xml:space="preserve" state="translated">Макс. големина ~% 1%</target>
+        <target xml:space="preserve" state="final">Макс. големина ~% 1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="4574adaf193c3145d6121c15aadd6a3c9ff36617">
+      <trans-unit id="4574adaf193c3145d6121c15aadd6a3c9ff36617" approved="yes">
         <source xml:space="preserve">Maximum file size: </source>
-        <target xml:space="preserve" state="translated">Максимална големина на датотека: </target>
+        <target xml:space="preserve" state="final">Максимална големина на датотека: </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="cfe34539bdec36714dec63f7e5a897242546da3f">
+      <trans-unit id="cfe34539bdec36714dec63f7e5a897242546da3f" approved="yes">
         <source xml:space="preserve">Maximum length on longest edge (pixels)</source>
-        <target xml:space="preserve" state="translated">Максимална должина на најдолгиот раб (пиксели)</target>
+        <target xml:space="preserve" state="final">Максимална должина на најдолгиот раб (пиксели)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/digitalObjectDerivativesSuccess.php</note>
       </trans-unit>
-      <trans-unit id="84c14cd0faad10b4067e93e8953991ca9a9aa858">
+      <trans-unit id="84c14cd0faad10b4067e93e8953991ca9a9aa858" approved="yes">
         <source xml:space="preserve">Maximum total upload size: </source>
-        <target xml:space="preserve" state="translated">Максимална вкупна големина на прикачување: </target>
+        <target xml:space="preserve" state="final">Максимална вкупна големина за прикачување: </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0de7cc3b53c4a73afb24046c77d790906ba907be">
+      <trans-unit id="0de7cc3b53c4a73afb24046c77d790906ba907be" approved="yes">
         <source xml:space="preserve">Media Types</source>
-        <target xml:space="preserve" state="translated">Видови медиуми</target>
+        <target xml:space="preserve" state="final">Видови медиуми</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="77e4c3cafd139ee7570c59e590c95d36052270ba">
+      <trans-unit id="77e4c3cafd139ee7570c59e590c95d36052270ba" approved="yes">
         <source xml:space="preserve">Media type</source>
-        <target xml:space="preserve" state="translated">Тип на медиум</target>
+        <target xml:space="preserve" state="final">Тип на медиум</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a9a24cd153de7c91b664f54d1af1b3d78a8b47d0">
+      <trans-unit id="a9a24cd153de7c91b664f54d1af1b3d78a8b47d0" approved="yes">
         <source xml:space="preserve">Medical</source>
-        <target xml:space="preserve" state="translated">Медицински</target>
+        <target xml:space="preserve" state="final">Медицински</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="bf3703a0a9fc7819e22c4e15518c0a83902fb3e5">
+      <trans-unit id="bf3703a0a9fc7819e22c4e15518c0a83902fb3e5" approved="yes">
         <source xml:space="preserve">Medicine and Health</source>
-        <target xml:space="preserve" state="translated">Медицина и здравје</target>
+        <target xml:space="preserve" state="final">Медицина и здравје</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="d404968ea90b07f16774ce75c7978d6ff60962f2">
+      <trans-unit id="d404968ea90b07f16774ce75c7978d6ff60962f2" approved="yes">
         <source xml:space="preserve">Medium</source>
-        <target xml:space="preserve" state="translated">Средно</target>
+        <target xml:space="preserve" state="final">Средно</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="1cb449c1126609b4b41e1d87f65f0d7cd19b49b9">
+      <trans-unit id="1cb449c1126609b4b41e1d87f65f0d7cd19b49b9" approved="yes">
         <source xml:space="preserve">Members</source>
-        <target xml:space="preserve" state="translated">Членови</target>
+        <target xml:space="preserve" state="final">Членови</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/aclGroup/templates/listSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e7c3800e31ff2e7695b9f5bed95a6de6715dca44">
+      <trans-unit id="e7c3800e31ff2e7695b9f5bed95a6de6715dca44" approved="yes">
         <source xml:space="preserve">Menus</source>
-        <target xml:space="preserve" state="translated">Менија</target>
+        <target xml:space="preserve" state="final">Менија</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="93598a5ee127ffd8f725e92bb5f1f20ce26a2211">
+      <trans-unit id="93598a5ee127ffd8f725e92bb5f1f20ce26a2211" approved="yes">
         <source xml:space="preserve">Merge saved clipboard with existing clipboard results</source>
-        <target xml:space="preserve" state="translated">Спојте ја зачуваната таблата со исечоци со постојните резултати од таблата со исечоци</target>
+        <target xml:space="preserve" state="final">Спојте ја сочуваната меѓумеморија со постојните резултати во меѓумеморијата</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
-      <trans-unit id="929ecd9d6ef73dbc8009fb8a22a2b36058462667">
+      <trans-unit id="929ecd9d6ef73dbc8009fb8a22a2b36058462667" approved="yes">
         <source xml:space="preserve">Migrate</source>
-        <target xml:space="preserve" state="translated">Мигрираат</target>
+        <target xml:space="preserve" state="final">Мигрирање</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="430853fbd980aa289af380918af94b3feebeea27">
+      <trans-unit id="430853fbd980aa289af380918af94b3feebeea27" approved="yes">
         <source xml:space="preserve">Military</source>
-        <target xml:space="preserve" state="translated">Воена</target>
+        <target xml:space="preserve" state="final">Воена</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="14e7b612c404e9aba4f153eabdb3fbc2d2273dcc">
@@ -6192,129 +6192,129 @@
         <target xml:space="preserve" state="translated">Мим-тип</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
-      <trans-unit id="a711cca9a4a9ca2545492f4a0d0c98fd41e07a04">
+      <trans-unit id="a711cca9a4a9ca2545492f4a0d0c98fd41e07a04" approved="yes">
         <source xml:space="preserve">Minimal</source>
-        <target xml:space="preserve" state="translated">Минимална</target>
+        <target xml:space="preserve" state="final">Минимална</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="6ec3edb989002548ae35d1040aeb306e1063392b">
+      <trans-unit id="6ec3edb989002548ae35d1040aeb306e1063392b" approved="yes">
         <source xml:space="preserve">Minimum value is "%min%"</source>
-        <target xml:space="preserve" state="translated">Минималната вредност е „%min%“</target>
+        <target xml:space="preserve" state="final">Минималната вредност е „%min%“</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/uploadsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5eb19661d82b14387cccd03b8c5ce9bb06bc1731">
+      <trans-unit id="5eb19661d82b14387cccd03b8c5ce9bb06bc1731" approved="yes">
         <source xml:space="preserve">Miscellaneous Documents</source>
-        <target xml:space="preserve" state="translated">Разни документи</target>
+        <target xml:space="preserve" state="final">Разни документи</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="e3ea079ded57effba0d3c11311c33855f14ee35e">
+      <trans-unit id="e3ea079ded57effba0d3c11311c33855f14ee35e" approved="yes">
         <source xml:space="preserve">Modification</source>
-        <target xml:space="preserve" state="translated">Модификација</target>
+        <target xml:space="preserve" state="final">Модификација</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="405f45092d843a1d3838d8a5b8852228db0dfbb7">
+      <trans-unit id="405f45092d843a1d3838d8a5b8852228db0dfbb7" approved="yes">
         <source xml:space="preserve">Modifications</source>
-        <target xml:space="preserve" state="translated">Модификации</target>
+        <target xml:space="preserve" state="final">Модификации</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/modificationsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9fe408e12dc6ee8d44c87b38b82ff435c397a441">
+      <trans-unit id="9fe408e12dc6ee8d44c87b38b82ff435c397a441" approved="yes">
         <source xml:space="preserve">Modify</source>
-        <target xml:space="preserve" state="translated">Измени</target>
+        <target xml:space="preserve" state="final">Измени</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="4bab2d8fe13fa6ab57f80098b414f0f734c5dd25">
+      <trans-unit id="4bab2d8fe13fa6ab57f80098b414f0f734c5dd25" approved="yes">
         <source xml:space="preserve">More</source>
-        <target xml:space="preserve" state="translated">Повеќе</target>
+        <target xml:space="preserve" state="final">Повеќе</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_actions.php</note>
       </trans-unit>
-      <trans-unit id="7911e36a1bfea2139a2ffe6f3101ea48b923e796">
+      <trans-unit id="7911e36a1bfea2139a2ffe6f3101ea48b923e796" approved="yes">
         <source xml:space="preserve">Motion Pictures</source>
-        <target xml:space="preserve" state="translated">Подвижните слики</target>
+        <target xml:space="preserve" state="final">Подвижни слики/филм</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="76cdb950721642b6b8596d36d5a39f7705028b99">
+      <trans-unit id="76cdb950721642b6b8596d36d5a39f7705028b99" approved="yes">
         <source xml:space="preserve">Move</source>
-        <target xml:space="preserve" state="translated">Премести</target>
+        <target xml:space="preserve" state="final">Премести</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_actions.php</note>
       </trans-unit>
-      <trans-unit id="e6c567cff7e3e5bd9eee75a74134424ca1f87c1f">
+      <trans-unit id="e6c567cff7e3e5bd9eee75a74134424ca1f87c1f" approved="yes">
         <source xml:space="preserve">Move %1%</source>
-        <target xml:space="preserve" state="translated">Премести % 1%</target>
+        <target xml:space="preserve" state="final">Премести % 1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/moveSuccess.php</note>
       </trans-unit>
-      <trans-unit id="260ff8ae7182fc851337b6b2fdb25f8cac2b8d47">
+      <trans-unit id="260ff8ae7182fc851337b6b2fdb25f8cac2b8d47" approved="yes">
         <source xml:space="preserve">Move down</source>
-        <target xml:space="preserve" state="translated">Да се движи надолу</target>
+        <target xml:space="preserve" state="final">Придвижи надолу</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/listSuccess.php</note>
       </trans-unit>
-      <trans-unit id="20f7679b69f26893d66d8e33f1654f642aae38a9">
+      <trans-unit id="20f7679b69f26893d66d8e33f1654f642aae38a9" approved="yes">
         <source xml:space="preserve">Move failed: </source>
-        <target xml:space="preserve" state="translated">Преместувањето не успеа: </target>
+        <target xml:space="preserve" state="final">Преместувањето не успеа: </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewMoveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="42ee19070c490cdcd3b6f0a266b720b2761238fa">
+      <trans-unit id="42ee19070c490cdcd3b6f0a266b720b2761238fa" approved="yes">
         <source xml:space="preserve">Move failed: new and old positions required as numbers</source>
-        <target xml:space="preserve" state="translated">Преместувањето не успеа: потребни се нови и стари позиции како бројки</target>
+        <target xml:space="preserve" state="final">Преместувањето не успеа: потребни се нови и стари позиции како бројки</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewMoveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="0e80785e63281cdebb50c46db5d9de0098c1756e">
+      <trans-unit id="0e80785e63281cdebb50c46db5d9de0098c1756e" approved="yes">
         <source xml:space="preserve">Move failed: resource not found</source>
-        <target xml:space="preserve" state="translated">Преместувањето не успеа: ресурсот не е пронајден</target>
+        <target xml:space="preserve" state="final">Преместувањето не успеа: изворот не е пронајден</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewMoveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d6f5b75c92e201012666c9d9865972c786decb4e">
+      <trans-unit id="d6f5b75c92e201012666c9d9865972c786decb4e" approved="yes">
         <source xml:space="preserve">Move here</source>
-        <target xml:space="preserve" state="translated">Преместете се овде</target>
+        <target xml:space="preserve" state="final">Преместете овде</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/moveSuccess.php</note>
       </trans-unit>
-      <trans-unit id="984a6fa4e55c04aad028c00c1aec49b97377f7a4">
+      <trans-unit id="984a6fa4e55c04aad028c00c1aec49b97377f7a4" approved="yes">
         <source xml:space="preserve">Move initiated.</source>
-        <target xml:space="preserve" state="translated">Поместувањето започна.</target>
+        <target xml:space="preserve" state="final">Преместувањето започна.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/actions/moveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="00ff477e93991a5ac5a2ec9b3edd3bef3a8cbf34">
+      <trans-unit id="00ff477e93991a5ac5a2ec9b3edd3bef3a8cbf34" approved="yes">
         <source xml:space="preserve">Move item down in list</source>
-        <target xml:space="preserve" state="translated">Преместете ја ставката надолу во списокот</target>
+        <target xml:space="preserve" state="final">Преместете ја единицата во списокот надолу</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/listSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0c4001c87d254218aa05fad0eb533b7e29f0cc8c">
+      <trans-unit id="0c4001c87d254218aa05fad0eb533b7e29f0cc8c" approved="yes">
         <source xml:space="preserve">Move item up in list</source>
-        <target xml:space="preserve" state="translated">Поместете ја ставката нагоре во списокот</target>
+        <target xml:space="preserve" state="final">Поместете ја ставката во списокот нагоре</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/listSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3180f81f1cba3456db87bf31566a2a510ac91995">
+      <trans-unit id="3180f81f1cba3456db87bf31566a2a510ac91995" approved="yes">
         <source xml:space="preserve">Move not allowed: log in required</source>
-        <target xml:space="preserve" state="translated">Не е дозволено движење: потребно е да се најавите</target>
+        <target xml:space="preserve" state="final">Не е дозволено движење: потребно е да се најавите</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewMoveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="16f54870bd401584e24bcc3c72cf5e664d7e35e9">
+      <trans-unit id="16f54870bd401584e24bcc3c72cf5e664d7e35e9" approved="yes">
         <source xml:space="preserve">Move not allowed: not enough permissions</source>
-        <target xml:space="preserve" state="translated">Не е дозволено движење: нема доволно дозволи</target>
+        <target xml:space="preserve" state="final">Не е дозволено движење: го немате потребното ниво на овластување</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewMoveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="cf299204f2875b146fd69f85d91734ecf5a6240a">
+      <trans-unit id="cf299204f2875b146fd69f85d91734ecf5a6240a" approved="yes">
         <source xml:space="preserve">Move not needed: new and old positions are the same</source>
-        <target xml:space="preserve" state="translated">Не е потребно движење: новите и старите позиции се исти</target>
+        <target xml:space="preserve" state="final">Не е потребно преместување: новите и старите позиции се исти</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewMoveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="b4f57cd0cd5c7d88461c1718646713dea47a36c9">
+      <trans-unit id="b4f57cd0cd5c7d88461c1718646713dea47a36c9" approved="yes">
         <source xml:space="preserve">Move up</source>
-        <target xml:space="preserve" state="translated">Движете се нагоре</target>
+        <target xml:space="preserve" state="final">Движете се нагоре</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/listSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b05198fa94a0194d6cb5f0bf8d4ac1d3b3998592">
+      <trans-unit id="b05198fa94a0194d6cb5f0bf8d4ac1d3b3998592" approved="yes">
         <source xml:space="preserve">Moving images</source>
-        <target xml:space="preserve" state="translated">Подвижни слики</target>
+        <target xml:space="preserve" state="final">Подвижни слики</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="ff8cfa7284428ee61746309fa13d25145385090b">
+      <trans-unit id="ff8cfa7284428ee61746309fa13d25145385090b" approved="yes">
         <source xml:space="preserve">Multi-repository</source>
-        <target xml:space="preserve" state="translated">Мулти-репозиториум</target>
+        <target xml:space="preserve" state="final">Мулти-репозиториум/мулти-депо</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/globalSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9098b4abf556407fd143f5a162c03ab86768b7e2">
+      <trans-unit id="9098b4abf556407fd143f5a162c03ab86768b7e2" approved="yes">
         <source xml:space="preserve">Multiple media</source>
-        <target xml:space="preserve" state="translated">Повеќе медиуми</target>
+        <target xml:space="preserve" state="final">Повеќеструки медиуми</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4cabc336936d959cad52b85662c69f5fe28abfa6">
@@ -6322,299 +6322,299 @@
         <target xml:space="preserve" state="translated">Повеќе складишта</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="39a525c1bfb217e6b9cd19433dbbc509289d930a">
+      <trans-unit id="39a525c1bfb217e6b9cd19433dbbc509289d930a" approved="yes">
         <source xml:space="preserve">Municipal</source>
-        <target xml:space="preserve" state="translated">Општински</target>
+        <target xml:space="preserve" state="final">Општински</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="131260cbfbb0c821f8eae5e7c3c296c7aa4d50b9">
+      <trans-unit id="131260cbfbb0c821f8eae5e7c3c296c7aa4d50b9" approved="yes">
         <source xml:space="preserve">Music</source>
-        <target xml:space="preserve" state="translated">Музика</target>
+        <target xml:space="preserve" state="final">Музика</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="829d3f90cd2f6c947e759770023279d92f51dbf5">
+      <trans-unit id="829d3f90cd2f6c947e759770023279d92f51dbf5" approved="yes">
         <source xml:space="preserve">Mustn't contain ";"</source>
-        <target xml:space="preserve" state="translated">Не смее да содржи „;“</target>
+        <target xml:space="preserve" state="final">Не смее да содржи точка-запирка „;“</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/staticpage/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="2f3df0a939fdd38f0e2152b32e778eadb937d821">
+      <trans-unit id="2f3df0a939fdd38f0e2152b32e778eadb937d821" approved="yes">
         <source xml:space="preserve">My profile</source>
-        <target xml:space="preserve" state="translated">Мој Профил</target>
+        <target xml:space="preserve" state="final">Мој Профил</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="08d2e98e6754af941484848930ccbaddfefe13d6">
+      <trans-unit id="08d2e98e6754af941484848930ccbaddfefe13d6" approved="yes">
         <source xml:space="preserve">N/A</source>
-        <target xml:space="preserve" state="translated">N/A</target>
+        <target xml:space="preserve" state="final">N/A</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
-      <trans-unit id="dda732457e50448515bda76d3097e113cf5ef8c3">
+      <trans-unit id="dda732457e50448515bda76d3097e113cf5ef8c3" approved="yes">
         <source xml:space="preserve">NT %1%</source>
-        <target xml:space="preserve" state="translated">NT % 1%</target>
+        <target xml:space="preserve" state="final">NT % 1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_fields.php</note>
       </trans-unit>
-      <trans-unit id="709a23220f2c3d64d1e1d6d18c4d5280f8d82fca">
+      <trans-unit id="709a23220f2c3d64d1e1d6d18c4d5280f8d82fca" approved="yes">
         <source xml:space="preserve">Name</source>
-        <target xml:space="preserve" state="translated">Име</target>
+        <target xml:space="preserve" state="final">Име</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8145640077c0d7d46a0277a4172e50fd90647123">
+      <trans-unit id="8145640077c0d7d46a0277a4172e50fd90647123" approved="yes">
         <source xml:space="preserve">Name - A term with this name already exists.</source>
-        <target xml:space="preserve" state="translated">Име - Термин со ова име веќе постои.</target>
+        <target xml:space="preserve" state="final">Име/назив - Термин со ова име веќе постои.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="251006aa22cca67e85ec99139025f677599ff651">
+      <trans-unit id="251006aa22cca67e85ec99139025f677599ff651" approved="yes">
         <source xml:space="preserve">Name access points</source>
-        <target xml:space="preserve" state="translated">Именувајте пристапни точки</target>
+        <target xml:space="preserve" state="final">Пристапни точки за име</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/advancedSearchComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="1725bfd47081758fcd3c4ae7a61abad211f1ecd0">
+      <trans-unit id="1725bfd47081758fcd3c4ae7a61abad211f1ecd0" approved="yes">
         <source xml:space="preserve">Name access points (subjects)</source>
-        <target xml:space="preserve" state="translated">Име на пристапни точки (субјекти)</target>
+        <target xml:space="preserve" state="final">Пристапни точки на назив/име (субјекти)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="66de98e0b3463df8702836d737c883fce641b949">
+      <trans-unit id="66de98e0b3463df8702836d737c883fce641b949" approved="yes">
         <source xml:space="preserve">Name and location of repository</source>
-        <target xml:space="preserve" state="translated">Име и локација на складиштето</target>
+        <target xml:space="preserve" state="final">Име и локација на складиштето/архивот</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="33d34a420639e6ace988d39ceb329965e5dda1c5">
+      <trans-unit id="33d34a420639e6ace988d39ceb329965e5dda1c5" approved="yes">
         <source xml:space="preserve">Name and location of repository - This is a mandatory element.</source>
-        <target xml:space="preserve" state="translated">Име и локација на складиштето - Ова е задолжителен елемент.</target>
+        <target xml:space="preserve" state="final">Име и локација на складиштето/архивот - Ова е задолжителен елемент.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="41e610ea3f6a08f1de55d8da43d82bb1df35d3c0">
+      <trans-unit id="41e610ea3f6a08f1de55d8da43d82bb1df35d3c0" approved="yes">
         <source xml:space="preserve">Name of creator</source>
-        <target xml:space="preserve" state="translated">Име на креаторот</target>
+        <target xml:space="preserve" state="final">Име на создавачот/имателот на архивски материјал</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_creatorDetail.php</note>
       </trans-unit>
-      <trans-unit id="ee117fad8e3a0f8bf630c737c19f03dbc9f74a74">
+      <trans-unit id="ee117fad8e3a0f8bf630c737c19f03dbc9f74a74" approved="yes">
         <source xml:space="preserve">Name of creator(s)</source>
-        <target xml:space="preserve" state="translated">Име на креаторите</target>
+        <target xml:space="preserve" state="final">Име на создавачите/имателите на архивски материјал</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b9d612d1487cbf8e3b56ea9e44cef7f8bc7558fb">
+      <trans-unit id="b9d612d1487cbf8e3b56ea9e44cef7f8bc7558fb" approved="yes">
         <source xml:space="preserve">Name of the person(s) or organization(s) which has the authority to</source>
-        <target xml:space="preserve" state="translated">Име на лицето(ите) или организација(и) кои имаат овластување да</target>
+        <target xml:space="preserve" state="final">Име на лицето(ите) или организација(и) кои имаат овластување да</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="686e9d435e96df2911e1e9ad77aa2c2ca1e8b7fc">
+      <trans-unit id="686e9d435e96df2911e1e9ad77aa2c2ca1e8b7fc" approved="yes">
         <source xml:space="preserve">Name of the person(s) or organization(s) which has the authority to grant permissions or set rights restrictions.</source>
-        <target xml:space="preserve" state="translated">Име на лицето(и) или организација(и) кои имаат овластување да даваат дозволи или да поставуваат ограничувања на правата.</target>
+        <target xml:space="preserve" state="final">Име на лицето(и) или организација(и) кои имаат овластување да даваат дозволи или да поставуваат ограничувања на правата.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="180f8618239bf983cd00e8c0483ea7ae94156685">
+      <trans-unit id="180f8618239bf983cd00e8c0483ea7ae94156685" approved="yes">
         <source xml:space="preserve">Name(s)</source>
-        <target xml:space="preserve" state="translated">Име(и)</target>
+        <target xml:space="preserve" state="final">Име/имиња</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/_dcNames.php</note>
       </trans-unit>
-      <trans-unit id="2b7c08c3ab75f37e2da656c1aab228f5f3a793b1">
+      <trans-unit id="2b7c08c3ab75f37e2da656c1aab228f5f3a793b1" approved="yes">
         <source xml:space="preserve">Names</source>
-        <target xml:space="preserve" state="translated">Имиња</target>
+        <target xml:space="preserve" state="final">Имиња</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_nameAccessPoints.php</note>
       </trans-unit>
-      <trans-unit id="1d0a149b5944b490fbe7e3a08c171c01b8bebb85">
+      <trans-unit id="1d0a149b5944b490fbe7e3a08c171c01b8bebb85" approved="yes">
         <source xml:space="preserve">Names and dates</source>
-        <target xml:space="preserve" state="translated">Имиња и датуми</target>
+        <target xml:space="preserve" state="final">Имиња и датуми</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="493c8104f4852609a491e4aaf23e83b424a50f88">
+      <trans-unit id="493c8104f4852609a491e4aaf23e83b424a50f88" approved="yes">
         <source xml:space="preserve">Names and origin info</source>
-        <target xml:space="preserve" state="translated">Имиња и информации за потеклото</target>
+        <target xml:space="preserve" state="final">Имиња и информации за потеклото</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1c26c2b8063a498c38c5151a6128aaf35c972787">
+      <trans-unit id="1c26c2b8063a498c38c5151a6128aaf35c972787" approved="yes">
         <source xml:space="preserve">Narratives</source>
-        <target xml:space="preserve" state="translated">Наративи</target>
+        <target xml:space="preserve" state="final">Наративи</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="724f7197f0ee94bc72d5e4d9e301e97e8b1f5b58">
+      <trans-unit id="724f7197f0ee94bc72d5e4d9e301e97e8b1f5b58" approved="yes">
         <source xml:space="preserve">Narrow your results by:</source>
-        <target xml:space="preserve" state="translated">Намалете ги вашите резултати со:</target>
+        <target xml:space="preserve" state="final">Ограничете ги вашите резултати со:</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="710c85efc73584b7375521cb749f2485896dfd49">
+      <trans-unit id="710c85efc73584b7375521cb749f2485896dfd49" approved="yes">
         <source xml:space="preserve">National</source>
-        <target xml:space="preserve" state="translated">национално</target>
+        <target xml:space="preserve" state="final">национално</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="23f033a801a0e2826aef3a208335c191a996cad6">
+      <trans-unit id="23f033a801a0e2826aef3a208335c191a996cad6" approved="yes">
         <source xml:space="preserve">Natural Resources</source>
-        <target xml:space="preserve" state="translated">Природни извори</target>
+        <target xml:space="preserve" state="final">Природни извори</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="431b2f355b1b8190c42bea53e31a1298e214b9a1">
+      <trans-unit id="431b2f355b1b8190c42bea53e31a1298e214b9a1" approved="yes">
         <source xml:space="preserve">Nature of relationship</source>
-        <target xml:space="preserve" state="translated">Природата на врската</target>
+        <target xml:space="preserve" state="final">Природата на врската</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
-      <trans-unit id="80c3052d33ccdee15ffaaa110c5c39072495fe63">
+      <trans-unit id="80c3052d33ccdee15ffaaa110c5c39072495fe63" approved="yes">
         <source xml:space="preserve">Never</source>
-        <target xml:space="preserve" state="translated">Никогаш</target>
+        <target xml:space="preserve" state="final">Никогаш</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/calculateDatesLinkComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="831ab2c47aa148a9e4b124e1a68c64e9ad308c67">
+      <trans-unit id="831ab2c47aa148a9e4b124e1a68c64e9ad308c67" approved="yes">
         <source xml:space="preserve">New granted right</source>
-        <target xml:space="preserve" state="translated">Ново дадено право</target>
+        <target xml:space="preserve" state="final">Ново дадено право</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d850ee188c7c55b64bc3624534de5c5051a57dc6">
+      <trans-unit id="d850ee188c7c55b64bc3624534de5c5051a57dc6" approved="yes">
         <source xml:space="preserve">New password</source>
-        <target xml:space="preserve" state="translated">Нова лозинка</target>
+        <target xml:space="preserve" state="final">Нова лозинка</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/passwordEditSuccess.php</note>
       </trans-unit>
-      <trans-unit id="792e61cd9c86da667a8e97a863646fd53fe6c14c">
+      <trans-unit id="792e61cd9c86da667a8e97a863646fd53fe6c14c" approved="yes">
         <source xml:space="preserve">Newest additions</source>
-        <target xml:space="preserve" state="translated">Најнови додатоци</target>
+        <target xml:space="preserve" state="final">Најнови додавања/дополнувања</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/descriptionUpdatesSuccess.php</note>
       </trans-unit>
-      <trans-unit id="bc981983e7f547dc62e19a1e383acfe00782a6d5">
+      <trans-unit id="bc981983e7f547dc62e19a1e383acfe00782a6d5" approved="yes">
         <source xml:space="preserve">Next</source>
-        <target xml:space="preserve" state="translated">Следно</target>
+        <target xml:space="preserve" state="final">Следно</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_pager.php</note>
       </trans-unit>
-      <trans-unit id="816c52fd2bdd94a63cd0944823a6c0aa9384c103">
+      <trans-unit id="816c52fd2bdd94a63cd0944823a6c0aa9384c103" approved="yes">
         <source xml:space="preserve">No</source>
-        <target xml:space="preserve" state="translated">Не</target>
+        <target xml:space="preserve" state="final">Не</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/actions/browseAction.class.php</note>
       </trans-unit>
-      <trans-unit id="1caae4b65451a6c30af6f9af1b55a5735432e6b7">
+      <trans-unit id="1caae4b65451a6c30af6f9af1b55a5735432e6b7" approved="yes">
         <source xml:space="preserve">No children found</source>
-        <target xml:space="preserve" state="translated">Не се пронајдени деца</target>
+        <target xml:space="preserve" state="final">Не се пронајдени поднивоа</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
-      <trans-unit id="4b775dcfdea71fb1394345b2a8956a1edb8a0462">
+      <trans-unit id="4b775dcfdea71fb1394345b2a8956a1edb8a0462" approved="yes">
         <source xml:space="preserve">No items found.</source>
-        <target xml:space="preserve" state="translated">Не се пронајдени ставки.</target>
+        <target xml:space="preserve" state="final">Не се пронајдени ставки.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5f837da7d6b9d15a8cf041d7ae07dbad8c93306b">
+      <trans-unit id="5f837da7d6b9d15a8cf041d7ae07dbad8c93306b" approved="yes">
         <source xml:space="preserve">No items in clipboard to save.</source>
-        <target xml:space="preserve" state="translated">Нема ставки во таблата со исечоци за зачувување.</target>
+        <target xml:space="preserve" state="final">Нема ставки во меѓумеморијата кои би можеле да со сочуваат.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d">
+      <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d" approved="yes">
         <source xml:space="preserve">No items in clipboard to send.</source>
-        <target xml:space="preserve" state="translated">Нема ставки во таблата со исечоци за испраќање.</target>
+        <target xml:space="preserve" state="final">Нема ставки во меѓумеморијата кои би можеле да се испратат.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="fe3109a8cb2c1ed5cc5c561e4ca1e2f7158baf8e">
+      <trans-unit id="fe3109a8cb2c1ed5cc5c561e4ca1e2f7158baf8e" approved="yes">
         <source xml:space="preserve">No lower level dates found</source>
-        <target xml:space="preserve" state="translated">Не се пронајдени датуми на пониско ниво</target>
+        <target xml:space="preserve" state="final">Не се пронајдени датуми на пониските нивоа</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
-      <trans-unit id="cc6ef1ea84544e4c0f0ca31a415608968be947e3">
+      <trans-unit id="cc6ef1ea84544e4c0f0ca31a415608968be947e3" approved="yes">
         <source xml:space="preserve">No records were exported for your current selection. Please</source>
-        <target xml:space="preserve" state="translated">Не беа извезени записи за вашиот тековен избор. Ве молам</target>
+        <target xml:space="preserve" state="final">Не е извезен ниту еден запис за вашиот тековен избор. Ве молам</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="b993b0c537190bfc94b21360ac5abe51e56be36f">
+      <trans-unit id="b993b0c537190bfc94b21360ac5abe51e56be36f" approved="yes">
         <source xml:space="preserve">No results</source>
-        <target xml:space="preserve" state="translated">Нема резултати</target>
+        <target xml:space="preserve" state="final">Нема резултати</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_pager.php</note>
       </trans-unit>
-      <trans-unit id="a8dbf545a405b4cbc96f75eb0729fef65f51b14b">
+      <trans-unit id="a8dbf545a405b4cbc96f75eb0729fef65f51b14b" approved="yes">
         <source xml:space="preserve">No results for this entity type.</source>
-        <target xml:space="preserve" state="translated">Нема резултати за овој тип ентитет.</target>
+        <target xml:space="preserve" state="final">Нема резултати за овој тип ентитет.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="658e79f9dc7fca34dc164cbb79e1c0be3cdebf23">
+      <trans-unit id="658e79f9dc7fca34dc164cbb79e1c0be3cdebf23" approved="yes">
         <source xml:space="preserve">No results found</source>
-        <target xml:space="preserve" state="translated">Не се пронајдени резултати</target>
+        <target xml:space="preserve" state="final">Не се пронајдени резултати</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e9cc6d0e9a61da7cff0e049a68c0ecfd422d901c">
+      <trans-unit id="e9cc6d0e9a61da7cff0e049a68c0ecfd422d901c" approved="yes">
         <source xml:space="preserve">No results found.</source>
-        <target xml:space="preserve" state="translated">Не се пронајдени резултати.</target>
+        <target xml:space="preserve" state="final">Не се пронајдени резултати.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_tableViewResults.php</note>
       </trans-unit>
-      <trans-unit id="e7c3d2225afaba2338575edd35fc684a608bc519">
+      <trans-unit id="e7c3d2225afaba2338575edd35fc684a608bc519" approved="yes">
         <source xml:space="preserve">No. narrower terms</source>
-        <target xml:space="preserve" state="translated">бр.потесни термини</target>
+        <target xml:space="preserve" state="final">Бр. на поблиски термини</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_rightContextMenu.php</note>
       </trans-unit>
-      <trans-unit id="6eef6648406c333a4035cd5e60d0bf2ecf2606d7">
+      <trans-unit id="6eef6648406c333a4035cd5e60d0bf2ecf2606d7" approved="yes">
         <source xml:space="preserve">None</source>
-        <target xml:space="preserve" state="translated">Никој</target>
+        <target xml:space="preserve" state="final">Ниту еден</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
-      <trans-unit id="39208c598f8f515fde64f9754eb85c702248a1b1">
+      <trans-unit id="39208c598f8f515fde64f9754eb85c702248a1b1" approved="yes">
         <source xml:space="preserve">Normalized</source>
-        <target xml:space="preserve" state="translated">Нормализиран</target>
+        <target xml:space="preserve" state="final">Нормализиран</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ca1dd39379254ab3f3c73dbffb0d03d628b27d20">
+      <trans-unit id="ca1dd39379254ab3f3c73dbffb0d03d628b27d20" approved="yes">
         <source xml:space="preserve">Not</source>
-        <target xml:space="preserve" state="translated">Не</target>
+        <target xml:space="preserve" state="final">Не</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
-      <trans-unit id="a3752ec29207194651ff1f8696e3e86808b151f1">
+      <trans-unit id="a3752ec29207194651ff1f8696e3e86808b151f1" approved="yes">
         <source xml:space="preserve">Not a CSV file (or CSV columns not recognized).</source>
-        <target xml:space="preserve" state="translated">Не е CSV-датотека (или CSV колоните не се препознаваат).</target>
+        <target xml:space="preserve" state="final">Не е CSV-датотека (или CSV колоните не се препознаваат).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/importSelectAction.class.php</note>
       </trans-unit>
-      <trans-unit id="475c848673a3f79fa778f01c2bd5a721d4c41707">
+      <trans-unit id="475c848673a3f79fa778f01c2bd5a721d4c41707" approved="yes">
         <source xml:space="preserve">Not found</source>
-        <target xml:space="preserve" state="translated">Не е најдено</target>
+        <target xml:space="preserve" state="final">Не е најдено</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtSwordPlugin/modules/qtSwordPlugin/actions/depositAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5d617df124304970c2677920d0c3cffce2229fcf">
+      <trans-unit id="5d617df124304970c2677920d0c3cffce2229fcf" approved="yes">
         <source xml:space="preserve">Not generated yet.</source>
-        <target xml:space="preserve" state="translated">Сè уште не е генерирано.</target>
+        <target xml:space="preserve" state="final">Сè уште не е генерирано.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ac15bca5bbea06cd32f056c8cbf634e4f1faea41">
+      <trans-unit id="ac15bca5bbea06cd32f056c8cbf634e4f1faea41" approved="yes">
         <source xml:space="preserve">Not implemented</source>
-        <target xml:space="preserve" state="translated">Не се спроведува</target>
+        <target xml:space="preserve" state="final">Не е имплементирано</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtSwordPlugin/modules/qtSwordPlugin/actions/depositAction.class.php</note>
       </trans-unit>
-      <trans-unit id="2c924e3088204ee77ba681f72be3444357932fca">
+      <trans-unit id="2c924e3088204ee77ba681f72be3444357932fca" approved="yes">
         <source xml:space="preserve">Note</source>
-        <target xml:space="preserve" state="translated">Забелешка</target>
+        <target xml:space="preserve" state="final">Забелешка</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_occupations.php</note>
       </trans-unit>
-      <trans-unit id="824f535e0d352d79a0eec5448be1291628041c9b">
+      <trans-unit id="824f535e0d352d79a0eec5448be1291628041c9b" approved="yes">
         <source xml:space="preserve">Note any distinctive alphabets, scripts, symbol systems or abbreviations employed. (ISAD 3.4.3)</source>
-        <target xml:space="preserve" state="translated">Забележете ги сите употребени карактеристични азбуки, скрипти, симболи или кратенки. (ISAD 3.4.3)</target>
+        <target xml:space="preserve" state="final">Наведете ги сите употребени карактеристични азбуки, абецеди, систем на симболи или кратенки. (ISAD 3.4.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="00e27acba537159ec9b24b088cc086a34529fc29">
+      <trans-unit id="00e27acba537159ec9b24b088cc086a34529fc29" approved="yes">
         <source xml:space="preserve">Note on publisher's series</source>
-        <target xml:space="preserve" state="translated">Белешка за серијата на издавачот</target>
+        <target xml:space="preserve" state="final">Белешка за издавачката серија</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7092111c85e62a86730fe88defa594fc920c21d1">
+      <trans-unit id="7092111c85e62a86730fe88defa594fc920c21d1" approved="yes">
         <source xml:space="preserve">Note type</source>
-        <target xml:space="preserve" state="translated">Тип на белешка</target>
+        <target xml:space="preserve" state="final">Тип на белешка</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/_notes.php</note>
       </trans-unit>
-      <trans-unit id="5bd481c87099e0460502e62dae121e7c591f1243">
+      <trans-unit id="5bd481c87099e0460502e62dae121e7c591f1243" approved="yes">
         <source xml:space="preserve">Note types</source>
-        <target xml:space="preserve" state="translated">Видови белешки</target>
+        <target xml:space="preserve" state="final">Видови белешки</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="a6228fc361c1fe8d8fbdc7fa3b247c876fd5ecb8">
+      <trans-unit id="a6228fc361c1fe8d8fbdc7fa3b247c876fd5ecb8" approved="yes">
         <source xml:space="preserve">Note: Incorrect security settings can result in the AtoM web UI becoming inaccessible.</source>
-        <target xml:space="preserve" state="translated">Забелешка: погрешните безбедносни поставки може да резултираат со тоа што веб-интерфејсот на AtoM станува недостапен.</target>
+        <target xml:space="preserve" state="final">Забелешка: погрешните безбедносни поставки може да резултираат со тоа што веб-интерфејсот на AtoM станува недостапен.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/securitySuccess.php</note>
       </trans-unit>
-      <trans-unit id="e4275c04480ee72cc6c53655ed8a839e05de00bc">
+      <trans-unit id="e4275c04480ee72cc6c53655ed8a839e05de00bc" approved="yes">
         <source xml:space="preserve">Note: While the date range update is running, the selected description should not be edited.</source>
-        <target xml:space="preserve" state="translated">Забелешка: додека работи ажурирањето на временскиот опсег, избраниот опис не треба да се уредува.</target>
+        <target xml:space="preserve" state="final">Забелешка: додека работи ажурирањето на граничните години, избраниот опис не треба да се уредува.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesSuccess.php</note>
       </trans-unit>
-      <trans-unit id="68843a8dbae3e8675807ab7d93a7a3a64653653d">
+      <trans-unit id="68843a8dbae3e8675807ab7d93a7a3a64653653d" approved="yes">
         <source xml:space="preserve">Note: clipboard items unclipped in this page will be removed from the clipboard</source>
-        <target xml:space="preserve" state="translated">Забелешка: ставките од таблата со исечоци што се отсечени на оваа страница ќе бидат отстранети од таблата со исечоци</target>
+        <target xml:space="preserve" state="final">Забелешка: ставките од меѓумеморијата што се отстранети на оваа страница ќе бидат отстранети од меѓумеморијата</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/menu/templates/_clipboardMenu.php</note>
       </trans-unit>
-      <trans-unit id="03915c8a77a4b0f90d32770b849637edf0af1f6b">
+      <trans-unit id="03915c8a77a4b0f90d32770b849637edf0af1f6b" approved="yes">
         <source xml:space="preserve">Note: clipboard items unclipped in this page will be removed from the clipboard when the page is refreshed. You can re-select them now, or reload the page to remove them completely. Using the sort or print preview buttons will also cause a page reload - so anything currently deselected will be lost!</source>
-        <target xml:space="preserve" state="translated">Забелешка: ставките од таблата со исечоци што се отсечени на оваа страница ќе бидат отстранети од таблата со исечоци кога страницата ќе се освежи. Сега можете повторно да ги изберете или повторно да ја вчитате страницата за целосно да ги отстраните. Користењето на копчињата за преглед на сортирање или печатење исто така ќе предизвика повторно вчитување на страницата - така што сè што е отселектирано моментално ќе се изгуби!</target>
+        <target xml:space="preserve" state="final">Забелешка: ставките од меѓумеморијата што се отстранети на оваа страница ќе бидат отстранети одмеѓумеморијата кога страницата ќе се освежи. Сега може повторно да ги изберете или повторно да ја вчитате страницата за целосно да ги отстраните. Користењето на копчињата за преглед на сортирање или печатење исто така ќе предизвика повторно вчитување на страницата - така што сè што не е селектирано моментално ќе се изгуби!</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_clipboardMenu.php</note>
       </trans-unit>
-      <trans-unit id="70440046a3dc2e079f23ee1c57dfa76669b732aa">
+      <trans-unit id="70440046a3dc2e079f23ee1c57dfa76669b732aa" approved="yes">
         <source xml:space="preserve">Notes</source>
-        <target xml:space="preserve" state="translated">Белешки</target>
+        <target xml:space="preserve" state="final">Белешки</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="52c29611a4ab80a6027567c803ae55b6c5ee2fa0">
@@ -7432,259 +7432,259 @@
         <target xml:space="preserve" state="translated">Обезбедете врска до надворешна веб-локација или внатрешна, симфониска патека (модул/акција).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="95e940c24cccefabadac9248368a68af394a44a3">
+      <trans-unit id="95e940c24cccefabadac9248368a68af394a44a3" approved="yes">
         <source xml:space="preserve">Provide a menu label for users.  For menu items that are not visible (i.e. are organizational only) this should be left blank.</source>
-        <target xml:space="preserve" state="translated">Обезбедете ознака на менито за корисниците. За ставки од менито кои не се видливи (т.е. се само организациски) ова треба да се остави празно.</target>
+        <target xml:space="preserve" state="final">Наведете ознака на корисничко мени. За ставки од менито кои не се видливи (т.е. се само организациски) ова треба да се остави празно.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d8ff3cec76ae8e151d06cd58a4a33bbd2208a945">
+      <trans-unit id="d8ff3cec76ae8e151d06cd58a4a33bbd2208a945" approved="yes">
         <source xml:space="preserve">Provide a reason why the records are being deaccessioned.</source>
-        <target xml:space="preserve" state="translated">Наведете причина зошто записите се отстапуваат.</target>
+        <target xml:space="preserve" state="final">Наведете причина зошто записите/архивскиот материјал се излачуваат.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/deaccession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="256f0c0016798c13a758bdbbd3ba97346ca72b06">
+      <trans-unit id="256f0c0016798c13a758bdbbd3ba97346ca72b06" approved="yes">
         <source xml:space="preserve">Provide a specific local reference code, control number, or other unique identifier. The country and repository code will be automatically added from the linked repository record to form a full reference code. (ISAD 3.1.1)</source>
-        <target xml:space="preserve" state="translated">Обезбедете специфичен локален референтен код, контролен број или друг единствен идентификатор. Кодот на земјата и складиштето автоматски ќе се додадат од поврзаниот запис на складиштето за да се формира целосен референтен код. (ISAD 3.1.1)</target>
+        <target xml:space="preserve" state="final">Обезбедете специфичен локален референтен код, контролен број или друг единствен идентификатор/сигнатура. Кодот на земјата и ознаката на архивот автоматски ќе се додадат од поврзаниот запис на депото за да се формира целосен референтен код/сигнатура. (ISAD 3.1.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="843df52a67f0bcaecd854ec6e0141454859b0f72">
+      <trans-unit id="843df52a67f0bcaecd854ec6e0141454859b0f72" approved="yes">
         <source xml:space="preserve">Provide an internal menu name.  This is not visible to users.</source>
-        <target xml:space="preserve" state="translated">Наведете име на внатрешно мени. Ова не е видливо за корисниците.</target>
+        <target xml:space="preserve" state="final">Наведете име на внатрешно мени за интерна употреба. Ова не е видливо за корисниците.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="576cf1d447768fc7d179fb3a1e0da6db2bb3b0c7">
+      <trans-unit id="576cf1d447768fc7d179fb3a1e0da6db2bb3b0c7" approved="yes">
         <source xml:space="preserve">Provide either a formal title or a concise supplied title in accordance with the rules of multilevel description and national conventions. (ISAD 3.1.2)</source>
-        <target xml:space="preserve" state="translated">Обезбедете или формален наслов или концизен доставен наслов во согласност со правилата за опис на повеќе нивоа и националните конвенции. (ISAD 3.1.2)</target>
+        <target xml:space="preserve" state="final">Обезбедете или формален наслов или концизен доставен наслов во согласност со правилата за опис на повеќе нивоа и националните конвенции. (ISAD 3.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5851601ca2ccc8383966d8a618b1440197ebaeb1">
+      <trans-unit id="5851601ca2ccc8383966d8a618b1440197ebaeb1" approved="yes">
         <source xml:space="preserve">Provide information about any special equipment required to view or access the unit being described, if it is not clear from the Extent element. (DACS 4.3.5)</source>
-        <target xml:space="preserve" state="translated">Обезбедете информации за која било специјална опрема потребна за прегледување или пристап до единицата што се опишува, ако тоа не е јасно од елементот Extent. (DACS 4.3.5)</target>
+        <target xml:space="preserve" state="final">Обезбедете информации за која било специјална опрема потребна за прегледување или пристап до единицата што се опишува, ако тоа не е јасно од Елементот за опсег. (DACS 4.3.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="96361cd93b611e866ddf76e680e486f6b6b2201f">
+      <trans-unit id="96361cd93b611e866ddf76e680e486f6b6b2201f" approved="yes">
         <source xml:space="preserve">Provide information about the physical characteristics or condition of the unit being described that limit access to it or restrict its use. (DACS 4.2.5)</source>
-        <target xml:space="preserve" state="translated">Обезбедете информации за физичките карактеристики или состојбата на единицата што се опишува што го ограничува пристапот до неа или ја ограничува неговата употреба. (DACS 4.2.5)</target>
+        <target xml:space="preserve" state="final">Наведете информации за физичките карактеристики или состојбата на единицата што се опишува што го ограничува пристапот до неа или ја ограничува неговата употреба. (DACS 4.2.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="186506c45772289a53aa0888e64ada963225387e">
+      <trans-unit id="186506c45772289a53aa0888e64ada963225387e" approved="yes">
         <source xml:space="preserve">Provincial/state</source>
-        <target xml:space="preserve" state="translated">Провинциски/државен</target>
+        <target xml:space="preserve" state="final">Покраински/државен (Локална самоуправа/државен)</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="5296a2a2314b067947e25b37b0397bc85ad51b76">
+      <trans-unit id="5296a2a2314b067947e25b37b0397bc85ad51b76" approved="yes">
         <source xml:space="preserve">Public areas</source>
-        <target xml:space="preserve" state="translated">Јавни површини</target>
+        <target xml:space="preserve" state="final">Јавни подрачја</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8db0aa8489c076d646ed83d0785591b0a12e847e">
+      <trans-unit id="8db0aa8489c076d646ed83d0785591b0a12e847e" approved="yes">
         <source xml:space="preserve">Public domain</source>
-        <target xml:space="preserve" state="translated">Јавен домен</target>
+        <target xml:space="preserve" state="final">Јавен домен</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="59668a17a29dc215f2a9d8b8d0666aeeea6982e3">
+      <trans-unit id="59668a17a29dc215f2a9d8b8d0666aeeea6982e3" approved="yes">
         <source xml:space="preserve">Public transfer</source>
-        <target xml:space="preserve" state="translated">Јавен трансфер</target>
+        <target xml:space="preserve" state="final">Јавен пренос</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="e00441c49bf6cb62a4a537860a47c6b85de694f6">
+      <trans-unit id="e00441c49bf6cb62a4a537860a47c6b85de694f6" approved="yes">
         <source xml:space="preserve">Publication</source>
-        <target xml:space="preserve" state="translated">Објавување</target>
+        <target xml:space="preserve" state="final">Публикација</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="3271f2e8258d79e22fca4e6dab6d65d38998a1f9">
+      <trans-unit id="3271f2e8258d79e22fca4e6dab6d65d38998a1f9" approved="yes">
         <source xml:space="preserve">Publication Status</source>
-        <target xml:space="preserve" state="translated">Статус на објавување</target>
+        <target xml:space="preserve" state="final">Статус на публикација</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="bf1dd2fef538daac05c52189979dd7a9f33c5250">
+      <trans-unit id="bf1dd2fef538daac05c52189979dd7a9f33c5250" approved="yes">
         <source xml:space="preserve">Publication note</source>
-        <target xml:space="preserve" state="translated">Забелешка за објавување</target>
+        <target xml:space="preserve" state="final">Забелешка за публикација</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c40d1f40659c35c988027dc0259054315335b03c">
+      <trans-unit id="c40d1f40659c35c988027dc0259054315335b03c" approved="yes">
         <source xml:space="preserve">Publication notes</source>
-        <target xml:space="preserve" state="translated">Белешки за објавување</target>
+        <target xml:space="preserve" state="final">Белешки за публикација</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/notesComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="084ea620d93fcf80f10d7a8277a855e3957bda61">
+      <trans-unit id="084ea620d93fcf80f10d7a8277a855e3957bda61" approved="yes">
         <source xml:space="preserve">Publication status</source>
-        <target xml:space="preserve" state="translated">Статус на објавување</target>
+        <target xml:space="preserve" state="final">Статус на публикацијата</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/updatePublicationStatusSuccess.php</note>
       </trans-unit>
-      <trans-unit id="483bf2075c12023a5e849d12a42027be89c5e94b">
+      <trans-unit id="483bf2075c12023a5e849d12a42027be89c5e94b" approved="yes">
         <source xml:space="preserve">Published</source>
-        <target xml:space="preserve" state="translated">Објавено</target>
+        <target xml:space="preserve" state="final">Објавено</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="bc42b41b9cd52c2739535104ca568d8c4fceaffa">
+      <trans-unit id="bc42b41b9cd52c2739535104ca568d8c4fceaffa" approved="yes">
         <source xml:space="preserve">Published material</source>
-        <target xml:space="preserve" state="translated">Објавен материјал</target>
+        <target xml:space="preserve" state="final">Публикуван архивски материјал</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="61d70d6e8feec4a24094f690826f6c474b69a22c">
+      <trans-unit id="61d70d6e8feec4a24094f690826f6c474b69a22c" approved="yes">
         <source xml:space="preserve">Publisher</source>
-        <target xml:space="preserve" state="translated">Издавач</target>
+        <target xml:space="preserve" state="final">Издавач</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5320eb14ef70739b5f45d7e48ca31b4f84914e43">
+      <trans-unit id="5320eb14ef70739b5f45d7e48ca31b4f84914e43" approved="yes">
         <source xml:space="preserve">Publisher's series</source>
-        <target xml:space="preserve" state="translated">Серии на издавач</target>
+        <target xml:space="preserve" state="final">Издавачки серии</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="33b7df15e4b84d755d4270e66d56eabee7eac74b">
+      <trans-unit id="33b7df15e4b84d755d4270e66d56eabee7eac74b" approved="yes">
         <source xml:space="preserve">Publisher's series area</source>
-        <target xml:space="preserve" state="translated">Област на серии на издавачот</target>
+        <target xml:space="preserve" state="final">Подрачје на издавачки серии</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="160f06d4799c85021a810f68c5b517eea37a2737">
+      <trans-unit id="160f06d4799c85021a810f68c5b517eea37a2737" approved="yes">
         <source xml:space="preserve">Purchase</source>
-        <target xml:space="preserve" state="translated">Купување</target>
+        <target xml:space="preserve" state="final">Купување</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="bba2574be08c2288e735e55596be416465014557">
+      <trans-unit id="bba2574be08c2288e735e55596be416465014557" approved="yes">
         <source xml:space="preserve">Qubit Setting Labels</source>
-        <target xml:space="preserve" state="translated">Етикети за поставување Qubit</target>
+        <target xml:space="preserve" state="final">Ознаки за Qubit поставки</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="4b4e155ec7ba26f7cfed8ea10bd6ca44fb26f995">
+      <trans-unit id="4b4e155ec7ba26f7cfed8ea10bd6ca44fb26f995" approved="yes">
         <source xml:space="preserve">Quick links</source>
-        <target xml:space="preserve" state="translated">Брзи линкови</target>
+        <target xml:space="preserve" state="final">Брзи врски/линкови</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_quickLinksMenu.php</note>
       </trans-unit>
-      <trans-unit id="3c4cdb328f1008db6ec7f064d4a9f225c0ecd6f0">
+      <trans-unit id="3c4cdb328f1008db6ec7f064d4a9f225c0ecd6f0" approved="yes">
         <source xml:space="preserve">Quick search</source>
-        <target xml:space="preserve" state="translated">Брзо пребарување</target>
+        <target xml:space="preserve" state="final">Брзо пребарување</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_treeView.php</note>
       </trans-unit>
-      <trans-unit id="5046dea4045c15fea9c966c705eabf3df9125bc1">
+      <trans-unit id="5046dea4045c15fea9c966c705eabf3df9125bc1" approved="yes">
         <source xml:space="preserve">RAD Note</source>
-        <target xml:space="preserve" state="translated">RAD Забелешка</target>
+        <target xml:space="preserve" state="final">RAD Забелешка</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="6e997640b3bf51a5c0027ec360de1444fb5f0b2d">
+      <trans-unit id="6e997640b3bf51a5c0027ec360de1444fb5f0b2d" approved="yes">
         <source xml:space="preserve">RAD Title Note</source>
-        <target xml:space="preserve" state="translated">Забелешка за насловот на RAD</target>
+        <target xml:space="preserve" state="final">RAD Забелешка за насловот</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="364156309502cc3dfb137be750f89299d3479581">
+      <trans-unit id="364156309502cc3dfb137be750f89299d3479581" approved="yes">
         <source xml:space="preserve">RAD template - area headings</source>
-        <target xml:space="preserve" state="translated">RAD шаблон - наслови на областа</target>
+        <target xml:space="preserve" state="final">RAD шаблон - подрачје на наслови</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7ec464b43771872f91faadbb19bcb2c9d7e1a575">
+      <trans-unit id="7ec464b43771872f91faadbb19bcb2c9d7e1a575" approved="yes">
         <source xml:space="preserve">RAD template - elements</source>
-        <target xml:space="preserve" state="translated">RAD шаблон - елементи</target>
+        <target xml:space="preserve" state="final">RAD шаблон - елементи</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6359dac5e21a300db2b84d54cf9f7c483a288375">
+      <trans-unit id="6359dac5e21a300db2b84d54cf9f7c483a288375" approved="yes">
         <source xml:space="preserve">RAD, July 2008 version. Canadian Council of Archives</source>
-        <target xml:space="preserve" state="translated">RAD, верзија јули 2008 година. Канадскиот совет на архиви</target>
+        <target xml:space="preserve" state="final">RAD, верзија јули 2008 година. Канадскиот совет на архиви</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsDefaultTemplateForm.class.php</note>
       </trans-unit>
-      <trans-unit id="d3b3b1ed9df51a2a4935d0eb5a3d872518da7dc9">
+      <trans-unit id="d3b3b1ed9df51a2a4935d0eb5a3d872518da7dc9" approved="yes">
         <source xml:space="preserve">REST API access key</source>
-        <target xml:space="preserve" state="translated">REST API пристап клуч</target>
+        <target xml:space="preserve" state="final">REST API пристапен клуч</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d3c822dedad3933b9090b1d2341ea8dc89adb5b1">
+      <trans-unit id="d3c822dedad3933b9090b1d2341ea8dc89adb5b1" approved="yes">
         <source xml:space="preserve">REST API key</source>
-        <target xml:space="preserve" state="translated">REST API клуч</target>
+        <target xml:space="preserve" state="final">REST API клуч</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9ada3810ef0ea05f78ef31f77cbb205579bc693a">
+      <trans-unit id="9ada3810ef0ea05f78ef31f77cbb205579bc693a" approved="yes">
         <source xml:space="preserve">RT %1%</source>
-        <target xml:space="preserve" state="translated">RT % 1%</target>
+        <target xml:space="preserve" state="final">RT (поврзан поим) % 1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_fields.php</note>
       </trans-unit>
-      <trans-unit id="32abdf99d470e368ff52f35bc0e2944650c9e6c1">
+      <trans-unit id="32abdf99d470e368ff52f35bc0e2944650c9e6c1" approved="yes">
         <source xml:space="preserve">Read less</source>
-        <target xml:space="preserve" state="translated">Читајте помалку</target>
+        <target xml:space="preserve" state="final">Читај помалку</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/templates/_footer.php</note>
       </trans-unit>
-      <trans-unit id="ad086cf55b834c375e209972840f1342401d8c41">
+      <trans-unit id="ad086cf55b834c375e209972840f1342401d8c41" approved="yes">
         <source xml:space="preserve">Read more</source>
-        <target xml:space="preserve" state="translated">Прочитај повеќе</target>
+        <target xml:space="preserve" state="final">Читај повеќе</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/templates/_footer.php</note>
       </trans-unit>
-      <trans-unit id="601dcc1c87c313fd30ce84fe78d832c726dc750e">
+      <trans-unit id="601dcc1c87c313fd30ce84fe78d832c726dc750e" approved="yes">
         <source xml:space="preserve">Read only</source>
-        <target xml:space="preserve" state="translated">Само Читај</target>
+        <target xml:space="preserve" state="final">Само за читање</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/readOnlySuccess.php</note>
       </trans-unit>
-      <trans-unit id="f219cc0614ae6860f43a3cd84b5cf31fc312cd9d">
+      <trans-unit id="f219cc0614ae6860f43a3cd84b5cf31fc312cd9d" approved="yes">
         <source xml:space="preserve">Reason</source>
-        <target xml:space="preserve" state="translated">Причина</target>
+        <target xml:space="preserve" state="final">Причина</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/deaccession/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9082b81be21ab565440aacc8575cf92c755e404c">
+      <trans-unit id="9082b81be21ab565440aacc8575cf92c755e404c" approved="yes">
         <source xml:space="preserve">Received extent units</source>
-        <target xml:space="preserve" state="translated">Добиени единици за обем</target>
+        <target xml:space="preserve" state="final">Обем на примен архивски материјал</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ec177c36f9020b04d5735612ec19d256e5929b12">
+      <trans-unit id="ec177c36f9020b04d5735612ec19d256e5929b12" approved="yes">
         <source xml:space="preserve">Record a citation to, and/or information about a publication that is about or based on the use, study, or analysis of the unit of description. Include references to published facsimiles or transcriptions. (ISAD 3.5.4)</source>
-        <target xml:space="preserve" state="translated">Снимете цитат и/или информации за публикација што се однесува или се заснова на употреба, проучување или анализа на единицата за опис. Вклучете референци за објавени факсимили или транскрипции. (ISAD 3.5.4)</target>
+        <target xml:space="preserve" state="final">Запишете цитат и/или информации за публикација што се однесува или се заснова на употреба, проучување или анализа на единицата за опис. Вклучете референци за објавени факсимили или транскрипции. (ISAD 3.5.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/notesComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="5abafdf357f92215784bc8ce12a4ef41f2cf56cc">
+      <trans-unit id="5abafdf357f92215784bc8ce12a4ef41f2cf56cc" approved="yes">
         <source xml:space="preserve">Record a citation to, or information about, a publication that is about or is based on the use, study, or analysis of the materials being described. Provide sufficient information to indicate the relationship between the publication and the unit being described. This includes annotated editions. (DACS 6.4.4)</source>
-        <target xml:space="preserve" state="translated">Снимете цитирање или информации за публикација што се однесува или се заснова на употреба, проучување или анализа на материјалите што се опишани. Обезбедете доволно информации за да ја покажете врската помеѓу публикацијата и единицата што се опишува. Ова ги вклучува коментарите изданија. (DACS 6.4.4)</target>
+        <target xml:space="preserve" state="final">Наведете цитирање или информации за публикација што се однесува или се заснова на употреба, проучување или анализа на единицата што се опишува. Обезбедете доволно информации за да ја покажете врската помеѓу публикацијата и единицата што се опишува. Ова ги вклучува изданијата со коментари. (DACS 6.4.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/notesComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="337852fdcfb743f2f72dcadc2baa2dfc056c114e">
+      <trans-unit id="337852fdcfb743f2f72dcadc2baa2dfc056c114e" approved="yes">
         <source xml:space="preserve">Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 - Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code.</source>
-        <target xml:space="preserve" state="translated">Запишете единствен идентификатор за опис во согласност со локалните и/или националните конвенции. Ако описот треба да се користи на меѓународно ниво, запишете го кодот на земјата во која е креиран описот во согласност со најновата верзија на ISO 3166 - Шифри за претставување на имињата на земјите. Онаму каде што креаторот на описот е меѓународна организација, дајте го организацискиот идентификатор наместо кодот на државата.</target>
+        <target xml:space="preserve" state="final">Запишете единствен идентификатор за опис во согласност со локалните и/или националните прописи. Ако описот треба да се користи на меѓународно ниво, запишете го кодот на земјата во која е креиран описот во согласност со најновата верзија на ISO 3166 - Кодови за претставување на имињата на земјите. Онаму каде што креаторот на описот е меѓународна организација, дајте го организацискиот идентификатор наместо кодот на државата.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d699ea4bee23132e3cf1cb8584feb9eb6f400d13">
+      <trans-unit id="d699ea4bee23132e3cf1cb8584feb9eb6f400d13" approved="yes">
         <source xml:space="preserve">Record appraisal, destruction and scheduling actions taken on or planned for the unit of description, especially if they may affect the interpretation of the material.</source>
-        <target xml:space="preserve" state="translated">Запишете ги активностите за проценка, уништување и закажување преземени или планирани за единицата за опис, особено ако тие можат да влијаат на толкувањето на материјалот.</target>
+        <target xml:space="preserve" state="final">Запишете ги спроведените активности за вреднување, излачување и утврдување рокови на чување за единицата за опис, особено ако тие можат да влијаат на толкувањето на материјалот.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9406f57b308a67385a75bbe1eb9490647b57a64e">
+      <trans-unit id="9406f57b308a67385a75bbe1eb9490647b57a64e" approved="yes">
         <source xml:space="preserve">Record appraisal, destruction and scheduling actions taken on or planned for the unit of description, especially if they may affect the interpretation of the material. (ISAD 3.3.2)</source>
-        <target xml:space="preserve" state="translated">Запишете ги активностите за проценка, уништување и закажување преземени или планирани за единицата за опис, особено ако тие можат да влијаат на толкувањето на материјалот. (ISAD 3.3.2)</target>
+        <target xml:space="preserve" state="final">Да се наведат сите планирани и реализирани постапки на вреднување, одбирање и на излачување на архивскиот материјал што е дел од единицата на опис, особено ако тоа може да влијае на толкувањето на архивскиот материјал. (ISAD 3.3.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="89823f7212ba69d7bb53fa69eb5b4777640b277f">
+      <trans-unit id="89823f7212ba69d7bb53fa69eb5b4777640b277f" approved="yes">
         <source xml:space="preserve">Record citations for any external sources used in the archival description (such as the Scope and Content, Archival History, or Notes fields).</source>
-        <target xml:space="preserve" state="translated">Снимајте цитати за какви било надворешни извори што се користат во архивскиот опис (како што се полињата Опсег и содржина, Архивска историја или Белешки).</target>
+        <target xml:space="preserve" state="final">Наведете ги сите цитати за сите надворешни извори користени во архивскиот опис (како што се полињата Опсег и содржина, Историјат на фондот или Белешки).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="630a27a5c9f8b0b4b821d1f2608affe848f14190">
+      <trans-unit id="630a27a5c9f8b0b4b821d1f2608affe848f14190" approved="yes">
         <source xml:space="preserve">Record citations for any external sources used in the archival description (such as the Scope and Content, Custodial History, or Notes fields).</source>
-        <target xml:space="preserve" state="translated">Снимајте наводи за сите надворешни извори кои се користат во архивскиот опис (како што се полињата Опсег и содржина, Историја на старателството или Белешки).</target>
+        <target xml:space="preserve" state="final">Наведете ги цитатите за сите надворешни извори користени во архивскиот опис (како што се полињата Опсег и содржина, Историјат на фондот или Белешки).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="02cca9a8cba9848bdeb2934607c1f54a85bea539">
+      <trans-unit id="02cca9a8cba9848bdeb2934607c1f54a85bea539" approved="yes">
         <source xml:space="preserve">Record dates of creation, record-keeping activity, publication, or broadcast as appropriate to the materials being described. (DACS 2.4.3) The Date display field can be used to enter free-text date information, including typographical marks to express approximation, uncertainty, or qualification. Use the start and end fields to make the dates searchable. Do not use any qualifiers or typographical symbols. Acceptable date formats: YYYYMMDD, YYYY-MM-DD, YYYY-MM, YYYY.</source>
-        <target xml:space="preserve" state="translated">Запишете датуми на создавање, активност на водење евиденција, објавување или емитување како што е соодветно на материјалите што се опишани. (DACS 2.4.3) Полето за прикажување датум може да се користи за внесување информации за датумот на слободен текст, вклучително и типографски знаци за изразување приближување, несигурност или квалификација. Користете ги полињата за почеток и крај за да ги направите датумите да се пребаруваат. Не користете никакви квалификатори или типографски симболи. Прифатливи формати на датуми: ГГГГММДД, ГГГГ-ММ-ДД, ГГГГ-ММ, ГГГГГ.</target>
+        <target xml:space="preserve" state="final">Наведете датуми на создавање, чување, водење евиденции, публикување или емитување во зависнот од материјалите што се опишуваат. (DACS 2.4.3) Полето за прикажување датум може да се користи за внесување информации за датумот во форма на слободен текст, вклучително и типографски знаци за изразување приближување, несигурност или квалификација. Користете ги полињата за почетен и краен датум за да може датумите да се пребаруваат. Не користете никакви квалификатори или типографски симболи. Прифатливи формати на датуми: ГГГГММДД, ГГГГ-ММ-ДД, ГГГГ-ММ, ГГГГГ.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5b9fee98732ea4e9df9b773fc6325fdabe7e68b3">
+      <trans-unit id="5b9fee98732ea4e9df9b773fc6325fdabe7e68b3" approved="yes">
         <source xml:space="preserve">Record group</source>
-        <target xml:space="preserve" state="translated">Група за снимање</target>
+        <target xml:space="preserve" state="final">Група на записи</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="4e639f1c0c21b3ca508a668c9fb8f92b8d66e0a3">
+      <trans-unit id="4e639f1c0c21b3ca508a668c9fb8f92b8d66e0a3" approved="yes">
         <source xml:space="preserve">Record information about any distinctive alphabets, scripts, symbol systems, or abbreviations employed (DACS 4.5.3). If there is no language content, record “no linguistic content.” (DACS 4.5.4)</source>
-        <target xml:space="preserve" state="translated">Запишете информации за употребените карактеристични азбуки, скрипти, симболи или кратенки (DACS 4.5.3). Ако нема јазична содржина, снимајте „нема лингвистичка содржина“. (DACS 4.5.4)</target>
+        <target xml:space="preserve" state="final">Наведете информации за употребените карактеристични азбуки, абецеди, систем на симболи или кратенки. (DACS 4.5.3). Ако нема јазична содржина, наведете „нема јазична содржина“. (DACS 4.5.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e5a1da565668827cc753f8de6c05d1acd7635ebf">
+      <trans-unit id="e5a1da565668827cc753f8de6c05d1acd7635ebf" approved="yes">
         <source xml:space="preserve">Record information about any existing finding aids that provide information relating to the context and contents of the unit being described... including any relevant information about its location or availability, and any other information necessary to assist the user in evaluating its usefulness. Include finding aids prepared by the creator (e.g., registers, indexes, etc.) that are part of the unit being described. (DACS 4.6.2)</source>
-        <target xml:space="preserve" state="translated">Запишете ги информациите за сите постоечки помагала за наоѓање кои обезбедуваат информации во врска со контекстот и содржината на единицата што се опишува... вклучувајќи ги и сите релевантни информации за нејзината локација или достапност, и сите други информации неопходни за да му помогнат на корисникот да ја процени неговата корисност. Вклучете помагала за наоѓање подготвени од креаторот (на пр., регистри, индекси, итн.) кои се дел од единицата што се опишува. (DACS 4.6.2)</target>
+        <target xml:space="preserve" state="final">Наведете ги информациите за сите постоечки информативни средства кои се однесуваат на контекстот и содржината на единицата што се опишува... вклучувајќи ги и сите релевантни информации за нејзината локација или достапност, и сите други информации неопходни за да му помогнат на корисникот да ја процени неговата корисност. Вклучете информативни средства подготвени од создавачот на архивски материјал (на пр., регистри, индекси, итн.) кои се дел од единицата што се опишува. (DACS 4.6.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="77ccc6de47f7e344b259c13407027bafacaa5314">
+      <trans-unit id="77ccc6de47f7e344b259c13407027bafacaa5314" approved="yes">
         <source xml:space="preserve">Record information about the nature of the materials and activities reflected in the unit being described to enable users to judge its potential relevance, including information about functions, activities, transations, and processes; documentary form(s) or intellectual characteristics; content dates; geographic areas and places; subject matter; completeness of the materials; or any other information that assists the user in evaluating the relevance of the materials. (DACS 3.1)</source>
-        <target xml:space="preserve" state="translated">Снимајте информации за природата на материјалите и активностите рефлектирани во единицата што се опишува за да им овозможи на корисниците да ја проценат нејзината потенцијална релевантност, вклучувајќи информации за функции, активности, трансакции и процеси; документарна форма(и) или интелектуални карактеристики; датуми на содржина; географски области и места; содржина; комплетноста на материјалите; или која било друга информација која му помага на корисникот да ја процени релевантноста на материјалите. (DACS 3.1)</target>
+        <target xml:space="preserve" state="final">Наведете информации за природата на материјалите и активностите кои се рефлектираат во единицата што се опишува за да им овозможи на корисниците да ја проценат нејзината потенцијална релевантност, вклучувајќи информации за функции, активности, трансакции и процеси; документарна форма(и) или интелектуални карактеристики; датуми во содржина; географски области и места; содржина; комплетноста на материјалите; или која било друга информација која му помага на корисникот да ја процени релевантноста на материјалите. (DACS 3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="15e886438452d0c66cc125d4a65cb9de4754051a">
         <source xml:space="preserve">Record information about units of description in the same repository or elsewhere that are related by provenance or other association(s). Use appropriate introductory wording and explain the nature of the relationship . If the related unit of description is a finding aid, use the finding aids element of description (3.4.5) to make the reference to it. (ISAD 3.5.3)</source>
-        <target xml:space="preserve" state="translated">Запишете ги информациите за единиците на опис во истото складиште или на друго место кои се поврзани по потекло или други здруженија. Користете соодветна воведна формулација и објаснете ја природата на врската. Ако поврзаната единица на опис е помагало за наоѓање, користете го елементот за помагала за пронаоѓање од описот (3.4.5) за да се повикате на него. (ISAD 3.5.3)</target>
+        <target xml:space="preserve" state="translated">Наведете ги информациите за единиците на опис во истото складиште или на друго место кои се поврзани по потекло или други здруженија. Користете соодветна воведна формулација и објаснете ја природата на врската. Ако поврзаната единица на опис е помагало за наоѓање, користете го елементот за помагала за пронаоѓање од описот (3.4.5) за да се повикате на него. (ISAD 3.5.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b5ed865bd130aa9047b8cc4b5d512e2ca1ab7d23">
