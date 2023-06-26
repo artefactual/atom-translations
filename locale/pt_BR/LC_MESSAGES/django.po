@@ -13,16 +13,16 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 10:51-0700\n"
-"PO-Revision-Date: 2021-01-19 21:32+0000\n"
-"Last-Translator: Matheus H. Baumgarten <mbaumgartenbr@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) <http://translations.artefactual.com/"
+"PO-Revision-Date: 2023-06-27 13:20+0000\n"
+"Last-Translator: Marcelo Alencar <marceloalencar@users.noreply.github.com>\n"
+"Language-Team: Portuguese (Brazil) <https://translations.artefactual.com/"
 "projects/atom/website/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.2.2\n"
+"X-Generator: Weblate 4.18\n"
 
 #: atom/settings/base.py:76
 msgid "English"
@@ -238,7 +238,7 @@ msgstr "Wiki"
 
 #: templates/base.html:108 templates/footer.html:21
 msgid "Demo"
-msgstr "Demo"
+msgstr "Demonstração"
 
 #: templates/base.html:110
 msgid "Try it now!"
@@ -557,7 +557,16 @@ msgid ""
 "            <p>AtoM is web-based software. You can download and install it on your own webserver to make your copy of AtoM available to anyone with an internet connection. AtoM comes with an installer that helps you through this process.</p>\n"
 "            <p>Once you have downloaded this file, consult the online <a href=\"%(url_installation)s\">installation documentation</a>. See also the <a href=\"%(url_upgrade)s\">upgrading guide</a>.</p>\n"
 "          "
-msgstr "\n<p>AtoM é um software em plataforma web. Você pode baixá-lo e instalá-lo em seu próprio servidor web para fazer com que a sua cópia do AtoM seja disponível para qualquer um que possua conexão à internet. AtoM vem com um instalador que te auxilia através desse processo.</p>\n\n<p>Uma vez que você tenha baixado este arquivo, consulte a <a href=\"%(url_installation)s\">documentação de instalação</a> online. Veja também o <a href=\"%(url_upgrade)s\">guia de atualização</a>.</p>\n          "
+msgstr ""
+"\n"
+"            <p>AtoM é um software em plataforma web. Você pode baixá-lo e "
+"instalá-lo em seu próprio servidor web para fazer com que a sua cópia do "
+"AtoM seja disponível para qualquer um que possua conexão à internet. AtoM "
+"vem com um instalador que te auxilia através desse processo.</p>\n"
+"            <p>Uma vez que você tenha baixado este arquivo, consulte a <a "
+"href=\"%(url_installation)s\">documentação de instalação</a> online. Veja "
+"também o <a href=\"%(url_upgrade)s\">guia de atualização</a>.</p>\n"
+"          "
 
 #: templates/pages/download.html:163
 msgid "Test AtoM locally using Vagrant"
@@ -643,7 +652,7 @@ msgstr ""
 
 #: templates/pages/home.html:74
 msgid "Standards-based"
-msgstr "Baseado em pradrões"
+msgstr "Baseado em padrões"
 
 #: templates/pages/home.html:76
 msgid ""
