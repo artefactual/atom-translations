@@ -1044,7 +1044,7 @@
       </trans-unit>
       <trans-unit id="b3e3bbc9103b04d543a6204da8e18664e43f77be" approved="yes">
         <source xml:space="preserve">Access control</source>
-        <target xml:space="preserve">Prava pristupa</target>
+        <target xml:space="preserve" state="final">Kontrola pristupa</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="8c04b4278f43c7492d93eef51c5adcfc436ee7cb" approved="yes">
@@ -4554,7 +4554,7 @@
       </trans-unit>
       <trans-unit id="945e300e4603ccef917c89bd595a06ed39369f78" approved="yes">
         <source xml:space="preserve">Identifier: Provide a specific local reference code, control number, or other unique identifier. Level of description: Record the level of this unit of description. Title: Provide either a formal title or a concise supplied title in accordance with the rules of multilevel description and national conventions.</source>
-        <target xml:space="preserve">Identifikator: Navedi određeni lokalni referentni kod, kontrolni broj ili jedan drugi jedinstveni identifikator. Razina opisa: Zabilježi razinu ove jedinice opisa. Naslov: Navedi formalni naslov ili sažet nadomjesni naslov u skladu s pravilima višerazinskog opisa i nacionalnim konvencijama.</target>
+        <target xml:space="preserve" state="final">Identifikator: Navedi određeni lokalni referentni kod, kontrolni broj ili jedan drugi jedinstveni identifikator. Razina opisa: Zabilježi razinu ove jedinice opisa. Naslov: Navedi formalni naslov ili sažet dostavljeni naslov u skladu s pravilima višerazinskog opisa i nacionalnim konvencijama.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="649d2864df18704de32e689e69e63f2483e8b76e" approved="yes">
@@ -10350,9 +10350,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5e79afee0b6bb3ef37ab29f73720bc2b9d6034bb">
+      <trans-unit id="5e79afee0b6bb3ef37ab29f73720bc2b9d6034bb" approved="yes">
         <source xml:space="preserve">&lt;p&gt;The name of the organization which has custody of the resource.&lt;/p&gt;</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">&lt;p&gt;Ime organizacije koje čuva resurs.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="994d19dd6b20202cb0819e998680a1b577f76a6a">
@@ -10851,9 +10851,9 @@
         <target xml:space="preserve" state="final">Čitaj više</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/templates/_footer.php</note>
       </trans-unit>
-      <trans-unit id="05ca562fabc9b1d13e0858f9b59b64339f024008">
+      <trans-unit id="05ca562fabc9b1d13e0858f9b59b64339f024008" approved="yes">
         <source xml:space="preserve">Record the name of the organization which has custody of the archival material.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Zapiši ime organizacije koja čuva arhivsko gradivo.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="a52c7642578f05dcfff422942241b5b3e8c0d357">
@@ -11006,9 +11006,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdfPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="70ceb797ca99eb8c6c5a7559568f22be7596c657">
+      <trans-unit id="70ceb797ca99eb8c6c5a7559568f22be7596c657" approved="yes">
         <source xml:space="preserve">Select the repository that has custody and control of the archival material.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Odaberi repozitorij koji čuva i kontrolira arhivsko gradivo.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="f57d1dc97f54d3354ee976fdae6090d3b385c65f">
