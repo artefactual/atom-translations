@@ -354,9 +354,9 @@
         <target xml:space="preserve" state="final">"سجل الملاحظات المتعلقة بإنشاء الوصف والحفاظ عليه." (ISDIAH 5.6.9)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="479574ac7fc9e95152d70b72b3fbf4182891e82b">
+      <trans-unit id="479574ac7fc9e95152d70b72b3fbf4182891e82b" approved="yes">
         <source xml:space="preserve">"Record the authorised form of name and any unique identifier of the related function." (ISDF 5.3.1)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل النموذج المعتمد لاسم الوظيفةوأي معرف فريد للوظيفة ذات الصلة." (ISDF 5.3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
       <trans-unit id="1f9b842b078ca2cb8c414d3a8496c23a889c1b85">
@@ -379,9 +379,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="88bf6fe3f09d35bc6ee9f2b58f38ddc07026e835">
+      <trans-unit id="88bf6fe3f09d35bc6ee9f2b58f38ddc07026e835" approved="yes">
         <source xml:space="preserve">"Record the date the description was created and the dates of any revisions to the description." (ISDIAH 5.6.6)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل تاريخ إنشاء تسجيلة الوصف وتواريخ أي مراجعات تمت على التسجيلة." (ISDIAH 5.6.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="37afc74316934a734b22022a839f67e80c804c9c">
@@ -10966,24 +10966,24 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9e266fa87d819eaec588aa2fec5b5c738f04d73d">
+      <trans-unit id="9e266fa87d819eaec588aa2fec5b5c738f04d73d" approved="yes">
         <source xml:space="preserve">Search for an existing term in the Thematic Areas taxonomy by typing the first few</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">ابحث عن مصطلح موجود في تصنيف المجالات الموضوعية عن طريق كتابة المصطلحات القليلة الأولى</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="bfa2f6a71c0439a846674614b31ea85b3788e909">
+      <trans-unit id="bfa2f6a71c0439a846674614b31ea85b3788e909" approved="yes">
         <source xml:space="preserve">Search hierarchy</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">البحث في التسلسل الهرمي</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_treeView.php</note>
       </trans-unit>
-      <trans-unit id="4550708669beb1c5bc877e218985556e4c8d855a">
+      <trans-unit id="4550708669beb1c5bc877e218985556e4c8d855a" approved="yes">
         <source xml:space="preserve">Search in browse page</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">البحث في صفحة التصفح</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/search/templates/_box.php</note>
       </trans-unit>
-      <trans-unit id="5616c8722256385e28abb27ee4233728e13a8882">
+      <trans-unit id="5616c8722256385e28abb27ee4233728e13a8882" approved="yes">
         <source xml:space="preserve">Search options</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">خيارات البحث</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/term/templates/_treeView.php</note>
       </trans-unit>
       <trans-unit id="2f258cb6b00112cadfebfd8f53ab9b02b9251dba">
