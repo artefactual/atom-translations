@@ -10365,9 +10365,9 @@
         <target xml:space="preserve" state="final">&lt;strong&gt;Tipo:&lt;/strong&gt; Insira um nome para o campo de identificador alternativo que indica o seu objetivo e utilização.&lt;br/&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; Insira um código de referência legado, identificador alternativo ou qualquer outro texto alfanumérico associado ao registro.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
-      <trans-unit id="71e439181d96187177030a818fa3fae65b9b8d29" approved="no">
+      <trans-unit id="71e439181d96187177030a818fa3fae65b9b8d29" approved="yes">
         <source xml:space="preserve">A %1%release %2% upgrade is available.</source>
-        <target xml:space="preserve" state="translated">A %1%versão %2%%3% está disponível para atualização.</target>
+        <target xml:space="preserve" state="final">A %1%versão %2% está disponível para atualização.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/default/templates/_updateCheck.php</note>
       </trans-unit>
       <trans-unit id="fb6f7c24d375f7b302caa158d4c4790e5a8393c6" approved="yes">
@@ -11331,39 +11331,39 @@ desabilitada, e o filtro 'Busca avançada &gt; Instrumentos de Pesquisa' é ocul
         <target xml:space="preserve" state="final">registros adicionados</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/menu/templates/_clipboardMenu.php</note>
       </trans-unit>
-      <trans-unit id="b01756bc32329c27d56020880cc41721c687791f">
+      <trans-unit id="b01756bc32329c27d56020880cc41721c687791f" approved="yes">
         <source xml:space="preserve">A slug based on this name already exists so a number has been added to pad the slug.</source>
-        <target xml:space="preserve" state="translated">Um slug baseado neste nome já existe. Logo, um número foi adicionado para adequar o slug.</target>
+        <target xml:space="preserve" state="final">Um slug baseado neste nome já existe. Logo, um número foi adicionado para adequar o slug.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/renameSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a99c2c5975c63438a2845bf12812885af80529d6">
+      <trans-unit id="a99c2c5975c63438a2845bf12812885af80529d6" approved="yes">
         <source xml:space="preserve">Editing the authorized form of name will automatically update the slug field if the "Update slug" checkbox is selected - you can still edit it after.</source>
-        <target xml:space="preserve" state="translated">Editar a forma autorizada do nome atualizará automaticamente o campo do slug, caso a caixa de opções "Atualizar slug" estiver selecionada - você ainda poderá editá-lo depois.</target>
+        <target xml:space="preserve" state="final">Editar a forma autorizada do nome atualizará automaticamente o campo do slug, caso a caixa de opções "Atualizar slug" estiver selecionada - você ainda poderá editá-lo depois.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/renameSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d7327c52d1d6b8a28d5d0a159b270aa7e0d415ec">
+      <trans-unit id="d7327c52d1d6b8a28d5d0a159b270aa7e0d415ec" approved="yes">
         <source xml:space="preserve">Original authorized form of name</source>
-        <target xml:space="preserve" state="translated">Forma autorizada do nome original</target>
+        <target xml:space="preserve" state="final">Forma autorizada do nome original</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/renameSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6a1c6604365e38640333c513d9915bf450855910">
+      <trans-unit id="6a1c6604365e38640333c513d9915bf450855910" approved="yes">
         <source xml:space="preserve">Sync failed: resource not found</source>
-        <target xml:space="preserve" state="translated">Sincronização falhou: recurso não encontrado</target>
+        <target xml:space="preserve" state="final">A sincronização falhou: o recurso não foi encontrado</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewSyncAction.class.php</note>
       </trans-unit>
-      <trans-unit id="95abb6afca666a8503dea05ac5e4665a846ba4d6">
+      <trans-unit id="95abb6afca666a8503dea05ac5e4665a846ba4d6" approved="yes">
         <source xml:space="preserve">Sync not allowed: log in required</source>
-        <target xml:space="preserve" state="translated">Sincronização não permitida: login necessário</target>
+        <target xml:space="preserve" state="final">Sincronização não permitida: login necessário</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/fullWidthTreeViewSyncAction.class.php</note>
       </trans-unit>
-      <trans-unit id="10e42e16ff3a1c65ff56dccce342f8732ceedef0">
+      <trans-unit id="10e42e16ff3a1c65ff56dccce342f8732ceedef0" approved="yes">
         <source xml:space="preserve">Update authorized form of name</source>
-        <target xml:space="preserve" state="translated">Atualizar forma autorizada do nome</target>
+        <target xml:space="preserve" state="final">Atualizar forma autorizada do nome</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/renameSuccess.php</note>
       </trans-unit>
-      <trans-unit id="cd206c6022fe6b06ab956a241f23d9649e545e15">
+      <trans-unit id="cd206c6022fe6b06ab956a241f23d9649e545e15" approved="yes">
         <source xml:space="preserve">Use this interface to update the authorized form of name, slug (permalink), and/or %1% filename.</source>
-        <target xml:space="preserve" state="translated">Use esta interface para atualizar a forma autorizada do nome, slug (permalink), e/ou nome do arquivo de %1%.</target>
+        <target xml:space="preserve" state="final">Use esta interface para atualizar a forma autorizada do nome, slug (link permanente), e/ou nome do arquivo do %1%.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/renameSuccess.php</note>
       </trans-unit>
     </body>
