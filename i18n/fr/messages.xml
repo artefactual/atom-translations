@@ -898,9 +898,9 @@
         <target xml:space="preserve" state="final">&lt;strong&gt;Étiquette :&lt;/strong&gt; Entrer un nom pour le champ Autre identifiant qui indique sa finalité et son usage.&lt;br/&gt;&lt;strong&gt;Identifiant :&lt;/strong&gt; Entrez un code de référence existant, un identifiant alternatif, ou tout autre chaîne alpha-numérique associée à la notice.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
-      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" approved="no">
+      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" approved="yes">
         <source xml:space="preserve">&lt;strong&gt;Type:&lt;/strong&gt; Enter a name for the alternative identifier field that indicates its purpose and usage.&lt;br/&gt;&lt;strong&gt;Identifier:&lt;/strong&gt; Enter a legacy reference code, alternative identifier, or any other alpha-numeric string associated with the record.</source>
-        <target xml:space="preserve" state="translated">&amp;lt;strong&amp;gt;Type:&amp;lt;/strong&amp;gt; Entrez un nom pour le champ d'identifiant alternatif qui indique son but et son utilisation.&amp;lt;br/&amp;gt;&amp;lt;strong&amp;gt;Identifiant :&amp;lt;/strong&amp;gt; Saisissez un code de référence hérité, un autre identifiant ou toute autre chaîne alphanumérique associée à l'enregistrement.</target>
+        <target xml:space="preserve" state="final">&amp;lt;strong&amp;gt;Type:&amp;lt;/strong&amp;gt; Entrez un nom pour le champ d'identifiant alternatif qui indique son but et son utilisation.&amp;lt;br/&amp;gt;&amp;lt;strong&amp;gt;Identifiant :&amp;lt;/strong&amp;gt; Saisissez un code de référence hérité, un autre identifiant ou toute autre chaîne alphanumérique associée à l'enregistrement.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
       <trans-unit id="39c6fe6bbe18b341f05e967d01ffa968b9c550e1" approved="yes">
@@ -10373,7 +10373,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="fb6f7c24d375f7b302caa158d4c4790e5a8393c6">
         <source xml:space="preserve">A brief site description or &amp;quot;tagline&amp;quot; for the header</source>
-        <target xml:space="preserve" state="translated">Une courte description du site ou &amp;quot;slogan&amp;quot ; pour l'en-tête</target>
+        <target xml:space="preserve" state="translated">Une courte description du site ou &amp;quot;slogan&amp;quot; pour l'en-tête</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/siteInformationSuccess.php</note>
       </trans-unit>
       <trans-unit id="30f88c252214c1a51b65a32c90c418b2b7c40b0c">
