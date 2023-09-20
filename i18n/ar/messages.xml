@@ -204,9 +204,9 @@
         <target xml:space="preserve" state="final">"الغرض: تحديد الاتفاقيات أو القواعد الوطنية أو الدولية المطبقة في إنشاء الوصف الأرشيفي. القاعدة: سجل الأسماء وحيثما تكون الإصدارات أو تواريخ النشر للاتفاقيات أو القواعد المطبقة مفيدة." (ISDF 5.4.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a23c087476a8884958adf7c4e2cdcf241b589dda">
+      <trans-unit id="a23c087476a8884958adf7c4e2cdcf241b589dda" approved="yes">
         <source xml:space="preserve">"Purpose: To indicate the various forms in which the Authorized form of name occurs in other languages or script form(s). Rule: record the parallel form(s) of name in accordance with any relevant national or international conventions or rules applied by the agency that created the authority record, including any necessary sub elements and/or qualifiers required by those conventions or rules." (ISAAR 5.1.3)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"الغرض: الإشارة إلى الأشكال المختلفة التي يظهر فيها الشكل المعتمد للاسم بلغات أو أشكال نصية أخرى. القاعدة: تسجيل النموذج (الأشكال) الموازية للاسم وفقًا لأي اتفاقيات أو قواعد وطنية أو دولية ذات صلة تطبقها الجهة التي أنشأت السجل الاستنادي، بما في ذلك أي عناصر فرعية و/أو مؤهلات ضرورية تتطلبها تلك الاتفاقيات أو القواعد." (ISAAR 5.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="a2beb2c73ac629d29b867e0d06ec1080d38c9ddd" approved="yes">
