@@ -389,14 +389,14 @@
         <target xml:space="preserve" state="final">"سجل تواريخ وجود الكيان الموصوف. بالنسبة للهيئات الاعتبارية، قم بتضمين تاريخ التأسيس/التأسيس/التشريع التمكيني والحل. بالنسبة للأشخاص، قم بتضمين التواريخ أو التواريخ التقريبية للميلاد والوفاة، أو عندما تكون هذه التواريخ غير معروفة، قم بتسجيل تواريخ الميلاد والوفاة التواريخ. عند استخدام أنظمة خاصة للتأريخ، يمكن تسجيل هذه الأنظمة وفقًا للاتفاقيات أو القواعد ذات الصلة. حدد في عنصر القواعد و/أو الاتفاقيات (5.4.3) نظام (أنظمة) التأريخ المستخدم، على سبيل المثال ISO 8601." (ISAAR 5.2.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="468a7abd67f7eed1b5ff0c30ca25ccf18eb1ffe8">
+      <trans-unit id="468a7abd67f7eed1b5ff0c30ca25ccf18eb1ffe8" approved="yes">
         <source xml:space="preserve">"Record the donor or source (i.e., the immediate prior custodian) from whom the unit being described was acquired, and the date and method of acquisition, as well as the source/donor's relationship to the material, if any or all of this information is not confidential. If the source/donor is unknown, record that information." (RAD 1.8B12)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل الجهة المانحة أو المصدر (أي الوصي السابق المباشر) الذي تم الحصول منه على الوحدة الموصوفة، وتاريخ وطريقة الاستحواذ، بالإضافة إلى علاقة المصدر/الجهة المانحة بالمادة، إن كانت هذه المعلومات ليست سرية. إذا كان المصدر/الجهة المانحة غير معروف، سجل تلك المعلومات." (RAD 1.8B12)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="83db42f337862c92169f8b713836913474e93bd8">
+      <trans-unit id="83db42f337862c92169f8b713836913474e93bd8" approved="yes">
         <source xml:space="preserve">"Record the full authorised form of name(s) of agency(ies) responsible for creating, modifying or disseminating the description or, alternatively, record a recognized code for the agency." (ISDF 5.4.2)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل النموذج الكامل المعتمد لاسم (أسماء) الجهة (الجهات) المسؤولة عن إنشاء الوصف أو تعديله أو نشره، ويُمكنك أيضًا، تسجيل الرمز الخاص بالجهة ." (ISDF 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="0e0f66c625ae807b0787a80ea7cc00e5fd672696">
