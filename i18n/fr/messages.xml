@@ -1199,7 +1199,7 @@
       </trans-unit>
       <trans-unit id="138a104b733f5424727a30db2adbf5fb72f3cc6b" approved="yes">
         <source xml:space="preserve">Act</source>
-        <target xml:space="preserve">Action</target>
+        <target xml:space="preserve" state="final">Acte</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_right.php</note>
       </trans-unit>
       <trans-unit id="b340d40c175b54c515cfb6afccc865cb3f06a8b4" approved="yes">
@@ -4821,9 +4821,9 @@
         <target xml:space="preserve">Informations sur les droits s'appliquant à la ressource (par exemple propriété intellectuelle, conditions d'accès, etc.).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="cdb21523c1c9e21750c734088c8904a505169d16" approved="yes">
+      <trans-unit id="cdb21523c1c9e21750c734088c8904a505169d16" approved="no">
         <source xml:space="preserve">Information object</source>
-        <target xml:space="preserve">Description archivistique</target>
+        <target xml:space="preserve" state="translated">Objets</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="0ce4ccb1920ec97bfb132ca8ee0ac2460f79fa10" approved="yes">
@@ -5637,7 +5637,7 @@
       </trans-unit>
       <trans-unit id="7911e36a1bfea2139a2ffe6f3101ea48b923e796" approved="yes">
         <source xml:space="preserve">Motion Pictures</source>
-        <target xml:space="preserve">Images en mouvement</target>
+        <target xml:space="preserve" state="final">Films</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="76cdb950721642b6b8596d36d5a39f7705028b99" approved="yes">
@@ -9583,7 +9583,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="c98f8378524f00c5e706960a644783761e87a084">
         <source xml:space="preserve">When enabled the following text will appear in the %1% metadata section to describe how a user may access the original and preservation copy of the file stored in a linked digital preservation system. The text appears in the "Permissions" field. When disabled, the "Permissions" field is not displayed.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Lorsque activé le text suivant apparaitra dans la section %1% metadonnée pour décrire comment un utilisateur peut avoir accès au document natif et à lq copie d'accès stockée dans un système de conservation de documents numériques connexes. Le text apparait dans le champ 'Permissions". Lorsque désactivé, le champs "Permissions" ne sera pas visible.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="40d418bc31781a74944b309e740c43c749195d10" approved="yes">
