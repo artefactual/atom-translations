@@ -10353,7 +10353,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="5e79afee0b6bb3ef37ab29f73720bc2b9d6034bb" approved="no">
         <source xml:space="preserve">&lt;p&gt;The name of the organization which has custody of the resource.&lt;/p&gt;</source>
-        <target xml:space="preserve" state="translated">&lt;p&gt;Le nom de l'organisation qui est responsable pour la ressource.&lt;/p&gt;</target>
+        <target xml:space="preserve" state="translated">&lt;p&gt;Le nom de l'organisation ayant la responsabilité de la ressource.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="994d19dd6b20202cb0819e998680a1b577f76a6a" approved="no">
@@ -10383,12 +10383,12 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="987d49721b677e164329e70e099452599cd6a17a">
         <source xml:space="preserve">A designation of the language in which the content of a resource is expressed.</source>
-        <target xml:space="preserve" state="translated">Une désignation de la langage dans laquelle la ressource est écrite.</target>
+        <target xml:space="preserve" state="translated">Une désignation de la langue de la ressource.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5c49a3f13796122feb94c9e617faa917fb8e0bd5">
         <source xml:space="preserve">A term or phrase representing the primary topic(s) on which a work is focused.</source>
-        <target xml:space="preserve" state="translated">Terme ou expression représentant le ou les principaux sujets sur lesquels porte un ouvrage.</target>
+        <target xml:space="preserve" state="translated">Terme ou expression représentant le ou les principaux sujets d'un ouvrage.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="45138b5a2b70c6adf288128d1e1c25b93095d8da">
@@ -10408,12 +10408,12 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="cb5c9236772f858a4d5a6406ede69270cb69e45e">
         <source xml:space="preserve">Add more files</source>
-        <target xml:space="preserve" state="translated">Ajoutez des fichiers</target>
+        <target xml:space="preserve" state="translated">Ajoutez des fichiers supplémentaires</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="a91b56583ba1e96777195318314c445a946171f4">
         <source xml:space="preserve">Add your digital objects by dragging and dropping local files into the pane below, or by clicking the browse link to open your local file explorer.</source>
-        <target xml:space="preserve" state="translated">Ajoutez vos objets numeriques en faisant glisser et en déposant des fichiers locaux dans le volet ci-dessous, ou en cliquant sur le lien Parcourir pour ouvrir votre explorateur de fichiers local.</target>
+        <target xml:space="preserve" state="translated">Ajoutez vos objets numériques en glissant puis déposant des fichiers locaux dans le volet ci-dessous, ou en cliquant sur le lien vous permettant d'ouvrir votre explorateur de fichiers local.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="c0ade02f2c45f074ee5d1a1033eebbb594379450">
@@ -10423,12 +10423,12 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="1abeee71f473b1d9d46f4d871c27b859c956f955">
         <source xml:space="preserve">Additional information about the license, such as contact persons, action</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Informations supplémentaires au sujet de la licence, par exemple les personnes à contacter, action</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5f9caaa99a5d020d418055b0502f6612ef94fd26">
         <source xml:space="preserve">Advanced %1%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Avancée %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="4f4b35c7cf57af4fe19f0258691618f91d8bb3e6">
@@ -10438,7 +10438,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="0d19a264b41640887176948155910231403d2ad4">
         <source xml:space="preserve">Apply to every %1%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Appliquer pour chaque %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="f721c73c29796e83c2e9683136e7e90a34ac678e">
@@ -10453,7 +10453,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="2061b7b8472a4dc24060bf3445c956d7c76a8891">
         <source xml:space="preserve">Are you sure you want to delete these captions/subtitles/chapters?</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Souhaitez-vous réellement supprimer ces sous-titres ou chapitres ?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="14fea77455345c25dec4ac5d82112d5399a2183f" approved="yes">
@@ -10463,17 +10463,17 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="b76ff4906f33c2dd97ddd929b9662ba8cac6174c">
         <source xml:space="preserve">Boolean</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Booléen</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="a8f4688a58212612325a864b83219dd6da37a342">
         <source xml:space="preserve">Browse accessions</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Parcourir les acquisitions</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="3adfd195e6fc6eb1eb2421a6fd1dd187ad3f9763">
         <source xml:space="preserve">Browse donors</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Parcourir les dons</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/donor/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="bbeb83550712824699c45a72aeec149365d5f071">
@@ -10594,17 +10594,17 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="705178b09a869a5185cc986a0c2bc0f518c7a3ed">
         <source xml:space="preserve">Delete criterion</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Critère de suppression</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="fcf3f877f816807b96db566f2d2153cd00ddb8d7">
         <source xml:space="preserve">Delete row</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Supprimer la rangée</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="adb81df4d0935521e87ee5c050445cc728c26361">
         <source xml:space="preserve">Display Note(s)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Afficher la ou les note(s)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="47d6bfcdc4cb0fdfb7da2e7c8ce97cfdfec3fc89">
@@ -10614,22 +10614,22 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="b1acfded01770b505cd63c591018161e5bd64b9e">
         <source xml:space="preserve">Drop files here, paste or %{browse}</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Glissez ou copiez des fichiers ici ou %{browse}</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="eeefe357fcb54190a1aa5487781c20ada739265d">
         <source xml:space="preserve">Edit row</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Modifier la rangée</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="8de07262bf34559850a1698fa6e1a41a0e942cb2">
         <source xml:space="preserve">Editing %{file}</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Modification de %{file}</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="f19a3469c8f09de2f31bb1d523ba2b9786c54d26">
         <source xml:space="preserve">Error(s)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Erreur(s)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/reportSuccess.php</note>
       </trans-unit>
       <trans-unit id="eddd231a6f0c119a55991bf4d85770494657c852">
@@ -10639,17 +10639,17 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="df81fa768ed9358b8abb391147c8db1f13431e4d">
         <source xml:space="preserve">Failed to upload %{file}</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Échec du téléversement de %{file}</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="c54031f0b75798c52e50908c7b4b05da5d25251c">
         <source xml:space="preserve">Files not uploaded successfully. Please retry.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Les fichiers n'ont pas été téléversés. Veuillez ré-essayer.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="db575068795ce13fc4436e806e3f0240b700006a">
         <source xml:space="preserve">Files successfully uploaded! Press the \\'Import\\' button to complete importing these files.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="needs-translation">Les fichiers ont été téeléeversés ! Appuyez sur le bouton \\'Import\\' pour compléter le transfert de ces fichiers.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="58379ddbae7b465863a2d6b5e695b9ec0a369d25">
@@ -10669,12 +10669,12 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="4ea19e87d5f73604c04e44cdb837a07445c3c765">
         <source xml:space="preserve">Go to homepage.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Vers la page d'accueil.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/admin/templates/error404Success.php</note>
       </trans-unit>
       <trans-unit id="87d98eb9dc36826356a10db947522cd83b1b17ef">
         <source xml:space="preserve">Go to related resource</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Vers la ressource</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="1d2f70eba1c739bd8d0792cc60920a708ca86fbe">
@@ -10694,7 +10694,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="3cdd0a230ee6b3f8392058cbf1fe13eb0ca0a066">
         <source xml:space="preserve">Image carousel</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Carrousel d'images</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/digitalobject/templates/_imageflow.php</note>
       </trans-unit>
       <trans-unit id="39bddd7015fdadfe08ea0d7f71169c2e6b29b985">
@@ -10719,17 +10719,17 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="db07be184479f34078cd4fc76d248dc0975720e9">
         <source xml:space="preserve">Languages</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Langues</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="2b084924d7bb9bc48baf8dd1d1675cca255536ae">
         <source xml:space="preserve">List error.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Erreur de liste.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/term/templates/_treeView.php</note>
       </trans-unit>
       <trans-unit id="40f8e59af62a999861b31f34a22689c70bccbabe">
         <source xml:space="preserve">Load options</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Options de téléversements</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="c0f11620601af5c365a1939254c6e71789d4171a">
@@ -10739,22 +10739,22 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="706927f0006998ad32ffe347ec54e68a62f0878a">
         <source xml:space="preserve">Markdown settings</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Paramètres pour Markdown</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/markdownSuccess.php</note>
       </trans-unit>
       <trans-unit id="4574adaf193c3145d6121c15aadd6a3c9ff36617">
         <source xml:space="preserve">Maximum file size: </source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Taille maximale de fichier : </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="cfe34539bdec36714dec63f7e5a897242546da3f">
         <source xml:space="preserve">Maximum length on longest edge (pixels)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Longueur maximale pour le bord le plus long (pixels)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/digitalObjectDerivativesSuccess.php</note>
       </trans-unit>
       <trans-unit id="84c14cd0faad10b4067e93e8953991ca9a9aa858">
         <source xml:space="preserve">Maximum total upload size: </source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Taille totale maximale pour le téléversement : </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="ff8cfa7284428ee61746309fa13d25145385090b">
@@ -10779,7 +10779,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="3cbb766cbc254b94014a83d35ef683f383c52f1f">
         <source xml:space="preserve">Occupation(s)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Occupation(s)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/actor/templates/_occupations.php</note>
       </trans-unit>
       <trans-unit id="7283b3fa4e512b081b4bf170285cc57ddd3f14a2">
@@ -10879,17 +10879,17 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="304b14ba1a6451f209451dc43d9da92a6ba5f6f1">
         <source xml:space="preserve">Remove file</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Retirer le fichier</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="97f6a406e58ca54b371a4ca2dfcb5e90c0aeda33">
         <source xml:space="preserve">Remove filter</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Retirer le filtre</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="250346bf9ec2cd25e7efb82470cdd88a7a5427b9">
         <source xml:space="preserve">Remove filter:</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Retirer le filtre :</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/informationobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="f461d0f170c7c01ed7af267c562894a3eab0655e">
@@ -10904,12 +10904,12 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="da8c56912b1b73220b9b3d6fe86c49165bb37b4c">
         <source xml:space="preserve">Reset search</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Ré-initialiser la recherche</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/moveSuccess.php</note>
       </trans-unit>
       <trans-unit id="9f5cd8a2e8807d73efa02c844bfbca9fe552b283">
         <source xml:space="preserve">Retry</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Ré-essayer</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="c0c63cf39c0966e8eece4c456225e993d940eef6">
@@ -10929,17 +10929,17 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="6809d97d7253750eb5fccae3ae0c999486dcdb51">
         <source xml:space="preserve">Search and browse</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Chercher et parcourir</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/globalSuccess.php</note>
       </trans-unit>
       <trans-unit id="7f53e3f8312b02f77ad73a05b73dd4e0ad9ff1c8">
         <source xml:space="preserve">Search donors</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Chercher parmi les dons</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/donor/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="7e82fe79eede60993c7110faf177304f7ec67226">
         <source xml:space="preserve">Search error.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Erreur de recherche.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/term/templates/_treeView.php</note>
       </trans-unit>
       <trans-unit id="feae2b6e077e4e4ee262cec674b0dcd7910e490f">
@@ -10974,17 +10974,17 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="bfa2f6a71c0439a846674614b31ea85b3788e909">
         <source xml:space="preserve">Search hierarchy</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Hiérarchie de recherche</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_treeView.php</note>
       </trans-unit>
       <trans-unit id="4550708669beb1c5bc877e218985556e4c8d855a">
         <source xml:space="preserve">Search in browse page</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Chercher sur la page de navigation</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/search/templates/_box.php</note>
       </trans-unit>
       <trans-unit id="5616c8722256385e28abb27ee4233728e13a8882">
         <source xml:space="preserve">Search options</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Paramètres de recherche</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/term/templates/_treeView.php</note>
       </trans-unit>
       <trans-unit id="2f258cb6b00112cadfebfd8f53ab9b02b9251dba">
@@ -10994,7 +10994,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="8953d37661d999b65755c673da6f4c2ea074ddfc">
         <source xml:space="preserve">Select a CSV file to validate</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Sélectionner un fichier CSV pour validation</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/validateCsvSuccess.php</note>
       </trans-unit>
       <trans-unit id="5e85767b0138a35b3b92bee8a274288d754df15b">
@@ -11024,7 +11024,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="25911d48e023cd10fc08d378641ee620f5e39d86">
         <source xml:space="preserve">Show more</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Plus...</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
       <trans-unit id="a93eeeac4134a034f0ef88ea6d5e3f20b7bd7251">
@@ -11064,7 +11064,7 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
       </trans-unit>
       <trans-unit id="bc0792d8dc81e8aa30b987246a5ce97c40cd6833">
         <source xml:space="preserve">System</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Système</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/globalSuccess.php</note>
       </trans-unit>
       <trans-unit id="135aeb7c19a4f3feda4fb9f88ab915827fff7c55">
