@@ -893,7 +893,7 @@
         <target xml:space="preserve" state="final">&lt;strong&gt;Étiquette :&lt;/strong&gt; Entrer un nom pour le champ Autre identifiant qui indique sa finalité et son usage.&lt;br/&gt;&lt;strong&gt;Identifiant :&lt;/strong&gt; Entrez un code de référence existant, un identifiant alternatif, ou tout autre chaîne alpha-numérique associée à la notice.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
-      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" approved="yes">
+      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" approved="yes" xml:space="preserve">
         <source xml:space="preserve">&lt;strong&gt;Type:&lt;/strong&gt; Enter a name for the alternative identifier field that indicates its purpose and usage.&lt;br/&gt;&lt;strong&gt;Identifier:&lt;/strong&gt; Enter a legacy reference code, alternative identifier, or any other alpha-numeric string associated with the record.</source>
         <target xml:space="preserve" state="final">&amp;lt;strong&amp;gt;Type:&amp;lt;/strong&amp;gt; Entrez un nom pour le champ d'identifiant alternatif qui indique son but et son utilisation.&amp;lt;br/&amp;gt;&amp;lt;strong&amp;gt;Identifiant :&amp;lt;/strong&amp;gt; Saisissez un code de référence hérité, un autre identifiant ou toute autre chaîne alphanumérique associée à l'enregistrement.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_alternativeIdentifiers.php</note>
@@ -10215,7 +10215,7 @@
         <target xml:space="preserve" state="translated">Une mise à jour vers la version %1%release %2% est disponible.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/default/templates/_updateCheck.php</note>
       </trans-unit>
-      <trans-unit id="fb6f7c24d375f7b302caa158d4c4790e5a8393c6">
+      <trans-unit id="fb6f7c24d375f7b302caa158d4c4790e5a8393c6" xml:space="preserve">
         <source xml:space="preserve">A brief site description or &amp;quot;tagline&amp;quot; for the header</source>
         <target xml:space="preserve" state="translated">Une courte description du site ou &amp;quot;slogan&amp;quot; pour l'en-tête</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/siteInformationSuccess.php</note>
@@ -10362,7 +10362,7 @@
         <target xml:space="preserve" state="translated">presse-papier</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="4f9be057f0ea5d2ba72fd2c810e8d7b9aa98b469">
+      <trans-unit id="4f9be057f0ea5d2ba72fd2c810e8d7b9aa98b469" xml:space="preserve">
         <source xml:space="preserve">Content</source>
         <target xml:space="preserve" state="translated">Contenu</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/object/templates/_notes.php</note>
@@ -10546,7 +10546,7 @@
         <target xml:space="preserve" state="translated">Taille totale maximale pour le téléversement : </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ff8cfa7284428ee61746309fa13d25145385090b">
+      <trans-unit id="ff8cfa7284428ee61746309fa13d25145385090b" xml:space="preserve">
         <source xml:space="preserve">Multi-repository</source>
         <target xml:space="preserve" state="translated">Multi-institutions</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/globalSuccess.php</note>
@@ -10670,7 +10670,7 @@
         <target xml:space="preserve" state="translated">Ré-essayer</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c0c63cf39c0966e8eece4c456225e993d940eef6">
+      <trans-unit id="c0c63cf39c0966e8eece4c456225e993d940eef6" xml:space="preserve">
         <source xml:space="preserve">Return to archival description</source>
         <target xml:space="preserve" state="translated">Revenir à la description</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/informationobject/templates/inventorySuccess.php</note>
@@ -11008,7 +11008,7 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve" state="translated">Permettre aux utilisateurs autorisés de télécharger un AIP ou un fichier AIP lié à partir du service de stockage Archivematica configuré</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ade39cfef91699a65b58b4d2b92f747f365a25f7" approved="yes">
+      <trans-unit id="ade39cfef91699a65b58b4d2b92f747f365a25f7" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Bootstrap 2 themes have been deprecated and will be removed in a future release. Please consider switching to a Bootstrap 5 theme. %1%More info.%2%</source>
         <target xml:space="preserve" state="final">Les thèmes Bootstrap 2 sont maintenant obsolètes dans AtoM. Ils seront supprimés dans une version ultérieure. Merci d'envisager de passer à un thème Bootstrap 5. %1%Pour en savoir plus.%2%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_bs2DeprecationMessage.php</note>
