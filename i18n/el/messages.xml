@@ -718,7 +718,7 @@
         <target xml:space="preserve" state="final">%1%Κωδικός αναγνώρισης της περιγραφής%2% - Το στοιχείο είναι %3%υποχρεωτικό%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="e3d1028b31fadd55009d342064c067a627b8cbc4">
+      <trans-unit id="e3d1028b31fadd55009d342064c067a627b8cbc4" xml:space="preserve">
         <source xml:space="preserve">%1%Export initiated.%2% Check %3%job management%4% page to download the results when it has completed.</source>
         <target xml:space="preserve" state="translated">%1%Εκκίνηση εξαγωγής.%2% Έλεγχος %3%διαχείριση εργασίας%4% σελίδα για λήψη των αποτελεσμάτων μετά την ολοκλήρωση.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/actions/holdingsReportExportAction.class.php</note>
@@ -906,7 +906,7 @@
         <target xml:space="preserve" state="final">AIP UUID</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
-      <trans-unit id="e6bf2a6ce688da07175757b3663bb74bda3fdc85">
+      <trans-unit id="e6bf2a6ce688da07175757b3663bb74bda3fdc85" xml:space="preserve">
         <source xml:space="preserve">AIP download</source>
         <target xml:space="preserve" state="translated">Λήψη πακέτου AIP</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
@@ -1316,12 +1316,12 @@
         <target xml:space="preserve" state="final">Προσθήκη αριθμών</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e3916a920c3e231ba6282142ddee81f7d63b81ee">
+      <trans-unit id="e3916a920c3e231ba6282142ddee81f7d63b81ee" xml:space="preserve">
         <source xml:space="preserve">Add permissions by %1%</source>
         <target xml:space="preserve" state="translated">Προσθήκη δικαιωμάτων με βάση το %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editInformationObjectAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a0c7fe6f6b94e1e8a52f4f28aff99638b6190e86">
+      <trans-unit id="a0c7fe6f6b94e1e8a52f4f28aff99638b6190e86" xml:space="preserve">
         <source xml:space="preserve">Add permissions by taxonomy</source>
         <target xml:space="preserve" state="translated">Προσθήκη δικαιωμάτων με βάση την ταξινομία</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qbAclPlugin/modules/aclGroup/templates/_termAclForm.php</note>
@@ -2873,37 +2873,37 @@
         <source xml:space="preserve">Donors</source>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="a479c9c34e878d07b4d67a73a48f432ad7dc53c8">
+      <trans-unit id="a479c9c34e878d07b4d67a73a48f432ad7dc53c8" xml:space="preserve">
         <source xml:space="preserve">Download</source>
         <target xml:space="preserve" state="translated">Λήψη</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7c9644d721d29091cef1ce7e153773eb31faf155">
+      <trans-unit id="7c9644d721d29091cef1ce7e153773eb31faf155" xml:space="preserve">
         <source xml:space="preserve">Download %1%</source>
         <target xml:space="preserve" state="translated">Λήψη %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_showCompound.php</note>
       </trans-unit>
-      <trans-unit id="c463408d9f7db3eb69ee8eaa8b0624afa387838c">
+      <trans-unit id="c463408d9f7db3eb69ee8eaa8b0624afa387838c" xml:space="preserve">
         <source xml:space="preserve">Download AIP</source>
         <target xml:space="preserve" state="translated">Λήψη πακέτου AIP</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageService/templates/_aipDownload.php</note>
       </trans-unit>
-      <trans-unit id="f8c1e237cf5d16100e0f59c5297b2b4ff22dcb4e">
+      <trans-unit id="f8c1e237cf5d16100e0f59c5297b2b4ff22dcb4e" xml:space="preserve">
         <source xml:space="preserve">Download audio</source>
         <target xml:space="preserve" state="translated">Λήψη αρχείου ήχου</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_showAudio.php</note>
       </trans-unit>
-      <trans-unit id="774025da27ed170fad0f15132460ea08d72f1e12">
+      <trans-unit id="774025da27ed170fad0f15132460ea08d72f1e12" xml:space="preserve">
         <source xml:space="preserve">Download file</source>
         <target xml:space="preserve" state="translated">Λήψη αρχείου</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageService/templates/_aipDownload.php</note>
       </trans-unit>
-      <trans-unit id="4c0f35706de44025877075c81791fbf5c8f94718">
+      <trans-unit id="4c0f35706de44025877075c81791fbf5c8f94718" xml:space="preserve">
         <source xml:space="preserve">Download movie</source>
         <target xml:space="preserve" state="translated">Λήψη αρχείου κινούμενης εικόνας</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_showVideo.php</note>
       </trans-unit>
-      <trans-unit id="7ffd845f50a6aceea12548671d0a9884ecdb1d44">
+      <trans-unit id="7ffd845f50a6aceea12548671d0a9884ecdb1d44" xml:space="preserve">
         <source xml:space="preserve">Download path</source>
         <target xml:space="preserve" state="translated">Διαδρομή λήψης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/reportSuccess.php</note>
@@ -3290,7 +3290,7 @@
         <source xml:space="preserve">Empty: %1%</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/actions/browseAction.class.php</note>
       </trans-unit>
-      <trans-unit id="cd72d9a2e7446d7d38a84f0d6268f562b7a37b7e">
+      <trans-unit id="cd72d9a2e7446d7d38a84f0d6268f562b7a37b7e" xml:space="preserve">
         <source xml:space="preserve">Enable AIP download</source>
         <target xml:space="preserve" state="translated">Ενεργοποίηση λήψης πακέτου AIP</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
@@ -7908,7 +7908,7 @@
         <target xml:space="preserve" state="final">Δικαιώματα ταξονομίας</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="7f6a6943f4addb7d642cc385a128acca099312e3">
+      <trans-unit id="7f6a6943f4addb7d642cc385a128acca099312e3" xml:space="preserve">
         <source xml:space="preserve">Taxonomy with ID %1% could not be found</source>
         <target xml:space="preserve" state="translated">Η Ταξινομία με ID %1% δεν βρέθηκε</target>
       </trans-unit>
@@ -8032,7 +8032,7 @@
         <target xml:space="preserve" state="final">Η χώρα όπου ο νόμος πνευματικής ιδιοκτησίας εφαρμόζεται.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="470236d07bc44a821fa7f414bce382e9d8262003">
+      <trans-unit id="470236d07bc44a821fa7f414bce382e9d8262003" xml:space="preserve">
         <source xml:space="preserve">The current term does not belong to the taxonomy chosen.</source>
         <target xml:space="preserve" state="translated">Ο τρέχων όρος δεν ανήκει στην επιλεγμένη ταξινομία.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfSkosPlugin/modules/sfSkosPlugin/actions/importAction.class.php</note>
@@ -10083,7 +10083,7 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <source xml:space="preserve">%open_strong_tag%Note:%close_strong_tag% AtoM may remove export packages after aperiod of time to free up storage space. When your export is ready you should download it as soon as possible.</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="69022355817fea3ed77ff907586ee092a2845b09">
+      <trans-unit id="69022355817fea3ed77ff907586ee092a2845b09" xml:space="preserve">
         <source xml:space="preserve">Allow authorized users to download a linked AIP or AIP file from the configured Archivematica Storage Service</source>
         <target xml:space="preserve" state="translated">Να επιτρέπεται στους εξουσιοδοτημένους χρήστες να κάνουν λήψη ενός συνδεδεμένου αρχείου AIP ή αρχείου AIP από την Υπηρεσία Αποθήκευσης της Archivematica</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
@@ -10156,7 +10156,7 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <source xml:space="preserve">No records were exported for your current selection. Please %open_link%refresh the page and choose different export options %close_link%.</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="cdbe15d5c6e8e91051350518735e46e4aeffc687">
+      <trans-unit id="cdbe15d5c6e8e91051350518735e46e4aeffc687" xml:space="preserve">
         <source xml:space="preserve">Please %open_link%refresh the page%close_link% to see progress and a download link when complete.</source>
         <target xml:space="preserve" state="translated">Παρακαλώ %open_link%ανανεώστε την σελίδα%close_link% για να δείτε την πρόοδο και για να πάρετε τον σύνδεσμο λήψης μετά την ολοκλήρωση.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
@@ -10165,7 +10165,7 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <source xml:space="preserve">Please rebuild the search index after uploading diacritics mappings.</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/diacriticsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e33412e96b98302355af0cb155aa0c95557d82ba">
+      <trans-unit id="e33412e96b98302355af0cb155aa0c95557d82ba" xml:space="preserve">
         <source xml:space="preserve">The %open_link%job management page%close_link% will show progress and a download link when complete.</source>
         <target xml:space="preserve" state="translated">Η %open_link%σελίδα διαχείρισης εργασιών%close_link% θα εμφανίσει την πρόοδο και τον σύνδεσμο λήψης μετά την ολοκλήρωση.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
