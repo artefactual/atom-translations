@@ -11035,9 +11035,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ade39cfef91699a65b58b4d2b92f747f365a25f7">
+      <trans-unit id="ade39cfef91699a65b58b4d2b92f747f365a25f7" approved="yes">
         <source xml:space="preserve">Bootstrap 2 themes have been deprecated and will be removed in a future release. Please consider switching to a Bootstrap 5 theme. %1%More info.%2%</source>
-        <target xml:space="preserve" state="translated">Les thèmes Bootstrap 2 sont maintenant obsolètes dans AtoM. Ils seront supprimés dans une version ultérieure. Merci d'envisager de passer à un thème Bootstrap 5. %1%Pour en savoir plus.%2%</target>
+        <target xml:space="preserve" state="final">Les thèmes Bootstrap 2 sont maintenant obsolètes dans AtoM. Ils seront supprimés dans une version ultérieure. Merci d'envisager de passer à un thème Bootstrap 5. %1%Pour en savoir plus.%2%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_bs2DeprecationMessage.php</note>
       </trans-unit>
       <trans-unit id="ef0eeccb9dd3abebabf37f9761e460be1b443cd7">
