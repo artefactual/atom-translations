@@ -646,7 +646,7 @@
       </trans-unit>
       <trans-unit id="2a2ec2e234e4b8e3f8cc1c0e3e2156227487c5ac" approved="yes">
         <source xml:space="preserve">%1% more</source>
-        <target xml:space="preserve">%1%mais</target>
+        <target xml:space="preserve" state="final">mais %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/browse/templates/hierarchySuccess.php</note>
       </trans-unit>
       <trans-unit id="047ebf84377952fd73b938a0795d3bee17f8687c" approved="yes">
@@ -2799,12 +2799,12 @@
       </trans-unit>
       <trans-unit id="1da02ea734093bf0ebea985668dfdf3587b10259" approved="yes">
         <source xml:space="preserve">Default page elements</source>
-        <target xml:space="preserve" state="final">Padrões de elementos da página</target>
+        <target xml:space="preserve" state="final">Elementos padrões da página</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
       <trans-unit id="0d87d25d35fcc7ae2c75ba5bf7045732c1e9f408" approved="yes">
         <source xml:space="preserve">Default page elements saved.</source>
-        <target xml:space="preserve" state="final">Os padrões de elementos da página foram salvos.</target>
+        <target xml:space="preserve" state="final">Os elementos padrões da página foram salvos.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/pageElementsAction.class.php</note>
       </trans-unit>
       <trans-unit id="7b11c709db14804c8850e83c01b6e7433423e830" approved="yes">
@@ -4718,7 +4718,7 @@
       </trans-unit>
       <trans-unit id="a27cc59c4c88f610ee50249c4f533677b9435ec5" approved="yes">
         <source xml:space="preserve">Include draft records</source>
-        <target xml:space="preserve" state="final">Incluir documentos em rascunho</target>
+        <target xml:space="preserve" state="final">Incluir registros em rascunho</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="58feb71e31d2f20331c89098a24290d9edcf4d5d" approved="yes">
@@ -10394,7 +10394,7 @@
       </trans-unit>
       <trans-unit id="19871a804bf3115afa34f54d2cca30eac6c7a7a8" approved="yes">
         <source xml:space="preserve">Default page elements settings</source>
-        <target xml:space="preserve" state="final">Definições padrões de elementos da página</target>
+        <target xml:space="preserve" state="final">Definições de elementos padrões da página</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/pageElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="f9b44e978ab3fc9d0142027fdccf60a7329b7ecf" approved="yes">
