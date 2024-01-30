@@ -359,24 +359,24 @@
         <target xml:space="preserve" state="final">"سجل النموذج المعتمد لاسم الوظيفةوأي معرف فريد للوظيفة ذات الصلة." (ISDF 5.3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="1f9b842b078ca2cb8c414d3a8496c23a889c1b85">
+      <trans-unit id="1f9b842b078ca2cb8c414d3a8496c23a889c1b85" approved="yes">
         <source xml:space="preserve">"Record the authorised name of the function being described. In cases where the name is not enough, add qualifiers to make it unique such as the territorial or administrative scope, or the name of the institution which performs it. This element is to be used in conjunction with the Function description identifier element (5.4.1)." (ISDF 5.1.2)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"قُم بتسجيل الاسم المُعتمد للوظيفة الموصوفة. وفي الحالات التي لا يكون فيها أن يكون الاسم كافيًا، أضف تعريف وصفي مُلحق بالاسم لجعله مُميز مثل النطاق الإقليمي أو الإداري، أو نوع المؤسسة التي تتم فيها الوظيفة . يجب استخدام هذا العنصر بالتزامن مع عنصر مُعرف وصف الوظيفة (5.4.1)." (ISDF 5.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8457d3c95f00640884a7db1d941d8a29e4516be1">
+      <trans-unit id="8457d3c95f00640884a7db1d941d8a29e4516be1" approved="yes">
         <source xml:space="preserve">"Record the authorized form of name and any relevant unique identifiers, including the authority record identifier, for the related entity." (ISAAR 5.3.1) Select the name from the drop-down menu; enter the first few letters to narrow the choices.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"قم بتسجيل نموذج الاسم المعتمد وأي مُعرفات فريدة ذات صلة، بما في ذلك مُعرف سجل الاستناد للشخصيات والمؤسسات، للكيان ذي الصلة." (ISAAR 5.3.1) حدد الاسم من القائمة المُنسدلة؛ أدخل الأحرف القليلة الأولى لتضييق الخيارات.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="2a3e0cee1cb1033f53f8baa5d1d91b1c5e0de71f">
+      <trans-unit id="2a3e0cee1cb1033f53f8baa5d1d91b1c5e0de71f" approved="yes">
         <source xml:space="preserve">"Record the date the authority record was created and the dates of any revisions to the record." (ISAAR 5.4.6)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل تاريخ إنشاء التسجيلة الاستنادية وتواريخ أي مراجعات تمت على التسجيلة." (ISAAR 5.4.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ce3628ea9acf0a0ceca45f366e8cf6befcab0511">
+      <trans-unit id="ce3628ea9acf0a0ceca45f366e8cf6befcab0511" approved="yes">
         <source xml:space="preserve">"Record the date the description was created and the dates of any revisions to the description." (ISDF 5.4.6)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل تاريخ إنشاء الوصف وتواريخ أي مراجعات للوصف." (ISDF 5.4.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="88bf6fe3f09d35bc6ee9f2b58f38ddc07026e835" approved="yes">
