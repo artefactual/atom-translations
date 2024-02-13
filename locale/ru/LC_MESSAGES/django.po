@@ -8,46 +8,50 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 10:51-0700\n"
-"PO-Revision-Date: 2019-02-04 21:05+0000\n"
-"Last-Translator: artefactual <translate@artefactual.com>\n"
-"Language-Team: Russian (http://www.transifex.com/artefactual/atom/language/ru/)\n"
+"PO-Revision-Date: 2024-02-14 20:23+0000\n"
+"Last-Translator: ol810 <uolega@yandex.ru>\n"
+"Language-Team: Russian <https://translations.artefactual.com/projects/atom/"
+"website/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || ("
+"n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Weblate 5.3\n"
 
 #: atom/settings/base.py:76
 msgid "English"
-msgstr ""
+msgstr "Английский"
 
 #: atom/settings/base.py:77
 msgid "Spanish"
-msgstr ""
+msgstr "Испанский"
 
 #: atom/settings/base.py:78
 msgid "Italian"
-msgstr ""
+msgstr "Итальянский"
 
 #: atom/settings/base.py:79
 msgid "French"
-msgstr ""
+msgstr "Французский"
 
 #: atom/settings/base.py:80
 msgid "Portuguese"
-msgstr ""
+msgstr "Португальский"
 
 #: atom/settings/base.py:81
 msgid "Slovenian"
-msgstr ""
+msgstr "Словения"
 
 #: atom/settings/base.py:82
 msgid "Catalan"
-msgstr ""
+msgstr "Каталонский"
 
 #: atom/settings/base.py:83
 msgid "Korean"
-msgstr ""
+msgstr "Korean"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:5
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
@@ -55,7 +59,7 @@ msgstr ""
 #: sphinxdoc/templates/sphinxdoc/search.html:4 templates/base.html:78
 #: templates/footer.html:36
 msgid "Documentation"
-msgstr ""
+msgstr "Документация"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:11
 #, python-format
@@ -64,6 +68,10 @@ msgid ""
 "        %(project_name)s is a legacy release, and these documents are no longer being maintained.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s  является устаревшим выпуском, и эти документы "
+"больше не поддерживаются.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:16
 #, python-format
@@ -72,6 +80,10 @@ msgid ""
 "        %(project_name)s is an old release, and the documentation is in maintenance mode.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s это старый выпуск, и документация находится в "
+"режиме обслуживания\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:21
 #, python-format
@@ -80,6 +92,9 @@ msgid ""
 "        %(project_name)s is our latest release.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s это наш последний релиз\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:26
 #, python-format
@@ -88,6 +103,10 @@ msgid ""
 "        %(project_name)s is our latest release, and its documentation is a work in progress.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s это наш последний релиз, и его документация "
+"находится в процессе разработки.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:31
 #, python-format
@@ -96,14 +115,18 @@ msgid ""
 "        %(project_name)s has not been released yet, and its documentation is a work in progress.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s еще не выпущен, и его документация находится в "
+"процессе разработки.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:60
 msgid "Table of contents"
-msgstr ""
+msgstr "Оглавление"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:77
 msgid "Contents"
-msgstr ""
+msgstr "Содержание"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:85
 #, python-format
@@ -112,86 +135,90 @@ msgid ""
 "              <p>Open the <a href=\"%(genindex_url)s\">general index</a> or type your search in the search box.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>Open the<a href=\"%(genindex_url)s\">общий индекс</a>или "
+"введите искомое в поисковую строку.</p>\n"
+"            "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:98
 msgid "Available documents"
-msgstr ""
+msgstr "Доступные документы"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:108
 msgid "Edit this document"
-msgstr ""
+msgstr "Редактировать этот документ"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:110
 msgid "Source code"
-msgstr ""
+msgstr "Исходный код"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:113
 msgid "Latest update:"
-msgstr ""
+msgstr "Последнее обновление:"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:5
 msgid "General Index"
-msgstr ""
+msgstr "Общий указатель"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:30
 msgid "[Link]"
-msgstr ""
+msgstr "[ссылка]"
 
 #: sphinxdoc/templates/sphinxdoc/modindex.html:5
 msgid "Module Index"
-msgstr ""
+msgstr "Индекс модуля"
 
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
 #: sphinxdoc/templates/sphinxdoc/project_list.html:9
 msgid "Project list"
-msgstr ""
+msgstr "Список проектов"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:4
 msgid "Search"
-msgstr ""
+msgstr "Поиск"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:8
 msgid "Search results"
-msgstr ""
+msgstr "Результаты поиска"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:12
 #, python-format
 msgid "Showing results matching \"%(query)s\"..."
-msgstr ""
+msgstr "Показывает результаты, соответствующие \"%(query)s\"..."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:20
 msgid "No results found."
-msgstr ""
+msgstr "Результаты не найдены."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:31
 msgid "No search query entered."
-msgstr ""
+msgstr "Поисковый запрос не введен."
 
 #: templates/base.html:75 templates/footer.html:19
 msgid "Home"
-msgstr ""
+msgstr "Главная"
 
 #: templates/base.html:76 templates/footer.html:20
 #: templates/pages/download.html:4 templates/pages/download.html.py:10
 msgid "Downloads"
-msgstr ""
+msgstr "Скачать"
 
 #: templates/base.html:92
 msgid "Other resources (wiki)"
-msgstr ""
+msgstr "Другие ресурсы (вики)"
 
 #: templates/base.html:99 templates/footer.html:26
 #: templates/pages/community.html:4 templates/pages/community.html.py:10
 #: templates/pages/community/_menu.html:3
 #: templates/pages/community/support.html:4
 msgid "Community"
-msgstr ""
+msgstr "Сообщество"
 
 #: templates/base.html:101 templates/footer.html:28
 #: templates/pages/community/_menu.html:5
 #: templates/pages/community/support.html:4
 msgid "Get support"
-msgstr ""
+msgstr "Получите поддержку"
 
 #: templates/base.html:102 templates/footer.html:29
 #: templates/pages/community/_menu.html:6
