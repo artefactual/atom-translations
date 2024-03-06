@@ -776,9 +776,9 @@ Szabály: Az azonosító leírást létrehozó intézmény által alkalmazott ne
         <target xml:space="preserve"> %1% Leírás azonosító/ja - Az elem kitöltése  %3% kötelező %4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="e3d1028b31fadd55009d342064c067a627b8cbc4" approved="yes">
+      <trans-unit id="e3d1028b31fadd55009d342064c067a627b8cbc4" approved="no" xml:space="preserve">
         <source xml:space="preserve">%1%Export initiated.%2% Check %3%job management%4% page to download the results when it has completed.</source>
-        <target xml:space="preserve">%1% Export elindítva %2% Keresse %3% a feladat-menedzsment %4% oldalt az eredmény letöltéséhez, amikor elkészült</target>
+        <target xml:space="preserve" state="translated">%1% Export elindítva %2% Keresse a %3%feladatkezelő%4% oldalt az eredmény letöltéséhez, amikor elkészült</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/actions/holdingsReportExportAction.class.php</note>
       </trans-unit>
       <trans-unit id="a203c1f0b502d748a466bc46e95ccec9e475eedf" approved="yes">
@@ -2987,9 +2987,9 @@ reference/thumbnail representation?</target>
         <target xml:space="preserve">Meghatározza, hogy mutasson-e link a levéltári struktúra böngészési oldalra az információs objektumok böngészési/keresési oldalain.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1960d8900caf58abb54302c86ed8315cfbc2d3d3" approved="no">
+      <trans-unit id="1960d8900caf58abb54302c86ed8315cfbc2d3d3" approved="no" xml:space="preserve">
         <source xml:space="preserve">Determines whether to sort siblings in the information object treeview control and, if so, what sort criteria to use</source>
-        <target xml:space="preserve" state="translated">Meghatározza, hogy szükség van-e az alárendelt egységek csoportosítására/kiválogatására az információs objektum ellenőrzésre szolgáló fa nézetében és ha igen, akkor ez milyen kritériumok alapján történjen.</target>
+        <target xml:space="preserve" state="translated">Meghatározza, hogy szükség van-e az alárendelt egységek csoportosítására/kiválogatására az információs objektum ellenőrzésre szolgáló fastruktúra nézetben és ha igen, akkor ez milyen kritériumok alapján történjen.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="6ecbbd350e9d40b82a484b511a78846981fa26af" approved="yes">
@@ -5449,9 +5449,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">Karbantartási figyelmeztetések</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/actions/browseAction.class.php</note>
       </trans-unit>
-      <trans-unit id="af5f36d7cf6a84b3ac9c023ab0a3b2a0c8e31420">
+      <trans-unit id="af5f36d7cf6a84b3ac9c023ab0a3b2a0c8e31420" xml:space="preserve">
         <source xml:space="preserve">Make full width treeview collapsible on description pages</source>
-        <target xml:space="preserve" state="translated">A teljes képernyőszélességű fa nézetet összecsukhatóvá teszi a leíró oldalakon</target>
+        <target xml:space="preserve" state="translated">A teljes képernyőszélességű fastruktúra nézetet összecsukhatóvá teszi a leíró oldalakon</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="72ca223c258da9a7340dfad91d221f4800603d66" approved="yes">
@@ -7563,9 +7563,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">Visszatérés a csoportok listájához</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qbAclPlugin/modules/aclGroup/templates/_showActions.php</note>
       </trans-unit>
-      <trans-unit id="0a419de40e98c320a4eefff8953fce4fdfb651f4" approved="yes">
+      <trans-unit id="0a419de40e98c320a4eefff8953fce4fdfb651f4" approved="no" xml:space="preserve">
         <source xml:space="preserve">Return to jobs management page</source>
-        <target xml:space="preserve">Visszatérés a feledatkezelő oldalra</target>
+        <target xml:space="preserve" state="translated">Visszatérés a feladatkezelő oldalra</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/reportSuccess.php</note>
       </trans-unit>
       <trans-unit id="328d8069dc190f42a30ec62b9ee09e13d9d0c03f" approved="yes">
@@ -9202,9 +9202,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">Utazás és Felfedezés</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="d78dca84fb22f51e97d39c20a021d39026e0b47d" approved="yes">
+      <trans-unit id="d78dca84fb22f51e97d39c20a021d39026e0b47d" approved="no" xml:space="preserve">
         <source xml:space="preserve">Treeview</source>
-        <target xml:space="preserve">Fastruktúra</target>
+        <target xml:space="preserve" state="translated">Fastruktúra nézet</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
       <trans-unit id="d90d5b007cad4352601f0b442ef7c72d2735f248" approved="no" xml:space="preserve">
@@ -10014,9 +10014,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">fölérendeltje</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="b5ddde8aff62af6c9d3ce7696eeacd70c8e416ff" approved="yes">
+      <trans-unit id="b5ddde8aff62af6c9d3ce7696eeacd70c8e416ff" approved="no" xml:space="preserve">
         <source xml:space="preserve">job management</source>
-        <target xml:space="preserve">Feladat kezelés</target>
+        <target xml:space="preserve" state="translated">Feladatkezelés</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/actions/moveAction.class.php</note>
       </trans-unit>
       <trans-unit id="7f3cd5fcb66799ef036d1d8109dff20db80c0447" approved="yes">
@@ -10540,9 +10540,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c0f11620601af5c365a1939254c6e71789d4171a">
+      <trans-unit id="c0f11620601af5c365a1939254c6e71789d4171a" xml:space="preserve">
         <source xml:space="preserve">Make full width treeview collapsed on description pages</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Tegye a teljes képernyőszélességű fastruktúra nézetet összecsukhatóvá a leíró oldalakon</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="706927f0006998ad32ffe347ec54e68a62f0878a">
@@ -10640,14 +10640,14 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/globalSuccess.php</note>
       </trans-unit>
-      <trans-unit id="32abdf99d470e368ff52f35bc0e2944650c9e6c1">
+      <trans-unit id="32abdf99d470e368ff52f35bc0e2944650c9e6c1" xml:space="preserve">
         <source xml:space="preserve">Read less</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Kevesebbet mutasson</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/templates/_footer.php</note>
       </trans-unit>
-      <trans-unit id="ad086cf55b834c375e209972840f1342401d8c41">
+      <trans-unit id="ad086cf55b834c375e209972840f1342401d8c41" xml:space="preserve">
         <source xml:space="preserve">Read more</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Többet mutasson</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/templates/_footer.php</note>
       </trans-unit>
       <trans-unit id="25cdc1ce58c54892d6eabdfb1773e5db10e61cfe">
@@ -11004,9 +11004,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/menu/templates/_clipboardMenu.php</note>
       </trans-unit>
-      <trans-unit id="b01756bc32329c27d56020880cc41721c687791f">
+      <trans-unit id="b01756bc32329c27d56020880cc41721c687791f" xml:space="preserve">
         <source xml:space="preserve">A slug based on this name already exists so a number has been added to pad the slug.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Ezen a néven már létezett egy csupasz cím, ezért az új cím egy számmal egészült ki.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/renameSuccess.php</note>
       </trans-unit>
       <trans-unit id="a99c2c5975c63438a2845bf12812885af80529d6">
@@ -11044,9 +11044,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="c5586b6c10565cb9a28b2b613de13f08b530f515">
+      <trans-unit id="c5586b6c10565cb9a28b2b613de13f08b530f515" xml:space="preserve">
         <source xml:space="preserve">%open_strong_tag%Note:%close_strong_tag% AtoM may remove export packages after aperiod of time to free up storage space. When your export is ready you should download it as soon as possible.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%open_strong_tag%Megjegyzés:%close_strong_tag% az AtoM bizonyos idő után eltávolíthatja az export csomagokat, hogy tárhelyet szabadítson fel. Ezért ha az Ön exportja készen van, töltse le minél előbb.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="69022355817fea3ed77ff907586ee092a2845b09">
@@ -11109,9 +11109,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/diacriticsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ca3a7a0ff5963769223cf46a6bf3a6860db3fa88">
+      <trans-unit id="ca3a7a0ff5963769223cf46a6bf3a6860db3fa88" xml:space="preserve">
         <source xml:space="preserve">Failed jobs</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Sikertelen feladatok</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="a5034918b86f151c605acede6b1f7a3f93d0e0a4">
@@ -11129,9 +11129,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="006124c1a98d5ca8c897c609df36fb2dbcf500a9">
+      <trans-unit id="006124c1a98d5ca8c897c609df36fb2dbcf500a9" xml:space="preserve">
         <source xml:space="preserve">Mappings YAML</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">YAML térképezés</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/diacriticsSuccess.php</note>
       </trans-unit>
       <trans-unit id="e76d9b66e18947a6bd43b6d45226690f0d5be27f">
@@ -11144,14 +11144,14 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="0e6f6c5c4c3b75c2da5ddc00fccbfaf5d7712d9a">
+      <trans-unit id="0e6f6c5c4c3b75c2da5ddc00fccbfaf5d7712d9a" xml:space="preserve">
         <source xml:space="preserve">Please rebuild the search index after uploading diacritics mappings.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Kérem építse újra a keresési indexet az ékezetes térképezés feltöltése után.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/diacriticsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e33412e96b98302355af0cb155aa0c95557d82ba">
+      <trans-unit id="e33412e96b98302355af0cb155aa0c95557d82ba" xml:space="preserve">
         <source xml:space="preserve">The %open_link%job management page%close_link% will show progress and a download link when complete.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">A %open_link%feladatkezelő oldal%close_link% mutatni fogja a folyamat állapotát és egy letöltési linket, ha kész lesz.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="8372ca3f8899eb212510d380ee829b98fe485d79">
@@ -11159,14 +11159,14 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/_relatedDonor.php</note>
       </trans-unit>
-      <trans-unit id="b7bffa5c4cbf48f4c611c687d4cbd2da35021d6f">
+      <trans-unit id="b7bffa5c4cbf48f4c611c687d4cbd2da35021d6f" xml:space="preserve">
         <source xml:space="preserve">Unable to upload diacritics mapping yaml file.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Nem tud feltölteni ékezet térképező yaml fájlt.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/diacriticsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="b06649131b6c859ead9f0a994625cb8de2d26334">
+      <trans-unit id="b06649131b6c859ead9f0a994625cb8de2d26334" xml:space="preserve">
         <source xml:space="preserve">Unable to upload diacritis mapping yaml file.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Nem tud feltölteni ékezet térképező yaml fájlt.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/diacriticsAction.class.php</note>
       </trans-unit>
       <trans-unit id="a982c978b55a9d92ebf50fc464c6fed71f638d9a">
