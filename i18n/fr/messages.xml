@@ -4716,9 +4716,9 @@
         <target xml:space="preserve">Contient des objets numériques</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="a27cc59c4c88f610ee50249c4f533677b9435ec5" approved="yes">
+      <trans-unit id="a27cc59c4c88f610ee50249c4f533677b9435ec5" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Include draft records</source>
-        <target xml:space="preserve">Inclure les enregistrements au statut d'ébauche</target>
+        <target xml:space="preserve" state="final">Inclure les ébauches d'enregistrements</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="58feb71e31d2f20331c89098a24290d9edcf4d5d" approved="yes">
@@ -4731,9 +4731,9 @@
         <target xml:space="preserve">Inclure le script de transformation</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="64f5b6914d348c81202834599e782f365608d838" approved="yes">
+      <trans-unit id="64f5b6914d348c81202834599e782f365608d838" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Include unlinked containers</source>
-        <target xml:space="preserve">Inclus les contenants non liés</target>
+        <target xml:space="preserve" state="final">Inclure les contenants sans liens</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="387fd1bbc18419e26c612f4acad9213e5073ade4" approved="yes">
@@ -10306,19 +10306,19 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
         <target xml:space="preserve" state="translated">Validateur CSV</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="b535755bbd76362811e002ff059e18109a4677ba">
+      <trans-unit id="b535755bbd76362811e002ff059e18109a4677ba" xml:space="preserve" approved="yes">
         <source xml:space="preserve">CSV Validator default behaviour when CSV Import is run</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Comportement par défaut de la validation de fichier CSV à l'étape d'importation</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/csvValidatorSuccess.php</note>
       </trans-unit>
-      <trans-unit id="59111261792a4ce6ed4e944962c291866db87173" xml:space="preserve">
+      <trans-unit id="59111261792a4ce6ed4e944962c291866db87173" xml:space="preserve" approved="yes">
         <source xml:space="preserve">CSV Validator settings</source>
-        <target xml:space="preserve" state="translated">Paramètres du validateur CSV</target>
+        <target xml:space="preserve" state="final">Paramètres pour la validation de CSV</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/csvValidatorSuccess.php</note>
       </trans-unit>
-      <trans-unit id="556bca43ae5a851e83a44f440a05f215d6b36da0" xml:space="preserve">
+      <trans-unit id="556bca43ae5a851e83a44f440a05f215d6b36da0" xml:space="preserve" approved="yes">
         <source xml:space="preserve">CSV Validator settings saved.</source>
-        <target xml:space="preserve" state="translated">Paramètres du validateur CSV enregistrés.</target>
+        <target xml:space="preserve" state="final">Les paramètres pour la validation de CSV ont été sauvegardés.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/csvValidatorAction.class.php</note>
       </trans-unit>
       <trans-unit id="9da35c8944601ee03b90d2b2490ada4f0456e773" xml:space="preserve">
@@ -10336,20 +10336,21 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_viewPicker.php</note>
       </trans-unit>
-      <trans-unit id="3dd95831dd043b1461bcef703231ae2eecedd52f">
+      <trans-unit id="3dd95831dd043b1461bcef703231ae2eecedd52f" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Changing the current slide of this carousel will change the description title displayed in the following carousel. Clicking any image in this carousel will open the related description view page.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Changer la présente diapositive de ce carrousel changera la description affichée au carrousel suivant. Cliquer sur n'importe quelle image de ce carrousel ouvrira la fenêtre de description reliée.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/digitalobject/templates/_imageflow.php</note>
       </trans-unit>
-      <trans-unit id="034e27330489dbd79dd52ada1f349e61e54dee04" approved="yes">
+      <trans-unit id="034e27330489dbd79dd52ada1f349e61e54dee04" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Chapters</source>
-        <target xml:space="preserve" state="final">Chapîtres</target>
+        <target xml:space="preserve" state="final">Chapitres</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="df92877b57741e69a106f11207e67cf0928893aa">
+      <trans-unit id="df92877b57741e69a106f11207e67cf0928893aa" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Choose the file format for generated Finding Aids (PDF or 'Rich Text Format')
 </source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Sélectionnez le format de fichier pour les Finding Aids générés (PDF ou 'Rich Text Format')
+</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsFindingAidForm.class.php</note>
       </trans-unit>
       <trans-unit id="f23e8dc2222583bb3fcca92cb47f16c727b8edaa">
