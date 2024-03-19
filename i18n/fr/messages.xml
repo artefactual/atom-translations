@@ -9,14 +9,14 @@
         <target xml:space="preserve">"À tous les niveaux de description, on indique l'étendue de l'unité archivistique à décrire en donnant le nombre d'unités matérielles qui la composent en chiffres arabes. On donnera l'indication spécifique du genre de document conformément à la règle .5B des chapitres portant sur les catégories de documents dont fait partie l'unité archivistique à décrire." (RDDA, 1.5B1) Ce champ inclut les autres caractéristiques physiques et les dimensions, telles qu'elles sont spécifiées dans les RDDA 1.5C et 1.5D. Séparer les différentes saisies dans ce champ par un retour chariot (en pressant la touche Entrée du clavier).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0" approved="yes">
+      <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0" approved="no" xml:space="preserve">
         <source xml:space="preserve">"At the fonds, series or file levels, record coordinates for the maximum coverage provided by the materials in the unit, as long as they are reasonably contiguous." (RAD 5.3D)</source>
-        <target xml:space="preserve">"Au niveau du fonds, de la série et du dossier, on indiquera les coordonnées maximales fournies par les documents en autant qu’elles sont contiguës." (RDDA 5.3D)</target>
+        <target xml:space="preserve" state="translated">"Au niveau du fonds, de la série et du dossier, on indiquera les coordonnées maximales fournies par les documents en autant qu'elles sont contiguës." (RDDA 5.3D)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e39858fff058c3d097605036f0d85826da7029ee" approved="yes">
+      <trans-unit id="e39858fff058c3d097605036f0d85826da7029ee" approved="no" xml:space="preserve">
         <source xml:space="preserve">"At the fonds, series, and collection levels of description, and when necessary at the file and the item levels of description, indicate the level being described and give information about the scope and the internal structure of or arrangement of the records, and about their contents." (RAD 1.7D) "For the scope of the unit being described, give information about the functions and/or kinds of activities generating the records, the period of time, the subject matter, and the geographical area to which they pertain. For the content of the unit being described, give information about its internal structure by indicating its arrangement, organization, and/or enumerating its next lowest level of description. Summarize the principal documentary forms (e.g., reports, minutes, correspondence, drawings, speeches)." (RAD 1.7D1)</source>
-        <target xml:space="preserve">"Aux niveaux du fonds, de la série, et de la collection, et si nécessaire aux niveaux du dossier et de la pièce, on indiquera le niveau décrit et on donnera de l’information sur la portée, la structure interne ou classification et le contenu des documents de l’unité archivistique à décrire." (RDDA 1.7D) "L'information sur la portée d’une unité archivistique à décrire contiendra des renseignements sur les fonctions et les activités à l'origine de la création des documents, sur la période couverte par son contenu, sur le(s) sujet(s), et sur les lieux géographiques sur lesquels il porte. L'information sur le contenu d’une unité archivistique à décrire traitera de sa structure interne par la description de sa classification et de son classement, et/ou l'énumération de son niveau de description inférieur immédiat. On donnera une liste sommaire des principales formes documentaires (par exemple : rapports, procès-verbaux, correspondance, dessins, discours)." (RDDA 1.7D1)</target>
+        <target xml:space="preserve" state="translated">"Aux niveaux du fonds, de la série, et de la collection, et si nécessaire aux niveaux du dossier et de la pièce, on indiquera le niveau décrit et on donnera de l'information sur la portée, la structure interne ou classification et le contenu des documents de l'unité archivistique à décrire." (RDDA 1.7D) "L'information sur la portée d'une unité archivistique à décrire contiendra des renseignements sur les fonctions et les activités à l'origine de la création des documents, sur la période couverte par son contenu, sur le(s) sujet(s), et sur les lieux géographiques sur lesquels il porte. L'information sur le contenu d'une unité archivistique à décrire traitera de sa structure interne par la description de sa classification et de son classement, et/ou l'énumération de son niveau de description inférieur immédiat. On donnera une liste sommaire des principales formes documentaires (par exemple : rapports, procès-verbaux, correspondance, dessins, discours)." (RDDA 1.7D1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="59fcc3ec9ef8fed2f8021ef533dfdeb13dc18997" approved="yes">
@@ -34,14 +34,14 @@
         <target xml:space="preserve" state="final">"Choisez la provenance, l'auteur et et tous les autres points d'accès non liés au sujet à partir de la description, au besoin. Tous les points d'accès doivent figurer en évidence dans la description à laquelle ils se rapportent." (RDDA 21.0B) Les valeurs de ce champ sont tirées du champ Forme autorisée du nom dans les notices d'autorité. Recherchez un nom déjà existant en saisissant les premiers caractères du nom. Sinon saisir un nouveau nom pour le créer et le lier à une nouvelle notice d'autorité.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e8ea0c576b98d7c7dbab79b32cd27e453ba71ee9" approved="yes">
+      <trans-unit id="e8ea0c576b98d7c7dbab79b32cd27e453ba71ee9" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Describe access policies, including any restrictions and/or regulations for the use of materials and facilities. Record information about registration, appointments, readers’ tickets, letters of introduction, admission fees, etc. Where appropriate, make reference to the relevant legislation." (ISDIAH 5.4.2)</source>
-        <target xml:space="preserve">"Décrire les règles d’accès, y compris toute restriction et/ou règle pour l’utilisation de documents et des services. Enregistrer les informations sur l’inscription, les rendez-vous, les tickets de lecteurs, les lettres d’introduction, les tarifs d’admission, etc. Le cas échéant, mentionner la législation pertinente." (ISDIAH 5.4.2)</target>
+        <target xml:space="preserve" state="translated">"Décrire les règles d'accès, y compris toute restriction et/ou règle pour l'utilisation de documents et des services. Enregistrer les informations sur l'inscription, les rendez-vous, les tickets de lecteurs, les lettres d'introduction, les tarifs d'admission, etc. Le cas échéant, mentionner la législation pertinente." (ISDIAH 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="65f3abd8a2aebd05fa257cab8863af114902845c" approved="yes">
+      <trans-unit id="65f3abd8a2aebd05fa257cab8863af114902845c" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Describe the internal structure of a corporate body and the dates of any changes to that structure that are significant to the understanding of the way that corporate body conducted its affairs (e.g. by means of dated organization charts). Describe the genealogy of a family (e.g. by means of a family tree) in a way that demonstrates the inter-relationships of its members with covering dates." (ISAAR 5.2.7)</source>
-        <target xml:space="preserve">"Pour une collectivité, décrire la structure interne, et préciser les dates des modifications dont la connaissance est nécessaire à la compréhension du fonctionnement de la collectivité (par exemple à l’aide d’organigrammes). Pour une famille, décrire la généalogie (par exemple à l’aide d’un arbre généalogique) de manière à indiquer les relations entre ses membres avec leurs dates." (ISAAR (CPF) 5.2.7)</target>
+        <target xml:space="preserve" state="translated">"Pour une collectivité, décrire la structure interne, et préciser les dates des modifications dont la connaissance est nécessaire à la compréhension du fonctionnement de la collectivité (par exemple à l'aide d'organigrammes). Pour une famille, décrire la généalogie (par exemple à l'aide d'un arbre généalogique) de manière à indiquer les relations entre ses membres avec leurs dates." (ISAAR (CPF) 5.2.7)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="4abdc061edd4f6bf29618b5b4dfcca4504c653c5" approved="yes">
@@ -49,14 +49,14 @@
         <target xml:space="preserve">"Décrire la nature des relations entre la collectivité, la personne ou la famille et les ressources associées." (ISAAR (CPF) 6.3) Sélectionner le type de relation depuis le menu déroulant ; ces valeurs sont récupérées depuis l'index des Types d'évènements.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
-      <trans-unit id="e2e719ee155ed54c4b313ad0f1c67be4edf7ed6e" approved="yes">
+      <trans-unit id="e2e719ee155ed54c4b313ad0f1c67be4edf7ed6e" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Describe, in narrative form or using organisational charts, the current administrative structure of the institution." (ISDIAH 5.3.4)</source>
-        <target xml:space="preserve">"Décrire la structure administrative courante de l’institution de conservation et/ou la représenter en utilisant des organigrammes." (ISDIAH 5.3.4)</target>
+        <target xml:space="preserve" state="translated">"Décrire la structure administrative courante de l'institution de conservation et/ou la représenter en utilisant des organigrammes." (ISDIAH 5.3.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="770bdba90f877683f82eef6ff5b5ea7270521ae1" approved="yes">
+      <trans-unit id="770bdba90f877683f82eef6ff5b5ea7270521ae1" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Give in English the scale in the units of measure found on the unit being described. If there is no English equivalent for the name of the unit of measure, give the name, within quotation marks, as found on the unit being described." (RAD 6.3B)</source>
-        <target xml:space="preserve">On indiquera, en français, l’échelle de l’unité de mesure de l’unité archivistique à décrire. Si l’unité de mesure ne peut être indiquée par un équivalent en français, on transcrira, entre guillemets, celle inscrite sur l’unité archivistique à décrire." (RDDA 6.3B)</target>
+        <target xml:space="preserve" state="translated">On indiquera, en français, l'échelle de l'unité de mesure de l'unité archivistique à décrire. Si l'unité de mesure ne peut être indiquée par un équivalent en français, on transcrira, entre guillemets, celle inscrite sur l'unité archivistique à décrire." (RDDA 6.3B)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="fa39c5d203d234d02401af14b054c22994c6cf7e" approved="yes">
@@ -94,14 +94,14 @@
         <target xml:space="preserve">"On transcrit la numérotation d'une pièce faisant partie d'une collection en utilisant la désignation qu'on lui a donnée dans l'unité." (RDDA 1.6F1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="216ee35256579006940267760c7ee4d160cbde9a" approved="yes">
+      <trans-unit id="216ee35256579006940267760c7ee4d160cbde9a" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Give the scale of the unit being described...as a representative fraction (RF) expressed as a ratio (1: ). Precede the ratio by Scale. Give the scale even if it is already recorded as part of the title proper or other title information." (RAD 5.3B1)</source>
-        <target xml:space="preserve" state="final">"Donnez les proportions de l’unité archivistique à décrire (...) sous la forme d’une fraction représentative (FR) exprimée par un rapport (1 : ). La mention du rapport est précédée du terme Échelle. On donnera l’échelle même si elle est déjà transcrite comme faisant partie du titre propre ou du complément du titre." (RDDA 5.3B1)</target>
+        <target xml:space="preserve" state="translated">"Donnez les proportions de l'unité archivistique à décrire (...) sous la forme d'une fraction représentative (FR) exprimée par un rapport (1 : ). La mention du rapport est précédée du terme Échelle. On donnera l'échelle même si elle est déjà transcrite comme faisant partie du titre propre ou du complément du titre." (RDDA 5.3B1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9f86d3aa281a05a6ea440106db3502524e26d52f" approved="yes">
+      <trans-unit id="9f86d3aa281a05a6ea440106db3502524e26d52f" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Give the statement of projection if it is found on the prescribed source(s) of information." (RAD 5.3C1)</source>
-        <target xml:space="preserve">"On transcrira la mention de projection si elle apparaît dans les sources d’information prescrites." (RDDA 5.3C1)</target>
+        <target xml:space="preserve" state="translated">"On transcrira la mention de projection si elle apparaît dans les sources d'information prescrites." (RDDA 5.3C1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="dc68fed162f0faefeea9e375eadf4b9bc7a48784" approved="yes">
@@ -109,9 +109,9 @@
         <target xml:space="preserve">"Identifier et donner la (les) date(s) de l'unité de description. Indiquer une seule date ou plusieurs dates selon le cas." (ISAD 3.1.3). Le champ d'affichage de la date peut être utilisé pour entrer des informations sur les dates en texte libre, y compris des signes typographiques pour exprimer une date approximative, une date incertaine ou un qualificatif. Utiliser les champs de début et de fin pour rendre les dates interrogeables. Ne pas utiliser de qualificatifs ou de symboles typographiques pour exprimer l'incertitude. Formats de date acceptables : AAAAMMJJ AAAA-MM-JJ, AAAA-MM, AAAA.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="36ddf9b510c2bc89b2e9bd29f5d188ff655acce1" approved="yes">
+      <trans-unit id="36ddf9b510c2bc89b2e9bd29f5d188ff655acce1" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Identify the geographical area the institution belongs to. Record any other relevant information about the cultural context of the institution." (ISDIAH 5.3.2)</source>
-        <target xml:space="preserve">"Identifier la zone géographique à laquelle appartient l’institution de conservation. Enregistrer toute autre information pertinente sur le contexte culturel de l’institution de conservation." (ISDIAH 5.3.2)</target>
+        <target xml:space="preserve" state="translated">"Identifier la zone géographique à laquelle appartient l'institution de conservation. Enregistrer toute autre information pertinente sur le contexte culturel de l'institution de conservation." (ISDIAH 5.3.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="2206345ab7fa0daf4cca1b31e3e2dd2776a5037f" approved="yes">
@@ -154,9 +154,9 @@
         <target xml:space="preserve">"On mentionne ici la langue de l'unité archivistique à décrire, à moins qu'elle n'ait déjà été notée ailleurs ou que d'autres éléments de la description en témoignent de façon évidente." (RDDA 1.8B14). Sélectionner la langue dans le menu déroulant ; saisir les toutes premières lettres pour réduire la liste des choix.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6fe62e6ce2d0b9c3f9de71c2a15095d9b84bba58" approved="yes">
+      <trans-unit id="6fe62e6ce2d0b9c3f9de71c2a15095d9b84bba58" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Provide a date or date span which covers the dates when the function was started and when it finished. If a function is ongoing, no end date is needed." (ISDF 5.2.1)</source>
-        <target xml:space="preserve">"Fournir une date ou une fourchette de dates définie par les dates de début et de fin d’exercice de la fonction. Si une fonction se poursuit, aucune date de fin n’est requise." (ISDF 5.2.1)</target>
+        <target xml:space="preserve" state="translated">"Fournir une date ou une fourchette de dates définie par les dates de début et de fin d'exercice de la fonction. Si une fonction se poursuit, aucune date de fin n'est requise." (ISDF 5.2.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e2e26146062adab5348e8b089e8fbc327f414435" approved="yes">
@@ -164,49 +164,49 @@
         <target xml:space="preserve">"Mentionner toute date pertinente relative à la ressource associée et/ou aux dates de ses relations avec la collectivité, la personne et la famille, et préciser la nature de ces dates." (ISAAR 6.4) Saisir la date telle que l'on souhaite qu'elle apparaisse sur la page de consultation de la notice d'autorité, en utilisant, si on le désire, des qualificatifs et/ou des symboles typographiques pour exprimer les incertitudes.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
-      <trans-unit id="b331b2cdadf5822d793cd63220e40481485c2e8a" approved="yes">
+      <trans-unit id="b331b2cdadf5822d793cd63220e40481485c2e8a" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Provide any significant information on the social, cultural, economic, political and/or historical context in which the entity being described operated." (ISAAR 5.2.8)</source>
-        <target xml:space="preserve">"Enregistrer toutes les informations significatives sur le contexte social, culturel, économique, politique, historique, etc., dans lequel l’entité a exercé son activité." (ISAAR 5.2.8)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer toutes les informations significatives sur le contexte social, culturel, économique, politique, historique, etc., dans lequel l'entité a exercé son activité." (ISAAR 5.2.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="40597e7260c092209258b4bbc2414b1a579f0c8b" approved="yes">
+      <trans-unit id="40597e7260c092209258b4bbc2414b1a579f0c8b" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Provide the unique identifiers/reference codes and/or titles for the related resources." (ISAAR 6.1) Select the title from the drop-down menu; enter the identifier or the first few letters to narrow the choices.</source>
-        <target xml:space="preserve">"Mentionner : l’intitulé et/ou l’identifiant univoque de la ressource associée. Le cas échéant, fournir aussi l’identifiant de la description de cette ressource." (ISAAR 6.1) Sélectionner l'intitulé dans le menu déroulant ; saisir l'identifiant ou les toutes premières lettres pour restreindre la liste des choix.</target>
+        <target xml:space="preserve" state="translated">"Mentionner : l'intitulé et/ou l'identifiant univoque de la ressource associée. Le cas échéant, fournir aussi l'identifiant de la description de cette ressource." (ISAAR 6.1) Sélectionner l'intitulé dans le menu déroulant ; saisir l'identifiant ou les toutes premières lettres pour restreindre la liste des choix.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_event.php</note>
       </trans-unit>
-      <trans-unit id="09a47a3da4d9f6328c4e96ef6d8395b7d8b531a5" approved="yes">
+      <trans-unit id="09a47a3da4d9f6328c4e96ef6d8395b7d8b531a5" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Purpose: To identify the general category of relationship between the entity being described and another corporate body, person or family." (ISAAR 5.3.2). Select a category from the drop-down menu: hierarchical, temporal, family or associative.</source>
-        <target xml:space="preserve">"Objectif : Identifier la nature générale de la relation entre l’entité décrite et une collectivité, une personne ou une famille." (ISAAR 5.3.2) Sélectionner la nature de la relation dans le menu déroulant : hiérarchique, chronologique, familiale, ou d'association.</target>
+        <target xml:space="preserve" state="translated">"Objectif : Identifier la nature générale de la relation entre l'entité décrite et une collectivité, une personne ou une famille." (ISAAR 5.3.2) Sélectionner la nature de la relation dans le menu déroulant : hiérarchique, chronologique, familiale, ou d'association.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="da5780323ea32c7a7ebb44deda6c1887e16ff67b" approved="yes">
+      <trans-unit id="da5780323ea32c7a7ebb44deda6c1887e16ff67b" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Purpose: To identify the national or international conventions or rules applied in creating the archival authority record. Rule: Record the names and where useful the editions or publication dates of the conventions or rules applied. Specify separately which rules have been applied for creating the Authorized form of name. Include reference to any system(s) of dating used to identify dates in this authority record (e.g. ISO 8601)." (ISAAR 5.4.3)</source>
-        <target xml:space="preserve" state="final">"Objectif : Identifier les règles ou conventions, nationales ou internationales, qui ont été suivies pour l’élaboration de la notice d’autorité. Règle : Enregistrez le nom et, lorsque cela est nécessaire, les éditions et les dates de publication, des règles ou des conventions appliquées. Mettre en évidence séparément les règles qui ont été suivies pour fixer la "forme autorisée du nom". Indiquez la référence des différents systèmes de normalisation des dates utilisés pour indiquer des dates dans la notice d’autorité (par exemple ISO 8601)." (ISAAR 5.4.3)</target>
+        <target xml:space="preserve" state="translated">"Objectif : Identifier les règles ou conventions, nationales ou internationales, qui ont été suivies pour l'élaboration de la notice d'autorité. Règle : Enregistrez le nom et, lorsque cela est nécessaire, les éditions et les dates de publication, des règles ou des conventions appliquées. Mettre en évidence séparément les règles qui ont été suivies pour fixer la "forme autorisée du nom". Indiquez la référence des différents systèmes de normalisation des dates utilisés pour indiquer des dates dans la notice d'autorité (par exemple ISO 8601)." (ISAAR 5.4.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4e1e1a09c2c53165defe55b47ececa5c56388e05" approved="yes">
+      <trans-unit id="4e1e1a09c2c53165defe55b47ececa5c56388e05" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Purpose: To identify the national or international conventions or rules applied in creating the archival description. Rule: Record the names and where useful the editions or publication dates of the conventions or rules applied." (ISDF 5.4.3)</source>
-        <target xml:space="preserve">"Objectif : Identifier les règles ou conventions, nationales ou internationales, qui ont été suivies pour l’élaboration de la description. Règle : Enregistrer le nom et, lorsque cela est nécessaire, les éditions et les dates de publication des règles ou conventions appliquées." (ISDF 5.4.3)</target>
+        <target xml:space="preserve" state="translated">"Objectif : Identifier les règles ou conventions, nationales ou internationales, qui ont été suivies pour l'élaboration de la description. Règle : Enregistrer le nom et, lorsque cela est nécessaire, les éditions et les dates de publication des règles ou conventions appliquées." (ISDF 5.4.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a23c087476a8884958adf7c4e2cdcf241b589dda" approved="yes">
+      <trans-unit id="a23c087476a8884958adf7c4e2cdcf241b589dda" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Purpose: To indicate the various forms in which the Authorized form of name occurs in other languages or script form(s). Rule: record the parallel form(s) of name in accordance with any relevant national or international conventions or rules applied by the agency that created the authority record, including any necessary sub elements and/or qualifiers required by those conventions or rules." (ISAAR 5.1.3)</source>
-        <target xml:space="preserve">"Objectif : Indiquer les différentes formes sous lesquelles on peut rencontrer la forme autorisée du nom, dans d’autres langues ou écritures. Règle : Enregistrer les formes parallèles du nom établies conformément aux règles nationales ou internationales pertinentes en usage dans le service qui crée la notice d’autorité, en y introduisant toutes les informations ou tous les qualificatifs requis." (ISAAR 5.1.3)</target>
+        <target xml:space="preserve" state="translated">"Objectif : Indiquer les différentes formes sous lesquelles on peut rencontrer la forme autorisée du nom, dans d'autres langues ou écritures. Règle : Enregistrer les formes parallèles du nom établies conformément aux règles nationales ou internationales pertinentes en usage dans le service qui crée la notice d'autorité, en y introduisant toutes les informations ou tous les qualificatifs requis." (ISAAR 5.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a2beb2c73ac629d29b867e0d06ec1080d38c9ddd" approved="yes">
+      <trans-unit id="a2beb2c73ac629d29b867e0d06ec1080d38c9ddd" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Purpose: To indicate the various forms in which the authorised form of name of an institution occurs in other languages or script form(s). Rule: Record the parallel form(s) of name of the institution in accordance with any relevant national or international conventions or rules applied by the agency that created the description, including any necessary sub elements and/or qualifiers required by those conventions or rules. Specify in the Rules and/or conventions used element (5.6.3) which rules have been applied." (ISDIAH 5.1.3)</source>
-        <target xml:space="preserve">"Objectif : Indiquer les différentes formes sous lesquelles on peut rencontrer la forme autorisée du nom d’une institution de conservation, dans d’autres langues ou écriture(s). Règle : Enregistrer la(les) forme(s) parallèle(s) du nom de l’institution de conservation conformément aux conventions ou règles nationales ou internationales pertinentes en usage dans le service qui crée la description, en y introduisant tous les sous-éléments ou tous les qualificatifs requis par ces conventions ou règles. Mentionner dans l’élément Règles et/ou conventions (5.6.3) les règles employées." (ISDIAH 5.1.3)</target>
+        <target xml:space="preserve" state="translated">"Objectif : Indiquer les différentes formes sous lesquelles on peut rencontrer la forme autorisée du nom d'une institution de conservation, dans d'autres langues ou écriture(s). Règle : Enregistrer la(les) forme(s) parallèle(s) du nom de l'institution de conservation conformément aux conventions ou règles nationales ou internationales pertinentes en usage dans le service qui crée la description, en y introduisant tous les sous-éléments ou tous les qualificatifs requis par ces conventions ou règles. Mentionner dans l'élément Règles et/ou conventions (5.6.3) les règles employées." (ISDIAH 5.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e7e21651fa1aeaf087f693b08ab6f2fc3be11ad8" approved="yes">
+      <trans-unit id="e7e21651fa1aeaf087f693b08ab6f2fc3be11ad8" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Purpose: To indicate the various forms in which the authorized form(s) of name occurs in other languages or script forms. Rule: Record the parallel form(s) of name in accordance with any relevant national or international conventions or rules applied by the agency that created the description, including any necessary sub elements and/or qualifiers required by those conventions or rules. Specify in the Rules and/or conventions element (5.4.3.) which rules have been applied." (ISDF 5.1.3)</source>
-        <target xml:space="preserve">"Objectif : Indiquer les différentes formes sous lesquelles on peut rencontrer la (les) forme(s) autorisée(s) du nom, dans d’autres langues ou écritures. Règle : Enregistrer la (les) forme(s) parallèle(s) du nom établie(s) conformément aux règles ou conventions nationales ou internationales pertinentes en usage dans le service d’archives qui crée la description, y compris tout élément complémentaire et/ou qualificatif requis par ces règles ou conventions. Mentionner dans l’élément Règles et/ou conventions utilisées (5.4.3) les règles employées." (ISDF 5.1.3)</target>
+        <target xml:space="preserve" state="translated">"Objectif : Indiquer les différentes formes sous lesquelles on peut rencontrer la (les) forme(s) autorisée(s) du nom, dans d'autres langues ou écritures. Règle : Enregistrer la (les) forme(s) parallèle(s) du nom établie(s) conformément aux règles ou conventions nationales ou internationales pertinentes en usage dans le service d'archives qui crée la description, y compris tout élément complémentaire et/ou qualificatif requis par ces règles ou conventions. Mentionner dans l'élément Règles et/ou conventions utilisées (5.4.3) les règles employées." (ISDF 5.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b9a8801c80f2a693ddd0e7d1bed087a6833951d2" approved="yes">
+      <trans-unit id="b9a8801c80f2a693ddd0e7d1bed087a6833951d2" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Purpose: to indicate the predominant places and/or jurisdictions where the corporate body, person or family was based, lived or resided or had some other connection. Rule: record the name of the predominant place(s)/jurisdiction(s), together with the nature and covering dates of the relationship with the entity." (ISAAR 5.2.3)</source>
-        <target xml:space="preserve" state="final">"Objectif : Indiquer les principaux lieux et/où ressorts juridictionnels d’origine, de vie ou de résidence de la collectivité, de la personne ou de la famille, ou ceux avec lesquels l’entité a eu d’autres liens. Règle : Enregistrer, pour chacun des principaux lieux/ressorts juridictionnels, son nom, la nature de son lien avec l’entité et la période concernée." (ISAAR 5.2.3)</target>
+        <target xml:space="preserve" state="translated">"Objectif : Indiquer les principaux lieux et/où ressorts juridictionnels d'origine, de vie ou de résidence de la collectivité, de la personne ou de la famille, ou ceux avec lesquels l'entité a eu d'autres liens. Règle : Enregistrer, pour chacun des principaux lieux/ressorts juridictionnels, son nom, la nature de son lien avec l'entité et la période concernée." (ISAAR 5.2.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="791f48c60443ce93b2ca73568ecfc8bf6cafd04f" approved="yes">
@@ -219,9 +219,9 @@
         <target xml:space="preserve">"Enregistrer une description sous forme de texte libre sur les objectifs de la fonction." (ISDF 5.2.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea" approved="yes">
+      <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the entity described in this authority record and the other related entity....Record in the Rules and/or conventions element (5.4.3) any classification scheme used as a source of controlled vocabulary terms to describe the relationship. A narrative description of the history and/or nature of the relationship may also be provided here." (ISAAR 5.3.3). Note that the text entered in this field will also appear in the related authority record.</source>
-        <target xml:space="preserve">"Donner une description précise de la nature de la relation entre l’entité décrite dans la notice d’autorité et l’entité avec laquelle cette relation est établie (...) Indiquer dans l’élément "Règles ou conventions" (5.4.3) le référentiel utilisé pour décrire la relation. Il est également possible de remplir cet élément avec un texte rédigé sur l’histoire et/ou la nature de la relation." (ISAAR 5.3.3) Noter que le texte saisi dans ce champ apparaîtra aussi dans la notice d'autorité liée.</target>
+        <target xml:space="preserve" state="translated">"Donner une description précise de la nature de la relation entre l'entité décrite dans la notice d'autorité et l'entité avec laquelle cette relation est établie (...) Indiquer dans l'élément "Règles ou conventions" (5.4.3) le référentiel utilisé pour décrire la relation. Il est également possible de remplir cet élément avec un texte rédigé sur l'histoire et/ou la nature de la relation." (ISAAR 5.3.3) Noter que le texte saisi dans ce champ apparaîtra aussi dans la notice d'autorité liée.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="c4d61803b0c775664785408a8c8277a8a922fa92" approved="yes">
@@ -229,34 +229,34 @@
         <target xml:space="preserve">"Enregistrer une description précise de la nature de la relation entre la fonction décrite et la fonction avec laquelle cette relation est établie." (ISDF 5.3.4) Noter que le texte saisi dans ce champ apparaîtra aussi dans la fonction liée.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="f2cffe2c4b81b6e676278e7a74d2c45a3290dc0c" approved="yes">
+      <trans-unit id="f2cffe2c4b81b6e676278e7a74d2c45a3290dc0c" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record a short description of the holdings of the institution, describing how and when they were formed. Provide information on volume of holdings, media formats, thematic coverage, etc." (ISDIAH 5.3.7)</source>
-        <target xml:space="preserve">"Enregistrer une brève description des collections de l’institution de conservation, indiquant comment et quand elles ont été formées. Fournir des informations sur le volume des collections, les formats de médias, les thématiques abordées, etc." (ISDIAH 5.3.7)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer une brève description des collections de l'institution de conservation, indiquant comment et quand elles ont été formées. Fournir des informations sur le volume des collections, les formats de médias, les thématiques abordées, etc." (ISDIAH 5.3.7)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="185e47912e973aa0f8067c329f2585f090343416" approved="yes">
+      <trans-unit id="185e47912e973aa0f8067c329f2585f090343416" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record a unique authority record identifier in accordance with local and/or national conventions. If the authority record is to be used internationally, record the country code of the country in which the authority record was created in accordance with the latest version of ISO 3166 Codes for the representation of names of countries. Where the creator of the authority record is an international organization, give the organizational identifier in place of the country code." (ISAAR 5.4.1)</source>
-        <target xml:space="preserve">"Enregistrer un seul numéro d’identification pour la notice d’autorité, conformément aux conventions locales ou nationales. Si la notice d’autorité doit faire l’objet d’une utilisation internationale, enregistrer le code du pays dans lequel la notice d’autorité a été établie, en utilisant la dernière version de la norme ISO 3166 : Codes pour la représentation des noms de pays. Lorsque l’auteur de la notice d’autorité est un organisme international, donner le numéro d’identification de l’organisme à la place du code du pays." (ISAAR 5.4.1)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer un seul numéro d'identification pour la notice d'autorité, conformément aux conventions locales ou nationales. Si la notice d'autorité doit faire l'objet d'une utilisation internationale, enregistrer le code du pays dans lequel la notice d'autorité a été établie, en utilisant la dernière version de la norme ISO 3166 : Codes pour la représentation des noms de pays. Lorsque l'auteur de la notice d'autorité est un organisme international, donner le numéro d'identification de l'organisme à la place du code du pays." (ISAAR 5.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15" approved="yes">
+      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 - Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code." (ISIAH 5.6.1)</source>
-        <target xml:space="preserve">"Enregistrer un seul identifiant de la description, conformément aux conventions locales et/ou nationales. Si la description doit faire l’objet d’une utilisation internationale, enregistrer le code du pays dans lequel la notice a été établie, en utilisant la dernière version de la norme ISO 3166 - Codes pour la représentation des noms de pays. Lorsque l’auteur de la description est un organisme international, donner le numéro d’identification de l’organisme à la place du code du pays." (ISDIAH 5.6.1)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer un seul identifiant de la description, conformément aux conventions locales et/ou nationales. Si la description doit faire l'objet d'une utilisation internationale, enregistrer le code du pays dans lequel la notice a été établie, en utilisant la dernière version de la norme ISO 3166 - Codes pour la représentation des noms de pays. Lorsque l'auteur de la description est un organisme international, donner le numéro d'identification de l'organisme à la place du code du pays." (ISDIAH 5.6.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="fd846bcf8ecc30d07094334b4411a90abaad570b" approved="yes">
+      <trans-unit id="fd846bcf8ecc30d07094334b4411a90abaad570b" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code." (ISDF 5.4.1)</source>
-        <target xml:space="preserve">"Enregistrer un seul numéro d’identification pour la description, conformément aux conventions locales et/ou nationales. Si la description doit faire l’objet d’une utilisation internationale, enregistrer le code du pays dans lequel la description a été établie, en utilisant la dernière version de la norme ISO 3166 : Codes pour la représentation des noms de pays. Lorsque l’auteur de la description est un organisme international, donner le numéro d’identification de l’organisme à la place du code du pays." (ISDF 5.4.1)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer un seul numéro d'identification pour la description, conformément aux conventions locales et/ou nationales. Si la description doit faire l'objet d'une utilisation internationale, enregistrer le code du pays dans lequel la description a été établie, en utilisant la dernière version de la norme ISO 3166 : Codes pour la représentation des noms de pays. Lorsque l'auteur de la description est un organisme international, donner le numéro d'identification de l'organisme à la place du code du pays." (ISDF 5.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="29af9d35158ea35820a340b060a37e6f70492b0b" approved="yes">
+      <trans-unit id="29af9d35158ea35820a340b060a37e6f70492b0b" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record any document, law, directive or charter which acts as a source of authority for the powers, functions and responsibilities of the entity being described, together with information on the jurisdiction(s) and covering dates when the mandate(s) applied or were changed." (ISAAR 5.2.6)</source>
-        <target xml:space="preserve">"Enregistrer tout texte de référence (loi, décret, arrêté, directive, recommandation, délibération, décision, etc.) qui est à l’origine des pouvoirs, des fonctions, des responsabilités de l’entité, ainsi que les informations sur les juridictions compétentes et les dates d’exercice ou de modification de ses attributions." (ISAAR 5.2.6)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer tout texte de référence (loi, décret, arrêté, directive, recommandation, délibération, décision, etc.) qui est à l'origine des pouvoirs, des fonctions, des responsabilités de l'entité, ainsi que les informations sur les juridictions compétentes et les dates d'exercice ou de modification de ses attributions." (ISAAR 5.2.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="89ad9c06b9e08d5a707ca7ec14cce91cc0142870" approved="yes">
+      <trans-unit id="89ad9c06b9e08d5a707ca7ec14cce91cc0142870" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record any document, law, directive or charter which acts as a source of authority for the powers, functions and responsibilities of the institution, together with information on the jurisdiction(s) and covering dates when the mandate(s) applied or were changed." (ISDIAH 5.3.3)</source>
-        <target xml:space="preserve">"Enregistrer tout document, loi, décret, directive ou charte, qui est à l’origine des pouvoirs, des fonctions et des responsabilités de l’institution de conservation, ainsi que les informations sur la (les) juridiction(s) compétente(s) et les dates d’exercice ou de modification de ses attributions." (ISDIAH 5.3.3)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer tout document, loi, décret, directive ou charte, qui est à l'origine des pouvoirs, des fonctions et des responsabilités de l'institution de conservation, ainsi que les informations sur la (les) juridiction(s) compétente(s) et les dates d'exercice ou de modification de ses attributions." (ISDIAH 5.3.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b0d712ff41fb95b3087ae7b5e7171c5c1e608818" approved="yes">
@@ -264,9 +264,9 @@
         <target xml:space="preserve">"Enregistrer toute loi, directive ou charte créant, modifiant ou supprimant la fonction." (ISDF 5.2.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="aba1c650648834a4a21f4a445453908bcaee3008" approved="yes">
+      <trans-unit id="aba1c650648834a4a21f4a445453908bcaee3008" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record any other name(s) by which the institution may be known. This could include other forms of the same name, acronyms, other institutional names, or changes of name over time, including, if possible, relevant dates." (ISDIAH 5.1.4)</source>
-        <target xml:space="preserve">"Enregistrer les autres noms sous lesquels l’institution de conservation peut être connue, tels que par exemple d’autres formes du même nom, des acronymes, d’autres noms institutionnels, ou des changements de noms dans le temps, y compris les dates associées à ces changements, si possible." (ISDIAH 5.1.4)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer les autres noms sous lesquels l'institution de conservation peut être connue, tels que par exemple d'autres formes du même nom, des acronymes, d'autres noms institutionnels, ou des changements de noms dans le temps, y compris les dates associées à ces changements, si possible." (ISDIAH 5.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="612daef3f6bccab4cbd09e60a0298651846f3642" approved="yes">
@@ -274,19 +274,19 @@
         <target xml:space="preserve">"Enregistrer tout autre nom pour la fonction." (ISDF 5.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c4bfa76c92f013f0045966a6c9b85b8b50fa7365" approved="yes">
+      <trans-unit id="c4bfa76c92f013f0045966a6c9b85b8b50fa7365" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record any relevant information about the history of the institution. This element may include information on dates of establishment, changes of names, changes of legislative mandates, or of any other sources of authority for the institution." (ISDIAH 5.3.1)</source>
-        <target xml:space="preserve">"Enregistrer toute information pertinente sur l’histoire de l’institution de conservation. Cet élément peut inclure des informations sur les dates d’établissement, les changements de noms, les changements d’attributions ou sur tout autre texte de référence à l’origine des responsabilités de l’institution de conservation." (ISDIAH 5.3.1)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer toute information pertinente sur l'histoire de l'institution de conservation. Cet élément peut inclure des informations sur les dates d'établissement, les changements de noms, les changements d'attributions ou sur tout autre texte de référence à l'origine des responsabilités de l'institution de conservation." (ISDIAH 5.3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9f7c8d7614b7199872c46e10f1f3d9b3538929aa" approved="yes">
+      <trans-unit id="9f7c8d7614b7199872c46e10f1f3d9b3538929aa" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record any term and/or code from a classification scheme of functions. Record the classification scheme used in the element Rules and/or conventions used (5.4.3)." (ISDF 5.1.5)</source>
-        <target xml:space="preserve">"Utiliser le terme et/ou code issu du cadre de classement enregistré dans l’élément Règles et/ou conventions utilisées (5.4.3)." (ISDF 5.1.5)</target>
+        <target xml:space="preserve" state="translated">"Utiliser le terme et/ou code issu du cadre de classement enregistré dans l'élément Règles et/ou conventions utilisées (5.4.3)." (ISDF 5.1.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5e0f72570ad798435a45ca195a49c0280e158faa" approved="yes">
+      <trans-unit id="5e0f72570ad798435a45ca195a49c0280e158faa" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record in narrative form or as a chronology the main events relating to the function." (ISDF 5.2.3)</source>
-        <target xml:space="preserve">"Enregistrer, sous la forme d’un texte rédigé ou d’une chronologie, l’histoire de l’exercice de la fonction." (ISDF 5.2.3)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer, sous la forme d'un texte rédigé ou d'une chronologie, l'histoire de l'exercice de la fonction." (ISDF 5.2.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="717ef2a898e0d798497b3e85947504bb0ba0236c" approved="yes">
@@ -738,9 +738,9 @@
         <target xml:space="preserve" state="final">%1%Date(s)%2% - Cet élément est %3%obligatoire%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="c343f06a983aec23ab373c7bbcb60208f163a076" approved="yes">
+      <trans-unit id="c343f06a983aec23ab373c7bbcb60208f163a076" approved="yes" xml:space="preserve">
         <source xml:space="preserve">%1%Date(s)%2% - are not consistent with %3%higher levels%2%.</source>
-        <target xml:space="preserve">Les informations de %1%date%2% ne sont pas cohérentes par rapport aux %niveaux supérieurs%.</target>
+        <target xml:space="preserve" state="final">Les informations de %1%date%2% ne sont pas cohérentes par rapport aux %3%niveaux supérieurs%2%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="ca69a8d0222647ab04e285e54916f496f96bb7a7" approved="yes">
@@ -1252,9 +1252,9 @@
         <target xml:space="preserve">Note sur l'activité de l'acteur</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="eef8899c393d30c12c965ae848d496c3cc55b4bc" approved="yes">
+      <trans-unit id="eef8899c393d30c12c965ae848d496c3cc55b4bc" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Actor occupations</source>
-        <target xml:space="preserve">activité de l'acteur</target>
+        <target xml:space="preserve" state="final">Activité de l'acteur</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="61cc55aa0453184734c3fa0b621eda6fa874bd83" approved="yes">
@@ -4467,9 +4467,9 @@
         <target xml:space="preserve">Identifiant indisponible.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/checkIdentifierAvailableAction.class.php</note>
       </trans-unit>
-      <trans-unit id="e057026030ab8d3892a0ba2794e790549c6704e4" approved="yes">
+      <trans-unit id="e057026030ab8d3892a0ba2794e790549c6704e4" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Identifier-related</source>
-        <target xml:space="preserve">relié à l'identifiant</target>
+        <target xml:space="preserve" state="final">Paramètres des identifiants</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="65ffffa00892a2a3b59131b0112c61a88dc5d8e4" approved="yes">
@@ -4577,9 +4577,9 @@
         <target xml:space="preserve">Si les matériaux à décrire comprennent des reproductions d'originaux qui peuvent être retrouvés ailleurs, indiquez l'emplacement des originaux (DACS 6.1.4). Enregistrez tous les numéros ou cotes pouvant aider à repérer l'original à l'emplacement mentionné (DACS 6.1.6).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="cab2fd73bf51f6c91cf997af8e877c6179767231" approved="yes">
+      <trans-unit id="cab2fd73bf51f6c91cf997af8e877c6179767231" approved="yes" xml:space="preserve">
         <source xml:space="preserve">If the original of the unit of description is available (either in the institution or elsewhere) record its location, together with any significant control numbers. If the originals no longer exist, or their location is unknown, give that information. (ISAD 3.5.1)</source>
-        <target xml:space="preserve">"Si les documents originaux sont encore conservés (que ce soit dans la même institution ou ailleurs), préciser leur lieu de conservation, leur référence, et les conditions d’accès. Il convient également de préciser si les documents originaux n'existent plus, ou si l'on ignore l'endroit où ils sont conservés." (ISAD 3.5.1)</target>
+        <target xml:space="preserve" state="final">"Si les documents originaux sont encore conservés (que ce soit dans la même institution ou ailleurs), préciser leur lieu de conservation, leur référence, et les conditions d'accès. Il convient également de préciser si les documents originaux n'existent plus, ou si l'on ignore l'endroit où ils sont conservés." (ISAD 3.5.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="caeb0f968c54a0f7b51ffd2cb07f0d5ba29da724" approved="yes">
@@ -4816,9 +4816,9 @@
         <target xml:space="preserve">Héritage</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editInformationObjectAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="90b8b9aa341fd4b58cef91ef02b5a84b32e05f70" approved="yes">
+      <trans-unit id="90b8b9aa341fd4b58cef91ef02b5a84b32e05f70" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Inherit reference code</source>
-        <target xml:space="preserve">hériter de la cote</target>
+        <target xml:space="preserve" state="final">Hériter de la cote</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/treeviewAction.class.php</note>
       </trans-unit>
       <trans-unit id="ae62284b8ff262eb2a9dd5ed22491de9e3f5c18b" approved="yes">
@@ -6880,9 +6880,9 @@
         <target xml:space="preserve">Enregistrez une citation ou de l'information sur la publication qui traite de, ou est basé sur l'utilisation, l'étude, ou l'analyse des matériaux à décrire. Indiquez un nombre suffisant de renseignements afin que la relation entre la publication et l'unité à décrire puissent être indiquée. Ceci inclut aussi des éditions annotées. (DACS 6.4.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="337852fdcfb743f2f72dcadc2baa2dfc056c114e" approved="yes">
+      <trans-unit id="337852fdcfb743f2f72dcadc2baa2dfc056c114e" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 - Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code.</source>
-        <target xml:space="preserve">Enregistrer un numéro d’identification unique pour la notice d’autorité, conformément aux conventions locales et/ou nationales. Si la notice d’autorité doit faire l’objet d’une utilisation internationale, enregistrer le code du pays dans lequel la notice d’autorité a été établie, en utilisant la dernière version de la norme ISO 3166 : Codes pour la représentation des noms de pays. Lorsque l’auteur de la notice d’autorité est un organisme international, donner le numéro d’identification de l’organisme à la place du code du pays.</target>
+        <target xml:space="preserve" state="final">Enregistrer un numéro d'identification unique pour la notice d'autorité, conformément aux conventions locales et/ou nationales. Si la notice d'autorité doit faire l'objet d'une utilisation internationale, enregistrer le code du pays dans lequel la notice d'autorité a été établie, en utilisant la dernière version de la norme ISO 3166 : Codes pour la représentation des noms de pays. Lorsque l'auteur de la notice d'autorité est un organisme international, donner le numéro d'identification de l'organisme à la place du code du pays.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d699ea4bee23132e3cf1cb8584feb9eb6f400d13" approved="yes">
@@ -6930,9 +6930,9 @@
         <target xml:space="preserve" state="final">Enregistrez l'information sur la nature des matériaux et des activités dont témoignent les unités à décrire afin de permettre aux utilisateurs de juger leur pertinence potentielle. Inscrivez aussi des renseignements sur les fonctions, les activités, les opérations, et les processus : forme(s) documentaire(s) ou les caractéristiques intellectuelles ; les dates du contenu ; les lieux et zones géographiques ; l'objet général ; le caractère complet des matériaux ; ou toute autre information qui permet à l'utilisateur d'évaluer la pertinence des matériaux. (DACS 3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="15e886438452d0c66cc125d4a65cb9de4754051a" approved="yes">
+      <trans-unit id="15e886438452d0c66cc125d4a65cb9de4754051a" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Record information about units of description in the same repository or elsewhere that are related by provenance or other association(s). Use appropriate introductory wording and explain the nature of the relationship . If the related unit of description is a finding aid, use the finding aids element of description (3.4.5) to make the reference to it. (ISAD 3.5.3)</source>
-        <target xml:space="preserve">"Donner les informations sur les unités de description conservées, soit dans le même service d'archives, soit ailleurs, et qui ont un lien avec l'unité décrite soit en raison de leur provenance, soit pour un autre motif. Rédiger un paragraphe d’introduction approprié et expliquer la nature du lien. Si l'unité de description complémentaire est un instrument de recherche, utiliser l'élément de description Instruments de recherche (3.4.5) pour faire cette mention." (ISAD 3.5.3)</target>
+        <target xml:space="preserve" state="final">"Donner les informations sur les unités de description conservées, soit dans le même service d'archives, soit ailleurs, et qui ont un lien avec l'unité décrite soit en raison de leur provenance, soit pour un autre motif. Rédiger un paragraphe d'introduction approprié et expliquer la nature du lien. Si l'unité de description complémentaire est un instrument de recherche, utiliser l'élément de description Instruments de recherche (3.4.5) pour faire cette mention." (ISAD 3.5.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b5ed865bd130aa9047b8cc4b5d512e2ca1ab7d23" approved="yes">
@@ -7045,9 +7045,9 @@
         <target xml:space="preserve">Enregistrez le(s) source(s) à partir d'où les matériaux décrits ont été acquis, ainsi que la/les date(s) de l'acquisition, et la méthode d'acquisition si elle n'est pas confidentielle. (DACS 5.2.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="01fb1033811e4e186c4f31198478c0772cda08e4" approved="yes">
+      <trans-unit id="01fb1033811e4e186c4f31198478c0772cda08e4" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Record the successive transfers of ownership, responsibility and/or custody of the unit of description and indicate those actions, such as history of the arrangement, production of contemporary finding aids, re-use of the records for other purposes or software migrations, that have contributed to its present structure and arrangement. Give the dates of these actions, insofar as they can be ascertained. If the archival history is unknown, record that information. (ISAD 3.2.3)</source>
-        <target xml:space="preserve">"Enumérer les changements successifs de propriété, de responsabilité et/ou et de onservation de l'unité de description et indiquer les événements tels que l'histoire du cassement, la production contemporaine d'instruments de recherche, la réutilisation des dcuments à d’autres fins ou le changement de logiciel, qui ont contribué à sa structure t à son classement actuels. Donner les dates de ces événements, dans la mesure où ils ont connus de façon certaine. Si l'historique de la conservation est inconnu, le signaler." (ISAD 3.2.3)</target>
+        <target xml:space="preserve" state="final">"Enumérer les changements successifs de propriété, de responsabilité et/ou et de conservation de l'unité de description et indiquer les événements tels que l'histoire du classement, la production contemporaine d'instruments de recherche, la réutilisation des documents à d'autres fins ou le changement de logiciel, qui ont contribué à sa structure et à son classement actuels. Donner les dates de ces événements, dans la mesure où ils sont connus de façon certaine. Si l'historique de la conservation est inconnu, le signaler." (ISAD 3.2.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="23a092ff00759529806b89b4066a63210faf2126" approved="yes">
@@ -9741,9 +9741,9 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
         <target xml:space="preserve">authentifié</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/acl.yml</note>
       </trans-unit>
-      <trans-unit id="2ab0591dbcf5fefdad65f3a10ae4155b91890fed" approved="yes">
+      <trans-unit id="2ab0591dbcf5fefdad65f3a10ae4155b91890fed" approved="yes" xml:space="preserve">
         <source xml:space="preserve">card</source>
-        <target xml:space="preserve">Carte</target>
+        <target xml:space="preserve" state="final">carte</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="e1fc0cde3589b13f25127faba1eb27c44203a8da" approved="yes">
@@ -9986,9 +9986,9 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
         <target xml:space="preserve">publication</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="e25fbbf54795878e4a7d642626e5cb7f72ba7b6e" approved="yes">
+      <trans-unit id="e25fbbf54795878e4a7d642626e5cb7f72ba7b6e" approved="yes" xml:space="preserve">
         <source xml:space="preserve">reference code</source>
-        <target xml:space="preserve">Cote</target>
+        <target xml:space="preserve" state="final">cote</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="e9bb93c4ba8fd5847cdddd146e02b7dd36428def" approved="yes">
