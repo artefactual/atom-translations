@@ -4977,14 +4977,14 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/deleteSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ecdda59aea5ee67d7d854c969ccf7f4f4b4a4c54">
+      <trans-unit id="ecdda59aea5ee67d7d854c969ccf7f4f4b4a4c54" xml:space="preserve">
         <source xml:space="preserve">Item</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Документ</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/itemOrFileListAction.class.php</note>
       </trans-unit>
-      <trans-unit id="50ecc1598cc6abae6d68e85166161e93093b7d4b">
+      <trans-unit id="50ecc1598cc6abae6d68e85166161e93093b7d4b" xml:space="preserve">
         <source xml:space="preserve">Item list</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Список документов</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/reportsAction.class.php</note>
       </trans-unit>
       <trans-unit id="6a013f3591caa3ee3f7742743ed123abf4cf8af0">
@@ -5881,19 +5881,19 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
-      <trans-unit id="4b775dcfdea71fb1394345b2a8956a1edb8a0462">
+      <trans-unit id="4b775dcfdea71fb1394345b2a8956a1edb8a0462" xml:space="preserve">
         <source xml:space="preserve">No items found.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Документ не найден</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5f837da7d6b9d15a8cf041d7ae07dbad8c93306b">
+      <trans-unit id="5f837da7d6b9d15a8cf041d7ae07dbad8c93306b" xml:space="preserve">
         <source xml:space="preserve">No items in clipboard to save.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">В буфере обмена нет элементов для сохранения</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d">
+      <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d" xml:space="preserve">
         <source xml:space="preserve">No items in clipboard to send.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">В буфере обмена нет документов для отправки</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
       <trans-unit id="fe3109a8cb2c1ed5cc5c561e4ca1e2f7158baf8e">
