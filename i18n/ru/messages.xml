@@ -24,14 +24,14 @@
         <target xml:space="preserve" state="translated">"На всех уровнях записывайте объем описываемой единицы, указывая количество физических единиц арабскими цифрами и конкретное обозначение материала в соответствии с инструкциями в подразделе.5B в главе (ах), посвященной широкому классу (ам) материалов, к которым относится описываемый элемент." (RAD 1.5B1) Укажите другие физические детали и размеры, указанные в RAD 1.5C и 1.5D. Разделите несколько записей в этом поле с помощью возврата каретки (т.е. нажмите клавишу Enter на клавиатуре).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0">
+      <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0" xml:space="preserve">
         <source xml:space="preserve">"At the fonds, series or file levels, record coordinates for the maximum coverage provided by the materials in the unit, as long as they are reasonably contiguous." (RAD 5.3D)</source>
-        <target xml:space="preserve" state="translated">"На уровнях фондов, серий или файлов запишите координаты для максимального охвата, обеспечиваемого материалами в блоке, при условии, что они разумно смежны." (RAD 5.3D)</target>
+        <target xml:space="preserve" state="translated">"На уровнях фондов, описей или дел запишите координаты для максимального охвата, обеспечиваемого материалами в блоке, при условии, что они разумно смежны." (RAD 5.3D)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e39858fff058c3d097605036f0d85826da7029ee">
+      <trans-unit id="e39858fff058c3d097605036f0d85826da7029ee" xml:space="preserve">
         <source xml:space="preserve">"At the fonds, series, and collection levels of description, and when necessary at the file and the item levels of description, indicate the level being described and give information about the scope and the internal structure of or arrangement of the records, and about their contents." (RAD 1.7D) "For the scope of the unit being described, give information about the functions and/or kinds of activities generating the records, the period of time, the subject matter, and the geographical area to which they pertain. For the content of the unit being described, give information about its internal structure by indicating its arrangement, organization, and/or enumerating its next lowest level of description. Summarize the principal documentary forms (e.g., reports, minutes, correspondence, drawings, speeches)." (RAD 1.7D1)</source>
-        <target xml:space="preserve" state="translated">"На уровнях описания фондов, серий и коллекций и, при необходимости, на уровнях описания файлов и элементов укажите описываемый уровень и предоставьте информацию об объеме и внутренней структуре или расположении записей, а также об их содержании". (RAD 1.7D) "Что касается сферы охвата описываемого подразделения, укажите информацию о функциях и/или видах деятельности, генерирующих записи, периоде времени, предмете и географической области, к которой они относятся. Что касается содержания описываемого подразделения, предоставьте информацию о его внутренней структуре, указав его расположение, организацию и/или перечислив его следующий, самый низкий уровень описания. Кратко опишите основные формы документации (например, отчеты, протоколы, переписка, рисунки, речи)." (RAD 1.7D1)</target>
+        <target xml:space="preserve" state="translated">"На уровнях описания фондов, описей и коллекций и, при необходимости, на уровнях описания дел и документов укажите описываемый уровень и предоставьте информацию об объеме и внутренней структуре или расположении записей, а также об их содержании". (RAD 1.7D) "Что касается сферы охвата описываемого подразделения, укажите информацию о функциях и/или видах деятельности, генерирующих записи, периоде времени, предмете и географической области, к которой они относятся. Что касается содержания описываемого подразделения, предоставьте информацию о его внутренней структуре, указав его расположение, организацию и/или перечислив его следующий, самый низкий уровень описания. Кратко опишите основные формы документации (например, отчеты, протоколы, переписка, рисунки, речи)." (RAD 1.7D1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="59fcc3ec9ef8fed2f8021ef533dfdeb13dc18997">
@@ -635,9 +635,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/loginAction.class.php</note>
       </trans-unit>
-      <trans-unit id="894d18fa01c49de60cf24e84b9ead9a0c4ce6bc3">
+      <trans-unit id="894d18fa01c49de60cf24e84b9ead9a0c4ce6bc3" xml:space="preserve">
         <source xml:space="preserve">%1% file</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%1% дело</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/uploadFindingAidSuccess.php</note>
       </trans-unit>
       <trans-unit id="aba1688a12bae84c1deb52d38fe22084a8acff39" approved="yes">
@@ -8016,9 +8016,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="40c20d94e78fa142819df8cc9440d30e65329975">
+      <trans-unit id="40c20d94e78fa142819df8cc9440d30e65329975" xml:space="preserve">
         <source xml:space="preserve">Series</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Опись</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="0eca63bfdf391ef97f07004d275593f93d1038d1">
@@ -8551,9 +8551,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
       </trans-unit>
-      <trans-unit id="671aafcd3b45e247c5814af112ad24c51c5d2f6a">
+      <trans-unit id="671aafcd3b45e247c5814af112ad24c51c5d2f6a" xml:space="preserve">
         <source xml:space="preserve">Subseries</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Раздел описи</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="caf3a88fbba1b86ff028645351e7ec330fa05448">
@@ -9796,9 +9796,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/acl.yml</note>
       </trans-unit>
-      <trans-unit id="80207e308ba5795be1941ebc3609b2a1792cf50e">
+      <trans-unit id="80207e308ba5795be1941ebc3609b2a1792cf50e" xml:space="preserve">
         <source xml:space="preserve">associative</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">ассоциативная связь</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="8fda38ce8e728e6e5d58dd4b5ff1bd4d6cba4a97">
