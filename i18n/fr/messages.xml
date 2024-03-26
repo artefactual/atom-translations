@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0" approved="no" xml:space="preserve">
         <source xml:space="preserve">"At the fonds, series or file levels, record coordinates for the maximum coverage provided by the materials in the unit, as long as they are reasonably contiguous." (RAD 5.3D)</source>
-        <target xml:space="preserve" state="translated">"Au niveau du fonds, de la série et du dossier, on indiquera les coordonnées maximales fournies par les documents en autant qu'elles sont contiguës." (RDDA 5.3D)</target>
+        <target xml:space="preserve" state="translated">"Au niveau du fonds, de la série et du dossier, on indiquera les coordonnées maximales fournies par les documents, pour autant qu'elles sont résonablement contiguës." (RDDA 5.3D)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e39858fff058c3d097605036f0d85826da7029ee" approved="no" xml:space="preserve">
@@ -289,9 +289,9 @@
         <target xml:space="preserve" state="translated">"Enregistrer, sous la forme d'un texte rédigé ou d'une chronologie, l'histoire de l'exercice de la fonction." (ISDF 5.2.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="717ef2a898e0d798497b3e85947504bb0ba0236c" approved="yes">
+      <trans-unit id="717ef2a898e0d798497b3e85947504bb0ba0236c" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record in narrative form or as a chronology the main life events, activities, achievements and/or roles of the entity being described. This may include information on gender, nationality, family and religious or political affiliations. Wherever possible, supply dates as an integral component of the narrative description." (ISAAR 5.2.2)</source>
-        <target xml:space="preserve">"Enregistrer, sous la forme d’un texte rédigé ou d’une chronologie, les principaux événements de l’existence de l’entité décrite, ses activités, ses réalisations. Cela peut comprendre des informations sur le genre, la nationalité, la famille, et les appartenances religieuses ou politiques. Chaque fois que cela est possible, introduire ici des dates comme élément constitutif de la narration." (ISAAR 5.2.2)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer, sous la forme d'un texte rédigé ou d'une chronologie, les principaux événements de l'existence de l'entité décrite, ses activités, ses réalisations. Cela peut comprendre des informations sur le genre, la nationalité, la famille, et les appartenances religieuses ou politiques. Chaque fois que cela est possible, introduire ici des dates comme élément constitutif de la narration." (ISAAR 5.2.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="311beb1f72b7f6549050f588d0577b0c5b7ca5c4" approved="yes">
@@ -304,29 +304,29 @@
         <target xml:space="preserve">"Enregistrer les informations sur les espaces publics disponibles (expositions permanentes ou temporaires, accès Internet gratuit ou payant, distributeurs automatiques, cafétérias, restaurants, boutiques, etc.)." (ISDIAH 5.5.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="db53deef0ae0aacea72e37581125584cce1678b6" approved="yes">
+      <trans-unit id="db53deef0ae0aacea72e37581125584cce1678b6" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record information about the onsite services provided by the institution such as languages spoken by staff, research and consultation rooms, enquiry services, internal libraries, map, microfiches, audio-visual, computer rooms, etc. Record as well any relevant information about research services, such as research undertaken by the institution, and the fee charge if applicable." (ISDIAH 5.5.1)</source>
-        <target xml:space="preserve">"Enregistrer des informations sur les services offerts sur place par l’institution de conservation, tels que les langues parlées par le personnel, les salles de recherche et de consultation, les services de renseignements, les bibliothèques internes, les salles de consultation de cartes et plans, de microformes, les salles audiovisuelles, informatiques, etc. Enregistrer également toute information pertinente sur les services de recherche, tels que les recherches effectuées par l’institution de conservation et les tarifs applicables le cas échéant." (ISDIAH 5.5.1)</target>
+        <target xml:space="preserve" state="translated">"Enregistrer des informations sur les services offerts sur place par l'institution de conservation, tels que les langues parlées par le personnel, les salles de recherche et de consultation, les services de renseignements, les bibliothèques internes, les salles de consultation de cartes et plans, de microformes, les salles audiovisuelles, informatiques, etc. Enregistrer également toute information pertinente sur les services de recherche, tels que les recherches effectuées par l'institution de conservation et les tarifs applicables le cas échéant." (ISDIAH 5.5.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="844bfbebb65773fcb66595fdddb89924d023f226" approved="yes">
+      <trans-unit id="844bfbebb65773fcb66595fdddb89924d023f226" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record information about the records management and collecting policies of the institution. Define the scope and nature of material which the institution accessions. Indicate whether the repository seeks to acquire archival materials by transfer, gift, purchase and/or loan. If the policy includes active survey and/or rescue work, this might be spelt out." (ISDIAH 5.3.5)</source>
-        <target xml:space="preserve">"Enregistrer des informations sur les politiques de gestion des archives courantes et intermédiaires et de collecte de l’institution de conservation. Définir l’objet et la nature des documents acquis par l’institution. Indiquer si l’institution cherche à acquérir les documents par versement, par don, par achat et/ou par prêt. Si la politique de collecte comprend une enquête active et/ou un travail de sauvetage, cela doit être indiqué explicitement." (ISDIAH 5.3.5)</target>
+        <target xml:space="preserve" state="final">"Enregistrer des informations sur les politiques de gestion des archives courantes et intermédiaires et de collecte de l'institution de conservation. Définir l'objet et la nature des documents acquis par l'institution. Indiquer si l'institution cherche à acquérir les documents par versement, par don, par achat et/ou par prêt. Si la politique de collecte comprend une enquête active et/ou un travail de sauvetage, cela doit être indiqué explicitement." (ISDIAH 5.3.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b3241618a27ecff4f4e560d3945a58a621053dcf" approved="yes">
+      <trans-unit id="b3241618a27ecff4f4e560d3945a58a621053dcf" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record information about travelling to the institution and details for users with disabilities, including building features, specialised equipment or tools, parking or lifts." (ISDIAH 5.4.3)</source>
-        <target xml:space="preserve">"Enregistrer des informations sur l’itinéraire vers l’institution de conservation et des renseignements pour les usagers ayant un handicap, y compris les caractéristiques du bâtiment, les équipements spécialisés, les parkings ou les ascenseurs." (ISDIAH 5.4.3)</target>
+        <target xml:space="preserve" state="final">"Enregistrer des informations sur l'itinéraire vers l'institution de conservation et des renseignements pour les usagers ayant un handicap, y compris les caractéristiques du bâtiment, les équipements spécialisés, les parkings ou les ascenseurs." (ISDIAH 5.4.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1a716df241ec13cc746bbd07b71b96b668001182" approved="yes">
+      <trans-unit id="1a716df241ec13cc746bbd07b71b96b668001182" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record information on the building(s) of the institution (general and architectural characteristics of the building, capacity of storage areas, etc). Where possible, provide information which can be used for generating statistics." (ISDIAH 5.3.6)</source>
-        <target xml:space="preserve">"Enregistrer des informations sur le(s) bâtiment(s) de l’institution de conservation (caractéristiques générales et architecturales du bâtiment, zones et capacités de stockage, etc.). Fournir tous les détails importants qui peuvent être utilisés pour produire des statistiques." (ISDIAH 5.3.6)</target>
+        <target xml:space="preserve" state="final">"Enregistrer des informations sur le(s) bâtiment(s) de l'institution de conservation (caractéristiques générales et architecturales du bâtiment, zones et capacités de stockage, etc.). Fournir tous les détails importants qui peuvent être utilisés pour produire des statistiques." (ISDIAH 5.3.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="54867318861de9866c4697130c43e3c2a2dfb770" approved="yes">
+      <trans-unit id="54867318861de9866c4697130c43e3c2a2dfb770" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record notes pertinent to the creation and maintenance of the authority record. The names of persons responsible for creating the authority record may be recorded here." (ISAAR 5.4.9)</source>
-        <target xml:space="preserve">"Enregistrer les informations pertinentes sur la création et la mise à jour de la notice d’autorité. C’est dans cet élément que peuvent être indiqués les noms des auteurs de la notice d’autorité." (ISAAR 5.4.9)</target>
+        <target xml:space="preserve" state="final">"Enregistrer les informations pertinentes sur la création et la mise à jour de la notice d'autorité. C'est dans cet élément que peuvent être indiqués les noms des auteurs de la notice d'autorité." (ISAAR 5.4.9)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="2df943bafaf8aeb03216b882e9bad10783e72087" approved="yes">
@@ -344,19 +344,19 @@
         <target xml:space="preserve">"Enregistrer la(les) forme(s) autorisée(s) du nom et tout identifiant unique de la fonction avec laquelle la relation est établie." (ISDF 5.3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedFunction.php</note>
       </trans-unit>
-      <trans-unit id="1f9b842b078ca2cb8c414d3a8496c23a889c1b85" approved="yes">
+      <trans-unit id="1f9b842b078ca2cb8c414d3a8496c23a889c1b85" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the authorised name of the function being described. In cases where the name is not enough, add qualifiers to make it unique such as the territorial or administrative scope, or the name of the institution which performs it. This element is to be used in conjunction with the Function description identifier element (5.4.1)." (ISDF 5.1.2)</source>
-        <target xml:space="preserve">"Enregistrer la(les) forme(s) autorisée du nom de la fonction. Utiliser le domaine de compétence territorial ou administratif de la fonction, le nom de l’institution qui remplit la fonction ou d’autres qualificatifs pour distinguer la fonction d’autres fonctions ayant des noms similaires. Cet élément est à utiliser conjointement avec l’élément Identifiant de la description de la fonction (5.4.1)." (ISDF 5.1.2)</target>
+        <target xml:space="preserve" state="final">"Enregistrer la(les) forme(s) autorisée du nom de la fonction. Utiliser le domaine de compétence territorial ou administratif de la fonction, le nom de l'institution qui remplit la fonction ou d'autres qualificatifs pour distinguer la fonction d'autres fonctions ayant des noms similaires. Cet élément est à utiliser conjointement avec l'élément Identifiant de la description de la fonction (5.4.1)." (ISDF 5.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8457d3c95f00640884a7db1d941d8a29e4516be1" approved="yes">
+      <trans-unit id="8457d3c95f00640884a7db1d941d8a29e4516be1" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the authorized form of name and any relevant unique identifiers, including the authority record identifier, for the related entity." (ISAAR 5.3.1) Select the name from the drop-down menu; enter the first few letters to narrow the choices.</source>
-        <target xml:space="preserve">"Indiquer les noms et tout numéro d’immatriculation univoque des entités associées avec lesquelles la relation est établie, et établir des liens avec les notices d’autorité pour les collectivités, les personnes ou les familles concernées." (ISAAR 5.3.1) Sélectionner le nom dans le menu déroulant ; saisir les premières lettres du nom pour réduire la liste des choix.</target>
+        <target xml:space="preserve" state="final">"Indiquer les noms et tout numéro d'immatriculation univoque des entités associées avec lesquelles la relation est établie, et établir des liens avec les notices d'autorité pour les collectivités, les personnes ou les familles concernées." (ISAAR 5.3.1) Sélectionner le nom dans le menu déroulant ; saisir les premières lettres du nom pour réduire la liste des choix.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="2a3e0cee1cb1033f53f8baa5d1d91b1c5e0de71f" approved="yes">
+      <trans-unit id="2a3e0cee1cb1033f53f8baa5d1d91b1c5e0de71f" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the date the authority record was created and the dates of any revisions to the record." (ISAAR 5.4.6)</source>
-        <target xml:space="preserve">"Enregistrer la date à laquelle la notice d’autorité a été créée et les dates des différentes révisions." (ISAAR 5.4.6)</target>
+        <target xml:space="preserve" state="final">"Enregistrer la date à laquelle la notice d'autorité a été créée et les dates des différentes révisions." (ISAAR 5.4.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="ce3628ea9acf0a0ceca45f366e8cf6befcab0511" approved="yes">
@@ -369,9 +369,9 @@
         <target xml:space="preserve">"Enregistrer la date à laquelle la description a été créée et les dates des différentes révisions." (ISDIAH 5.6.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="37afc74316934a734b22022a839f67e80c804c9c" approved="yes">
+      <trans-unit id="37afc74316934a734b22022a839f67e80c804c9c" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the dates of existence of the entity being described. For corporate bodies include the date of establishment/foundation/enabling legislation and dissolution. For persons include the dates or approximate dates of birth and death or, when these dates are not known, floruit dates. Where parallel systems of dating are used, equivalences may be recorded according to relevant conventions or rules. Specify in the Rules and/or conventions element (5.4.3) the system(s) of dating used, e.g. ISO 8601." (ISAAR 5.2.1)</source>
-        <target xml:space="preserve">"Enregistrer les dates d’existence de l’entité décrite. Pour les collectivités, inclure les dates de création/fondation/habilitation légale, et de dissolution. Pour les personnes, inclure les dates (approximatives ou précises) de naissance et de décès ou, si elles sont inconnues, la période attestée d’existence. Si on utilise des systèmes parallèles de datation, on donnera les dates dans les différents systèmes, conformément aux règles ou conventions nationales. Mentionner dans l’élément "Règles ou conventions" (5.4.3) le système de normalisation des dates utilisé (par exemple ISO 8601)." (ISAAR 5.2.1)</target>
+        <target xml:space="preserve" state="final">"Enregistrer les dates d'existence de l'entité décrite. Pour les collectivités, inclure les dates de création/fondation/habilitation légale, et de dissolution. Pour les personnes, inclure les dates (approximatives ou précises) de naissance et de décès ou, si elles sont inconnues, la période attestée d'existence. Si on utilise des systèmes parallèles de datation, on donnera les dates dans les différents systèmes, conformément aux règles ou conventions nationales. Mentionner dans l'élément "Règles ou conventions" (5.4.3) le système de normalisation des dates utilisé (par exemple ISO 8601)." (ISAAR 5.2.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="468a7abd67f7eed1b5ff0c30ca25ccf18eb1ffe8" approved="yes">
@@ -379,24 +379,24 @@
         <target xml:space="preserve">"On indique le nom du donateur ou de la source (c'est-à-dire le nom de la dernière personne physique ou morale qui assurait la garde ou la conservation de l'unité archivistique), la date et le mode d'acquisition ainsi que les liens entre le donateur (ou la source) et l'unité archivistique, dans la mesure où cette information n'est pas confidentielle. Enfin, si le donateur ou la source sont inconnus, on consignera cette information dans la note." (RDDA 1.8B12)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="83db42f337862c92169f8b713836913474e93bd8" approved="yes">
+      <trans-unit id="83db42f337862c92169f8b713836913474e93bd8" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the full authorised form of name(s) of agency(ies) responsible for creating, modifying or disseminating the description or, alternatively, record a recognized code for the agency." (ISDF 5.4.2)</source>
-        <target xml:space="preserve">"Enregistrer de manière complète la(les) forme(s) autorisée(s) du nom de chacun des services responsables de l’élaboration, des modifications ou de la diffusion de la description, ou bien indiquer un code d’identification reconnu pour ces services." (ISDF 5.4.2)</target>
+        <target xml:space="preserve" state="final">"Enregistrer de manière complète la(les) forme(s) autorisée(s) du nom de chacun des services responsables de l'élaboration, des modifications ou de la diffusion de la description, ou bien indiquer un code d'identification reconnu pour ces services." (ISDF 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0e0f66c625ae807b0787a80ea7cc00e5fd672696" approved="yes">
+      <trans-unit id="0e0f66c625ae807b0787a80ea7cc00e5fd672696" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the full authorised form of name(s) of the agency(ies) responsible for creating, modifying or disseminating the description or, alternatively, record a code for the agency in accordance with the national or international agency code standard." (ISDIAH 5.6.2)</source>
-        <target xml:space="preserve">"Enregistrer de manière complète, la forme autorisée du nom de chacun des services responsables de l’élaboration, des modifications ou de la diffusion de la description, ou bien indiquer un code d’identification de ces services, conformément aux règles nationales ou internationales d’identification des services." (ISDIAH 5.6.2)</target>
+        <target xml:space="preserve" state="final">"Enregistrer de manière complète, la forme autorisée du nom de chacun des services responsables de l'élaboration, des modifications ou de la diffusion de la description, ou bien indiquer un code d'identification de ces services, conformément aux règles nationales ou internationales d'identification des services." (ISDIAH 5.6.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4a6ce9681da939a81a758edacc5f37a5f143169a" approved="yes">
+      <trans-unit id="4a6ce9681da939a81a758edacc5f37a5f143169a" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the full authorized form of name(s) of the agency(ies) responsible for creating, modifying or disseminating the authority record or, alternatively, record a code for the agency in accordance with the national or international agency code standard. Include reference to any systems of identification used to identify the institutions (e.g. ISO 15511)." (ISAAR 5.4.2)</source>
-        <target xml:space="preserve">"Enregistrer de manière complète, la forme autorisée du nom de chacun des services responsables de l’élaboration, des modifications ou de la diffusion de la notice d’autorité, ou bien indiquer un code d’identification de ces services, conformément aux règles nationales ou internationales d’identification des services." (ISAAR 5.4.2)</target>
+        <target xml:space="preserve" state="final">"Enregistrer de manière complète, la forme autorisée du nom de chacun des services responsables de l'élaboration, des modifications ou de la diffusion de la notice d'autorité, ou bien indiquer un code d'identification de ces services, conformément aux règles nationales ou internationales d'identification des services." (ISAAR 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="bf08aca69da6f65ce89e8d212e5eb715a28e72c9" approved="yes">
+      <trans-unit id="bf08aca69da6f65ce89e8d212e5eb715a28e72c9" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the functions, occupations and activities performed by the entity being described, together with the covering dates when useful. If necessary, describe the nature of the function, occupation or activity." (ISAAR 5.2.5)</source>
-        <target xml:space="preserve">"Enregistrer les fonctions et les activités (professionnelles ou privées) de l’entité décrite, ainsi que les dates correspondantes lorsque nécessaire. Le cas échéant, décrire la nature de la fonction ou de l’activité." (ISAAR 5.2.5)</target>
+        <target xml:space="preserve" state="final">"Enregistrer les fonctions et les activités (professionnelles ou privées) de l'entité décrite, ainsi que les dates correspondantes lorsque nécessaire. Le cas échéant, décrire la nature de la fonction ou de l'activité." (ISAAR 5.2.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="6584121a517870bfbb095c77c01998ed58d30f4f" approved="yes">
@@ -409,9 +409,9 @@
         <target xml:space="preserve">"On mentionne ici la langue de l'unité archivistique à décrire, à moins qu'elle n'ait déjà été notée ailleurs ou que d'autres éléments de la description en témoignent de façon évidente." (RDDA 1.8B14). Sélectionner la langue dans le menu déroulant ; saisir les toutes premières lettres pour réduire la liste des choix.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6148ff7720ea1703b1d1f0ad9e5ea52d9ce16198" approved="yes">
+      <trans-unit id="6148ff7720ea1703b1d1f0ad9e5ea52d9ce16198" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the legal status and where appropriate the type of corporate body together with the covering dates when this status applied." (ISAAR 5.2.4)</source>
-        <target xml:space="preserve">"Enregistrer le statut juridique et, s’il y a lieu, la nature de la collectivité, ainsi que les dates de validité de ce statut." (ISAAR 5.2.4)</target>
+        <target xml:space="preserve" state="final">"Enregistrer le statut juridique et, s'il y a lieu, la nature de la collectivité, ainsi que les dates de validité de ce statut." (ISAAR 5.2.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="ea96629b12520a467d7ebfa5b2cf3a8aed5663ea" approved="yes">
@@ -419,64 +419,64 @@
         <target xml:space="preserve">"Enregistrer le nom et, lorsque cela est nécessaire, les éditions et les dates de publication, des règles ou des conventions appliquées. Spécifier séparément quelles règles ont été appliquées pour la création de la (les) Forme(s) autorisée(s) du nom. Indiquer les références des différents systèmes de datation utilisés pour identifier les dates dans la description (par exemple ISO 8601)." (ISDIAH 5.6.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="910f2ea9de9822b625f4ce6450f9ddb8ffa2e401" approved="yes">
+      <trans-unit id="910f2ea9de9822b625f4ce6450f9ddb8ffa2e401" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the numeric or alpha-numeric code identifying the institution in accordance with the relevant international and national standards." (ISDIAH 5.1.1)</source>
-        <target xml:space="preserve">"Enregistrer le code numérique ou alpha-numérique identifiant l’institution de conservation conformément aux normes internationales et nationales pertinentes." (ISDIAH 5.1.1)</target>
+        <target xml:space="preserve" state="final">"Enregistrer le code numérique ou alpha-numérique identifiant l'institution de conservation conformément aux normes internationales et nationales pertinentes." (ISDIAH 5.1.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a76b511b26b5b2ca28880d10bd8cb3af79409b9e" approved="yes">
+      <trans-unit id="a76b511b26b5b2ca28880d10bd8cb3af79409b9e" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the opening hours of the institution and annual, seasonal and public holidays, and any other planned closures. Record times associated with the availability and/or delivery of services (for example, exhibition spaces, reference services, etc.)." (ISDIAH 5.4.1)</source>
-        <target xml:space="preserve">"Enregistrer les heures d’ouverture, les congés annuels, les vacances et les jours fériés de l’institution de conservation, ainsi que toute autre date de fermeture prévue. Enregistrer les horaires de disponibilité et/ou de délivrance de services (par exemple, espaces d’exposition, services de référence, etc.)." (ISDIAH 5.4.1)</target>
+        <target xml:space="preserve" state="final">"Enregistrer les heures d'ouverture, les congés annuels, les vacances et les jours fériés de l'institution de conservation, ainsi que toute autre date de fermeture prévue. Enregistrer les horaires de disponibilité et/ou de délivrance de services (par exemple, espaces d'exposition, services de référence, etc.)." (ISDIAH 5.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2d2ed0f8c887605ffa298755505eb43381425991" approved="yes">
+      <trans-unit id="2d2ed0f8c887605ffa298755505eb43381425991" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the sources consulted in establishing the authority record." (ISAAR 5.4.8)</source>
-        <target xml:space="preserve">"Enregistrer ici les sources consultées pour l’élaboration de la notice d’autorité." (ISAAR 5.4.8)</target>
+        <target xml:space="preserve" state="final">"Enregistrer ici les sources consultées pour l'élaboration de la notice d'autorité." (ISAAR 5.4.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="00e08c8bd346677c58477e7cd8c6c1c285da1485" approved="yes">
+      <trans-unit id="00e08c8bd346677c58477e7cd8c6c1c285da1485" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the sources consulted in establishing the description of the institution." (ISDIAH 5.6.8)</source>
-        <target xml:space="preserve">"Enregistrer les sources consultées pour l’élaboration de la description de l’institution de conservation." (ISDIAH 5.6.8)</target>
+        <target xml:space="preserve" state="final">"Enregistrer les sources consultées pour l'élaboration de la description de l'institution de conservation." (ISDIAH 5.6.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d7256d3cc6330fe3d928e525c003a03bd7bc7877" approved="yes">
+      <trans-unit id="d7256d3cc6330fe3d928e525c003a03bd7bc7877" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the sources consulted in establishing the function description." (ISDF 5.4.8)</source>
-        <target xml:space="preserve">"Enregistrer les sources consultées pour l’élaboration de la description de la fonction." (ISDF 5.4.8)</target>
+        <target xml:space="preserve" state="final">"Enregistrer les sources consultées pour l'élaboration de la description de la fonction." (ISDF 5.4.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2f18bb4e9038d9fab8c0a1c4e89936897f8c73af" approved="yes">
+      <trans-unit id="2f18bb4e9038d9fab8c0a1c4e89936897f8c73af" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the standardised form of name of the institution, adding appropriate qualifiers (for instance dates, place, etc.), if necessary. Specify separately in the Rules and/or conventions used element (5.6.3) which set of rules has been applied for this element." (ISDIAH 5.1.2)</source>
-        <target xml:space="preserve">"Enregistrer la forme autorisée du nom de l’institution de conservation. Ajouter si nécessaire les qualificatifs appropriés (par exemples dates, lieu géographique, etc.). Spécifier séparément dans l’élément Règles et/ou conventions (5.6.3) les règles employées pour cet élément." (ISDIAH 5.1.2)</target>
+        <target xml:space="preserve" state="final">"Enregistrer la forme autorisée du nom de l'institution de conservation. Ajouter si nécessaire les qualificatifs appropriés (par exemples dates, lieu géographique, etc.). Spécifier séparément dans l'élément Règles et/ou conventions (5.6.3) les règles employées pour cet élément." (ISDIAH 5.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c7ffd80055f6378a2468229164be45b0617650ae" approved="yes">
+      <trans-unit id="c7ffd80055f6378a2468229164be45b0617650ae" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the standardized form of name for the entity being described in accordance with any relevant national or international conventions or rules applied by the agency that created the authority record. Use dates, place, jurisdiction, occupation, epithet and other qualifiers as appropriate to distinguish the authorized form of name from those of other entities with similar names." (ISAAR 5.1.2)</source>
-        <target xml:space="preserve">"Enregistrer la forme autorisée du nom de l’entité décrite, établie conformément aux règles nationales ou internationales pertinentes en usage dans le service qui crée la notice d’autorité. Utiliser tous les qualificatifs nécessaires - dates, localisation, ressort juridictionnel, fonctions, épithète, etc. - pour distinguer la forme autorisée du nom de celles d’autres entités ayant un nom semblable." (ISAAR 5.1.2)</target>
+        <target xml:space="preserve" state="final">"Enregistrer la forme autorisée du nom de l'entité décrite, établie conformément aux règles nationales ou internationales pertinentes en usage dans le service qui crée la notice d'autorité. Utiliser tous les qualificatifs nécessaires - dates, localisation, ressort juridictionnel, fonctions, épithète, etc. - pour distinguer la forme autorisée du nom de celles d'autres entités ayant un nom semblable." (ISAAR 5.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="11d53e3b0ecbbb082a406e546675b58ca1ae7b12" approved="yes">
+      <trans-unit id="11d53e3b0ecbbb082a406e546675b58ca1ae7b12" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the standardized form of name for the entity being described in accordance with other conventions or rules. Specify the rules and/or if appropriate the name of the agency by which these standardized forms of name have been constructed." (ISAAR 5.1.4)</source>
-        <target xml:space="preserve">"Enregistrer les formes du nom de l’entité décrite selon les autres règles ou conventions. Préciser quelles sont ces règles et, s’il y a lieu, quel est le service qui les a élaborées." (ISAAR 5.1.4)</target>
+        <target xml:space="preserve" state="final">"Enregistrer les formes du nom de l'entité décrite selon les autres règles ou conventions. Préciser quelles sont ces règles et, s'il y a lieu, quel est le service qui les a élaborées." (ISAAR 5.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="59d2adcb935a03faf6d6cc14d68545ed8b3f95ff" approved="yes">
+      <trans-unit id="59d2adcb935a03faf6d6cc14d68545ed8b3f95ff" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the title and other pertinent details of the published and/or unpublished finding aids and guides prepared by the institution and of any other relevant publications. Use ISO 690 Information and documentation – Bibliographic references and other national or international cataloguing rules." (ISDIAH 5.3.8)</source>
-        <target xml:space="preserve">"Enregistrer le titre et d’autres informations utiles sur les instruments de recherche et guides publiés et/ou non publiés préparés par l’institution de conservation et sur toute autre publication pertinente. Utiliser la norme ISO 690 : Information et documentation - Références bibliographiques - Contenu, forme et structure, et d’autres règles de catalogages nationales ou internationales." (ISDIAH 5.3.8)</target>
+        <target xml:space="preserve" state="final">"Enregistrer le titre et d'autres informations utiles sur les instruments de recherche et guides publiés et/ou non publiés préparés par l'institution de conservation et sur toute autre publication pertinente. Utiliser la norme ISO 690 : Information et documentation - Références bibliographiques - Contenu, forme et structure, et d'autres règles de catalogages nationales ou internationales." (ISDIAH 5.3.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5ec7f5e4f7d5ef80be07aa136d2cc6487111acd1" approved="yes">
+      <trans-unit id="5ec7f5e4f7d5ef80be07aa136d2cc6487111acd1" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record when relevant the commencement date of the relationship or succession date and, when relevant, the cessation date of the relationship." (ISAAR 5.3.4) Enter the date as you would like it to appear in the show page for the authority record, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target xml:space="preserve">"Enregistrer la date de début et s’il y a lieu, la date de fin de la relation." (ISAAR 5.3.4) Saisir la date telle que l'on souhaite la voir apparaître sur la page de consultation de la notice d'autorité, en utilisant, si on le désire, des qualificatifs et/ou des symboles typographiques pour exprimer les incertitudes.</target>
+        <target xml:space="preserve" state="final">"Enregistrer la date de début et s'il y a lieu, la date de fin de la relation." (ISAAR 5.3.4) Saisir la date telle que l'on souhaite la voir apparaître sur la page de consultation de la notice d'autorité, en utilisant, si on le désire, des qualificatifs et/ou des symboles typographiques pour exprimer les incertitudes.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="9afe17e3b6fcc285b8717356f5b254e2f46a3595" approved="yes">
+      <trans-unit id="9afe17e3b6fcc285b8717356f5b254e2f46a3595" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record where possible any official number or other identifier (e.g. a company registration number) for the corporate body and reference the jurisdiction and scheme under which it has been allocated." (ISAAR 5.1.6)</source>
-        <target xml:space="preserve">"Enregistrer, lorsque cela est possible, tout numéro officiel ou tout autre identifiant de la collectivité (par exemple, un numéro d’enregistrement des entreprises), et préciser le cadre d’attribution de ce numéro." (ISAAR 5.1.6)</target>
+        <target xml:space="preserve" state="final">"Enregistrer, lorsque cela est possible, tout numéro officiel ou tout autre identifiant de la collectivité (par exemple, un numéro d’enregistrement des entreprises), et préciser le cadre d'attribution de ce numéro." (ISAAR 5.1.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a5162e31ab7277f79bebcb03364debdf5c0913b8" approved="yes">
+      <trans-unit id="a5162e31ab7277f79bebcb03364debdf5c0913b8" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record, when relevant, the start and the end date of the relationship." (ISDF 6.3) Enter the date as you would like it to appear in the show page for the function, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target xml:space="preserve">"Enregistrer, s’il y a lieu, la date de début et la date de fin de la relation." (ISDF 6.3) Saisir la date telle que l'on souhaite la voir apparaître sur la page de consultation de la fonction, en utilisant, si on le désire, des qualificatifs et/ou des symboles typographiques pour exprimer des incertitudes.</target>
+        <target xml:space="preserve" state="final">"Enregistrer, s'il y a lieu, la date de début et la date de fin de la relation." (ISDF 6.3) Saisir la date telle que l'on souhaite la voir apparaître sur la page de consultation de la fonction, en utilisant, si on le désire, des qualificatifs et/ou des symboles typographiques pour exprimer des incertitudes.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/relation/actions/editComponent.class.php</note>
       </trans-unit>
       <trans-unit id="f732bf87d0ed8af374fed8615f2ffe68276f87e9" approved="yes">
@@ -484,9 +484,9 @@
         <target xml:space="preserve">"Sélectionnez un terme descriptif du menu déroulant afin de préciser le type de relation entre les deux acteurs."</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="8eb2ceb4b96941d5a450a10a7d833412106b33e4" approved="yes">
+      <trans-unit id="8eb2ceb4b96941d5a450a10a7d833412106b33e4" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Specify the type of entity that is being described in this authority record." (ISAAR 5.1.1) Select Corporate body, Family or Person from the drop-down menu.</source>
-        <target xml:space="preserve">"Préciser le type d’entité qui est décrite dans la notice d’autorité." (ISAAR 5.1.1) Sélectionner dans le menu déroulant : Collectivité, Personne ou Famille.</target>
+        <target xml:space="preserve" state="final">"Préciser le type d'entité qui est décrite dans la notice d'autorité." (ISAAR 5.1.1) Sélectionner dans le menu déroulant : Collectivité, Personne ou Famille.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="c026cf03b3a849136c96e53f0ab910bacfea5f89" approved="yes">
@@ -883,9 +883,9 @@
         <target xml:space="preserve">&lt;p&gt;Nature ou genre de la ressource.&lt;/p&gt;&lt;p&gt;Assigner autant de types que nécessaire. Les choix du &lt;em&gt;type&lt;/em&gt; se limitent à la terminologie du vocabulaire DCMI.&lt;/p&gt;&lt;p&gt;Assigner la valeur &lt;em&gt;Collection&lt;/em&gt; s'il s'agit d'un niveau supérieur d'un ensemble de ressources de bas-niveau (niveau enfant).&lt;/p&gt;&lt;p&gt;Nota bene : si cette ressource est liée à un objet numérique, les types &lt;em&gt;image&lt;/em&gt;, &lt;em&gt;texte&lt;/em&gt;, &lt;em&gt;son&lt;/em&gt; or &lt;em&gt;image animée&lt;/em&gt; sont automatiquement ajoutés à l'issue du processus de liaison à l'objet ; il ne faut donc pas dupliquer ces valeurs ici.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c1cdb99c371f7dd9e81761906a3e61c0ece43606" approved="yes">
+      <trans-unit id="c1cdb99c371f7dd9e81761906a3e61c0ece43606" approved="yes" xml:space="preserve">
         <source xml:space="preserve">&lt;strong&gt;Identifier&lt;/strong&gt;&lt;br /&gt;Provide a unique identifier for the materials being described in accordance with the institution’s administrative control system.&lt;br /&gt;&lt;strong&gt;Level of description&lt;/strong&gt;&lt;br /&gt;Record the level of this unit of description.&lt;br /&gt;&lt;strong&gt;Title&lt;/strong&gt;&lt;br /&gt;In the absence of a meaningful formal title, compose a brief title that uniquely identifies the material.&lt;br /&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;br /&gt;Record a date of creation.</source>
-        <target xml:space="preserve">&lt;strong&gt;Identifiant&lt;/strong&gt;&lt;br /&gt;Fournir un identifiant unique pour les documents à décrire, en conformité avec le système de contrôle administratif de l'institution&lt;br /&gt;&lt;strong&gt;Niveau de description&lt;/strong&gt;&lt;br /&gt;Enregistrer le niveau de cette unité de description.&lt;br /&gt;&lt;strong&gt;Titre&lt;/strong&gt;&lt;br /&gt;En l’absence d’un véritable titre formel, forger un titre bref qui identifie de manière unique le document. &lt;br /&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;br /&gt;Enregistrer la date de création.</target>
+        <target xml:space="preserve" state="final">&lt;strong&gt;Identifiant&lt;/strong&gt;&lt;br /&gt;Fournir un identifiant unique pour les documents à décrire, en conformité avec le système de contrôle administratif de l'institution&lt;br /&gt;&lt;strong&gt;Niveau de description&lt;/strong&gt;&lt;br /&gt;Enregistrer le niveau de cette unité de description.&lt;br /&gt;&lt;strong&gt;Titre&lt;/strong&gt;&lt;br /&gt;En l'absence d'un véritable titre formel, forger un titre bref qui identifie de manière unique le document. &lt;br /&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;br /&gt;Enregistrer la date de création.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="07c1e69f661a4419aa070bb8497aecfd199afba6" approved="yes">
@@ -2372,9 +2372,9 @@
         <target xml:space="preserve">Conditions d'admission</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e1c5e9742acd58d22bff4e611f66f6547b0e9703" approved="yes">
+      <trans-unit id="e1c5e9742acd58d22bff4e611f66f6547b0e9703" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Conditions governing access</source>
-        <target xml:space="preserve">Conditions d’accès</target>
+        <target xml:space="preserve" state="final">Conditions d'accès</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/boxListSuccess.php</note>
       </trans-unit>
       <trans-unit id="c22d9a5f60a6cbc5e929d3f524aa20afce9955d8" approved="yes">
@@ -2752,9 +2752,9 @@
         <target xml:space="preserve">Dates de production, de révision ou de suppression</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="985341facf04a645e773fa882b3cdbf1da451075" approved="yes">
+      <trans-unit id="985341facf04a645e773fa882b3cdbf1da451075" approved="no" xml:space="preserve">
         <source xml:space="preserve">Dates of existence</source>
-        <target xml:space="preserve">Dates d’existence</target>
+        <target xml:space="preserve" state="translated">Dates d'existence</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/actions/browseAction.class.php</note>
       </trans-unit>
       <trans-unit id="21513a7d1d1177ddba6721af8c130a1e0ea34005" approved="yes">
@@ -3997,14 +3997,14 @@
         <target xml:space="preserve">Fonds</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="c01d6acd25618f67a3a40be112f6e10dc4c7ec41" approved="yes">
+      <trans-unit id="c01d6acd25618f67a3a40be112f6e10dc4c7ec41" approved="yes" xml:space="preserve">
         <source xml:space="preserve">For associated material, "If records in another institution are associated with the unit being described by virtue of the fact that they share the same provenance, make a citation to the associated material at the fonds, series or collection level, or for discrete items, indicating its location if known." (RAD 1.8B18). For related material, "Indicate groups of records having some significant relationship by reason of shared responsibility or shared sphere of activity in one or more units of material external to the unit being described." (RAD 1.8B20)</source>
-        <target xml:space="preserve">Pour les documents connexes, "si d'autres documents conservés par un autre établissement sont reliés à l'unité archivistique à décrire en raison de leur provenance commune, on en fera mention au niveau du fonds, de la série, de la collection ou de la pièce isolée, en indiquant leur emplacement, s'il est connu." (RDDA 1.8B18). Pour les documents associés, "on signalera les groupes de documents de toute unité extérieure à l’unité archivistique à décrire s'ils ont des liens significatifs avec cette dernière en raison de responsabilités partagées, d'activités de même nature, etc." (RDDA 1.8B20)</target>
+        <target xml:space="preserve" state="final">Pour les documents connexes, "si d'autres documents conservés par un autre établissement sont reliés à l'unité archivistique à décrire en raison de leur provenance commune, on en fera mention au niveau du fonds, de la série, de la collection ou de la pièce isolée, en indiquant leur emplacement, s'il est connu." (RDDA 1.8B18). Pour les documents associés, "on signalera les groupes de documents de toute unité extérieure à l'unité archivistique à décrire s'ils ont des liens significatifs avec cette dernière en raison de responsabilités partagées, d'activités de même nature, etc." (RDDA 1.8B20)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="385eaf1b884ab78a21a5034cabff6e4f95c904f5" approved="yes">
+      <trans-unit id="385eaf1b884ab78a21a5034cabff6e4f95c904f5" approved="yes" xml:space="preserve">
         <source xml:space="preserve">For terms governing use and reproduction, "Give information on legal or donor restrictions that may affect use or reproduction of the material." (RAD 1.8B16c). For terms governing publication, "Give information on legal or donor restrictions that may affect publication of the material." (RAD 1.8B16d)</source>
-        <target xml:space="preserve" state="final">Pour les conditions d'utilisation et de reproduction des documents, "Indiquez toute restriction imposée par la loi ou par le donateur qui peut affecter l’utilisation ou la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publication, "Donnez toutes restrictions concernant la publication imposée par la loi ou par le donateur." (RDDA 1.8B16d)</target>
+        <target xml:space="preserve" state="final">Pour les conditions d'utilisation et de reproduction des documents, "Indiquez toute restriction imposée par la loi ou par le donateur qui peut affecter l'utilisation ou la reproduction des documents." (RDDA 1.8B16c). Pour les conditions de publication, "Donnez toutes restrictions concernant la publication imposée par la loi ou par le donateur." (RDDA 1.8B16d)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="3dab5f6012e3e149b5a939b9cebba4a0b84dc8f5" approved="yes">
@@ -7600,9 +7600,9 @@
         <target xml:space="preserve" state="final">Les paramètres du plugin SWORD ont été modifiés :le travailleur AtoM doit être redémarré pour que ce changement prenne effet.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfPluginAdminPlugin/modules/sfPluginAdminPlugin/actions/pluginsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="6df74794c02a082a6a784cde86a2b95263645e31" approved="yes">
+      <trans-unit id="6df74794c02a082a6a784cde86a2b95263645e31" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Sample OAI identifier</source>
-        <target xml:space="preserve">échantillon d’identifiant OAI</target>
+        <target xml:space="preserve" state="final">Échantillon d'identifiant OAI</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
       <trans-unit id="efc007a393f66cdb14d57d385822a3d9e36ef873" approved="yes">
@@ -7785,19 +7785,19 @@
         <target xml:space="preserve">Voir ISDIAH 5.2 pour la zone des informations de contact et des exemples.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="3177038df51eb25c39996f1151499664580c7b5e" approved="yes">
+      <trans-unit id="3177038df51eb25c39996f1151499664580c7b5e" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Select Full, Partial or Minimal from the drop-down menu. "In the absence of national guidelines or rules, minimal descriptions are those that consist only of the three essential elements of an ISIAH compliant description (see 4.7), while full records are those that convey information for all relevant ISDIAH elements of description." (ISDIAH 5.6.5)</source>
-        <target xml:space="preserve">Sélectionner "Notice complète", "Notice moyenne" ou "Notice élémentaire" dans le menu déroulant. "En l’absence de règles nationales, on considérera que le niveau élémentaire correspond aux descriptions pour lesquelles seuls les trois éléments retenus comme essentiels par la norme ISDIAH sont renseignés (voir 4.7), et que les notices complètes sont celles pour lesquelles tous les éléments pertinents de la norme ISDIAH sont renseignés." (ISDIAH 5.6.5)</target>
+        <target xml:space="preserve" state="final">Sélectionner "Notice complète", "Notice moyenne" ou "Notice élémentaire" dans le menu déroulant. "En l'absence de règles nationales, on considérera que le niveau élémentaire correspond aux descriptions pour lesquelles seuls les trois éléments retenus comme essentiels par la norme ISDIAH sont renseignés (voir 4.7), et que les notices complètes sont celles pour lesquelles tous les éléments pertinents de la norme ISDIAH sont renseignés." (ISDIAH 5.6.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e7d9a4f65186fcdf57dc7126796314826e0fb7c7" approved="yes">
+      <trans-unit id="e7d9a4f65186fcdf57dc7126796314826e0fb7c7" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Select Full, Partial or Minimal from the drop-down menu. "In the absence of national guidelines or rules, minimal records are those that consist only of the four essential elements of an ISAAR(CPF) compliant authority record (see 4.8), while full records are those that convey information for all relevant ISAAR(CPF) elements of description." (ISAAR 5.4.5)</source>
-        <target xml:space="preserve">Sélectionner "Notice complète", "Notice moyenne" ou "Notice élémentaire" dans le menu déroulant. "En l’absence de règles nationales, on considérera que le niveau élémentaire correspond aux notices pour lesquelles seuls les quatre éléments retenus comme essentiels par la norme ISAAR sont renseignés (voir 4.8), et que les notices complètes sont celles pour lesquelles tous les éléments pertinents de la norme ISAAR sont renseignés." (ISAAR 5.4.5)</target>
+        <target xml:space="preserve" state="final">Sélectionner "Notice complète", "Notice moyenne" ou "Notice élémentaire" dans le menu déroulant. "En l'absence de règles nationales, on considérera que le niveau élémentaire correspond aux notices pour lesquelles seuls les quatre éléments retenus comme essentiels par la norme ISAAR sont renseignés (voir 4.8), et que les notices complètes sont celles pour lesquelles tous les éléments pertinents de la norme ISAAR sont renseignés." (ISAAR 5.4.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e9aa8a002f1a5daf9fcea35d53be764cc0d16a85" approved="yes">
+      <trans-unit id="e9aa8a002f1a5daf9fcea35d53be764cc0d16a85" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Select Full, Partial or Minimal from the drop-down menu. "In the absence of national guidelines or rules, minimum records are those that consist only of the three essential elements of an ISDF compliant record (see 4.7), while full records are those that convey information for all relevant ISDF elements of description." (ISDF 5.4.5)</source>
-        <target xml:space="preserve">Sélectionner "Notice complète", "Notice moyenne" ou "Notice élémentaire" dans le menu déroulant. "En l'absence de règles nationales, les notices élémentaires sont celles comprenant seulement les trois éléments essentiels d'une description conforme à ISDF (voir 4.7), tandis que les descriptions complètes sont celles qui fournissent des informations pour tous les éléments de description pertinents d’ISDF." (ISDF 5.4.5)</target>
+        <target xml:space="preserve" state="final">Sélectionner "Notice complète", "Notice moyenne" ou "Notice élémentaire" dans le menu déroulant. "En l'absence de règles nationales, les notices élémentaires sont celles comprenant seulement les trois éléments essentiels d'une description conforme à ISDF (voir 4.7), tandis que les descriptions complètes sont celles qui fournissent des informations pour tous les éléments de description pertinents d'ISDF." (ISDF 5.4.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b9760a5584370c8dfbf07e5131471909931fc475" approved="yes">
@@ -8770,19 +8770,19 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
         <target xml:space="preserve">L'outil pdfinfo est requis pour utiliser cette fonction. Merci de contacter votre administrateur système.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/digitalObjectDerivativesSuccess.php</note>
       </trans-unit>
-      <trans-unit id="37c87679c2a6d8d7f625e1659ba70a55b82ee2a4" approved="yes">
+      <trans-unit id="37c87679c2a6d8d7f625e1659ba70a55b82ee2a4" approved="yes" xml:space="preserve">
         <source xml:space="preserve">The purpose of this field is "[t]o indicate the drafting status of the authority record so that users can understand the current status of the authority record." (ISAAR 5.4.4). Select Final, Revised or Draft from the drop-down menu.</source>
-        <target xml:space="preserve">L'objectif de ce champ est d' "indiquer à l’utilisateur le niveau d’élaboration de la notice d'autorité." (ISAAR 5.4.4). Sélectionner "Version finale", "Révision" ou "Brouillon" dans le menu déroulant.</target>
+        <target xml:space="preserve" state="final">L'objectif de ce champ est d'"indiquer à l'utilisateur le niveau d'élaboration de la notice d'autorité." (ISAAR 5.4.4). Sélectionner "Version finale", "Révision" ou "Brouillon" dans le menu déroulant.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8f84309093382faccc595214fa95ac7c4b8d93cc" approved="yes">
+      <trans-unit id="8f84309093382faccc595214fa95ac7c4b8d93cc" approved="yes" xml:space="preserve">
         <source xml:space="preserve">The purpose of this field is "[t]o indicate the drafting status of the description so that users can understand the current status of the description." (ISDF 5.4.4). Select Final, Revised or Draft from the drop-down menu.</source>
-        <target xml:space="preserve">L'objectif de ce champ est d' "indiquer à l’utilisateur le niveau d’élaboration de la description." (ISDF 5.4.4). Sélectionner "Version finale", "Révision" ou "Brouillon" dans le menu déroulant.</target>
+        <target xml:space="preserve" state="final">L'objectif de ce champ est d'"indiquer à l'utilisateur le niveau d'élaboration de la description." (ISDF 5.4.4). Sélectionner "Version finale", "Révision" ou "Brouillon" dans le menu déroulant.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6e4e461ebb656124044f7554c67b883a70c1dd97" approved="yes">
+      <trans-unit id="6e4e461ebb656124044f7554c67b883a70c1dd97" approved="yes" xml:space="preserve">
         <source xml:space="preserve">The purpose of this field is "[t]o indicate the drafting status of the description so that users can understand the current status of the description." (ISDIAH 5.6.4). Select Final, Revised or Draft from the drop-down menu.</source>
-        <target xml:space="preserve">L'objectif de ce champ est d' "indiquer à l’utilisateur le niveau d’élaboration de la description." (ISDIAH 5.6.4). Sélectionner "Version finale", "Révision" ou "Brouillon" dans le menu déroulant.</target>
+        <target xml:space="preserve" state="final">L'objectif de ce champ est d'"indiquer à l'utilisateur le niveau d'élaboration de la description." (ISDIAH 5.6.4). Sélectionner "Version finale", "Révision" ou "Brouillon" dans le menu déroulant.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b0813123bfb85ad8d145182e609ff1bd1c6ce8c8" approved="yes">
@@ -10331,9 +10331,9 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
         <target xml:space="preserve" state="final">Légendes/Sous-titres</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="5b36c5a31df7ccd65152324a38d3008b45f55476">
+      <trans-unit id="5b36c5a31df7ccd65152324a38d3008b45f55476" xml:space="preserve">
         <source xml:space="preserve">Card view</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Vue carte</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_viewPicker.php</note>
       </trans-unit>
       <trans-unit id="3dd95831dd043b1461bcef703231ae2eecedd52f" xml:space="preserve" approved="yes">
@@ -10453,9 +10453,9 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
         <target xml:space="preserve" state="translated">Les fichiers n'ont pas été téléversés. Veuillez ré-essayer.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="db575068795ce13fc4436e806e3f0240b700006a">
+      <trans-unit id="db575068795ce13fc4436e806e3f0240b700006a" xml:space="preserve">
         <source xml:space="preserve">Files successfully uploaded! Press the \\'Import\\' button to complete importing these files.</source>
-        <target xml:space="preserve" state="needs-translation">Les fichiers ont été téeléeversés ! Appuyez sur le bouton \\'Import\\' pour compléter le transfert de ces fichiers.</target>
+        <target xml:space="preserve" state="translated">Les fichiers ont été téléversés ! Appuyez sur le bouton \\'Import\\' pour compléter le transfert de ces fichiers.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="58379ddbae7b465863a2d6b5e695b9ec0a369d25">
@@ -10783,9 +10783,9 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
         <target xml:space="preserve" state="translated">Système</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/globalSuccess.php</note>
       </trans-unit>
-      <trans-unit id="135aeb7c19a4f3feda4fb9f88ab915827fff7c55">
+      <trans-unit id="135aeb7c19a4f3feda4fb9f88ab915827fff7c55" xml:space="preserve">
         <source xml:space="preserve">Table view</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Vue table</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_viewPicker.php</note>
       </trans-unit>
       <trans-unit id="906116b1dd3e40cf3c978815d31c78ba03e1f034">
