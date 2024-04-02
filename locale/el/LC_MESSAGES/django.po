@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 10:51-0700\n"
-"PO-Revision-Date: 2023-11-15 12:23+0000\n"
+"PO-Revision-Date: 2024-04-03 10:23+0000\n"
 "Last-Translator: AUTH Library <libsupport@lib.auth.gr>\n"
 "Language-Team: Greek <https://translations.artefactual.com/projects/atom/"
 "website/el/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.1\n"
+"X-Generator: Weblate 5.4\n"
 
 #: atom/settings/base.py:76
 msgid "English"
@@ -68,8 +68,8 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s είναι μια έκδοση παλαιού τύπου και τα συγκεκριμένα "
-"έγγραφα δε συντηρούνται πλέον\n"
+"        Η %(project_name)s είναι μια πολύ παλιά έκδοση και τα συγκεκριμένα "
+"έγγραφα δε συντηρούνται πλέον.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:16
@@ -88,7 +88,7 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s1 είναι η πιο πρόσφατη έκδοσή μας.\n"
+"        Η %(project_name)s είναι η πιο πρόσφατη έκδοσή μας.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:26
@@ -99,8 +99,8 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s1 είναι η τελευταία μας έκδοση και η τεκμηρίωσή της "
-"είναι έργο σε εξέλιξη.\n"
+"        Η %(project_name)s είναι η τελευταία μας έκδοση και η τεκμηρίωσή της "
+"είναι ένα έργο σε εξέλιξη.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:31
@@ -111,7 +111,7 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s1 δεν έχει κυκλοφορήσει ακόμη και η τεκμηρίωσή του "
+"        Η %(project_name)s δεν έχει κυκλοφορήσει ακόμη και η τεκμηρίωσή της "
 "είναι ένα έργο σε εξέλιξη.\n"
 "      "
 
@@ -131,8 +131,9 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"              <p>1Open the <a href=\"%(genindex_url)s\">2general index</a>3 "
-"or type your search in the search box.</p>4\n"
+"              <p>Επισκεφθείτε το <a href=\"%(genindex_url)s\">2γενικό "
+"ευρετήριο</a>3 ή πληκτρολογήστε τον όρο προς αναζήτηση στο αντίστοιχο "
+"πλαίσιο αναζήτησης.</p>4\n"
 "            "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:98
@@ -187,7 +188,7 @@ msgstr "Δεν βρέθηκαν αποτελέσματα."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:31
 msgid "No search query entered."
-msgstr "Δεν εισήχθει ερώτημα"
+msgstr "Δεν έχει εισαχθεί ερώτημα."
 
 #: templates/base.html:75 templates/footer.html:19
 msgid "Home"
