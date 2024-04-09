@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0" approved="no" xml:space="preserve">
         <source xml:space="preserve">"At the fonds, series or file levels, record coordinates for the maximum coverage provided by the materials in the unit, as long as they are reasonably contiguous." (RAD 5.3D)</source>
-        <target xml:space="preserve" state="translated">"Au niveau du fonds, de la série et du dossier, on indiquera les coordonnées maximales fournies par les documents, pour autant qu'elles sont résonablement contiguës." (RDDA 5.3D)</target>
+        <target xml:space="preserve" state="translated">"Au niveau du fonds, de la série et du dossier, on indiquera les coordonnées maximales fournies par les documents, pour autant qu'elles sont raisonnablement contiguës." (RDDA 5.3D)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e39858fff058c3d097605036f0d85826da7029ee" approved="no" xml:space="preserve">
@@ -3007,9 +3007,9 @@
         <target xml:space="preserve">Documents numériques</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="fd8e45bac7d354790ec0a82d8a61341bf8acd055" approved="yes">
+      <trans-unit id="fd8e45bac7d354790ec0a82d8a61341bf8acd055" approved="no" xml:space="preserve">
         <source xml:space="preserve">Direction</source>
-        <target xml:space="preserve">Direction</target>
+        <target xml:space="preserve" state="translated">Direction</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_sortPickers.php</note>
       </trans-unit>
       <trans-unit id="7ba52a7256660fcb753fc9900913da818132a682" approved="yes">
@@ -7130,14 +7130,14 @@
         <target xml:space="preserve">Régional</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="a50332e39aa94b109bc0ecb2fdf5cf1d2c8f42a6" approved="yes">
+      <trans-unit id="a50332e39aa94b109bc0ecb2fdf5cf1d2c8f42a6" approved="no" xml:space="preserve">
         <source xml:space="preserve">Related %1%</source>
-        <target xml:space="preserve" state="final">Associé(e) %1%</target>
+        <target xml:space="preserve" state="translated">%1% associé(e)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
-      <trans-unit id="8fe49f5a6d0145fda3d21a90631786eac6404217" approved="yes">
+      <trans-unit id="8fe49f5a6d0145fda3d21a90631786eac6404217" approved="no" xml:space="preserve">
         <source xml:space="preserve">Related %1% (%2%)</source>
-        <target xml:space="preserve" state="final">Associé(e) %1% (%2%)</target>
+        <target xml:space="preserve" state="translated">%1% (%2%) associé(e)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_navigateRelated.php</note>
       </trans-unit>
       <trans-unit id="3e9d6cee52a7a5975dd0eacc367e05c9ac4e9ce3" approved="yes">
@@ -11161,9 +11161,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/actions/moveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="201bfab139fd39c053b4892f7c7e69bc7848aec6">
+      <trans-unit id="201bfab139fd39c053b4892f7c7e69bc7848aec6" xml:space="preserve">
         <source xml:space="preserve">We've redirected you to the first page of results. To avoid using vast amounts of memory, AtoM limits pagination to %1% records. To view the last records in the current result set, try changing the sort direction.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Nous vous avons redirigé vers la première page des résulats. Pour éviter d'utiliser trop de ressources, AtoM limite la pagination à %1% documents. Pour voir les derniers documents dans les résulats actuels, essayez de changer l'ordre de tri.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="8a3aba8773190f1368dee69eb611acc56db89fff">
