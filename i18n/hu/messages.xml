@@ -672,9 +672,9 @@ Szabály: Az azonosító leírást létrehozó intézmény által alkalmazott ne
         <target xml:space="preserve">%1% név</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editInformationObjectAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="df9ed2dc4c103af07a14f3bdb1cb97f72eec6d2e" approved="yes">
+      <trans-unit id="df9ed2dc4c103af07a14f3bdb1cb97f72eec6d2e" approved="no" xml:space="preserve">
         <source xml:space="preserve">%1% of</source>
-        <target xml:space="preserve">%1% megjelenítés</target>
+        <target xml:space="preserve" state="translated">%1% műve/gyűjteménye</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_contextMenu.php</note>
       </trans-unit>
       <trans-unit id="0b9f3569d2a9e7fcb34f829073683eb330806099" approved="no" xml:space="preserve">
@@ -4243,9 +4243,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">Foglalja össze a leírási egység tárgyát (például korszakok, földrajzi területrk szerint) és tartalmát (például irattípusok, tárgykörök, hivatali eljárások szerint), a leírás szintjének megfelelően. (ISAD 3.3.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="da7efbb980750b2d6c4fd59b8de6b4847ffb0ad6" approved="yes">
+      <trans-unit id="da7efbb980750b2d6c4fd59b8de6b4847ffb0ad6" approved="no" xml:space="preserve">
         <source xml:space="preserve">Give information about any finding aids that the repository or records creator may have that provide information relating to the context and contents of the unit of description. If appropriate, include information on where to obtain a copy. (ISAD 3.4.5)</source>
-        <target xml:space="preserve">Nyújtsunk információkat az iratépző, illetve a levéltár átlal létrehozott segédletekről, amelyek a leírási egység kontextusáról és tartalmáról tájékoztatnak. Ha lehetséges, azt is tüntessük fel, hol és hogyan érhetők el. (ISAD 3.4.5)</target>
+        <target xml:space="preserve" state="translated">Nyújtsunk információkat az iratképző, illetve a levéltár által létrehozott segédletekről, amelyek a leírási egység kontextusáról és tartalmáról tájékoztatnak. Ha lehetséges, azt is tüntessük fel, hol és hogyan érhetők el. (ISAD 3.4.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="605ddc9cd5e05118bb25f8d6e75323817838acb9" approved="yes">
@@ -5427,9 +5427,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">Kezelője:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3e8e2a2e9fd7f737bcdc670e7628ea27668b9e34" approved="yes">
+      <trans-unit id="3e8e2a2e9fd7f737bcdc670e7628ea27668b9e34" approved="no" xml:space="preserve">
         <source xml:space="preserve">Maintainer of</source>
-        <target xml:space="preserve">Kezelt iratképzők:</target>
+        <target xml:space="preserve" state="translated">Kezelt iratképzők</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/actions/maintainedActorsComponent.class.php</note>
       </trans-unit>
       <trans-unit id="9f03e1bbec3b3de82a9c20a6a1ba6e72a33e2d44" approved="no" xml:space="preserve">
@@ -8811,9 +8811,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">A forrásnak adott név.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="efb8a9f77c94e4dd46860259d9e6752b57e22afa" approved="yes">
+      <trans-unit id="efb8a9f77c94e4dd46860259d9e6752b57e22afa" approved="no" xml:space="preserve">
         <source xml:space="preserve">The name of the creator of the accession or the name of the department that created the accession.</source>
-        <target xml:space="preserve">Az iratképzőnek vagy a gyarapodást biztosító részlegnek a neve.</target>
+        <target xml:space="preserve" state="translated">A gyarapodás iratképzője vagy a gyarapodást létrehozó szervezeti egység neve.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="abb070bd1017157ec14de810edd0afb6d7753ed9" approved="yes">
