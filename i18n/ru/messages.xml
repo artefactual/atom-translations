@@ -1443,9 +1443,9 @@
         <target xml:space="preserve">Добавить таксономию</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qbAclPlugin/modules/aclGroup/templates/_termAclForm.php</note>
       </trans-unit>
-      <trans-unit id="62e1635ee60914b37075ea0a8d6cc27f0fb8b6fe">
+      <trans-unit id="62e1635ee60914b37075ea0a8d6cc27f0fb8b6fe" xml:space="preserve">
         <source xml:space="preserve">Add to clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Добавить в выборку</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/buttonComponent.class.php</note>
       </trans-unit>
       <trans-unit id="f895b1adc110c150e1febfc72be74d72bc9da3a1">
@@ -2248,9 +2248,9 @@
         <target xml:space="preserve">Классификация</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3245fb41d9f78c0a6ebe2dedc45704db711e0956">
+      <trans-unit id="3245fb41d9f78c0a6ebe2dedc45704db711e0956" xml:space="preserve">
         <source xml:space="preserve">Clear %1 clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Очистить %1 выборку</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
       <trans-unit id="7d49842f4d504854e52ee0d1ad7b50eabc064b48">
@@ -2273,9 +2273,9 @@
         <target xml:space="preserve">Нажмите Подтвердить что бы удалить физическое хранилище из системы. Это так же удалит расположение физического хранилища из следующих записей:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/deleteSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5efe0c9323a499a8546aeac42d4b659bd2a4039f">
+      <trans-unit id="5efe0c9323a499a8546aeac42d4b659bd2a4039f" xml:space="preserve">
         <source xml:space="preserve">Clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Выборка</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
       <trans-unit id="e0430318d894a1b1321393ccf8c88c953c882b91">
@@ -2283,9 +2283,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
-      <trans-unit id="9899cad5e99d55528b1f277029682b32c3595dd9">
+      <trans-unit id="9899cad5e99d55528b1f277029682b32c3595dd9" xml:space="preserve">
         <source xml:space="preserve">Clipboard ID</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">ID выборки</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="3ac7afab50b8e4b29ea784f8a9a6bfbdacfddb6a">
@@ -2293,19 +2293,19 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="380b3cc4c68afd74511699266a69da6a0d6ba2c8">
+      <trans-unit id="380b3cc4c68afd74511699266a69da6a0d6ba2c8" xml:space="preserve">
         <source xml:space="preserve">Clipboard ID not found.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">ID выборки не найден</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
-      <trans-unit id="a229d24711fbffe55ed71b8c810c80877c23959d">
+      <trans-unit id="a229d24711fbffe55ed71b8c810c80877c23959d" xml:space="preserve">
         <source xml:space="preserve">Clipboard export</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Экспортировать выборку</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="54054d2f15dc66beed2305c2532cc1b4ae8d8acb">
+      <trans-unit id="54054d2f15dc66beed2305c2532cc1b4ae8d8acb" xml:space="preserve">
         <source xml:space="preserve">Clipboard saving</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Сохранить выборку</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="5bc6794e3d329ed9b4e5f96ec1f92bf105f6df04">
@@ -2313,14 +2313,14 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0d74eb900087b53c47e04782f04c5f9e8659f05e">
+      <trans-unit id="0d74eb900087b53c47e04782f04c5f9e8659f05e" xml:space="preserve">
         <source xml:space="preserve">Clipboard settings</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Параметры выборки</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8c7ff8d252f0717efba0ec7bed4177403c19308c">
+      <trans-unit id="8c7ff8d252f0717efba0ec7bed4177403c19308c" xml:space="preserve">
         <source xml:space="preserve">Clipboard settings saved.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Сохраненные параметры выборки.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/clipboardAction.class.php</note>
       </trans-unit>
       <trans-unit id="38e98eb03cdf243f853afd1440a2334b307f72db">
@@ -3653,9 +3653,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/event/actions/editComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="04d1793779ef72e8e27870b9470275cc18616ea7">
+      <trans-unit id="04d1793779ef72e8e27870b9470275cc18616ea7" xml:space="preserve">
         <source xml:space="preserve">Enter the ID of the saved clipboard you would like to load.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Введите ID сохраненной выборки, которую вы хотите загрузить.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="d186bd7f7c43e70b908e186473d02190ade84297">
@@ -4278,9 +4278,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_logo.php</note>
       </trans-unit>
-      <trans-unit id="118ca10eb59c24e6a2eb2a71c7b7acbd1c156222">
+      <trans-unit id="118ca10eb59c24e6a2eb2a71c7b7acbd1c156222" xml:space="preserve">
         <source xml:space="preserve">Go to clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Посмотреть выборку</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="cfffcdb55549bfe6577314cfbbba000f833f1b12" approved="yes">
@@ -4712,9 +4712,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/findingAidComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="46ac7d4191ce56511942267ed3fddd6d980fe7a6">
+      <trans-unit id="46ac7d4191ce56511942267ed3fddd6d980fe7a6" xml:space="preserve">
         <source xml:space="preserve">In the "Action" selector, indicate whether you want to &lt;strong&gt;merge&lt;/strong&gt; the saved clipboard with the entries on the current clipboard or &lt;strong&gt;replace&lt;/strong&gt; (overwrite) the current clipboard with the saved one.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">В селекторе "Действие" укажите, хотите ли вы &lt;strong&gt;добавить&lt;/strong&gt; текущую выборку к сохраненной ранее или &lt;strong&gt;заменить&lt;/strong&gt; (перезаписать) ранее сохраненные материалы новой выборкой.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="7a63007efa8922530549ff1fa9159c9cd6a8ded3">
@@ -4777,9 +4777,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="9c4740018c874c7b552f9809412b373666880704">
+      <trans-unit id="9c4740018c874c7b552f9809412b373666880704" xml:space="preserve">
         <source xml:space="preserve">Incorrect clipboard ID and/or action.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Некорректные ID выборки и/или действие.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="b90d44713f9b698e94e40d38871b2aef40547c0f">
@@ -5287,9 +5287,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="712d34daeb6370130057024748385f2b0c466f6f">
+      <trans-unit id="712d34daeb6370130057024748385f2b0c466f6f" xml:space="preserve">
         <source xml:space="preserve">Load clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Загрузить выборку</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="530afa5bce434b05e3a10e83ff2567f7f8622af9">
@@ -5581,9 +5581,9 @@
         <target xml:space="preserve">Меню</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="93598a5ee127ffd8f725e92bb5f1f20ce26a2211">
+      <trans-unit id="93598a5ee127ffd8f725e92bb5f1f20ce26a2211" xml:space="preserve">
         <source xml:space="preserve">Merge saved clipboard with existing clipboard results</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Добавить новую выборку к сохраненным материалам</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="929ecd9d6ef73dbc8009fb8a22a2b36058462667">
@@ -5888,12 +5888,12 @@
       </trans-unit>
       <trans-unit id="5f837da7d6b9d15a8cf041d7ae07dbad8c93306b" xml:space="preserve">
         <source xml:space="preserve">No items in clipboard to save.</source>
-        <target xml:space="preserve" state="translated">В буфере обмена нет элементов для сохранения</target>
+        <target xml:space="preserve" state="translated">В выборке нет элементов для сохранения</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
       <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d" xml:space="preserve">
         <source xml:space="preserve">No items in clipboard to send.</source>
-        <target xml:space="preserve" state="translated">В буфере обмена нет документов для отправки</target>
+        <target xml:space="preserve" state="translated">В выборке нет документов для отправки</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
       <trans-unit id="fe3109a8cb2c1ed5cc5c561e4ca1e2f7158baf8e">
@@ -5996,9 +5996,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesSuccess.php</note>
       </trans-unit>
-      <trans-unit id="03915c8a77a4b0f90d32770b849637edf0af1f6b">
+      <trans-unit id="03915c8a77a4b0f90d32770b849637edf0af1f6b" xml:space="preserve">
         <source xml:space="preserve">Note: clipboard items unclipped in this page will be removed from the clipboard when the page is refreshed. You can re-select them now, or reload the page to remove them completely. Using the sort or print preview buttons will also cause a page reload - so anything currently deselected will be lost!</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Обратите внимание: элементы выборки, не выделенные на этой странице, будут удалены из неё при обновлении страницы. Вы можете повторно выбрать их сейчас или перезагрузить страницу, чтобы удалить их полностью. Использование кнопок сортировки или предварительного просмотра печати также приведет к перезагрузке страницы, поэтому все, что в данный момент не выбрано, будет потеряно!</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_clipboardMenu.php</note>
       </trans-unit>
       <trans-unit id="70440046a3dc2e079f23ee1c57dfa76669b732aa" approved="yes">
@@ -7401,9 +7401,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/buttonComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="c3523f56428b0c1101592f37b0e4fe6971aa6fe4">
+      <trans-unit id="c3523f56428b0c1101592f37b0e4fe6971aa6fe4" xml:space="preserve">
         <source xml:space="preserve">Remove from clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Очистить выборку</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/buttonComponent.class.php</note>
       </trans-unit>
       <trans-unit id="d3f4cb898fbe0c7a7ac4f721438c4c26ad1a2513">
@@ -7411,9 +7411,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_actions.php</note>
       </trans-unit>
-      <trans-unit id="6acb16803398b7de29fa6648c822e2108ac3cbe5">
+      <trans-unit id="6acb16803398b7de29fa6648c822e2108ac3cbe5" xml:space="preserve">
         <source xml:space="preserve">Replace existing clipboard results with saved clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Заменить текущую выборку на сохраненную ранее</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="16462c5c970a03afa087f3d8dc3253607857ea08">
@@ -7666,9 +7666,9 @@
         <target xml:space="preserve">Сохранить</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/editThemeSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a8cc93be254c25a50ec105adc97e01b94a32d6df">
+      <trans-unit id="a8cc93be254c25a50ec105adc97e01b94a32d6df" xml:space="preserve">
         <source xml:space="preserve">Save clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Сохранить выборку</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="d75e3c618d00b000ad2fc6f803bbf02abba350c0">
@@ -10357,9 +10357,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/digitalobject/templates/_imageflow.php</note>
       </trans-unit>
-      <trans-unit id="4aac8c81a9cc1c0d965e843a066f05bb3489ca74">
+      <trans-unit id="4aac8c81a9cc1c0d965e843a066f05bb3489ca74" xml:space="preserve">
         <source xml:space="preserve">Clipboard saved with %1% items. Clipboard ID is &lt;b&gt;%2%&lt;/b&gt;. Please write this number down. When you want to reload this clipboard in the future, open the Clipboard menu, select &lt;a class="alert-link" href="%3%"&gt;Load clipboard&lt;/a&gt;, and enter this number in the Clipboard ID field.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">В выборке сохранено %1% элементов. ID выборки — &lt;b&gt;%0292553%&lt;/b&gt;. Пожалуйста, запишите этот номер. Если в будущем вы захотите снова загрузить отложенные материалы, откройте меню Выборки, выберите &lt;a class="alert-link" href="%3%"&gt;Загрузить выборку&lt;/a&gt; и введите этот номер в поле ID выборки.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
       <trans-unit id="4f9be057f0ea5d2ba72fd2c810e8d7b9aa98b469">
@@ -11106,9 +11106,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="a10b096a01a3ed5aebf73263b4af27146dd4fa5d">
+      <trans-unit id="a10b096a01a3ed5aebf73263b4af27146dd4fa5d" xml:space="preserve">
         <source xml:space="preserve">It is not possible to select both digital objects and descendants for export at the same time. Digital objects can only be exported for records that are on the clipboard.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Невозможно одновременно выбрать для экспорта и цифровые объекты, и дочерние записи. Цифровые объекты можно экспортировать только для записей, находящихся в выборке.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="006124c1a98d5ca8c897c609df36fb2dbcf500a9">
