@@ -236,9 +236,9 @@ Szabály: Az azonosító leírást létrehozó intézmény által alkalmazott ne
         <target xml:space="preserve">„Adjunk szöveges ismertetést a funkció rendeltetéséről” (ISDF 5.2.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea" approved="yes">
+      <trans-unit id="408a86e354a996e92d69773a2835722e1604cbea" approved="no" xml:space="preserve">
         <source xml:space="preserve">"Record a precise description of the nature of the relationship between the entity described in this authority record and the other related entity....Record in the Rules and/or conventions element (5.4.3) any classification scheme used as a source of controlled vocabulary terms to describe the relationship. A narrative description of the history and/or nature of the relationship may also be provided here." (ISAAR 5.3.3). Note that the text entered in this field will also appear in the related authority record.</source>
-        <target xml:space="preserve">„Ismertessük konkrétan a leírt entitás és a vele kapcsolatban álló entitás kapcsolatának jellegét. … Adjuk meg a "szabályok és szokások" (5.4.3.) elemben a kapcsolatok leírására használt tipológiát. A kapcsolat történetéről és/vagy jellegéről szöveges leírás is adható.” (ISAAR 5.3.3) Az ebbe a mezőbe beírt szöveg meg fog jelenni a kapcsolódó azonosító leírásban.</target>
+        <target xml:space="preserve" state="translated">„Ismertessük konkrétan a leírt entitás és a vele kapcsolatban álló entitás kapcsolatának jellegét. … Adjuk meg a „Szabályok és szokások" (5.4.3.) elemben a kapcsolatok leírására használt osztályozási rendszert, mint a kapcsolat leírására használt szabványosított kifejezések forrását. A kapcsolat történetéről és/vagy jellegéről szöveges leírás is adható.” (ISAAR 5.3.3) Az ebbe a mezőbe beírt szöveg meg fog jelenni a kapcsolódó iratképző leírásában.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
       <trans-unit id="c4d61803b0c775664785408a8c8277a8a922fa92" approved="yes">
@@ -1679,14 +1679,14 @@ pl.: bibliográfiai idézés.</target>
         <target xml:space="preserve">Alkalmaz</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/manageSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b4a4b32a17ca33f7415f24b74e83649bb686f0c6" approved="yes">
+      <trans-unit id="b4a4b32a17ca33f7415f24b74e83649bb686f0c6" approved="no" xml:space="preserve">
         <source xml:space="preserve">Apply only to %1% descendants</source>
-        <target xml:space="preserve">Csak %1% leszármazottra vonatkozik</target>
+        <target xml:space="preserve" state="translated">Csak %1% alárendelt egységekre vonatkozik</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/manageAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d92469541625e03e68e9041727b04188598214f4" approved="yes">
+      <trans-unit id="d92469541625e03e68e9041727b04188598214f4" approved="no" xml:space="preserve">
         <source xml:space="preserve">Apply to all descendants</source>
-        <target xml:space="preserve">Aikalmazás az összes hozzá tartozó alárendelt egységre</target>
+        <target xml:space="preserve" state="translated">Alkalmazás az összes hozzá tartozó alárendelt egységre</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/manageAction.class.php</note>
       </trans-unit>
       <trans-unit id="f81129a5bac40fcc65eac8eea47644f5a9ac9a63" approved="yes">
@@ -1789,9 +1789,9 @@ pl.: bibliográfiai idézés.</target>
         <target xml:space="preserve">A leírás készítése és készítője</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3d973d2e6ab5791a4af8f60b4a75b0d86fb46a61" approved="yes">
+      <trans-unit id="3d973d2e6ab5791a4af8f60b4a75b0d86fb46a61" approved="no" xml:space="preserve">
         <source xml:space="preserve">Are you sure you want to delete %1% and all its descendants?</source>
-        <target xml:space="preserve">Biztosan törölni akarja %1%-t és az összes alá tartozó adatot?</target>
+        <target xml:space="preserve" state="translated">Biztosan törölni akarja %1%-t és az összes alárendelt egységet?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="0c4c3797f2c02ff2d8ff7d3025f42a44c526baba" approved="yes">
@@ -2285,9 +2285,9 @@ pl.: bibliográfiai idézés.</target>
         <target xml:space="preserve">Vágólap</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e0430318d894a1b1321393ccf8c88c953c882b91" approved="yes">
+      <trans-unit id="e0430318d894a1b1321393ccf8c88c953c882b91" approved="no" xml:space="preserve">
         <source xml:space="preserve">Clipboard %1% loaded, %2% records %3%.</source>
-        <target xml:space="preserve">Vágólap 1%% betöltve, 2%% elem 3%%.</target>
+        <target xml:space="preserve" state="translated">Vágólap %1% betöltve, %2% elem %3%.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="9899cad5e99d55528b1f277029682b32c3595dd9" approved="yes">
@@ -2875,9 +2875,9 @@ pl.: bibliográfiai idézés.</target>
         <target xml:space="preserve">Egy létező %1% törlése a lemezterület fölszabadítása érdekében</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/uploadLimitExceededSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9e746acf132981a7051a422fa559c043058de15c" approved="yes">
+      <trans-unit id="9e746acf132981a7051a422fa559c043058de15c" approved="no" xml:space="preserve">
         <source xml:space="preserve">Delete current rights in descendants and replace with parent rights.</source>
-        <target xml:space="preserve">Az aktuális jogok törlése a hozzá tartozó alsóbb szintű alárendelt egységekben és kicserélése a felsőbb szintű egység jogaira</target>
+        <target xml:space="preserve" state="translated">Az aktuális jogok törlése a hozzá tartozó alsóbb szintű alárendelt egységekben és kicserélése a felsőbb szintű egység jogaira.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/actions/manageAction.class.php</note>
       </trans-unit>
       <trans-unit id="3dab1c518d8275e03a495b64f333b11403b59b48" approved="yes">
@@ -4198,9 +4198,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">Műfaj</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="1765a374202a857a4411d997f018750fb651d2de" approved="yes">
+      <trans-unit id="1765a374202a857a4411d997f018750fb651d2de" approved="no" xml:space="preserve">
         <source xml:space="preserve">Genre access points</source>
-        <target xml:space="preserve">Műfaji Kapcsolódási pontok</target>
+        <target xml:space="preserve" state="translated">Műfaj kapcsolódási pontok</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="96817ade02e758261256fdfcf062e850b699b8a6" approved="yes">
@@ -4702,9 +4702,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">Digitális objektumok importálása</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_actions.php</note>
       </trans-unit>
-      <trans-unit id="10056615b161bc59524dda4e7814cacf67f3078c" approved="yes">
+      <trans-unit id="10056615b161bc59524dda4e7814cacf67f3078c" approved="no" xml:space="preserve">
         <source xml:space="preserve">Import file initiated. Check %1%job %2%%3% to view the status of the import.</source>
-        <target xml:space="preserve">Az import fájl vizsgálata megkezdődött. Az import aktuális állapota a%1%feladatnál %2%%3%tekinthető meg.</target>
+        <target xml:space="preserve" state="translated">Az import fájl vizsgálata megkezdődött. Az import aktuális állapota a %1% %2% feladatnál %3% tekinthető meg.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/importSelectAction.class.php</note>
       </trans-unit>
       <trans-unit id="5fafca92baff4f5700464754c1cae7ec1668534a" approved="yes">
@@ -4977,9 +4977,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">%1% elérhetetlensége van ami szintén törölve lesz:</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/deleteSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d77f41b47d186a8dda07c9dafa237fc1fe2b4e37" approved="yes">
+      <trans-unit id="d77f41b47d186a8dda07c9dafa237fc1fe2b4e37" approved="no" xml:space="preserve">
         <source xml:space="preserve">It has %1% descendants that will also be deleted</source>
-        <target xml:space="preserve">%1% hozzá tartozó alárendelt egység van, amely szintén törölve lesz</target>
+        <target xml:space="preserve" state="translated">%1% hozzá tartozó alárendelt egység van, amely szintén törölve lesz</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="c1af6909abcf363c9545d4de2f28d8f54e758fa0" approved="yes">
@@ -5786,9 +5786,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">Név kapcsolódási pontok</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
-      <trans-unit id="1725bfd47081758fcd3c4ae7a61abad211f1ecd0" approved="yes">
+      <trans-unit id="1725bfd47081758fcd3c4ae7a61abad211f1ecd0" approved="no" xml:space="preserve">
         <source xml:space="preserve">Name access points (subjects)</source>
-        <target xml:space="preserve">Név kapcsolódási pontok (tárgyak)</target>
+        <target xml:space="preserve" state="translated">Név kapcsolódási pontok (tematikusan kapcsolódó nevek)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="66de98e0b3463df8702836d737c883fce641b949" approved="yes">
@@ -9737,9 +9737,9 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve">A böngészője nem támogatja a Javascriptet. Olvassa el a %1%rendszerkövetelményeket%2%.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7c6ebbcaa294e78319d052103c0780f99d305c52" approved="yes">
+      <trans-unit id="7c6ebbcaa294e78319d052103c0780f99d305c52" approved="no" xml:space="preserve">
         <source xml:space="preserve">Your description has been updated. Lower level descriptions are being updated now – check the &lt;a href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
-        <target xml:space="preserve">A leírás frissítve lett. Az alsóbb szintű leírások most frissülnek – az aktuális állapot és részletek megtalálhatók a &lt;a href="%1"&gt;feladat időzítő oldalon&lt;/a&gt;.</target>
+        <target xml:space="preserve" state="translated">A leírás frissítve lett. Az alsóbb szintű leírások most frissülnek – az aktuális állapot és részletek megtalálhatók a &lt;a href="%1"&gt;feladatkezelő oldalon&lt;/a&gt;.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/updatePublicationStatusAction.class.php</note>
       </trans-unit>
       <trans-unit id="3ce21b73e93a6e6184c5b82162d8d2b7a5d5b4a4" approved="yes">
@@ -10838,13 +10838,17 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/arB5WidgetFormSchemaFormatter.class.php</note>
       </trans-unit>
-      <trans-unit id="c3898b2ae14ef17686fa0290b98a23ed517de89e">
+      <trans-unit id="c3898b2ae14ef17686fa0290b98a23ed517de89e" xml:space="preserve">
         <source xml:space="preserve">This is the legal entity field and provides the contact
                 information for the person(s) or the institution that donated or
                 transferred the materials. It has the option of multiple
                 instances and provides the option of creating more than one
                 contact record using the same form.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Ez a jogi entitás mező elérési információkat szolgáltat 
+ahhoz a személyhez vagy intézményhez, amely 
+adományozta vagy átadta az anyagot. Lehetőséget 
+kínál többszöri alkalomra, és egynél több elérési információra 
+ugyanazon űrlap használatával.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_relatedDonor.php</note>
       </trans-unit>
       <trans-unit id="55751877e1b30405fdb9dacce096bd22fcd541c1">
@@ -10917,13 +10921,17 @@ Publikációt meghatározó kifejezéseket illetően:
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/object/templates/addDigitalObjectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0f554f2cd577313f87415a01f80b9ed06cd9c152">
+      <trans-unit id="0f554f2cd577313f87415a01f80b9ed06cd9c152" xml:space="preserve">
         <source xml:space="preserve">Use these options to specify how the date range returns results. "Exact" means
 that the start and end dates of descriptions returned must fall entirely within
 the date range entered. "Overlapping" means that any description whose start or
 end dates touch or overlap the target date range will be returned.
 </source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Használja ezeket az opciókat annak beállításához, hogy a dátumtartomány milyen módon 
+értelmezendő. „Pontosan” azt jelenti, hogy az eredményként megjelenő leírások kezdő és záró dátumai
+egyaránt a megadott dátumtartományon belülre esnek. „Átfedő” olyan leírások megjelenését 
+eredményezi, amelyek kezdő vagy záró dátuma érinti vagy átfedi a megadott dátumtartományt.
+</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="92e03ff1b889abb086d29b7aa5e82549cdd0696b">
@@ -10968,9 +10976,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d005ed1e246ebafdb3cc5b6b10c0a6bdab3046e1">
+      <trans-unit id="d005ed1e246ebafdb3cc5b6b10c0a6bdab3046e1" xml:space="preserve">
         <source xml:space="preserve">When set to 'yes' generated Finding Aids will exclude Drafts</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Ha ‘igenre’ van állítva, a létrehozott segédletek nem tartalmazzák a „vázlat” állapotú leírásokat</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsFindingAidForm.class.php</note>
       </trans-unit>
       <trans-unit id="c467df40f109045995260e6463dab060c267a109">
@@ -10978,28 +10986,28 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="433e80c4d2ce50196735d6e3fde038ad98ab3bcf">
+      <trans-unit id="433e80c4d2ce50196735d6e3fde038ad98ab3bcf" xml:space="preserve">
         <source xml:space="preserve">Your description has been updated. Its descendants are being updated asynchronously – check the &lt;a class="alert-link" href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">A leírás frissítésre került. Alárendelt egységei aszinkronikusan lesznek frissítve – az aktuális állapotot és a részleteket tekintse meg a &lt;a class="alert-link" href="%1"&gt;feladatkezelő oldalon&lt;/a&gt;.</target>
       </trans-unit>
-      <trans-unit id="d449e5a576cfd87e8b35c9f77eab5fba5d3f3719">
+      <trans-unit id="d449e5a576cfd87e8b35c9f77eab5fba5d3f3719" xml:space="preserve">
         <source xml:space="preserve">Your term has been updated. Its related descriptions are being updated asynchronously – check the &lt;a class="alert-link" href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">A kifejezés frissítésre került. Alárendelt egységei aszinkronikusan lesznek frissítve – az aktuális állapotot és a részleteket tekintse meg a &lt;a class="alert-link" href="%1"&gt;feladatkezelő oldalon&lt;/a&gt;.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5bee69cda5e6b44e88b3bf528ec9f653c3ac9492">
+      <trans-unit id="5bee69cda5e6b44e88b3bf528ec9f653c3ac9492" xml:space="preserve">
         <source xml:space="preserve">i18n language settings</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">i18n nyelvi beállítások</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/languageSuccess.php</note>
       </trans-unit>
-      <trans-unit id="afd10ecd0b0e625f95983d8a12ae9c46a6e7bddb">
+      <trans-unit id="afd10ecd0b0e625f95983d8a12ae9c46a6e7bddb" xml:space="preserve">
         <source xml:space="preserve">of %lastPage%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">ennyiből: %lastPage%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/default/templates/_sidebarPager.php</note>
       </trans-unit>
-      <trans-unit id="cbc19bd0db5c2096870bab38fd6a2cf22f3578cd">
+      <trans-unit id="cbc19bd0db5c2096870bab38fd6a2cf22f3578cd" xml:space="preserve">
         <source xml:space="preserve">records added</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">hozzáadott rekordok</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/menu/templates/_clipboardMenu.php</note>
       </trans-unit>
       <trans-unit id="b01756bc32329c27d56020880cc41721c687791f" xml:space="preserve">
@@ -11069,7 +11077,7 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
       </trans-unit>
       <trans-unit id="172a3b6a149802a62c5013526250c882f1fd74ad" xml:space="preserve">
         <source xml:space="preserve">Choosing "Include draft records" will include those marked with a Draft publication status in the export. Note: if you do NOT choose this option, any descendants of a draft record will also be excluded, even if they are published.</source>
-        <target xml:space="preserve" state="translated">A „Vázlatos leírásokkal együtt” választása esetén az export tartalmazni fogja mindazokat, amelyek közzételi állapota „vázlat ”. Megjegyzés: ha NEM választja ezt az opciót, akkor a „vázlat” állapotú rekordok alá rendeltek is ki lesznek zárva az exportból, akkor is, ha azok "Közzétett" állapotúak.</target>
+        <target xml:space="preserve" state="translated">A „Vázlatos leírásokkal együtt” választása esetén az export tartalmazni fogja mindazokat, amelyek közzételi állapota „vázlat ”. Megjegyzés: ha NEM választja ezt az opciót, akkor a „vázlat” állapotú rekordok alá rendeltek is ki lesznek zárva az exportból, akkor is, ha azok „közzétett" állapotúak.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="4bbded30b10f05b74c782c11c781e5d2e392c88b">
@@ -11122,9 +11130,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="a10b096a01a3ed5aebf73263b4af27146dd4fa5d">
+      <trans-unit id="a10b096a01a3ed5aebf73263b4af27146dd4fa5d" xml:space="preserve">
         <source xml:space="preserve">It is not possible to select both digital objects and descendants for export at the same time. Digital objects can only be exported for records that are on the clipboard.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Nem lehet egyszerre digitális objektumokat és alárendelt egységeket egyaránt exportra kiválasztani. A digitális objektumok csak olyan rekordokhoz exportálhatók, amelyek a vágólapon vannak.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="006124c1a98d5ca8c897c609df36fb2dbcf500a9" xml:space="preserve">
@@ -11152,9 +11160,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve" state="translated">A %open_link%feladatkezelő oldal%close_link% mutatni fogja a folyamat állapotát és egy letöltési linket, ha kész lesz.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="8372ca3f8899eb212510d380ee829b98fe485d79">
+      <trans-unit id="8372ca3f8899eb212510d380ee829b98fe485d79" xml:space="preserve">
         <source xml:space="preserve">This is the legal entity field and provides the contact information for the person(s) or the institution that donated or transferred the materials. It has the option of multiple instances and provides the option of creating more than one contact record using the same form.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Ez a jogi entitás mező elérési információkat szolgáltat ahhoz a személyhez vagy intézményhez, amely adományozta vagy átadta az anyagot. Lehetőséget kínál többszöri alkalomra, és egynél több elérési információra ugyanazon űrlap használatával.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/_relatedDonor.php</note>
       </trans-unit>
       <trans-unit id="b7bffa5c4cbf48f4c611c687d4cbd2da35021d6f" xml:space="preserve">
@@ -11167,9 +11175,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve" state="translated">Nem tud feltölteni ékezet térképező yaml fájlt.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/diacriticsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="a982c978b55a9d92ebf50fc464c6fed71f638d9a">
+      <trans-unit id="a982c978b55a9d92ebf50fc464c6fed71f638d9a" xml:space="preserve">
         <source xml:space="preserve">Use these options to specify how the date range returns results. "Exact" means that the start and end dates of descriptions returned must fall entirely within the date range entered. "Overlapping" means that any description whose start or end dates touch or overlap the target date range will be returned.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Használja ezeket az opciókat annak beállításához, hogy a dátumtartomány milyen módon értelmezendő. „Pontosan” azt jelenti, hogy az eredményként megjelenő leírások kezdő és záró dátumai egyaránt a megadott dátumtartományon belülre esnek. „Átfedő” olyan leírások megjelenését eredményezi, amelyek kezdő vagy záró dátuma érinti vagy átfedi a megadott dátumtartományt.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/informationobject/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="99903c39ac3f1505911e1e1ac4c84b26f61c58af" xml:space="preserve">
