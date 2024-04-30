@@ -239,9 +239,9 @@
         <target xml:space="preserve" state="translated">"Enregistrer un seul numéro d'identification pour la notice d'autorité, conformément aux conventions locales ou nationales. Si la notice d'autorité doit faire l'objet d'une utilisation internationale, enregistrer le code du pays dans lequel la notice d'autorité a été établie, en utilisant la dernière version de la norme ISO 3166 : Codes pour la représentation des noms de pays. Lorsque l'auteur de la notice d'autorité est un organisme international, donner le numéro d'identification de l'organisme à la place du code du pays." (ISAAR 5.4.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15" approved="no" xml:space="preserve">
+      <trans-unit id="ea91cad32c9d8e00ec1979b79edd74401240be15" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record a unique description identifier in accordance with local and/or national conventions. If the description is to be used internationally, record the code of the country in which the description was created in accordance with the latest version of ISO 3166 - Codes for the representation of names of countries. Where the creator of the description is an international organisation, give the organisational identifier in place of the country code." (ISIAH 5.6.1)</source>
-        <target xml:space="preserve" state="translated">"Enregistrer un seul identifiant de la description, conformément aux conventions locales et/ou nationales. Si la description doit faire l'objet d'une utilisation internationale, enregistrer le code du pays dans lequel la notice a été établie, en utilisant la dernière version de la norme ISO 3166 - Codes pour la représentation des noms de pays. Lorsque l'auteur de la description est un organisme international, donner le numéro d'identification de l'organisme à la place du code du pays." (ISDIAH 5.6.1)</target>
+        <target xml:space="preserve" state="final">"Enregistrer un seul identifiant de la description, conformément aux conventions locales et/ou nationales. Si la description doit faire l'objet d'une utilisation internationale, enregistrer le code du pays dans lequel la notice a été établie, en utilisant la dernière version de la norme ISO 3166 : Codes pour la représentation des noms de pays. Lorsque l'auteur de la description est un organisme international, donner le numéro d'identification de l'organisme à la place du code du pays." (ISDIAH 5.6.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="fd846bcf8ecc30d07094334b4411a90abaad570b" approved="no" xml:space="preserve">
@@ -7000,9 +7000,9 @@
         <target xml:space="preserve">"Enregistrer le niveau de l'unité de description." (ISAD 3.1.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6132ffaa44d5d4faad0e309d9694d06aeefe3111" approved="yes">
+      <trans-unit id="6132ffaa44d5d4faad0e309d9694d06aeefe3111" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Record the name of the organization which has custody of the archival material. Search for an existing name in the archival institution records by typing the first few characters of the name. Alternatively, type a new name to create and link to a new archival institution record.</source>
-        <target xml:space="preserve">Enregistrer le norm de l'organisme qui détient les documents d'archives. Rechercher un nom existant dans les notices descriptives de services d'archives en saisissant les premiers caractères du nom. Sinon saisir un nouveau nom pour créer une notice descriptive de service d'archives et établir un lien vers cette notice.</target>
+        <target xml:space="preserve" state="final">Enregistrer le nom de l'organisme qui détient les documents d'archives. Rechercher un nom existant dans les notices descriptives de services d'archives en saisissant les premiers caractères du nom. Sinon saisir un nouveau nom pour créer une notice descriptive de service d'archives et établir un lien vers cette notice.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="4b0d20110d01980fcafdc20f5af6b67e523c3eba" approved="yes">
