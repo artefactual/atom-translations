@@ -11161,11 +11161,6 @@ instrumentos de descrição é desactivada e o filtro 'Advanced Search &gt; Find
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/diacriticsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="b06649131b6c859ead9f0a994625cb8de2d26334">
-        <source xml:space="preserve">Unable to upload diacritis mapping yaml file.</source>
-        <target xml:space="preserve"/>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/diacriticsAction.class.php</note>
-      </trans-unit>
       <trans-unit id="a982c978b55a9d92ebf50fc464c6fed71f638d9a">
         <source xml:space="preserve">Use these options to specify how the date range returns results. "Exact" means that the start and end dates of descriptions returned must fall entirely within the date range entered. "Overlapping" means that any description whose start or end dates touch or overlap the target date range will be returned.</source>
         <target xml:space="preserve"/>
@@ -11185,6 +11180,26 @@ instrumentos de descrição é desactivada e o filtro 'Advanced Search &gt; Find
         <source xml:space="preserve">When enabled, an &amp;quot;Upload limit&amp;quot; meter is displayed for authenticated users on the %1% view page, and administrators can limit the disk space each %1% is allowed for %2% uploads</source>
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="2b107ff02c391b4c97281d7682388b3099a44095">
+        <source xml:space="preserve">Choosing "Include non-visible elements" will include those not marked as Visible Elements.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="2651a4bb5f704de3034a75d98d667868216b3c1e">
+        <source xml:space="preserve">Include non-visible elements</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="da1169eb3b7b70109ee0ed85b67c3a154e8a0dd6">
+        <source xml:space="preserve">Log in with SSO</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/user/templates/loginSuccess.mod_ext_auth.php</note>
+      </trans-unit>
+      <trans-unit id="5fa55a6001cc9852171849c95c4031c7b8464066">
+        <source xml:space="preserve">SSO</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arOidcPlugin/modules/user/templates/loginSuccess.php</note>
       </trans-unit>
     </body>
   </file>
