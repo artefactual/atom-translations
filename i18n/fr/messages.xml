@@ -694,9 +694,9 @@
         <target state="translated" xml:space="preserve">%1% limite de téléversement</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0a4d6fa2c4dab64280355e4b1dc617e015edab41" approved="yes">
+      <trans-unit id="0a4d6fa2c4dab64280355e4b1dc617e015edab41" approved="yes" xml:space="preserve">
         <source xml:space="preserve">%1% used of %2%</source>
-        <target xml:space="preserve">%1% utilisation de %2%</target>
+        <target xml:space="preserve" state="final">%1% utilisé sur %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/arWidgetFormUploadQuota.class.php</note>
       </trans-unit>
       <trans-unit id="3177ef7c0c501b8bb742c34ed9348341949fa2dc" approved="yes">
@@ -2207,9 +2207,9 @@
         <target xml:space="preserve">Citation</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e" approved="yes">
+      <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e" approved="yes" xml:space="preserve">
         <source xml:space="preserve">City</source>
-        <target xml:space="preserve">ville</target>
+        <target xml:space="preserve" state="final">Ville</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
       </trans-unit>
       <trans-unit id="795ccef367844002f39b21be2bb17dd60716f322" approved="yes">
@@ -2242,9 +2242,9 @@
         <target xml:space="preserve">Effacer les tâches inactives</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b7b743f536d97b8573750e05b4ac448792b8f3bf" approved="yes">
+      <trans-unit id="b7b743f536d97b8573750e05b4ac448792b8f3bf" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Click 'Calculate dates' to recalculate the start and end dates of a parent-level description. A job runs in the background, accounting for the earliest and most recent dates across all the child descriptions. The results display in the Start and End fields of the edit page.</source>
-        <target xml:space="preserve">cliquer 'calculer la date' pour recalculer les dates de début et de fin d'une description de niveau parent. Une tache s'effectue en arrière-plan pour rechercher la date la plus ancienne et la plus récente des descriptions de niveau inférieur. Le résultat est affiché dans les champs début et fin de la page éditée.</target>
+        <target xml:space="preserve" state="final">Cliquer 'calculer la date' pour recalculer les dates de début et de fin d'une description de niveau parent. Une tache s'effectue en arrière-plan pour rechercher la date la plus ancienne et la plus récente des descriptions de niveau inférieur. Le résultat est affiché dans les champs début et fin de la page éditée.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
       </trans-unit>
       <trans-unit id="8018bc225b776673ea47049f6cd786103ef99324" approved="yes">
@@ -4741,9 +4741,9 @@
         <target xml:space="preserve">Incomplet</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="9c4740018c874c7b552f9809412b373666880704" approved="yes">
+      <trans-unit id="9c4740018c874c7b552f9809412b373666880704" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Incorrect clipboard ID and/or action.</source>
-        <target state="final" xml:space="preserve">Identifiant de presse-papier et/ou action incorrect</target>
+        <target state="final" xml:space="preserve">Identifiant de presse-papier et/ou d'action incorrect.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="b90d44713f9b698e94e40d38871b2aef40547c0f" approved="yes">
@@ -4956,9 +4956,9 @@
         <target xml:space="preserve">Éléments par page</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4847cc1454ccb160f631e441cd95daf443a173f1" approved="yes">
+      <trans-unit id="4847cc1454ccb160f631e441cd95daf443a173f1" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Items per page can be a minimum of %1% and a maximum of %2%</source>
-        <target xml:space="preserve">Éléments par page sont au minimum de %1% et au maximum de %2%</target>
+        <target xml:space="preserve" state="final">Les éléments par page sont au minimum de %1% et au maximum de %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="9a81100c9f833379dda543d307a8f9806a21127a" approved="yes">
@@ -7895,10 +7895,9 @@
         <target xml:space="preserve">Sélectionner le nouveau type de date :</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c301087b6f3fb06254851253c544e237ed38a90c" approved="yes">
+      <trans-unit id="c301087b6f3fb06254851253c544e237ed38a90c" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Select the repository that has custody and control of the archival material. The values in this field are drawn from the Authorized form of name field in archival institution records. Search for an existing name by typing the first few characters of the name. Alternatively, type a new name to create and link to a new archival institution.</source>
-        <target xml:space="preserve" state="final">Sélectionner le dépôt qui conserve les documents et qui exerce un contrôle sur ces documents. Les valeurs de ce champ récupèrent
-dans les notices des services d'archives la Forme autorisée du champ Nom. Recherchez un nom existant en saisissant les premières lettres du nom. Sinon saisir un nouveau nom pour créer un service d'archives et établir un lien vers la notice de ce service.</target>
+        <target xml:space="preserve" state="final">Sélectionner le dépôt qui conserve les documents et qui exerce un contrôle sur ces documents. Les valeurs de ce champ récupèrent dans les notices des services d'archives la Forme autorisée du champ Nom. Recherchez un nom existant en saisissant les premières lettres du nom. Sinon saisir un nouveau nom pour créer un service d'archives et établir un lien vers la notice de ce service.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b4e8aa693f5a611783732d67b537eaed81af828e" approved="yes">
@@ -9531,9 +9530,9 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
         <target xml:space="preserve">Site Web</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c98f8378524f00c5e706960a644783761e87a084">
+      <trans-unit id="c98f8378524f00c5e706960a644783761e87a084" xml:space="preserve" approved="yes">
         <source xml:space="preserve">When enabled the following text will appear in the %1% metadata section to describe how a user may access the original and preservation copy of the file stored in a linked digital preservation system. The text appears in the "Permissions" field. When disabled, the "Permissions" field is not displayed.</source>
-        <target xml:space="preserve" state="translated">Lorsque activé le text suivant apparaitra dans la section %1% metadonnée pour décrire comment un utilisateur peut avoir accès au document natif et à lq copie d'accès stockée dans un système de conservation de documents numériques connexes. Le text apparait dans le champ 'Permissions". Lorsque désactivé, le champs "Permissions" ne sera pas visible.</target>
+        <target xml:space="preserve" state="final">Lorsque activé, le texte suivant apparaîtra dans la section %1% metadonnées pour décrire comment un utilisateur peut avoir accès au document original et à la copie d'accès stockée dans un système de conservation de documents numériques connexe. Le texte apparaît dans le champ "Permissions". Lorsque désactivé, le champs "Permissions" ne sera pas visible.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="40d418bc31781a74944b309e740c43c749195d10" approved="yes">
@@ -9641,9 +9640,9 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
         <target xml:space="preserve">Vous devez sélectionner une source pour continuer.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfSkosPlugin/modules/sfSkosPlugin/actions/importAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5b8d7eb4c328e630fac3c1f8df87917cba800edd" approved="yes">
+      <trans-unit id="5b8d7eb4c328e630fac3c1f8df87917cba800edd" approved="yes" xml:space="preserve">
         <source xml:space="preserve">You must show at least %min% hits per page</source>
-        <target xml:space="preserve">Vous devez afficher au moins %max% résultats par page</target>
+        <target xml:space="preserve" state="final">Vous devez afficher au moins %min% résultats par page</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="5690bab5bc0502a82a0d8fd948a3b47d467cd5e0" approved="yes">
@@ -10353,9 +10352,9 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
 </target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsFindingAidForm.class.php</note>
       </trans-unit>
-      <trans-unit id="f23e8dc2222583bb3fcca92cb47f16c727b8edaa" xml:space="preserve">
+      <trans-unit id="f23e8dc2222583bb3fcca92cb47f16c727b8edaa" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clicking this description title link will open the description view page for this digital object. Advancing the carousel above will update this title text.</source>
-        <target xml:space="preserve" state="translated">Submit</target>
+        <target xml:space="preserve" state="final">Cliquer sur le lien dans le titre de la description va ouvrir la page de vue de la description pour cet objet numérique. Avancer dans le carrousel au-dessus va éettre à jour le texte du titre.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/digitalobject/templates/_imageflow.php</note>
       </trans-unit>
       <trans-unit id="4aac8c81a9cc1c0d965e843a066f05bb3489ca74">
@@ -10718,9 +10717,9 @@ dans les notices des services d'archives la Forme autorisée du champ Nom. Reche
         <target xml:space="preserve" state="translated">Paramètres de recherche</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/term/templates/_treeView.php</note>
       </trans-unit>
-      <trans-unit id="2f258cb6b00112cadfebfd8f53ab9b02b9251dba">
+      <trans-unit id="2f258cb6b00112cadfebfd8f53ab9b02b9251dba" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Search rights holders</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Rechercher les détenteurs de droits</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/rightsholder/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="8953d37661d999b65755c673da6f4c2ea074ddfc">
@@ -10916,14 +10915,14 @@ end dates touch or overlap the target date range will be returned.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/siteInformationSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6752f198b56479cfb32b98d51047e89e96433119">
+      <trans-unit id="6752f198b56479cfb32b98d51047e89e96433119" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Validate</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Valider</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/validateCsvSuccess.php</note>
       </trans-unit>
-      <trans-unit id="004cc751124f5f520aa5d6e1ae8889dc0e900786">
+      <trans-unit id="004cc751124f5f520aa5d6e1ae8889dc0e900786" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Validate CSV</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Valider le CSV</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/validateCsvAction.class.php</note>
       </trans-unit>
       <trans-unit id="3e31a7ee30152b17cfa09a60581f285a13a6e075">
@@ -10943,9 +10942,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsFindingAidForm.class.php</note>
       </trans-unit>
-      <trans-unit id="5eee28c34c29accde79c9e6e57bb96d19aa66c17">
+      <trans-unit id="5eee28c34c29accde79c9e6e57bb96d19aa66c17" xml:space="preserve" approved="yes">
         <source xml:space="preserve">When enabled the text above will appear in the %1% metadata section to describe how a user may access the original and preservation copy of the file stored in a linked digital preservation system. The text appears in the "Permissions" field. When disabled, the "Permissions" field is not displayed.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Lorsque activé, le texte suivant apparaîtra dans la section %1% metadonnées pour décrire comment un utilisateur peut avoir accès au document original et à la copie d'accès stockée dans un système de conservation de documents numériques connexe. Le texte apparaît dans le champ "Permissions". Lorsque désactivé, le champs "Permissions" ne sera pas visible.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="b04b422663b801286bc8fe14337c8e46b9ca2d76">
@@ -11161,9 +11160,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve" state="translated">Nous vous avons redirigé vers la première page des résulats. Pour éviter d'utiliser trop de ressources, AtoM limite la pagination à %1% documents. Pour voir les derniers documents dans les résulats actuels, essayez de changer l'ordre de tri.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="8a3aba8773190f1368dee69eb611acc56db89fff">
+      <trans-unit id="8a3aba8773190f1368dee69eb611acc56db89fff" xml:space="preserve" approved="yes">
         <source xml:space="preserve">When enabled, an &amp;quot;Upload limit&amp;quot; meter is displayed for authenticated users on the %1% view page, and administrators can limit the disk space each %1% is allowed for %2% uploads</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Lorsque activé, une "limite de téléversement" est affichée pour les utilisateurs authentifiés sur la page %1% et les administrateurs peuvent limiter l'espace disque que chaque %1% est autorisé à avoir pour les téléversements de %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
       <trans-unit id="2b107ff02c391b4c97281d7682388b3099a44095" xml:space="preserve">
