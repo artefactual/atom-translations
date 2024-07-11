@@ -10,27 +10,28 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-24 02:09-0700\n"
-"PO-Revision-Date: 2017-09-23 19:27+0000\n"
-"Last-Translator: artefactual <translate@artefactual.com>\n"
-"Language-Team: Catalan (http://www.transifex.com/artefactual/atom/language/"
-"ca/)\n"
+"PO-Revision-Date: 2024-07-12 08:26+0000\n"
+"Last-Translator: Robert Garrigos <robert@garrigos.cat>\n"
+"Language-Team: Catalan <https://translations.artefactual.com/projects/atom/"
+"website/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #: atom/settings/base.py:76
 msgid "English"
-msgstr "Anglès "
+msgstr "Anglès"
 
 #: atom/settings/base.py:77
 msgid "Spanish"
-msgstr "Espanyol "
+msgstr "Espanyol"
 
 #: atom/settings/base.py:78
 msgid "Catalan"
-msgstr ""
+msgstr "Català"
 
 #: atom/settings/base.py:79
 msgid "Italian"
@@ -38,29 +39,27 @@ msgstr "Italià"
 
 #: atom/settings/base.py:80
 msgid "French"
-msgstr "Francès "
+msgstr "Francès"
 
 #: atom/settings/base.py:81
 msgid "Portuguese"
-msgstr "Portuguès "
+msgstr "Portuguès"
 
 #: atom/settings/base.py:82
-#, fuzzy
-#| msgid "Portuguese"
 msgid "Brazilian Portuguese"
-msgstr "Portuguès "
+msgstr "Portuguès"
 
 #: atom/settings/base.py:83
 msgid "Korean"
-msgstr ""
+msgstr "Coreà"
 
 #: atom/settings/base.py:84
 msgid "Slovenian"
-msgstr ""
+msgstr "Eslovè"
 
 #: atom/settings/base.py:85
 msgid "Hungarian"
-msgstr ""
+msgstr "Hongarès"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:5
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
@@ -68,7 +67,7 @@ msgstr ""
 #: sphinxdoc/templates/sphinxdoc/search.html:4 templates/base.html:67
 #: templates/footer.html:36
 msgid "Documentation"
-msgstr "Documentació "
+msgstr "Documentació"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:11
 #, python-format
@@ -78,6 +77,10 @@ msgid ""
 "longer being maintained.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s és un llançament llegat i aquests documents ja no "
+"es mantenen.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:16
 #, python-format
@@ -87,6 +90,10 @@ msgid ""
 "maintenance mode.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s és un llançament antic, i la documentació està en "
+"mode de manteniment.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:21
 #, python-format
@@ -95,6 +102,9 @@ msgid ""
 "        %(project_name)s is our latest release.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s és el nostre últim llançament.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:26
 #, python-format
@@ -104,6 +114,10 @@ msgid ""
 "work in progress.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s és el nostre últim llançament, i la seva "
+"documentació és un treball en curs.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:31
 #, python-format
@@ -113,14 +127,18 @@ msgid ""
 "a work in progress.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s encara no s'ha publicat, i la seva documentació és "
+"un treball en curs.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:60
 msgid "Table of contents"
-msgstr "Taula de continguts "
+msgstr "Taula de continguts"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:77
 msgid "Contents"
-msgstr "Continguts "
+msgstr "Continguts"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:85
 #, python-format
@@ -130,10 +148,14 @@ msgid ""
 "type your search in the search box.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>Obriu <a href=\"%(genindex_url)s\">l'índex general </a> o "
+"escriviu la cerca al quadre de cerca.</p>\n"
+"            "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:98
 msgid "Available documents"
-msgstr "Documentació disponible "
+msgstr "Documentació disponible"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:108
 msgid "Edit this document"
@@ -149,7 +171,7 @@ msgstr "Darrera actualització:"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:5
 msgid "General Index"
-msgstr ""
+msgstr "Índex General"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:30
 msgid "[Link]"
@@ -162,20 +184,20 @@ msgstr "Índex de mòduls"
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
 #: sphinxdoc/templates/sphinxdoc/project_list.html:9
 msgid "Project list"
-msgstr ""
+msgstr "Llista de projectes"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:4
 msgid "Search"
-msgstr ""
+msgstr "Cerca"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:8
 msgid "Search results"
-msgstr "Resultats de la cerca "
+msgstr "Resultats de la cerca"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:12
 #, python-format
 msgid "Showing results matching \"%(query)s\"..."
-msgstr "S'estan mostrant els resultats que coincideixen amb \"%(query)s\"... "
+msgstr "S'estan mostrant els resultats que coincideixen amb \"%(query)s\"..."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:20
 msgid "No results found."
@@ -187,16 +209,16 @@ msgstr "No s'ha introduït cap cerca."
 
 #: templates/base.html:64 templates/footer.html:19
 msgid "Home"
-msgstr ""
+msgstr "Inici"
 
 #: templates/base.html:65 templates/footer.html:20
 #: templates/pages/download.html:4 templates/pages/download.html.py:10
 msgid "Downloads"
-msgstr "Descàrregues "
+msgstr "Descàrregues"
 
 #: templates/base.html:85
 msgid "Other resources (wiki)"
-msgstr ""
+msgstr "Altres recursos (wiki)"
 
 #: templates/base.html:91 templates/footer.html:26
 #: templates/pages/community.html:4 templates/pages/community.html.py:10
@@ -214,11 +236,11 @@ msgstr "Suport"
 #: templates/base.html:94 templates/footer.html:29
 #: templates/pages/community/_menu.html:6
 msgid "Translate"
-msgstr "Tradueix "
+msgstr "Tradueix"
 
 #: templates/base.html:97 templates/footer.html:51
 msgid "News"
-msgstr ""
+msgstr "Notícies"
 
 #: templates/base.html:98 templates/footer.html:37
 msgid "Wiki"
@@ -230,15 +252,15 @@ msgstr "Demo"
 
 #: templates/base.html:102
 msgid "Try it now!"
-msgstr "Proba'l ara! "
+msgstr "Proba'l ara!"
 
 #: templates/footer.html:12
 msgid "Language"
-msgstr "Idioma "
+msgstr "Idioma"
 
 #: templates/footer.html:17
 msgid "Explore"
-msgstr "Explora "
+msgstr "Explora"
 
 #: templates/footer.html:34
 msgid "Help"
@@ -250,27 +272,28 @@ msgstr "Quant a"
 
 #: templates/footer.html:50
 msgid "Services"
-msgstr "Serveis "
+msgstr "Serveis"
 
 #: templates/footer.html:53
 msgid "Artefactual is the lead developer of Archivematica and AtoM."
-msgstr ""
+msgstr "Artefactual és el principal desenvolupador d'Archivematica i AtoM."
 
 #: templates/footer.html:55
 msgid "Access to Memory documentation"
-msgstr ""
+msgstr "Documentació d'Access to Memory"
 
 #: templates/footer.html:55
 msgid "is licensed under a"
-msgstr ""
+msgstr "està llicenciat sota una"
 
 #: templates/footer.html:55
 msgid "Creative Commons Attribution-ShareAlike 4.0 International License"
 msgstr ""
+"Llicència Internacional Creative Commons Reconeixement-CompartirIgual 4.0"
 
 #: templates/footer.html:57
 msgid "© 2019 Artefactual Systems Inc. All rights reserved."
-msgstr ""
+msgstr "© 2019 Artefactual Systems Inc. Tots els drets reservats."
 
 #: templates/pages/community/develop.html:13
 #: templates/pages/community/participate.html:13
@@ -280,11 +303,12 @@ msgid ""
 "        "
 msgstr ""
 "\n"
-"<p>En construcció.</p>"
+"          <p>En construcció.</p>\n"
+"        "
 
 #: templates/pages/community/support.html:19
 msgid "User forum"
-msgstr "Fòrum d'usuaris "
+msgstr "Fòrum d'usuaris"
 
 #: templates/pages/community/support.html:20
 msgid ""
@@ -296,10 +320,11 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"<p>El nostre <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users"
-"\">fòrum d'usuaris</a> és el principal lloc on els usuaris acudeixen en "
-"busca d'ajuda, per publicar notícies, compartir recursos i discutir "
-"qualsevol problema relacionat amb l'aplicació i la comunitat.</p>"
+"              <p>El nostre <a href=\"https://groups.google.com/forum/#!forum/"
+"ica-atom-users\">fòrum d'usuaris</a> és el principal lloc on els usuaris "
+"acudeixen a la recerca d'ajuda, per publicar notícies, compartir recursos i "
+"discutir qualsevol problema relacionat amb l'aplicació i la comunitat.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:26
 msgid "Twitter"
@@ -314,13 +339,15 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"<p>Seguiu les notícies d'AtoM en <a href=\"https://twitter.com/accesstomemory"
-"\">Twitter (@accesstomemory.org)</a> per estar al dia i connectar amb altres "
-"usuaris.</p>"
+"              <p>Seguiu les notícies d'AtoM en <a href=\"https://twitter.com/"
+"accesstomemory\">Twitter (@accesstomemory.org)</a> per estar al dia i "
+"connectar amb altres usuaris.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:37
+#, fuzzy
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: templates/pages/community/support.html:38
 msgid ""
@@ -345,9 +372,10 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"<p>Heu trobat un error i voleu saber si ja ha estat reportat? O voleu veure "
-"l'estat actual d'una versió en desenvolupament? Visiteu <a href=\"https://"
-"projects.artefactual.com/\">el gestor d'incidències</a>.</p>"
+"              <p>Heu trobat un error i voleu saber si ja ha estat reportat? "
+"O voleu veure l'estat actual d'una versió en desenvolupament? Visiteu <a "
+"href=\"https://projects.artefactual.com/\">el gestor d'incidències</a>.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:53
 msgid "Before requesting support"
@@ -406,26 +434,26 @@ msgid ""
 "              "
 msgstr ""
 "\n"
-"\n"
-"<p>El <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users"
-"\">fòrum d'usuaris</a> és el millor lloc per rebre ajuda i interactuar amb "
-"d'altres usuaris i desenvolupadors d'AtoM. <a href=\"http://www.artefactual."
-"com/\">Artefactual</a>, el desenvolupador líder del projecte, moderarà l'ús "
-"d'aquest i respondrà a les preguntes en menys de 24 hores sempre que sigui "
-"possible (en horari d'oficina, amb l'horari del Pacífic). Aquest servei "
-"l'oferim de manera gratuïta i sempre que ens sigui possible, amb l'esperança "
-"de que altres membres de la comunitat també hi col•laborin. En aquells casos "
-"on les qüestions realitzades vagin més enllà del que podem oferir de manera "
-"gratuïta, l'usuari serà informat i se li oferirà una alternativa comercial. "
-"Un exemple seria quan es tracta un tema de gran complexitat que de ser "
-"tractat consumiria més temps de l'habitual o quan eines o plataformes que "
-"l'aplicació no suporta per defecte estan involucrades. Heu de tenir en "
-"compte que entre les nostres prioritats, atendre als nostres clients és la "
-"més important per tal de poder pagar les factures i continuar oferint un "
-"producte gratuït, lliure i amb suport.</p>\n"
-"<p>Si esteu interessats en contractar el nostre servei comercial de suport, "
+"                <p>El <a href=\"https://groups.google.com/forum/#!forum/ica-"
+"atom-users\">fòrum d'usuaris</a> és el millor lloc per rebre ajuda i "
+"interactuar amb altres usuaris i desenvolupadors d'AtoM. <a href=\"http://www"
+".artefactual.com/\">Artefactual</a>, el desenvolupador líder del projecte, "
+"moderarà l'ús d'aquest i respondrà a les preguntes en menys de 24 hores "
+"sempre que sigui possible (en horari d'oficina, amb l'horari del Pacífic). "
+"Aquest servei l'oferim de manera gratuïta i sempre que ens sigui possible, "
+"amb l'esperança que altres membres de la comunitat també hi col·laborin. En "
+"aquells casos on les qüestions realitzades vagin més enllà del que podem "
+"oferir de manera gratuïta, l'usuari serà informat i se li oferirà una "
+"alternativa comercial. Un exemple seria quan es tracta un tema de gran "
+"complexitat que de ser tractat consumiria més temps de l'habitual o quan "
+"eines o plataformes que l'aplicació no suporta per defecte estan "
+"involucrades. Heu de tenir en compte que entre les nostres prioritats, "
+"atendre els nostres clients és la més important per tal de poder pagar les "
+"factures i continuar oferint un producte gratuït, lliure i amb suport.</p>\n"
+"<p>Si esteu interessats a contractar el nostre servei comercial de suport, "
 "visiteu <a href=\"http://www.artefactual.com/services/atom-2/\">el nostre "
-"lloc web</a> i els serveis oferts.</p>"
+"lloc web</a> i els serveis oferts.</p>\n"
+"              "
 
 #: templates/pages/community/support.html:71
 msgid ""
@@ -435,13 +463,14 @@ msgid ""
 "                  "
 msgstr ""
 "\n"
-"\n"
-"<p>Subscriviu-vos al fòrum d'usuaris o <a href=\"https://groups.google.com/"
-"forum/#!forum/ica-atom-users\">visiteu la versió en línia</a>.</p>"
+"                    <p>Subscriviu-vos al fòrum d'usuaris o <a href=\"https"
+"://groups.google.com/forum/#!forum/ica-atom-users\">visiteu la versió en "
+"línia</a>.</p>\n"
+"                  "
 
 #: templates/pages/community/support.html:75
 msgid "Enter your e-mail address"
-msgstr "Introduïu el vostre correu electrònic "
+msgstr "Introduïu el vostre correu electrònic"
 
 #: templates/pages/community/support.html:77
 msgid "Subscribe"
@@ -478,15 +507,16 @@ msgid ""
 "              "
 msgstr ""
 "\n"
-"<p>Segons el tipus d'incidència, aquí teniu algunes idees sobre les dades "
-"que ens ajudaran a respondreus ràpidament i amb més detall:</p>\n"
+"                <p>Segons el tipus d'incidència, aquí teniu algunes idees "
+"sobre les dades que ens ajudaran a respondre-us ràpidament i amb més "
+"detall:</p>\n"
 "<ul>\n"
 "<li>¿Quina versió d'AtoM esteu utilitzant?</li>\n"
 "<li>¿Ja heu intentat resoldre el problema per vosaltres mateixos?</li>\n"
 "<li>¿Quin sistema operatiu utilitzeu? Linux, Windows, Apple, etc...</li>\n"
 "<li>¿Quina versió de PHP teniu instal·lada en el vostre sistema?</li>\n"
 "<li>¿Teniu una traça de l'error rebut?</li>\n"
-"<li>¿Utilitzeu un servei de hospedatge extern o gestioneu l'allotjament pel "
+"<li>¿Utilitzeu un servei d'allotjament extern o gestioneu l'allotjament pel "
 "vostre compte?</li>\n"
 "</ul>\n"
 "<p>Ens resulta més fàcil respondre a les preguntes quan són <strong>clares</"
@@ -494,7 +524,8 @@ msgstr ""
 "detalls importants com la informació sobre l'entorn (servidor web, base de "
 "dades, etc...) però també altres detalls que no estan directament "
 "relacionats. Gràcies per ajudar-nos a fer del fòrum d'usuaris un lloc ple "
-"d'entusiasme i positivitat!</p>"
+"d'entusiasme i positivitat!</p>\n"
+"              "
 
 #: templates/pages/download.html:17
 msgid "Stable releases"
@@ -523,12 +554,12 @@ msgstr "Data de llançament"
 #: templates/pages/download.html:181 templates/pages/home.html:13
 msgctxt "Download button"
 msgid "Download"
-msgstr "Descarrega "
+msgstr "Descarrega"
 
 #: templates/pages/download.html:24 templates/pages/download.html.py:46
 #: templates/pages/download.html:68 templates/pages/download.html.py:162
 msgid "Changes"
-msgstr "Canvis "
+msgstr "Canvis"
 
 #: templates/pages/download.html:32 templates/pages/download.html.py:54
 #: templates/pages/download.html:76 templates/pages/download.html.py:82
@@ -551,7 +582,7 @@ msgstr ""
 
 #: templates/pages/download.html:53
 msgid "Not available yet"
-msgstr "Encara no disponible "
+msgstr "Encara no disponible"
 
 #: templates/pages/download.html:61 templates/pages/download.html.py:155
 msgid "Legacy releases"
@@ -575,13 +606,14 @@ msgid ""
 "          "
 msgstr ""
 "\n"
-"<p>AtoM és una aplicació web. Podeu descarregar-la i instal·lar-la al vostre "
-"propi servidor web per a fer que aquesta sigui disponible per a qualsevol "
-"persona amb accés a Internet. AtoM inclou un instal·lador que us ajudarà en "
-"el procés de configuració.</p>\n"
-"<p>Una vegada hagis descarregat el fitxer, consulta el <a href="
-"\"%(url_installation)s\">manual d'instalació</a>. També existeix una <a href="
-"\"%(url_upgrade)s\">guia d'actualització</a>.</p>"
+"            <p>AtoM és una aplicació web. Podeu descarregar-la i instal·lar-"
+"la al vostre propi servidor web per a fer que aquesta sigui disponible per a "
+"qualsevol persona amb accés a Internet. AtoM inclou un instal·lador que us "
+"ajudarà en el procés de configuració.</p>\n"
+"<p>Una vegada hagis descarregat el fitxer, consulta el <a href=\""
+"%(url_installation)s\">manual d'instal·lació</a>. També existeix una <a href="
+"\"%(url_upgrade)s\">guia d'actualització</a>.</p>\n"
+"          "
 
 #: templates/pages/download.html:205
 msgid "Test AtoM locally using Vagrant"
@@ -640,11 +672,12 @@ msgid ""
 "          "
 msgstr ""
 "\n"
-"\n"
-"Accediu a la vostra instal·lació d'AtoM des de qualsevol lloc on hi hagi "
-"accés a Internet. Totes les funcions principals d'AtoM es poden controlar "
-"des d'un navegador i els requisits en el costat de l'usuari són mínims. "
-"Instal·la AtoM en un servidor i accedeix des de qualsevol part del món."
+"            Accediu a la vostra instal·lació d'AtoM des de qualsevol lloc on "
+"hi hagi accés a Internet. Totes les funcions principals d'AtoM es poden "
+"controlar des d'un navegador i els requisits en el costat de l'usuari són "
+"mínims. Instal·la AtoM en un servidor i accedeix des de qualsevol part del "
+"món.\n"
+"          "
 
 #: templates/pages/home.html:65
 msgid "Open source"
@@ -664,20 +697,21 @@ msgid ""
 "          "
 msgstr ""
 "\n"
-"\n"
-"Tot el codi que forma part d'AtoM es distribueix sota els principis de la "
-"llicència GNU Affero General Public License (A-GPL 3.0), donant-vos tota la "
-"llibertat per estudiar, modificar, millorar i distribuir els canvis. Creiem "
-"que una part important de l'accés és l'accessibilitat, qualsevol persona "
-"hauria de tenir accés a les eines que et permeten preservar els materials "
-"patrimonials del passat. El codi d'AtoM està disponible de manera gratuïta i "
-"lliure i tota la documentació es distribueix sota els principis de la "
-"llicència Creative Commons Share-alike. ¡Descobreix el nostre <a href="
-"\"https://github.com/artefactual/atom\">repositori públic</a>!"
+"            Tot el codi que forma part d'AtoM es distribueix sota els "
+"principis de la llicència GNU Affero General Public License (A-GPL 3.0), "
+"donant-vos tota la llibertat per estudiar, modificar, millorar i distribuir "
+"els canvis. Creiem que una part important de l'accés és l'accessibilitat, "
+"qualsevol persona hauria de tenir accés a les eines que et permeten "
+"preservar els materials patrimonials del passat. El codi d'AtoM està "
+"disponible de manera gratuïta i lliure i tota la documentació es distribueix "
+"sota els principis de la llicència Creative Commons Share-alike. Descobreix "
+"el nostre <a href=\"https://github.com/artefactual/atom\">repositori "
+"públic</a>!\n"
+"          "
 
 #: templates/pages/home.html:74
 msgid "Standards-based"
-msgstr "Basada en estàndards "
+msgstr "Basada en estàndards"
 
 #: templates/pages/home.html:76
 msgid ""
@@ -690,16 +724,17 @@ msgid ""
 "          "
 msgstr ""
 "\n"
-"AtoM var ser originalment creat amb l'ajuda i el suport del <a href=\"http://"
-"www.ica.org\">Consell Internacional d'Arxius</a> amb l'objectiu d'estimular "
-"una amplia adopció dels estàndards internacionals. AtoM va ser dissenyat des "
-"del seu origen en base als estàndards disponibles, oferint un conjunt de "
-"serveis que s'ajusten a una amplia varietat d'estàndards nacionals i "
-"internacionals.</p>"
+"            AtoM var ser originalment creat amb l'ajuda i el suport del <a "
+"href=\"http://www.ica.org\">Consell Internacional d'Arxius</a> amb "
+"l'objectiu d'estimular una àmplia adopció dels estàndards internacionals. "
+"AtoM va ser dissenyat des del seu origen d'acord amb els estàndards "
+"disponibles, oferint un conjunt de serveis que s'ajusten a una àmplia "
+"varietat d'estàndards nacionals i internacionals.</p>\n"
+"          "
 
 #: templates/pages/home.html:82
 msgid "Import/export friendly"
-msgstr "Importa/Exporta "
+msgstr "Importa/Exporta"
 
 #: templates/pages/home.html:83
 msgid ""
@@ -722,7 +757,7 @@ msgstr ""
 
 #: templates/pages/home.html:94
 msgid "Multilingual"
-msgstr "Multilingüe "
+msgstr "Multilingüe"
 
 #: templates/pages/home.html:96
 msgid ""
@@ -735,14 +770,16 @@ msgid ""
 "          "
 msgstr ""
 "\n"
-"Tots els elements de la interfície d'usuari i els continguts de la base de "
-"dades poden ser traduïts en múltiples idiomes gràcies a l'eina de traducció "
-"inclosa. Les traduccions inicials han estat realitzades generosament per "
-"voluntaris. ¿Voleu que AtoM sigui traduït vostre idioma? Ajudeu-nos!"
+"            Tots els elements de la interfície d'usuari i els continguts de "
+"la base de dades poden ser traduïts en múltiples idiomes gràcies a l'eina de "
+"traducció inclosa. Les traduccions inicials han estat realitzades "
+"generosament per voluntaris. ¿Voleu que AtoM sigui traduït al vostre idioma? "
+"Ajudeu-nos!\n"
+"          "
 
 #: templates/pages/home.html:103
 msgid "Multirepository"
-msgstr "Multirepositori "
+msgstr "Multi repositori"
 
 #: templates/pages/home.html:105
 msgid ""
@@ -755,16 +792,17 @@ msgid ""
 "          "
 msgstr ""
 "\n"
-"Dissenyat per treballar amb una institució i les seves descripcions "
-"arxivístiques o bé en entorns multi-institucionals (xarxa, portal) acceptant "
-"descripcions per a un nombre il·limitat d'institucions. AtoM és "
-"suficientment flexible per a acomodar-se a les vostres necessitats. Feu una "
+"            Dissenyat per treballar amb una institució i les seves "
+"descripcions arxivístiques o bé en entorns multi institucionals (xarxa, "
+"portal) acceptant descripcions per a un nombre il·limitat d'institucions. "
+"AtoM és prou flexible per a acomodar-se a les vostres necessitats. Feu una "
 "ullada a la llista d'usuaris per a tenir una idea de les diferents formes en "
-"les que el nostre producte és utilitzat."
+"què el nostre producte és utilitzat.\n"
+"          "
 
 #: templates/pages/home.html:112
 msgid "Constantly improving"
-msgstr "Millorant constantment "
+msgstr "Millorant constantment"
 
 #: templates/pages/home.html:114
 msgid ""
@@ -777,11 +815,13 @@ msgid ""
 "          "
 msgstr ""
 "\n"
-"AtoM és un actiu projecte de codi obert amb un ampli nombre d'usuaris. Estem "
-"treballant constantment amb la col·laboració de la comunitat d'usuaris per "
-"millorar l'aplicació. Totes les millores són publicades. Això significa que "
-"qualsevol contribució individual beneficiarà a la resta d'usuaris. Informeu-"
-"vos de les diferents formes amb les quals podeu col·laborar amb AtoM."
+"            AtoM és un actiu projecte de codi obert amb un ampli nombre "
+"d'usuaris. Estem treballant constantment amb la col·laboració de la "
+"comunitat d'usuaris per millorar l'aplicació. Totes les millores són "
+"publicades. Això significa que qualsevol contribució individual beneficiarà "
+"a la resta d'usuaris. Informeu-vos de les diferents formes amb les quals "
+"podeu col·laborar amb AtoM.\n"
+"          "
 
 #~ msgid "Other sites"
 #~ msgstr "Altres llocs web"
