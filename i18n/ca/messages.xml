@@ -4,19 +4,19 @@
   <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-10-22T00:02:56Z" product-name="messages">
     <header/>
     <body>
-      <trans-unit id="f191b2120c9efa7b0c1411d6989e325561707ddb" approved="yes">
+      <trans-unit id="f191b2120c9efa7b0c1411d6989e325561707ddb" approved="yes" xml:space="preserve">
         <source xml:space="preserve"> %1%Download%2% (%3% b)</source>
-        <target xml:space="preserve">%1%Descàrrega%2% (%3% b)</target>
+        <target xml:space="preserve" state="final"> %1%Descàrrega%2% (%3% b)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
-      <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf" approved="yes">
+      <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf" approved="yes" xml:space="preserve">
         <source xml:space="preserve"> Auto refresh</source>
-        <target xml:space="preserve">Auto refrescament</target>
+        <target xml:space="preserve" state="final"> Actualització automàtica</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c283db127dc03106098aff291505eaf3c767d1af" approved="yes">
+      <trans-unit id="c283db127dc03106098aff291505eaf3c767d1af" approved="yes" xml:space="preserve">
         <source xml:space="preserve"> report</source>
-        <target xml:space="preserve">informe</target>
+        <target xml:space="preserve" state="final"> informe</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
       <trans-unit id="9b4d2dfc0b645efe7d3cde382a35f653f85d431a" approved="yes">
@@ -571,9 +571,9 @@
         <target xml:space="preserve">%1 - criteri per a l'informe</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/storageLocationsCriteria.php</note>
       </trans-unit>
-      <trans-unit id="468b90bf601b414515a80106f456b7d70d0d1faa">
+      <trans-unit id="468b90bf601b414515a80106f456b7d70d0d1faa" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1 count</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Nombre de %1</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="29209b378915d0821cca10cdc28f5f8939b4c883" approved="yes">
@@ -591,9 +591,9 @@
         <target xml:space="preserve">%1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_box.php</note>
       </trans-unit>
-      <trans-unit id="72d313b243d53986d85e7e01a166a56e9459e136">
+      <trans-unit id="72d313b243d53986d85e7e01a166a56e9459e136" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1% %2% results for %3%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1% %2% resultats per al %3%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/relatedAuthoritiesSuccess.php</note>
       </trans-unit>
       <trans-unit id="a424c225cc51a311845b00cb205a7f48c77ba76d" approved="yes">
@@ -606,9 +606,9 @@
         <target xml:space="preserve">%1% (iniciat: %2%, estat: %3%).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
-      <trans-unit id="756f042fcda0eb802f3df0f819513e020a8d2599">
+      <trans-unit id="756f042fcda0eb802f3df0f819513e020a8d2599" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1% and %2%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1% i %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="66591ce43004765a071dd97f32de7256f065a33d" approved="yes">
@@ -646,9 +646,9 @@
         <target xml:space="preserve">%1% jerarquia </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0795c0a1a912aec6f9cecb289fd67b878723d1c3">
+      <trans-unit id="0795c0a1a912aec6f9cecb289fd67b878723d1c3" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1% identifiers: prevent entry/import of duplicates</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1% identificadors: impedeix l'entrada/importació de duplicats</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="63f69a6a4fa0a996b434f82acccada20a65eb8a8" approved="yes">
@@ -706,9 +706,9 @@
         <target xml:space="preserve">Límit de pujada %1% de %2% GB excedit en %3%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/actions/uploadAction.class.php</note>
       </trans-unit>
-      <trans-unit id="aa7a47d3b9df07e362e900798b498f5265ebcfc2">
+      <trans-unit id="aa7a47d3b9df07e362e900798b498f5265ebcfc2" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1% upload limits</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Límits de pujada %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
       <trans-unit id="0a4d6fa2c4dab64280355e4b1dc617e015edab41" approved="yes">
@@ -726,19 +726,19 @@
         <target xml:space="preserve">%1%: %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qbAclPlugin/modules/aclGroup/templates/indexTermAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8">
+      <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Agent:%2% Enter the agent associated with the event.%3%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1%Agent:%2% Introduïu l'agent associat a l'esdeveniment.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
-      <trans-unit id="85ff680a8907d82fa780e7780ab3737c953acb7f">
+      <trans-unit id="85ff680a8907d82fa780e7780ab3737c953acb7f" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Authority record identifier%2% - This is a %3%mandatory%4% element.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1%Identificador de registre d'autenticitat%2% - Aquest és un element %3%obligatori%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="98bfda47f615414dcae7d73cda462c8a9bf084c5">
+      <trans-unit id="98bfda47f615414dcae7d73cda462c8a9bf084c5" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Authority record identifier%2% - value not unique.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1%Identificador de registre d'autenticitat%2% - valor no únic.</target>
       </trans-unit>
       <trans-unit id="0e7ce5d17c5b28152bb78cd86897b2bd049c2c20" approved="yes">
         <source xml:space="preserve">%1%Authorized form of name%2% - This is a %3%mandatory%4% element.</source>
@@ -760,9 +760,9 @@
         <target xml:space="preserve">%1%Data(es)%2% -  no és consistent amb els %3%nivells superiors%2%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="ca69a8d0222647ab04e285e54916f496f96bb7a7">
+      <trans-unit id="ca69a8d0222647ab04e285e54916f496f96bb7a7" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Date:%2% Enter the date of the event.%3%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1%Data:%2% Introduïu la data de l'esdeveniment.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="1f6af5abebb9826482f288eb1649dac7566070e2" approved="yes">
@@ -805,14 +805,14 @@
         <target xml:space="preserve">%1%Nivell de descripció%2% - El valor "%value%" no és consistent amb els nivells superiors.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="1b1e4988501ebd3c49e084a0cd85d54561703f8e">
+      <trans-unit id="1b1e4988501ebd3c49e084a0cd85d54561703f8e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Note:%2% Enter notes associated with the event.%3%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1%Nota:%2% Introduïu les notes associades a l'esdeveniment.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
-      <trans-unit id="9fd6ed84039dd69491d9afb8d3770bf847b323fd">
+      <trans-unit id="9fd6ed84039dd69491d9afb8d3770bf847b323fd" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Refresh the page%2% for progress updates.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1%Actualitza la pàgina%2% per a actualitzacions de progrés.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
       <trans-unit id="60a6eff30d40a00da53e674f8fe4ad7a54e94c2c" approved="yes">
@@ -840,9 +840,9 @@
         <target xml:space="preserve">%1%Tipus%2% - Aquest és un element %3%obligatori%4%.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="7c6d52017a474fb9b5e769163ec15941a50bb26f">
+      <trans-unit id="7c6d52017a474fb9b5e769163ec15941a50bb26f" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Type:%2% Select the type of the event.%3%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1%Tipus:%2% Seleccioneu el tipus de l'esdeveniment.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="73c0f876111616e52a79975df6ee70518eb61b7a" approved="yes">
@@ -910,9 +910,9 @@
         <target xml:space="preserve">&lt;strong&gt;Etiqueta:&lt;/strong&gt; Consigneu un nom pel camp de l'identificador alternatiu que indiqui el seu propòsit i ús.&lt;br/&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; Consigneu un codi de referència heretat, identificador alternatiu, o qualsevol altra cadena alfanumèrica associada amb el registre.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
-      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b">
+      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">&lt;strong&gt;Type:&lt;/strong&gt; Enter a name for the alternative identifier field that indicates its purpose and usage.&lt;br/&gt;&lt;strong&gt;Identifier:&lt;/strong&gt; Enter a legacy reference code, alternative identifier, or any other alpha-numeric string associated with the record.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">&lt;strong&gt;Tipus:&lt;/strong&gt; Introduïu un nom per al camp d'identificador alternatiu que indica el seu propòsit i ús.&lt;br/&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; Introduïu un codi de referència antic, un identificador alternatiu o qualsevol altra cadena alfanumèrica associada amb el registre.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
       <trans-unit id="39c6fe6bbe18b341f05e967d01ffa968b9c550e1" approved="yes">
@@ -970,9 +970,9 @@
         <target xml:space="preserve">Un terme que especifica les característiques i tipus general de contingut del recurs. Assigne tants tipus com siguen aplicables. Les opcions de tipus de recurs estan limitades als valors dels elements de nivell superior, en els tipus de recursos MODS.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8d7edde92282d7549c9c92d1d6808bd5a71c5043">
+      <trans-unit id="8d7edde92282d7549c9c92d1d6808bd5a71c5043" xml:space="preserve" approved="yes">
         <source xml:space="preserve">A total of %1% concepts have been processed so far.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Fins ara s'han processat un total de %1% conceptes.</target>
       </trans-unit>
       <trans-unit id="11539fd6f9415e19226121f4e0e8a604abc9a332" approved="yes">
         <source xml:space="preserve">A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it. Choice and format of titles should be governed by a content standard such as the Anglo-American Cataloging Rules, 2nd edition (AACR2), Cataloguing Cultural Objects (CCO), or Describing Archives: A Content Standard (DACS). Details such as capitalization, choosing among the forms of titles presented on an item, and use of abbreviations should be determined based on the rules in a content standard. One standard should be chosen and used consistently for all records in a set.</source>
@@ -984,9 +984,9 @@
         <target xml:space="preserve">AIP UUID</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
-      <trans-unit id="e6bf2a6ce688da07175757b3663bb74bda3fdc85">
+      <trans-unit id="e6bf2a6ce688da07175757b3663bb74bda3fdc85" xml:space="preserve" approved="yes">
         <source xml:space="preserve">AIP download</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Baixada de l'AIP</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
       <trans-unit id="d61515ee148041bbb27b0e432639d71925f2a919" approved="yes">
@@ -1014,9 +1014,9 @@
         <target xml:space="preserve">Quant a</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="804920c22a8469a08c06be1810ad95d2e27f7544">
+      <trans-unit id="804920c22a8469a08c06be1810ad95d2e27f7544" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Access Copies</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Accedeix a còpies</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="7d35718ed77792339cf701c0ed562c8882866674" approved="yes">
@@ -1049,9 +1049,9 @@
         <target xml:space="preserve">Punts d'accés </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ede344da2124c710e91d93c672c849aca1bb1540">
+      <trans-unit id="ede344da2124c710e91d93c672c849aca1bb1540" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Access points area</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Àrea de punts d'accés</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="0b53e24d8bbbf86c671acad4c5608335b619874d" approved="yes">
@@ -1059,9 +1059,9 @@
         <target xml:space="preserve">Restriccions d'accés </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
-      <trans-unit id="178c258f999e25b5f99bdde5bd3165e3f1c534b9">
+      <trans-unit id="178c258f999e25b5f99bdde5bd3165e3f1c534b9" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Access statement</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Expressió d'accés</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="d660049bc1f2f54fc0e3f4ace6fa5eb205f2f1e0" approved="yes">
@@ -1079,14 +1079,14 @@
         <target xml:space="preserve">Tipus d'adquisició</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="8f690053c5a934ec3d22a8c4db84e1c7c1db52ef">
+      <trans-unit id="8f690053c5a934ec3d22a8c4db84e1c7c1db52ef" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Accession alternative identifier</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Identificador alternatiu d'accessibilitat</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="b0444ca6a89ac9ede54e88c692f1c0059562f0b2">
+      <trans-unit id="b0444ca6a89ac9ede54e88c692f1c0059562f0b2" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Accession alternative identifier type</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Tipus d'identificador alternatiu d'accés</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="c9df8646e368f45d8085a69e9a3a50e584fb623d" approved="yes">
@@ -1104,14 +1104,14 @@
         <target xml:space="preserve">La data d'ingrés és la data de recepció i incorporació de la documentació al fons de la institució receptora durant, p. e., un procés de donació.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="68b5c50fbfb0eed47fded7af59ee5e8d17b214ff">
+      <trans-unit id="68b5c50fbfb0eed47fded7af59ee5e8d17b214ff" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Accession event note</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Nota d'esdeveniment d'accés</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="2c1dd1ab41428e1a671da8179efc58765565b2b1">
+      <trans-unit id="2c1dd1ab41428e1a671da8179efc58765565b2b1" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Accession event type</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Tipus d'esdeveniment d'accés</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="dc94c7dd428fc7f45da026ba9b3c16e8b0a2cbb9" approved="yes">
@@ -1184,9 +1184,9 @@
         <target xml:space="preserve">Agregació</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="4628f64b8f7fa8569928ea5254862c1f372f721a">
+      <trans-unit id="4628f64b8f7fa8569928ea5254862c1f372f721a" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Acquisition and appraisal area</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Àrea d'adquisició i taxació</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="ed2e24df777b453cbcd6286a6b5b98a6beb0cefe" approved="yes">
@@ -1264,14 +1264,14 @@
         <target xml:space="preserve">Nom de l'Actor</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_event.php</note>
       </trans-unit>
-      <trans-unit id="c2363cffaf1b7608fca0403c12d591a53e8aaa9d">
+      <trans-unit id="c2363cffaf1b7608fca0403c12d591a53e8aaa9d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Actor occupation note</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Nota d'ocupació de l'actor</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="eef8899c393d30c12c965ae848d496c3cc55b4bc">
+      <trans-unit id="eef8899c393d30c12c965ae848d496c3cc55b4bc" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Actor occupations</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Ocupacions d'actor</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="61cc55aa0453184734c3fa0b621eda6fa874bd83" approved="yes">
@@ -1479,9 +1479,9 @@
         <target xml:space="preserve">Àrea d'administració </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_adminInfo.php</note>
       </trans-unit>
-      <trans-unit id="993c7345b1c40a46c384adc8dcb5e66f351336fc">
+      <trans-unit id="993c7345b1c40a46c384adc8dcb5e66f351336fc" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Administrative / Biographical history</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Història Administrativa / Biogràfica</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="d415ed22e48141ac19b2d8228082bdc977a566a5" approved="yes">
@@ -1494,9 +1494,9 @@
         <target xml:space="preserve">Història administrativa </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_creatorDetail.php</note>
       </trans-unit>
-      <trans-unit id="74c727389391f43cf0dd6b83ab803975e5afd9f9">
+      <trans-unit id="74c727389391f43cf0dd6b83ab803975e5afd9f9" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Administrative history / Biographical sketch</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Història administrativa / Esbós biogràfic</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="7d4401b5a7237bee2bac2dea84901a9a783b4062" approved="yes">
@@ -1519,14 +1519,14 @@
         <target xml:space="preserve">Opcions avançades de cerca</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d67b5838bb3cc45f6632dbfabcbc9a5bd4cc68bf">
+      <trans-unit id="d67b5838bb3cc45f6632dbfabcbc9a5bd4cc68bf" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Advertisements</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Publicitat</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="5ce2e6f40299204d94dfc0abf19fa8ab52d6c211">
+      <trans-unit id="5ce2e6f40299204d94dfc0abf19fa8ab52d6c211" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Agent</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Agent</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="ee68d3496bb455d50d1b8a9987c710dd56818065" approved="yes">
@@ -1539,9 +1539,9 @@
         <target xml:space="preserve">Agricultura</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="4c45e72e850cd56db51e8286b35934fa0ec1c8e9">
+      <trans-unit id="4c45e72e850cd56db51e8286b35934fa0ec1c8e9" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Albums</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Àlbums</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="6a72085653e4c5be8c7640c868ef787cbcf063d1" approved="yes">
@@ -1614,9 +1614,9 @@
         <target xml:space="preserve">Designacions alfanumèriques</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="f978200b112084eef0c088e1d0075ad2fbca39cf">
+      <trans-unit id="f978200b112084eef0c088e1d0075ad2fbca39cf" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Alt text</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Text Alt</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="cc810d45c54726ec116b730834b8e947ca271553" approved="yes">
@@ -1699,9 +1699,9 @@
         <target xml:space="preserve">Dibuix arquitectònic</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="b040b4179b8b00702858fdb4c1afec3d6d284509">
+      <trans-unit id="b040b4179b8b00702858fdb4c1afec3d6d284509" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Architecture</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Arquitectura</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="03d8c27c65cf7afef65b5732baa4dacf4c476e7d" approved="yes">
@@ -1839,9 +1839,9 @@
         <target xml:space="preserve">Art i Cultura</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="da38326e1a985d14e0463da1172b0d2a811789c8">
+      <trans-unit id="da38326e1a985d14e0463da1172b0d2a811789c8" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Artwork component</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Component de l'obra d'art</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="b8219ec5c55ad71e0081cc2ad268436b5be38db5" approved="yes">
@@ -1889,9 +1889,9 @@
         <target xml:space="preserve">Registre d'autoritat</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="5f8a32349b6b13e78f20a6c92111bd667380ecfc">
+      <trans-unit id="5f8a32349b6b13e78f20a6c92111bd667380ecfc" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Authority record identifier</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Identificador de registre d'autoritat</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/actions/browseAction.class.php</note>
       </trans-unit>
       <trans-unit id="d4b8dc64c1f1140cb5b4f401cb777b9bd0c88672" approved="yes">
@@ -1899,9 +1899,9 @@
         <target xml:space="preserve">Permisos del registre d'autoritat</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="7e9c2f90e0894bc17d03c473f8462cae54b30cb4">
+      <trans-unit id="7e9c2f90e0894bc17d03c473f8462cae54b30cb4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Authority record relationships</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Relacions de registre d'autoritat</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="670cce2a30941ecd957867e78acbb60df386f4c9" approved="yes">
@@ -1979,9 +1979,9 @@
         <target xml:space="preserve">Raó per la qual s'han atorgat o restringit els drets</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="23fda70b6be2e72e7a8739da8feab5f4302718bd">
+      <trans-unit id="23fda70b6be2e72e7a8739da8feab5f4302718bd" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Bind Lookup Attribute</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Atribut de cerca de la vinculació</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/ldapSuccess.php</note>
       </trans-unit>
       <trans-unit id="bafa13b789066310abe28577644115741da38ed8" approved="yes">
@@ -1994,9 +1994,9 @@
         <target xml:space="preserve">Esquema biogràfic </target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="9ae18bdeaf544b0ce5971be2d179f57a07829b8b">
+      <trans-unit id="9ae18bdeaf544b0ce5971be2d179f57a07829b8b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Blank forms</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Formularis en blanc</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="6da7a483d9707ad46258f9cfd24993462c3c50bb" approved="yes">
@@ -2004,9 +2004,9 @@
         <target xml:space="preserve">Element buit</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4a7fdd8c17425252332ea0e89a35722b72d83135">
+      <trans-unit id="4a7fdd8c17425252332ea0e89a35722b72d83135" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Books</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Llibres</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="1f4698382842477e211eb46de81fa506f01a8c34" approved="yes">
@@ -2049,9 +2049,9 @@
         <target xml:space="preserve">Terme general</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_rightContextMenu.php</note>
       </trans-unit>
-      <trans-unit id="d2678ac0beae1002d639cd4d73a7c71ca817983d">
+      <trans-unit id="d2678ac0beae1002d639cd4d73a7c71ca817983d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Broadsides</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cartells</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="2f3b5c55bc27cdf81af57e6a574b54ee50b7b246" approved="yes">
@@ -2099,9 +2099,9 @@
         <target xml:space="preserve">Explorar objectes digitals</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_actionIcons.php</note>
       </trans-unit>
-      <trans-unit id="1252b16cee3892d33d04248d350b36aafbe38750">
+      <trans-unit id="1252b16cee3892d33d04248d350b36aafbe38750" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Browse our collection</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Navegueu per la nostra col·lecció</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="a6fe4bd72fb6139ed2ea4e799c167cbadc06756d" approved="yes">
@@ -2119,9 +2119,9 @@
         <target xml:space="preserve">CSV</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="37de6dc5ff70e0bef344db7a7465025677c58ef8">
+      <trans-unit id="37de6dc5ff70e0bef344db7a7465025677c58ef8" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Cache description XML exports upon creation/modification</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Mantenir en la memòria cau l'exportació en XML de la descripció quan es crei o modifiqui</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="c2f7ded18f69796b981cb853f42764f7beb96084" approved="yes">
@@ -2129,9 +2129,9 @@
         <target xml:space="preserve">Calcular les dates</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_calculateDatesLink.php</note>
       </trans-unit>
-      <trans-unit id="0cd43c9651d54301014df3d8b1c6ea6c7ac4e031">
+      <trans-unit id="0cd43c9651d54301014df3d8b1c6ea6c7ac4e031" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Calculate dates - Error</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Calcula les dates - Error</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
       <trans-unit id="6c938d4539ddb4d0b53121776cd5cd73282c7fca" approved="yes">
@@ -2149,14 +2149,14 @@
         <target xml:space="preserve">Cancel·la</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/editThemeSuccess.php</note>
       </trans-unit>
-      <trans-unit id="61206e8e039de14fa9e166d49ce3e3299795a37e">
+      <trans-unit id="61206e8e039de14fa9e166d49ce3e3299795a37e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Cannot calculate accumulated dates because no lower level dates exist</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">No es poden calcular les dates acumulades perquè no hi ha dates de nivell més baix</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
-      <trans-unit id="b39a4bb27bff33150a8d40bf338235babc147532">
+      <trans-unit id="b39a4bb27bff33150a8d40bf338235babc147532" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Cannot calculate accumulated dates because this %1% has no children</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">No es poden calcular les dates acumulades perquè aquest %1% no té fills</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
       <trans-unit id="a3726fb96172eec7b5ba2fa125393173def0c88b" approved="yes">
@@ -2169,19 +2169,19 @@
         <target xml:space="preserve">Material cartogràfic</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="fc609852a379e25583ec4570b5135f5d79bc6b89">
+      <trans-unit id="fc609852a379e25583ec4570b5135f5d79bc6b89" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Cartoons (Commentary)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Còmics (Comentari)</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="5317c270f39510ab8b713b59624b7f28d7678f5f">
+      <trans-unit id="5317c270f39510ab8b713b59624b7f28d7678f5f" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Cast note</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Nota de repartiment</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="d99c226d02cb06df9c4f96d0e0140b91c9b8f41f">
+      <trans-unit id="d99c226d02cb06df9c4f96d0e0140b91c9b8f41f" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Catalogs</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Catàlegs</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="a3c686e711e4720f99b4562bb3dbaae7ab658cf2" approved="yes">
@@ -2234,9 +2234,9 @@
         <target xml:space="preserve">Ciutat</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
       </trans-unit>
-      <trans-unit id="795ccef367844002f39b21be2bb17dd60716f322">
+      <trans-unit id="795ccef367844002f39b21be2bb17dd60716f322" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Cityscapes</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Paisatges urbans</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4fee7bab4188929f417cffc894d785b5aa121349" approved="yes">
@@ -2254,9 +2254,9 @@
         <target xml:space="preserve">Buida el portaretalls de %1</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7d49842f4d504854e52ee0d1ad7b50eabc064b48">
+      <trans-unit id="7d49842f4d504854e52ee0d1ad7b50eabc064b48" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clear all selections</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Neteja totes les seleccions</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="3025489d722e421c7a7acfd6c2604b1478df8f72" approved="yes">
@@ -2289,44 +2289,44 @@
         <target xml:space="preserve">Identificador de portaretalls</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3ac7afab50b8e4b29ea784f8a9a6bfbdacfddb6a">
+      <trans-unit id="3ac7afab50b8e4b29ea784f8a9a6bfbdacfddb6a" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clipboard ID generation failure.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Ha fallat la generació de l'identificador del porta-retalls.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="380b3cc4c68afd74511699266a69da6a0d6ba2c8">
+      <trans-unit id="380b3cc4c68afd74511699266a69da6a0d6ba2c8" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clipboard ID not found.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">No s'ha trobat l'identificador del porta-retalls.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
-      <trans-unit id="a229d24711fbffe55ed71b8c810c80877c23959d">
+      <trans-unit id="a229d24711fbffe55ed71b8c810c80877c23959d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clipboard export</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Exportació del porta-retalls</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="54054d2f15dc66beed2305c2532cc1b4ae8d8acb">
+      <trans-unit id="54054d2f15dc66beed2305c2532cc1b4ae8d8acb" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clipboard saving</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Guardar el porta-retalls</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5bc6794e3d329ed9b4e5f96ec1f92bf105f6df04">
+      <trans-unit id="5bc6794e3d329ed9b4e5f96ec1f92bf105f6df04" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clipboard sending</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Enviament del porta-retalls</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0d74eb900087b53c47e04782f04c5f9e8659f05e">
+      <trans-unit id="0d74eb900087b53c47e04782f04c5f9e8659f05e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clipboard settings</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Configuració del porta-retalls</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8c7ff8d252f0717efba0ec7bed4177403c19308c">
+      <trans-unit id="8c7ff8d252f0717efba0ec7bed4177403c19308c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clipboard settings saved.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">S'ha desat la configuració del porta-retalls.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/clipboardAction.class.php</note>
       </trans-unit>
-      <trans-unit id="38e98eb03cdf243f853afd1440a2334b307f72db">
+      <trans-unit id="38e98eb03cdf243f853afd1440a2334b307f72db" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clippings</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Retalls</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="bbfa773e5a63a5ea58c9b6207e608ca0120e592a" approved="yes">
@@ -2364,9 +2364,9 @@
         <target xml:space="preserve">Complet</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="1798b3ba42ee08ea09d9720b2d9c0181abbfe3e4">
+      <trans-unit id="1798b3ba42ee08ea09d9720b2d9c0181abbfe3e4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Completed</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Completat</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="181f114bea80ef79164a40ea4c5ed7e48f155ef3" approved="yes">
@@ -2559,9 +2559,9 @@
         <target xml:space="preserve">Organisme</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="f3eecae04edf94fec2f91e4696b4cd5866dfd32c">
+      <trans-unit id="f3eecae04edf94fec2f91e4696b4cd5866dfd32c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Correspondence</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Correspondència</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="d523ebbd10146cdfd39dee077f04c9d08468d0bc" approved="yes">
@@ -2629,9 +2629,9 @@
         <target xml:space="preserve">Productors </target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="cada31f65b75f66872da62dddd342c640d98c0dd">
+      <trans-unit id="cada31f65b75f66872da62dddd342c640d98c0dd" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Credits note</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Nota de crèdits</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="e285982eddd75f4045c8e219e2a6d32db342065d" approved="yes">
@@ -2654,14 +2654,14 @@
         <target xml:space="preserve">Nota DACS</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="41916620b0cf0e36e71b87df105e6457e94cdfed">
+      <trans-unit id="41916620b0cf0e36e71b87df105e6457e94cdfed" xml:space="preserve" approved="yes">
         <source xml:space="preserve">DACS template - area headings</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Plantilla DACS - encapçalaments d'àrea</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="15b15fb65608a7f95b836e8abfade5852ffbb6a8">
+      <trans-unit id="15b15fb65608a7f95b836e8abfade5852ffbb6a8" xml:space="preserve" approved="yes">
         <source xml:space="preserve">DACS template - elements</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Plantilla DACS - elements</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="a7205d1e4bab4d2e6c333c8900cee76cbdb84393" approved="yes">
@@ -2984,9 +2984,9 @@
         <target xml:space="preserve">Determineu si s'ha d'ordenar als germanastres en l'arbre genealògic i, si és així, quin criteri d'ordre cal seguir</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6ecbbd350e9d40b82a484b511a78846981fa26af">
+      <trans-unit id="6ecbbd350e9d40b82a484b511a78846981fa26af" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Diaries</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Diaris</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="c06c0afa72cfe94700e0c32481bbc96b96389502" approved="yes">
@@ -3039,9 +3039,9 @@
         <target xml:space="preserve">Deshabilita les pujades</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
-      <trans-unit id="f4f4473df8cb59f0a369aebee3d1509adc0151c6">
+      <trans-unit id="f4f4473df8cb59f0a369aebee3d1509adc0151c6" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Disabled</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Desactivat</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/uploadsAction.class.php</note>
       </trans-unit>
       <trans-unit id="ef71b2c49486cf9b1aeb5eb80d5601433c60ff8d" approved="yes">
@@ -3149,9 +3149,9 @@
         <target xml:space="preserve">Descarrega %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_showCompound.php</note>
       </trans-unit>
-      <trans-unit id="c463408d9f7db3eb69ee8eaa8b0624afa387838c">
+      <trans-unit id="c463408d9f7db3eb69ee8eaa8b0624afa387838c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Download AIP</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Baixa l'AIP</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageService/templates/_aipDownload.php</note>
       </trans-unit>
       <trans-unit id="f8c1e237cf5d16100e0f59c5297b2b4ff22dcb4e" approved="yes">
@@ -3159,9 +3159,9 @@
         <target xml:space="preserve">Descarrega l'enregistrament sonor</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_showAudio.php</note>
       </trans-unit>
-      <trans-unit id="774025da27ed170fad0f15132460ea08d72f1e12">
+      <trans-unit id="774025da27ed170fad0f15132460ea08d72f1e12" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Download file</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Baixa el fitxer</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageService/templates/_aipDownload.php</note>
       </trans-unit>
       <trans-unit id="4c0f35706de44025877075c81791fbf5c8f94718" approved="yes">
@@ -3179,9 +3179,9 @@
         <target xml:space="preserve">Esborrany </target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="d80a665c4b08efd48f9102a9356585061f711397">
+      <trans-unit id="d80a665c4b08efd48f9102a9356585061f711397" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Drawings</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Dibuixos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="d9a71452d45343449c8c6bc92a11b9d123f7abd2" approved="yes">
@@ -3269,9 +3269,9 @@
         <target xml:space="preserve">Edita els punts d'accés </target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a631d4230962f9ed36c5cd4dcf29fdce6ccb1438">
+      <trans-unit id="a631d4230962f9ed36c5cd4dcf29fdce6ccb1438" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Edit access points area</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Edita l'àrea de punts d'accés</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="ae989bb28d3d72327c0674918fa2d2d93f60a375" approved="yes">
@@ -3564,19 +3564,19 @@
         <target xml:space="preserve">Buit</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/reportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9ea77181ac6a721f1181cacbc3707cd24c6a1b38">
+      <trans-unit id="9ea77181ac6a721f1181cacbc3707cd24c6a1b38" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Empty field</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Camp buit</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
-      <trans-unit id="0bf311845ee2a055302a5a1092afba22e08ccf57">
+      <trans-unit id="0bf311845ee2a055302a5a1092afba22e08ccf57" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Empty: %1%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Buit: %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/actions/browseAction.class.php</note>
       </trans-unit>
-      <trans-unit id="cd72d9a2e7446d7d38a84f0d6268f562b7a37b7e">
+      <trans-unit id="cd72d9a2e7446d7d38a84f0d6268f562b7a37b7e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Enable AIP download</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Activa la baixada AIP</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
       <trans-unit id="f01229120c68d5a8dd7826c901229cb90155096b" approved="yes">
@@ -3584,9 +3584,9 @@
         <target xml:space="preserve">Activa la funcionalitat de Markdown</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/markdownSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ad7811e5bae6c62ab58c14a605a2af662ee8326e">
+      <trans-unit id="ad7811e5bae6c62ab58c14a605a2af662ee8326e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Enable access statement</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Activa la declaració d'accés</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="703d28e72d95e4b8a8ffd46f41a8d51e0905532e" approved="yes">
@@ -3599,9 +3599,9 @@
         <target xml:space="preserve">Habilitar notificacions automàtiques d'actualització</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="962b3315691a1bd892ff125cbe99b9567faa4cdc">
+      <trans-unit id="962b3315691a1bd892ff125cbe99b9567faa4cdc" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Enable clipboard send functionality</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Habilita la funcionalitat d'enviament del porta-retalls</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="849510ba30fb00121f54ba31f7a319bce5388498" approved="yes">
@@ -3614,9 +3614,9 @@
         <target xml:space="preserve">Activa el registre de descripció dels canvis</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="b9096776643c10d770862bc801bf1028ce4b35a9">
+      <trans-unit id="b9096776643c10d770862bc801bf1028ce4b35a9" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Enable digital object export</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Habilita l'exportació d'objectes digitals</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="d6395f068ba11d205da4a6492fefdd088ee4ecea" approved="yes">
@@ -3669,14 +3669,14 @@
         <target xml:space="preserve">Introduir la data d'inici del copyright, si la coneix. Format vàlid de data: AAAA-MM-DD.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c7856c267f042afefdcdeaff2246bad18c9a6b70">
+      <trans-unit id="c7856c267f042afefdcdeaff2246bad18c9a6b70" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Enter the digital latitude of the institution's physical location (rather than degrees, minutes and seconds), e.g. 49.459044</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Introduïu la latitud digital de la ubicació física de la institució (en lloc de graus, minuts i segons), p. ex. 49.459044</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d3b0fb2cd18b22fb1592d3e3919c069fc23e6579">
+      <trans-unit id="d3b0fb2cd18b22fb1592d3e3919c069fc23e6579" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Enter the digital longitude of the institution's physical location (rather than degrees, minutes and seconds), e.g. -104.296984</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Introduïu la longitud digital de la ubicació física de la institució (en lloc de graus, minuts i segons), p. ex. -104.296984</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="cdddf0d0bd5b6859a807aa96dd11f7acbbb95164" approved="yes">
@@ -3719,9 +3719,9 @@
         <target xml:space="preserve">Entorn</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="8bb54e8c77df5aa20bc48d6bcda9b9a0c11ab672">
+      <trans-unit id="8bb54e8c77df5aa20bc48d6bcda9b9a0c11ab672" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Ephemera</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Efemèride</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="68d26ae6679ac03ce86a1c2a41fb7d899f330058" approved="yes">
@@ -3744,14 +3744,14 @@
         <target xml:space="preserve">Preserva caràcters especials en les cerques</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="48561a57cff173e961c3d7cc0df8f5513f0bd9b1">
+      <trans-unit id="48561a57cff173e961c3d7cc0df8f5513f0bd9b1" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Essays</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Assajos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="9e5df38f7d0cb8217a20c895ddf0671d33415703">
+      <trans-unit id="9e5df38f7d0cb8217a20c895ddf0671d33415703" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Ethnography</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Etnografia</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="ad8919ace091b14011c6439cfd5e1707b58f5abd" approved="yes">
@@ -3774,9 +3774,9 @@
         <target xml:space="preserve">Tipus d'activitat</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_event.php</note>
       </trans-unit>
-      <trans-unit id="08d8a79567198c02c6d085a028d6d720c42514a4">
+      <trans-unit id="08d8a79567198c02c6d085a028d6d720c42514a4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Event(s)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Esdeveniment(s)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="0cae74747ce921ce4dc2761826efeaa22990fc6f" approved="yes">
@@ -3804,9 +3804,9 @@
         <target xml:space="preserve">Informes previs:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/reportsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6226286c9419e6c255e99750acc65044ea82879d">
+      <trans-unit id="6226286c9419e6c255e99750acc65044ea82879d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Explicitly state the name of the repository, including any parent bodies (DACS 2.2.2). Search for an existing name in the archival institution records by typing the first few characters of the name. Alternatively, type a new name to create and link to a new archival institution record.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Indiqueu explícitament el nom del repositori, incloent-hi qualsevol cos pare (DACS 2.2.2). Cerqueu un nom existent als registres de la institució d'arxiu escrivint els primers caràcters del nom. Alternativament, escriviu un nom nou per a crear i enllaçar amb un registre nou d'una institució d'arxiu.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b965ae66fcc42dd628d9bdf69b2b3719c5cb2d26" approved="yes">
@@ -3834,9 +3834,9 @@
         <target xml:space="preserve">Opcions d'exportació</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="92a8228af0cca31296548d09aefd1471c03cfac2">
+      <trans-unit id="92a8228af0cca31296548d09aefd1471c03cfac2" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Export storage report</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Exporta l'informe d'emmagatzematge</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="71a1260f76544c68e3425a1c076e5499b0002fbb" approved="yes">
@@ -3859,14 +3859,14 @@
         <target xml:space="preserve">URI extern</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="bf20a49b9a909ddbaffd2f27c8e2253a654c3f05">
+      <trans-unit id="bf20a49b9a909ddbaffd2f27c8e2253a654c3f05" xml:space="preserve" approved="yes">
         <source xml:space="preserve">External URL to send clipboard contents to</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">URL extern a on enviar el contingut del porta-retalls</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
-      <trans-unit id="57f8564e8c8c1fba4214116f6a9ec2b0fdcfd748">
+      <trans-unit id="57f8564e8c8c1fba4214116f6a9ec2b0fdcfd748" xml:space="preserve" approved="yes">
         <source xml:space="preserve">External file</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Fitxer extern</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4efb6cb7c018f0c686d4e9d68b615950223b4dd1" approved="yes">
@@ -3889,9 +3889,9 @@
         <target xml:space="preserve">Fax:</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfEadPlugin/modules/sfEadPlugin/templates/indexSuccessBodyDidElement.xml.php</note>
       </trans-unit>
-      <trans-unit id="af7d98a72d49b9a030058842ba85df839f2074e6">
+      <trans-unit id="af7d98a72d49b9a030058842ba85df839f2074e6" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Fieldnotes</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Notes de camp</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="2c3cafa4db3f3e1e51b3dff4303502dbe42b7a89" approved="yes">
@@ -3899,9 +3899,9 @@
         <target xml:space="preserve">Unitat documental composta</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="bbe31775cd1d2fb65f5eea53a07acb265094703a">
+      <trans-unit id="bbe31775cd1d2fb65f5eea53a07acb265094703a" xml:space="preserve" approved="yes">
         <source xml:space="preserve">File UUID</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">UUID del fitxer</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="cccf53028508de752f66891e8ccf4ac2b3e1053e" approved="yes">
@@ -3964,9 +3964,9 @@
         <target xml:space="preserve">Fi</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="14a210a056a2c2b691da36fb481624ac71b3fa16">
+      <trans-unit id="14a210a056a2c2b691da36fb481624ac71b3fa16" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Find results where:</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Troba els resultats on:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="1d418f9a4f336e7d5a4571efa07895625a635204" approved="yes">
@@ -4179,9 +4179,9 @@
         <target xml:space="preserve">S'està generant l'instrument de descripció per a: %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/generateFindingAidAction.class.php</note>
       </trans-unit>
-      <trans-unit id="2aa31fca5e4f84ebdfaab36c9a6da36cf8d36509">
+      <trans-unit id="2aa31fca5e4f84ebdfaab36c9a6da36cf8d36509" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Genre</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Gènere</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="1765a374202a857a4411d997f018750fb651d2de" approved="yes">
@@ -4279,9 +4279,9 @@
         <target xml:space="preserve">Anar a %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_logo.php</note>
       </trans-unit>
-      <trans-unit id="118ca10eb59c24e6a2eb2a71c7b7acbd1c156222">
+      <trans-unit id="118ca10eb59c24e6a2eb2a71c7b7acbd1c156222" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Go to clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Ves al porta-retalls</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="cfffcdb55549bfe6577314cfbbba000f833f1b12" approved="yes">
@@ -4334,9 +4334,9 @@
         <target xml:space="preserve">Grups</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="0524a68bbf49da748d2e1aab162bd304ba8f2d8b">
+      <trans-unit id="0524a68bbf49da748d2e1aab162bd304ba8f2d8b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">HTTP method to use when sending clipboard contents</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Mètode HTTP a usar en enviar el contingut del porta-retalls</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="5f4fe34e347c71f32427fcb74edb078bf5eed941" approved="yes">
@@ -4354,9 +4354,9 @@
         <target xml:space="preserve">Hola, %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_userMenu.php</note>
       </trans-unit>
-      <trans-unit id="40b1f2a903a68c126e28f48e3edfa9785a4a660e">
+      <trans-unit id="40b1f2a903a68c126e28f48e3edfa9785a4a660e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Hide hierarchy</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Amaga la jerarquia</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="3ed71999e2a205e7dd06687ed5dd96f7d22fdd01" approved="yes">
@@ -4469,9 +4469,9 @@
         <target xml:space="preserve">Identificador - Tìtol</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/treeviewAction.class.php</note>
       </trans-unit>
-      <trans-unit id="006a7eeac5ac8f81f0ea9349a83fe91968f01829">
+      <trans-unit id="006a7eeac5ac8f81f0ea9349a83fe91968f01829" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Identifier available.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Identificador disponible.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/checkIdentifierAvailableAction.class.php</note>
       </trans-unit>
       <trans-unit id="67173cff625212111efc2488c3fb300645412f0f" approved="yes">
@@ -4499,9 +4499,9 @@
         <target xml:space="preserve">S'ha deixat la configuració de l'identificador.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/identifierAction.class.php</note>
       </trans-unit>
-      <trans-unit id="ff499f8b3f7e6956195a84807d93b3ba89140c9d">
+      <trans-unit id="ff499f8b3f7e6956195a84807d93b3ba89140c9d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Identifier unavailable.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">L'identificador no està disponible.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/checkIdentifierAvailableAction.class.php</note>
       </trans-unit>
       <trans-unit id="e057026030ab8d3892a0ba2794e790549c6704e4" approved="yes">
@@ -4519,14 +4519,14 @@
         <target xml:space="preserve">Identificador/títol</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/_relatedResource.php</note>
       </trans-unit>
-      <trans-unit id="f03b406aee85235817f500ac63d2d3991e649d01">
+      <trans-unit id="f03b406aee85235817f500ac63d2d3991e649d01" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Identifier: Enter an unambiguous code used to uniquely identify the description. Level: Select a level of description from the drop-down menu. See RAD 1.0A for rules and conventions on selecting levels of description. Title: Enter the title proper, either transcribed or supplied. (RAD 1.1B)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Identificador: Introduïu un codi sense ambigüitats que s'utilitza per identificar de manera única la descripció. Nivell: Seleccioneu un nivell de descripció des del menú desplegable. Vegeu RAD 1.0A per a regles i convencions sobre la selecció de nivells de descripció. Títol: Introduïu el títol adequat, ja sigui transcrit o subministrat. (RAD 1.1B)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="945e300e4603ccef917c89bd595a06ed39369f78">
+      <trans-unit id="945e300e4603ccef917c89bd595a06ed39369f78" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Identifier: Provide a specific local reference code, control number, or other unique identifier. Level of description: Record the level of this unit of description. Title: Provide either a formal title or a concise supplied title in accordance with the rules of multilevel description and national conventions.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Identificador: proporcioneu un codi de referència local específic, un número de control o un altre identificador únic. Nivell de descripció: Enregistra el nivell d'aquesta unitat de descripció. Títol: Proporcioneu un títol formal o un títol concís d'acord amb les normes de descripció multinivell i convencions nacionals.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="649d2864df18704de32e689e69e63f2483e8b76e" approved="yes">
@@ -4644,9 +4644,9 @@
         <target xml:space="preserve">Ignorar les coincidències i importar com nous registres</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a5453ae999ab5e1d0dd478396df78692a8785a61">
+      <trans-unit id="a5453ae999ab5e1d0dd478396df78692a8785a61" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Illustrations</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Il·lustracions</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="50e19fda0d5b4b74a4a1a1d584e56578693a4ea4" approved="yes">
@@ -4679,9 +4679,9 @@
         <target xml:space="preserve">Importar un fitxer en format XML</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/importSelectAction.class.php</note>
       </trans-unit>
-      <trans-unit id="8b7010518b844a1c5b9ea0287bef8c124c0a4e11">
+      <trans-unit id="8b7010518b844a1c5b9ea0287bef8c124c0a4e11" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Import aborted: %1% identifier "%2%" not unique.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">S'ha interromput la importació: l'identificador %1% «%2%» no és únic.</target>
       </trans-unit>
       <trans-unit id="91a059de3e7090e6eeaf6286c1093fcb551e9131" approved="yes">
         <source xml:space="preserve">Import digital objects</source>
@@ -4733,14 +4733,14 @@
         <target xml:space="preserve">Incloure tots els nivells de descripció dels descendents</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f2814000ca36568f871fcc44e51d5f6924dd6b0c">
+      <trans-unit id="f2814000ca36568f871fcc44e51d5f6924dd6b0c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Include containers linked to accessions</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Inclou els contenidors vinculats a les adhesions</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2bc43226df1ac86e32467495586bb46ef07591b4">
+      <trans-unit id="2bc43226df1ac86e32467495586bb46ef07591b4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Include containers linked to descriptions</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Inclou els contenidors enllaçats a descripcions</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="6a3a406e4bb13f7409892a6b2de4b09ab663482d" approved="yes">
@@ -4748,9 +4748,9 @@
         <target xml:space="preserve">Incloure descendents</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="4064996778957a5f98caa73059e39c0452939a61">
+      <trans-unit id="4064996778957a5f98caa73059e39c0452939a61" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Include digital objects</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Inclou objectes digitals</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="a27cc59c4c88f610ee50249c4f533677b9435ec5" approved="yes">
@@ -4768,9 +4768,9 @@
         <target xml:space="preserve">Incloure el guió de transformació</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSelectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="64f5b6914d348c81202834599e782f365608d838">
+      <trans-unit id="64f5b6914d348c81202834599e782f365608d838" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Include unlinked containers</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Inclou contenidors no enllaçats</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/holdingsReportExportSuccess.php</note>
       </trans-unit>
       <trans-unit id="387fd1bbc18419e26c612f4acad9213e5073ade4" approved="yes">
@@ -4778,9 +4778,9 @@
         <target xml:space="preserve">Incomplet</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="9c4740018c874c7b552f9809412b373666880704">
+      <trans-unit id="9c4740018c874c7b552f9809412b373666880704" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Incorrect clipboard ID and/or action.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">ID i/o acció incorrectes del porta-retalls.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="b90d44713f9b698e94e40d38871b2aef40547c0f" approved="yes">
@@ -4843,9 +4843,9 @@
         <target xml:space="preserve">Informació sobre les circumstàncies i història de l'ingrés. Si l'ingrés va ser adquirit directament pel productor, consigneu aquesta informació en el camp Origen de l'ingrés.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7b07bf71445b05c31ec39570ec64dd1165468c23">
+      <trans-unit id="7b07bf71445b05c31ec39570ec64dd1165468c23" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Ingested</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Ingerit</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="18f99833bb423f35b13b6374e87a08306b82f669" approved="yes">
@@ -4858,9 +4858,9 @@
         <target xml:space="preserve">Heretar el codi de referència</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/treeviewAction.class.php</note>
       </trans-unit>
-      <trans-unit id="ae62284b8ff262eb2a9dd5ed22491de9e3f5c18b">
+      <trans-unit id="ae62284b8ff262eb2a9dd5ed22491de9e3f5c18b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Inherit reference code (DC XML)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Hereta el codi de referència (DC XML)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="0953760ce30d75c4960d0196dd2bc662bc621b79" approved="yes">
@@ -4903,9 +4903,9 @@
         <target xml:space="preserve">Tipus MIME</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9d20cd4e40109b4551bd55f79cf728da4c1da6a9">
+      <trans-unit id="9d20cd4e40109b4551bd55f79cf728da4c1da6a9" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Interviews</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Entrevistes</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="68eb792884e39d24c9127f1d693ea625e672dab5" approved="yes">
@@ -4913,9 +4913,9 @@
         <target xml:space="preserve">Data final invàlida </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/descriptionUpdatesAction.class.php</note>
       </trans-unit>
-      <trans-unit id="cd3d9e6c84783a067735b7d6861c533e895d2abe">
+      <trans-unit id="cd3d9e6c84783a067735b7d6861c533e895d2abe" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Invalid export options.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Opcions d'exportació no vàlides.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="92aea10bd9c44d77364ae6e13506a56d897b7d5a" approved="yes">
@@ -4988,14 +4988,14 @@
         <target xml:space="preserve">Veure les unitats documentals simples </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/reportsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="6a013f3591caa3ee3f7742743ed123abf4cf8af0">
+      <trans-unit id="6a013f3591caa3ee3f7742743ed123abf4cf8af0" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Items per page</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Elements per pàgina</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="4847cc1454ccb160f631e441cd95daf443a173f1">
+      <trans-unit id="4847cc1454ccb160f631e441cd95daf443a173f1" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Items per page can be a minimum of %1% and a maximum of %2%</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Els elements per pàgina poden ser un mínim de %1% i un màxim de %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="9a81100c9f833379dda543d307a8f9806a21127a" approved="yes">
@@ -5013,9 +5013,9 @@
         <target xml:space="preserve">Estat de la tasca</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="437736fdb5bb707abdc048483193c86b9a99983e">
+      <trans-unit id="437736fdb5bb707abdc048483193c86b9a99983e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Jobs</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Tasques</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="d07d1574471a34482c5abaa52553803436ba39af" approved="yes">
@@ -5048,9 +5048,9 @@
         <target xml:space="preserve">Treball</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="173feb78a80b691c253aa5b394127e4b988b5368">
+      <trans-unit id="173feb78a80b691c253aa5b394127e4b988b5368" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Landscapes</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Paisatges</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="89b86ab0e66f527166d98df92ddbcf5416ed58f6" approved="yes">
@@ -5128,9 +5128,9 @@
         <target xml:space="preserve">Llei i Justícia</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="c259ed063c2e9ee549c2c9dc1a199756e3ce89f5">
+      <trans-unit id="c259ed063c2e9ee549c2c9dc1a199756e3ce89f5" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Leaflets</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Tríptics</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="cd99209678785b0ead9cdd294d4739ed5a7f169c" approved="yes">
@@ -5298,9 +5298,9 @@
         <target xml:space="preserve">Carregant ...</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_holdings.php</note>
       </trans-unit>
-      <trans-unit id="b04ba49f848624bb97ab094a2631d2ad74913498">
+      <trans-unit id="b04ba49f848624bb97ab094a2631d2ad74913498" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Loading...</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">S'està carregant...</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b058a9b22f579cab7ac16513a1de431a941a51e5" approved="yes">
@@ -5343,9 +5343,9 @@
         <target xml:space="preserve">Inicieu sessió</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/loginSuccess.php</note>
       </trans-unit>
-      <trans-unit id="82a6209a347747eedf111083b1c935c3d1988652">
+      <trans-unit id="82a6209a347747eedf111083b1c935c3d1988652" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Log in with CAS</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Inicia la sessió amb CAS</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arCasPlugin/modules/user/templates/loginSuccess.php</note>
       </trans-unit>
       <trans-unit id="6e78c91f5a05fc0d4f1a787d38e3d6fe2f856d46" approved="yes">
@@ -5418,9 +5418,9 @@
         <target xml:space="preserve">Mantenidor de</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/actions/maintainedActorsComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="9f03e1bbec3b3de82a9c20a6a1ba6e72a33e2d44">
+      <trans-unit id="9f03e1bbec3b3de82a9c20a6a1ba6e72a33e2d44" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Maintaining repository</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">S'està mantenint el repositori</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="66e807e58fe4637dd9a8ecc2013caed024f08570" approved="yes">
@@ -5433,9 +5433,9 @@
         <target xml:space="preserve">Notes de manteniment</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/actions/browseAction.class.php</note>
       </trans-unit>
-      <trans-unit id="af5f36d7cf6a84b3ac9c023ab0a3b2a0c8e31420">
+      <trans-unit id="af5f36d7cf6a84b3ac9c023ab0a3b2a0c8e31420" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Make full width treeview collapsible on description pages</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Fes que la vista en arbre d'amplada completa sigui col·lapsable a les pàgines de descripció</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
       <trans-unit id="72ca223c258da9a7340dfad91d221f4800603d66" approved="yes">
@@ -5453,9 +5453,9 @@
         <target xml:space="preserve">Aplica el canvi a totes les descripcions subordinades</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_adminInfo.php</note>
       </trans-unit>
-      <trans-unit id="c551de7fa235ff90172fc7c58d8e5ba0c42c406d">
+      <trans-unit id="c551de7fa235ff90172fc7c58d8e5ba0c42c406d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Malformed URI.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">URI mal format.</target>
       </trans-unit>
       <trans-unit id="bf58d17e561b1b858e35f9202f811297dac2e9db" approved="yes">
         <source xml:space="preserve">Manage</source>
@@ -5527,9 +5527,9 @@
         <target xml:space="preserve">Exemplar original</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ce429cdfe927689c43754e53045867274714b859">
+      <trans-unit id="ce429cdfe927689c43754e53045867274714b859" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Master file</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Fitxer mestre</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="839de310ff883dc5f22ec85eb75776dc0946a190" approved="yes">
@@ -5612,14 +5612,14 @@
         <target xml:space="preserve">El valor mínim és "%min%"</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/uploadsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5eb19661d82b14387cccd03b8c5ce9bb06bc1731">
+      <trans-unit id="5eb19661d82b14387cccd03b8c5ce9bb06bc1731" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Miscellaneous Documents</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Documents diversos</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="e3ea079ded57effba0d3c11311c33855f14ee35e">
+      <trans-unit id="e3ea079ded57effba0d3c11311c33855f14ee35e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Modification</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Modificació</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="405f45092d843a1d3838d8a5b8852228db0dfbb7" approved="yes">
@@ -5637,9 +5637,9 @@
         <target xml:space="preserve">Més</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_actions.php</note>
       </trans-unit>
-      <trans-unit id="7911e36a1bfea2139a2ffe6f3101ea48b923e796">
+      <trans-unit id="7911e36a1bfea2139a2ffe6f3101ea48b923e796" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Motion Pictures</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Imatges en moviment</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="76cdb950721642b6b8596d36d5a39f7705028b99" approved="yes">
@@ -5732,9 +5732,9 @@
         <target xml:space="preserve">Municipal</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="131260cbfbb0c821f8eae5e7c3c296c7aa4d50b9">
+      <trans-unit id="131260cbfbb0c821f8eae5e7c3c296c7aa4d50b9" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Music</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Música</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="829d3f90cd2f6c947e759770023279d92f51dbf5" approved="yes">
@@ -5822,9 +5822,9 @@
         <target xml:space="preserve">Informació dels noms i l'origen</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1c26c2b8063a498c38c5151a6128aaf35c972787">
+      <trans-unit id="1c26c2b8063a498c38c5151a6128aaf35c972787" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Narratives</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Narratives</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="724f7197f0ee94bc72d5e4d9e301e97e8b1f5b58" approved="yes">
@@ -5852,9 +5852,9 @@
         <target xml:space="preserve">Mai</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/calculateDatesLinkComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="831ab2c47aa148a9e4b124e1a68c64e9ad308c67">
+      <trans-unit id="831ab2c47aa148a9e4b124e1a68c64e9ad308c67" xml:space="preserve" approved="yes">
         <source xml:space="preserve">New granted right</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Nou dret concedit</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d850ee188c7c55b64bc3624534de5c5051a57dc6" approved="yes">
@@ -5877,29 +5877,29 @@
         <target xml:space="preserve">No</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1caae4b65451a6c30af6f9af1b55a5735432e6b7">
+      <trans-unit id="1caae4b65451a6c30af6f9af1b55a5735432e6b7" xml:space="preserve" approved="yes">
         <source xml:space="preserve">No children found</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">No s'ha trobat cap fill</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
-      <trans-unit id="4b775dcfdea71fb1394345b2a8956a1edb8a0462">
+      <trans-unit id="4b775dcfdea71fb1394345b2a8956a1edb8a0462" xml:space="preserve" approved="yes">
         <source xml:space="preserve">No items found.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">No s'ha trobat cap element.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5f837da7d6b9d15a8cf041d7ae07dbad8c93306b">
+      <trans-unit id="5f837da7d6b9d15a8cf041d7ae07dbad8c93306b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">No items in clipboard to save.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">No hi ha elements al porta-retalls per a desar.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d">
+      <trans-unit id="d1f13a4e448d7e3ac79951b52197c7b729802f0d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">No items in clipboard to send.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">No hi ha elements al porta-retalls per enviar.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="fe3109a8cb2c1ed5cc5c561e4ca1e2f7158baf8e">
+      <trans-unit id="fe3109a8cb2c1ed5cc5c561e4ca1e2f7158baf8e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">No lower level dates found</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">No s'han trobat dates de nivell inferior</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/calculateDatesError.php</note>
       </trans-unit>
       <trans-unit id="b993b0c537190bfc94b21360ac5abe51e56be36f" approved="yes">
@@ -5907,9 +5907,9 @@
         <target xml:space="preserve">No hi ha cap resultat </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_pager.php</note>
       </trans-unit>
-      <trans-unit id="a8dbf545a405b4cbc96f75eb0729fef65f51b14b">
+      <trans-unit id="a8dbf545a405b4cbc96f75eb0729fef65f51b14b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">No results for this entity type.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">No hi ha resultats per a aquest tipus d'entitat.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/viewSuccess.php</note>
       </trans-unit>
       <trans-unit id="658e79f9dc7fca34dc164cbb79e1c0be3cdebf23" approved="yes">
