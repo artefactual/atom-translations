@@ -9,14 +9,16 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 10:51-0700\n"
-"PO-Revision-Date: 2019-02-04 21:05+0000\n"
-"Last-Translator: Erdi Nergiz <erdinergiz7@gmail.com>\n"
-"Language-Team: Turkish (http://www.transifex.com/artefactual/atom/language/tr/)\n"
+"PO-Revision-Date: 2024-08-28 13:28+0000\n"
+"Last-Translator: Ayhan Kaygusuz <ayhan.kaygusuz@isam.org.tr>\n"
+"Language-Team: Turkish <https://translations.artefactual.com/projects/atom/"
+"website/tr/>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #: atom/settings/base.py:76
 msgid "English"
@@ -64,7 +66,11 @@ msgid ""
 "\n"
 "        %(project_name)s is a legacy release, and these documents are no longer being maintained.\n"
 "      "
-msgstr "\n%(project_name)s geçersiz bir yayın ve onun dokümanları artık desteklenmiyor."
+msgstr ""
+"\n"
+"        ……%(project_name)s geçersiz bir yayın ve onun dokümanları artık "
+"desteklenmiyor.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:16
 #, python-format
@@ -100,7 +106,7 @@ msgstr "\n%(project_name)s daha yayınlanmadı ve bunun dokümantasyonu üzerind
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:60
 msgid "Table of contents"
-msgstr "İçerik tablosu"
+msgstr "İçindekiler tablosu"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:77
 msgid "Contents"
@@ -158,7 +164,7 @@ msgstr "Arama sonuçları"
 #: sphinxdoc/templates/sphinxdoc/search.html:12
 #, python-format
 msgid "Showing results matching \"%(query)s\"..."
-msgstr "\"%(query)s\" ile eşleşen sonuçlar gösteriliyor"
+msgstr "\"%(query)s\"… ile eşleşen sonuçlar gösteriliyor"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:20
 msgid "No results found."
@@ -166,11 +172,11 @@ msgstr "Hiçbir sonuç bulunamadı."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:31
 msgid "No search query entered."
-msgstr ""
+msgstr "Sorgu girilmedi."
 
 #: templates/base.html:75 templates/footer.html:19
 msgid "Home"
-msgstr "Ev"
+msgstr "Ana sayfa"
 
 #: templates/base.html:76 templates/footer.html:20
 #: templates/pages/download.html:4 templates/pages/download.html.py:10
@@ -179,7 +185,7 @@ msgstr "İndirmeler"
 
 #: templates/base.html:92
 msgid "Other resources (wiki)"
-msgstr "Diğer kaynaklar(wiki)"
+msgstr "Diğer kaynaklar (wiki)"
 
 #: templates/base.html:99 templates/footer.html:26
 #: templates/pages/community.html:4 templates/pages/community.html.py:10
@@ -245,15 +251,15 @@ msgstr ""
 
 #: templates/footer.html:55
 msgid "Access to Memory documentation"
-msgstr ""
+msgstr "Access to Memory dokümantasyonu"
 
 #: templates/footer.html:55
 msgid "is licensed under a"
-msgstr ""
+msgstr "altında lisanslandı"
 
 #: templates/footer.html:55
 msgid "Creative Commons Attribution-ShareAlike 4.0 International License"
-msgstr ""
+msgstr "Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisans"
 
 #: templates/footer.html:57
 msgid "© 2015 Artefactual Systems Inc. All rights reserved."
@@ -265,7 +271,10 @@ msgid ""
 "\n"
 "          <p>Work in progress!</p>\n"
 "        "
-msgstr "\n<p>Yapım aşamasında</p>"
+msgstr ""
+"\n"
+"          <p>Yapım aşamasında</p>\n"
+"        "
 
 #: templates/pages/community/support.html:19
 msgid "User forum"
@@ -326,7 +335,7 @@ msgstr ""
 
 #: templates/pages/community/support.html:62
 msgid "Posting to the User forum"
-msgstr ""
+msgstr "User foruma gönderiyor"
 
 #: templates/pages/community/support.html:65
 msgid ""
@@ -341,7 +350,12 @@ msgid ""
 "\n"
 "                    <p>Subscribe to the list or <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">visit the online version</a>!</p>\n"
 "                  "
-msgstr "\n<p>Listeye abone olun ya da<a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">çevrimiçi versiyonu ziyaret edin</a>!</p>"
+msgstr ""
+"\n"
+"                    <p>Listeye abone olun ya da<a href=\"https://groups."
+"google.com/forum/#!forum/ica-atom-users\">çevrimiçi versiyonu ziyaret "
+"edin</a>!</p>\n"
+"                  "
 
 #: templates/pages/community/support.html:75
 msgid "Enter your e-mail address"
@@ -353,7 +367,7 @@ msgstr "Abone ol"
 
 #: templates/pages/community/support.html:84
 msgid "Details to include in a User Forum post"
-msgstr ""
+msgstr "User Forum'a eklemek için detaylar"
 
 #: templates/pages/community/support.html:85
 msgid ""
@@ -373,17 +387,17 @@ msgstr ""
 
 #: templates/pages/download.html:17
 msgid "Stable releases"
-msgstr "Dengeli yayınlar"
+msgstr "Kararlı sürümler"
 
 #: templates/pages/download.html:21 templates/pages/download.html.py:43
 #: templates/pages/download.html:65 templates/pages/download.html.py:117
 msgid "Release version"
-msgstr "Yayın versiyonu"
+msgstr "Sürüm versiyonu"
 
 #: templates/pages/download.html:22 templates/pages/download.html.py:44
 #: templates/pages/download.html:66 templates/pages/download.html.py:118
 msgid "Release date"
-msgstr "Yayın tarihi"
+msgstr "Sürüm tarihi"
 
 #: templates/pages/download.html:23 templates/pages/download.html.py:31
 #: templates/pages/download.html:45 templates/pages/download.html.py:67
@@ -400,7 +414,7 @@ msgstr "İndirme"
 #: templates/pages/download.html:24 templates/pages/download.html.py:46
 #: templates/pages/download.html:68 templates/pages/download.html.py:120
 msgid "Changes"
-msgstr "Değişimler"
+msgstr "Değişiklikler"
 
 #: templates/pages/download.html:32 templates/pages/download.html.py:54
 #: templates/pages/download.html:76 templates/pages/download.html.py:82
@@ -411,6 +425,7 @@ msgid "Issue list"
 msgstr "Sorun listesi"
 
 #: templates/pages/download.html:39
+#, fuzzy
 msgid "Development releases"
 msgstr "Yapım aşamasındaki yayınlar"
 
@@ -419,16 +434,18 @@ msgid "Unknown"
 msgstr "Bilinmeyen"
 
 #: templates/pages/download.html:53
+#, fuzzy
 msgid "Not available yet"
 msgstr "Şimdilik kullanılamaz"
 
 #: templates/pages/download.html:61 templates/pages/download.html.py:113
+#, fuzzy
 msgid "Legacy releases"
 msgstr "Geçersiz yayınlar"
 
 #: templates/pages/download.html:151
 msgid "Download and install AtoM on your webserver"
-msgstr ""
+msgstr "AtoM'u indir ve web sunucusuna kur"
 
 #: templates/pages/download.html:154
 #, python-format
@@ -464,7 +481,7 @@ msgstr ""
 
 #: templates/pages/home.html:56
 msgid "Web-based"
-msgstr ""
+msgstr "Web tabanlı"
 
 #: templates/pages/home.html:58
 msgid ""
@@ -509,7 +526,7 @@ msgstr ""
 
 #: templates/pages/home.html:94
 msgid "Multilingual"
-msgstr ""
+msgstr "Çok dilli"
 
 #: templates/pages/home.html:96
 msgid ""
@@ -520,7 +537,7 @@ msgstr ""
 
 #: templates/pages/home.html:103
 msgid "Multirepository"
-msgstr ""
+msgstr "Çoklu arşiv"
 
 #: templates/pages/home.html:105
 msgid ""
