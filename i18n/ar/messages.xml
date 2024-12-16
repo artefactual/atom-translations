@@ -414,14 +414,14 @@
         <target xml:space="preserve" state="final">"سجل الوظائف والمهن والأنشطة التي تقوم بها الكيانات الموصوفة، مع تضمين تواريخ التغطية عندما يكون ذلك مفيدًا. وإذا لزم الأمر، قم بوصف طبيعة الوظيفة أو المهنة أو النشاط." (ISAAR 5.2.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6584121a517870bfbb095c77c01998ed58d30f4f">
+      <trans-unit id="6584121a517870bfbb095c77c01998ed58d30f4f" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Record the language or languages of the unit being described, unless they are noted elsewhere or are apparent from other elements of the description. Also note any distinctive alphabets or symbol systems employed." (RAD 1.8B14). Do not duplicate information added via the drop-down in the language or script fields.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل لغة أو لغات الوحدة الموصوفة، ما لم يتم ذكرها في مكان آخر أو ما لم تكن واضحة من عناصر أخرى في الوصف، كما لاحظ أي أبجديات مميزة أو أنظمة رموز مستخدمة." (RAD 1.8B14). لا تكرر المعلومات المضافة عبر القائمة المنسدلة في حقول اللغة أو النص.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="69b15b1a56e271a5ca2b9b1fa838a481a99459bc">
+      <trans-unit id="69b15b1a56e271a5ca2b9b1fa838a481a99459bc" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Record the language or languages of the unit being described, unless they are noted elsewhere or are apparent from other elements of the description." (RAD 1.8.B14). Select the language from the drop-down menu; enter the first few letters to narrow the choices.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل لغة أو لغات الوحدة الموصوفة، ما لم يتم الإشارة إليها في مكان آخر أو ما لم تكن واضحة من عناصر أخرى في الوصف." (RAD 1.8.B14). حدد اللغة من القائمة المنسدلة؛ أدخل الأحرف القليلة الأولى لتضييق الخيارات.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="6148ff7720ea1703b1d1f0ad9e5ea52d9ce16198" xml:space="preserve">
@@ -429,14 +429,14 @@
         <target xml:space="preserve" state="translated">"تسجيل الوضع القانوني، وعند الاقتضاء نوع الهيئة الاعتبارية، مع التواريخ التي يغطيها تطبيق هذا الوضع." (ISAAR 5.2.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ea96629b12520a467d7ebfa5b2cf3a8aed5663ea">
+      <trans-unit id="ea96629b12520a467d7ebfa5b2cf3a8aed5663ea" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Record the names, and, where useful, the editions or publication dates of the conventions or rules applied. Specify, separately, which rules have been applied for creating the Authorised form(s) of name. Include reference to any system(s) of dating used to identify dates in this description (e.g. ISO 8601)." (ISDIAH 5.6.3)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل الأسماء، وحيثما كان ذلك مفيدًا، الإصدارات أو تواريخ النشر للاتفاقيات أو القواعد المطبقة. حدد بشكل منفصل القواعد التي تم تطبيقها لإنشاء النموذج (النماذج) المعتمد للاسم. قم بتضمين إشارة إلى أي نظام (أنظمة) تأريخ مستخدم لتحديد التواريخ في هذا الوصف (على سبيل المثال ISO 8601)." (ISDIAH 5.6.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="910f2ea9de9822b625f4ce6450f9ddb8ffa2e401">
+      <trans-unit id="910f2ea9de9822b625f4ce6450f9ddb8ffa2e401" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Record the numeric or alpha-numeric code identifying the institution in accordance with the relevant international and national standards." (ISDIAH 5.1.1)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"تسجيل الرمز الرقمي أو الأبجدي الرقمي المُخصص للمؤسسة وفقًا للمعايير الدولية والوطنية ذات الصلة." (ISDIAH 5.1.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="a76b511b26b5b2ca28880d10bd8cb3af79409b9e">
