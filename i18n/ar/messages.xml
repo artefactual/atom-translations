@@ -499,14 +499,14 @@
         <target xml:space="preserve" state="translated">"اختر مصطلحًا وصفيًا من القائمة المنسدلة لتوضيح نوع العلاقة بين هذين الطرفين."</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="8eb2ceb4b96941d5a450a10a7d833412106b33e4">
+      <trans-unit id="8eb2ceb4b96941d5a450a10a7d833412106b33e4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Specify the type of entity that is being described in this authority record." (ISAAR 5.1.1) Select Corporate body, Family or Person from the drop-down menu.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"حدد نوع الكيان الذي يتم وصفه في الملف الاستنادي." (ISAAR 5.1.1) حدد الهيئة المؤسسية أو العائلة أو الشخص من القائمة المنسدلة.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c026cf03b3a849136c96e53f0ab910bacfea5f89">
+      <trans-unit id="c026cf03b3a849136c96e53f0ab910bacfea5f89" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Specify whether the description is a function or one of its subdivisions." (ISDF 5.1.1) Select the type from the drop-down menu; these values are drawn from the ISDF Function Types taxonomy.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"حدد ما إذا كان الوصف عبارة عن وظيفة أو أحد أقسامها الفرعية." (ISDF 5.1.1) حدد النوع من القائمة المنسدلة؛ يتم استخلاص هذه القيم من تصنيف أنواع الوظائف ISDF.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="bfcdc2a643be0c1a93801a5cc200cfcffe7c48ea">
@@ -519,9 +519,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="884370864ea7ccc2b28b558b869671c8319a326d">
+      <trans-unit id="884370864ea7ccc2b28b558b869671c8319a326d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Transcribe other title information of a publisher's series as instructed in 1.1E and only if considered necessary for identifying the publisher's series." (RAD 1.6D1)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"انسخ معلومات العنوان الأخرى لسلسلة الناشر وفقًا للتعليمات الواردة في 1.1E وفقط إذا اعتبر ذلك ضروريًا لتحديد سلسلة الناشر." (RAD 1.6D1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="f2f7c5b76c50ad60737966c4c04007938dd33c11">
