@@ -479,14 +479,14 @@
         <target xml:space="preserve" state="final">"سجل عنوان وتفاصيل أخرى ذات صلة بالمساعدات والإرشادات المنشورة و/أو غير المنشورة التي أعدتها المؤسسة وأي منشورات أخرى ذات صلة. استخدم ISO 690 المعلومات والتوثيق - المراجع الببليوغرافية وقواعد الفهرسة الوطنية أو الدولية الأخرى." (ISDIAH 5.3.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5ec7f5e4f7d5ef80be07aa136d2cc6487111acd1">
+      <trans-unit id="5ec7f5e4f7d5ef80be07aa136d2cc6487111acd1" xml:space="preserve">
         <source xml:space="preserve">"Record when relevant the commencement date of the relationship or succession date and, when relevant, the cessation date of the relationship." (ISAAR 5.3.4) Enter the date as you would like it to appear in the show page for the authority record, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">سجل عند الاقتضاء تاريخ بدء العلاقة أو تاريخ التوارث، وعند الاقتضاء، تاريخ انتهاء العلاقة. (ISAAR 5.3.4) أدخل التاريخ كما تود أن يظهر في صفحة العرض لسجل السلطة، باستخدام محددت و/أو رموز طباعية للتعبير عن عدم التأكد إذا رغبت.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/_relatedAuthorityRecord.php</note>
       </trans-unit>
-      <trans-unit id="9afe17e3b6fcc285b8717356f5b254e2f46a3595">
+      <trans-unit id="9afe17e3b6fcc285b8717356f5b254e2f46a3595" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Record where possible any official number or other identifier (e.g. a company registration number) for the corporate body and reference the jurisdiction and scheme under which it has been allocated." (ISAAR 5.1.6)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل أي رقم رسمي أو معرف آخر (مثل رقم تسجيل الشركة) للجهة أو الكيان مع الإشارة إلى التشريع القلنوني المستندة إليه". (ISAAR 5.1.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="a5162e31ab7277f79bebcb03364debdf5c0913b8" approved="yes">
@@ -509,14 +509,14 @@
         <target xml:space="preserve" state="final">"حدد ما إذا كان الوصف عبارة عن وظيفة أو أحد أقسامها الفرعية." (ISDF 5.1.1) حدد النوع من القائمة المنسدلة؛ يتم استخلاص هذه القيم من تصنيف أنواع الوظائف ISDF.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="bfcdc2a643be0c1a93801a5cc200cfcffe7c48ea">
+      <trans-unit id="bfcdc2a643be0c1a93801a5cc200cfcffe7c48ea" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of the item being described following the edition statement if there is one." (RAD 1.2.C1) "When describing the first edition, give all statements of responsibility in the Title and statement of responsibility area." (RAD 1.2C2)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"سجل الصيغة الموحدة للاسم للكيان الموصوف وفقًا لأي اتفاقيات أو قواعد وطنية أو دولية ذات صلة تطبقها الجهة التي أنشأت التسجيلة الاستنادية. استخدم التواريخ، والمكان، والتشريعات، والمهنة، واللقب، وأي مؤهلات أخرى حسب الاقتضاء لتمييز الصيغة المعتمدة للاسم عن تلك الخاصة بالكيانات الأخرى ذات الأسماء المشابهة." (ISAAR 5.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ea5bef24a5a748e7475ce2e211d5ff0ba504b2a7">
+      <trans-unit id="ea5bef24a5a748e7475ce2e211d5ff0ba504b2a7" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Transcribe explicit statements of responsibility appearing in conjunction with a formal title proper of a publisher's series as instructed in 1.1F and only if considered necessary for identifying the publisher's series." (RAD 1.6E1)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"انسخ بيانات المسؤولية المباشرة التي تظهر جنبا إلى جنب مع العنوان الرسمي المباشر لسلسلة الناشر كما هو موضح في 1.1F وفقط إذا اعتبرت ضرورية لتحديد سلسلة الناشر." (RAD 1.6E1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="884370864ea7ccc2b28b558b869671c8319a326d" xml:space="preserve" approved="yes">
@@ -524,14 +524,14 @@
         <target xml:space="preserve" state="final">"انسخ معلومات العنوان الأخرى لسلسلة الناشر وفقًا للتعليمات الواردة في 1.1E وفقط إذا اعتبر ذلك ضروريًا لتحديد سلسلة الناشر." (RAD 1.6D1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f2f7c5b76c50ad60737966c4c04007938dd33c11">
+      <trans-unit id="f2f7c5b76c50ad60737966c4c04007938dd33c11" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Transcribe other title information that appears in conjunction with the formal title proper..." (RAD 1.1E)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"انسخ معلومات العنوان الأخرى التي تظهر جنبا إلى جنب مع العنوان الرسمي ..." (RAD 1.1E)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="de5c5e84e0761f05abe44c14615384dbdbd8174a">
+      <trans-unit id="de5c5e84e0761f05abe44c14615384dbdbd8174a" xml:space="preserve" approved="yes">
         <source xml:space="preserve">"Transcribe parallel titles of a publisher's series as instructed in 1.1D." (RAD 1.6C1)</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">"انسخ العناوين المتوازية لسلسلة الناشر كما هو موضح في 1.1D." (RAD 1.6C1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="3308662b1f4c5a2c34a0e55b104e02ddcac6e5b8" approved="yes">
