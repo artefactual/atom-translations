@@ -11,16 +11,16 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 10:51-0700\n"
-"PO-Revision-Date: 2019-12-19 00:06+0000\n"
-"Last-Translator: currmie <mscee8@gmail.com>\n"
-"Language-Team: Korean <http://translations.artefactual.com/projects/atom/"
+"PO-Revision-Date: 2025-02-28 18:28+0000\n"
+"Last-Translator: Sunny L <sunnywd.lee@gmail.com>\n"
+"Language-Team: Korean <https://translations.artefactual.com/projects/atom/"
 "website/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.2.2\n"
+"X-Generator: Weblate 5.10.2\n"
 
 #: atom/settings/base.py:76
 msgid "English"
@@ -43,19 +43,16 @@ msgid "Portuguese"
 msgstr "포르투갈어"
 
 #: atom/settings/base.py:81
-#, fuzzy
 msgid "Slovenian"
-msgstr "슬로베니아"
+msgstr "슬로베니아어"
 
 #: atom/settings/base.py:82
-#, fuzzy
 msgid "Catalan"
-msgstr "카탈로니아어"
+msgstr "카탈루냐어"
 
 #: atom/settings/base.py:83
-#, fuzzy
 msgid "Korean"
-msgstr "우리말"
+msgstr "한글"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:5
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
@@ -63,7 +60,7 @@ msgstr "우리말"
 #: sphinxdoc/templates/sphinxdoc/search.html:4 templates/base.html:78
 #: templates/footer.html:36
 msgid "Documentation"
-msgstr "도큐멘테이션"
+msgstr "공식문서"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:11
 #, python-format
@@ -72,6 +69,10 @@ msgid ""
 "        %(project_name)s is a legacy release, and these documents are no longer being maintained.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s 는 레거시 릴리즈이며, 이 공식문서는 더 이상 "
+"유지보수되지 않습니다.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:16
 #, python-format
@@ -80,6 +81,10 @@ msgid ""
 "        %(project_name)s is an old release, and the documentation is in maintenance mode.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s 는 구버전이며, 관련 공식문서는 현재 유지보수 "
+"모드로, 중요한 오류 수정만 진행됩니다.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:21
 #, python-format
@@ -88,6 +93,9 @@ msgid ""
 "        %(project_name)s is our latest release.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s 는 최신 버전 입니다.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:26
 #, python-format
@@ -96,6 +104,9 @@ msgid ""
 "        %(project_name)s is our latest release, and its documentation is a work in progress.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s 는 최신 버전이며, 공식문서는 아직 작성 중입니다.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:31
 #, python-format
@@ -104,6 +115,10 @@ msgid ""
 "        %(project_name)s has not been released yet, and its documentation is a work in progress.\n"
 "      "
 msgstr ""
+"\n"
+"        %(project_name)s 은 아직 배포되지 않았으며, 공식문서는 아직 작성 중 "
+"입니다.\n"
+"      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:60
 msgid "Table of contents"
@@ -120,6 +135,10 @@ msgid ""
 "              <p>Open the <a href=\"%(genindex_url)s\">general index</a> or type your search in the search box.</p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p><a href=\"%(genindex_url)s\">일반 색인</a> 을 열거나 검색 "
+"창에 검색어를 입력하세요.</p>\n"
+"            "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:98
 msgid "Available documents"
@@ -139,7 +158,7 @@ msgstr "최근 업데이트:"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:5
 msgid "General Index"
-msgstr ""
+msgstr "일반 색인"
 
 #: sphinxdoc/templates/sphinxdoc/genindex.html:30
 msgid "[Link]"
@@ -152,11 +171,11 @@ msgstr "모듈 인덱스"
 #: sphinxdoc/templates/sphinxdoc/project_list.html:4
 #: sphinxdoc/templates/sphinxdoc/project_list.html:9
 msgid "Project list"
-msgstr ""
+msgstr "프로젝트 목록"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:4
 msgid "Search"
-msgstr ""
+msgstr "검색"
 
 #: sphinxdoc/templates/sphinxdoc/search.html:8
 msgid "Search results"
@@ -165,7 +184,7 @@ msgstr "검색 결과"
 #: sphinxdoc/templates/sphinxdoc/search.html:12
 #, python-format
 msgid "Showing results matching \"%(query)s\"..."
-msgstr "\"%(query)s\"...와 일치하는 결과 보기"
+msgstr "\"%(query)s\"와 일치하는 결과 보기..."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:20
 msgid "No results found."
@@ -177,7 +196,7 @@ msgstr "검색어가 입력되지 않았습니다."
 
 #: templates/base.html:75 templates/footer.html:19
 msgid "Home"
-msgstr ""
+msgstr "홈"
 
 #: templates/base.html:76 templates/footer.html:20
 #: templates/pages/download.html:4 templates/pages/download.html.py:10
@@ -186,7 +205,7 @@ msgstr "다운로드"
 
 #: templates/base.html:92
 msgid "Other resources (wiki)"
-msgstr ""
+msgstr "기타 자료 (wiki)"
 
 #: templates/base.html:99 templates/footer.html:26
 #: templates/pages/community.html:4 templates/pages/community.html.py:10
@@ -208,7 +227,7 @@ msgstr "번역"
 
 #: templates/base.html:105 templates/footer.html:51
 msgid "News"
-msgstr ""
+msgstr "뉴스"
 
 #: templates/base.html:106 templates/footer.html:37
 msgid "Wiki"
@@ -220,7 +239,7 @@ msgstr "데모"
 
 #: templates/base.html:110
 msgid "Try it now!"
-msgstr "지금 실행하시오!"
+msgstr "지금 시도해 보세요!"
 
 #: templates/base.html:113
 msgid "Other sites"
@@ -248,23 +267,23 @@ msgstr "서비스"
 
 #: templates/footer.html:53
 msgid "Artefactual is the lead developer of Archivematica and AtoM."
-msgstr ""
+msgstr "Artefactual은 Archivematica와 AtoM의 주요 개발사입니다."
 
 #: templates/footer.html:55
 msgid "Access to Memory documentation"
-msgstr ""
+msgstr "Access to Memory 공식문서"
 
 #: templates/footer.html:55
 msgid "is licensed under a"
-msgstr ""
+msgstr "라이선스를 따릅니다"
 
 #: templates/footer.html:55
 msgid "Creative Commons Attribution-ShareAlike 4.0 International License"
-msgstr ""
+msgstr "크리에이티브 커먼즈 어트리뷰션-셰어얼라이크 4.0 국제 라이선스"
 
 #: templates/footer.html:57
 msgid "© 2015 Artefactual Systems Inc. All rights reserved."
-msgstr ""
+msgstr "© 2015 Artefactual Systems Inc. 모든 권리 보유."
 
 #: templates/pages/community/develop.html:13
 #: templates/pages/community/participate.html:13
@@ -272,7 +291,10 @@ msgid ""
 "\n"
 "          <p>Work in progress!</p>\n"
 "        "
-msgstr "\n<p>작업 진행중!</p>"
+msgstr ""
+"\n"
+"          <p>작업 진행중!</p>\n"
+"        "
 
 #: templates/pages/community/support.html:19
 msgid "User forum"
@@ -283,7 +305,13 @@ msgid ""
 "\n"
 "              <p>Our <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">User Forum</a> is the main place where user come to seek help, make announcements, share resources, and discuss issues relevant to the software and the community.</p>\n"
 "            "
-msgstr "\n<p><a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">사용자 포럼</a> 은 사용자가 소프트웨어와 커뮤니티 관련 도움말을 검색하고, 공지하고, 자원을 공유하고, 문제점을 토론하는 곳입니다.</p>"
+msgstr ""
+"\n"
+"              <p><a href="
+"\"https://groups.google.com/forum/#!forum/ica-atom-users\">사용자 포럼</a> "
+"은 사용자가 소프트웨어와 커뮤니티 관련 도움말을 검색하고, 공지하고, 자원을 "
+"공유하고, 문제점을 토론하는 곳입니다.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:26
 msgid "Twitter"
@@ -294,11 +322,16 @@ msgid ""
 "\n"
 "              <p>Follow <a href=\"https://twitter.com/accesstomemory\">AtoM on Twitter (@accesstomemory)</a> to keep up with the latest announcements and connect with other users.</p>\n"
 "            "
-msgstr "\n<p>AtoM 트위터 <a href=\"https://twitter.com/accesstomemory\"> 계정(@accesstomemory)</a> 을 팔로우하세요. 최신 공지를 받아 보고, 다른 사용자와 커뮤니케이션할 수 있습니다.</p>"
+msgstr ""
+"\n"
+"              <p><a href=\"https://twitter.com/accesstomemory\"> AtoM 트위터 "
+"계정(@accesstomemory)</a> 을 팔로우하세요. 최신 공지를 받아 보고, 다른 "
+"사용자와 커뮤니케이션할 수 있습니다.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:37
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: templates/pages/community/support.html:38
 msgid ""
@@ -306,6 +339,13 @@ msgid ""
 "              <p>AtoM's code is hosted on <a href=\"https://github.com/artefactual/atom\">Github</a>. We welcome pull requests and comments related to our code. For further information, please see <a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">Contribute Code.</a> </p>\n"
 "            "
 msgstr ""
+"\n"
+"              <p>AtoM의 코드는  <a href="
+"\"https://github.com/artefactual/atom\">GitHub</a>에서 호스팅 됩니다. 우리는 "
+"우리 코드와 관련된 끌어오기 요청과 커맨트를 환영 합니다. 더 자세한 정보는 <a "
+"href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">코드 "
+"기여하기</a>를 참고하세요. </p>\n"
+"            "
 
 #: templates/pages/community/support.html:44
 msgid "Redmine issue tracker"
@@ -316,7 +356,12 @@ msgid ""
 "\n"
 "              <p>Found a bug and want to know if it's already been reported? Want to see the status of a current release under development? Checkout our Issue tracker <a href=\"https://projects.artefactual.com/\">here</a>.</p>\n"
 "            "
-msgstr "\n<p>발견된 버그와 그것이 이미 보고되었는지 알고 싶습니까? 개발중에 현재 배포 상태를 보고 싶습니까? Issue tracker <a href=\"https://projects.artefactual.com/\">여기</a>를 확인하십시오."
+msgstr ""
+"\n"
+"              <p>발견된 버그와 그것이 이미 보고되었는지 알고 싶습니까? 개발 "
+"중인 릴리즈의 현재 상태를 확인하고 싶은가요? Issue tracker <a href="
+"\"https://projects.artefactual.com/\">여기</a>를 확인하십시오.</p>\n"
+"            "
 
 #: templates/pages/community/support.html:53
 msgid "Before requesting support"
@@ -330,10 +375,26 @@ msgid ""
 "            <p>Other places to check for information include the <a href=\"https://wiki.accesstomemory.org/FAQ\">FAQ</a> (note the FAQ is also undergoing an upgrade soon!), and of course, <strong>previous questions asked by users in our User Forum</strong>, which have been answered by <a href=\"http://www.artefactual.com/\">Artefactual</a> team members and/or knowledgeable community participants. We've answered a LOT of questions over the years, and the odds are good that someone has run into the same problem as you!</p>\n"
 "          "
 msgstr ""
+"\n"
+"            <p>지원을 요청하기 전에 온라인 자료를 활용해 주세요. 많은 질문에 "
+"대한 답변을 찾을 수 있습니다. 가장 중요한 것은  <a href=\"%(url_doclist)s\""
+">공식문서</a> 입니다. AtoM 사용자 포럼에서 문의되는 질문의 대부분은 "
+"공식문서에서 간단한 검색이나  <a href=\"%(url_doclist)s\">공식문서의 목차</"
+"a>를 통해 답을 쉽게 찾을 수 있습니다. 우리는 또한 우리의 공식문서를 향상 "
+"시키기 위해 노력하고 있고, 항상 업데이트 되며 때로는 많은 변화가 있습니다. "
+"그러한 이유로 지원을 요청하기 전에 최신의 공식문서를 반드시 확인해 "
+"주십시오.</p>\n"
+"            <p>관련된 정보를 확인할 수 있는 또 다른 곳은 <a href="
+"\"https://wiki.accesstomemory.org/FAQ\">FAQ</a> (참고로 FAQ도 곧 업그레이드 "
+"될 예정입니다!) 또는 <a href=\"http://www.artefactual.com/\">Artefactual</a> "
+"팀원과 지식이 풍부한 커뮤니티 참여자들이 답변한  <strong>사용자 포럼의 이전 "
+"질문들</strong> 입니다. 우리는 수년간 상당히 많은 질문에 답을 했고, 누군가는 "
+"이미 동일한 문제를 겪었을 가능성이 높습니다!</p>\n"
+"          "
 
 #: templates/pages/community/support.html:62
 msgid "Posting to the User forum"
-msgstr "사용자 포럼에 게시"
+msgstr "사용자 포럼에 게시하기"
 
 #: templates/pages/community/support.html:65
 msgid ""
@@ -341,14 +402,38 @@ msgid ""
 "                <p>The <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">AtoM User Forum</a> is the best place to get interactive feedback from other AtoM users and developers. <a href=\"http://www.artefactual.com/\">Artefactual</a>, the lead developers of AtoM, moderates the user forum, and we try whenever possible to post responses to straight-forward user questions within 24 hours of their posting (during M-F business hours - we are in the Pacific time zone). This is a freely offered service we provide as we are able, and we hope to see more community users become active over time in answering each others' questions. When we think a particular query is beyond these free support parameters we will inform the user that it may be necessary to address it as paid, commercial support. Examples include questions that are too in-depth and time-consuming to investigate and answer or questions that involve unsupported tools or platforms. Please keep in mind that we have to prioritize our client assignments so that we can pay our bills and continue to provide free software and free community support.</p>\n"
 "                <p>If you are interested in commercial support from Artefactual, please see <a href=\"http://www.artefactual.com/services/atom-2/\">our website</a> for the services we offer.</p>\n"
 "              "
-msgstr "\n<p><a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">AtoM 이용자 포럼</a>은 다른 AtoM 이용자와 개발자로부터 상호적인 피드백을 받기에 가장 좋은 곳입니다. <a href=\"http://www.artefactual.com/\">Artefactual</a>, AtoM의 리드하는 개발자들은 이용자 포럼을 조정하고, 우리는 이용자가 질문하고 나서 24시간 내에 바로 대답을 올리는 것이 언제든지 가능하도록 노력하고 있습니다(월~금요일 영업시간 동안 - 우리는 태평양 시간대에 있습니다). 이것은 우리가 할 수 있는 한 제공하는 무료로 제공되는 서비스이고, 커뮤니티 이용자들이 서로의 질문에 대답하면서 더 활발해지는 것을 보기를 희망합니다. 특정 질문이 무료로 지원되는 범위를 넘어선다고 생각될 때 이용자에게 지불과 상업적인 지원을 요한다고 알릴 것입니다. 예시는 너무 깊이 있거나 조사하는 데 시간이 걸리는 질문과 지원되지 않는 도구나 플랫폼을 포함한 대답과 질문을 포함합니다. 우리가 고객 과업을 우선시 해야한다는 것을 주지하십시오. 그리하여 우리는 자금을 벌고 계속해서 무료 소프트웨어와 무료 커뮤니티 지원을 제공할 수 있습니다.</p>\n<p>Artefactual의 상업적인 지원에 흥미가 있다면, 우리가 제공하는 서비스에 대하여 <a href=\"http://www.artefactual.com/services/atom-2/\">우리 웹사이트</a>를 보십시오.</p>"
+msgstr ""
+"\n"
+"                <p><a href="
+"\"https://groups.google.com/forum/#!forum/ica-atom-users\">AtoM 이용자 포럼</"
+"a>은 다른 AtoM 이용자와 개발자로부터 상호적인 피드백을 받기에 가장 좋은 "
+"곳입니다. <a href=\"http://www.artefactual.com/\">Artefactual</a>, AtoM의 "
+"리드하는 개발자들은 이용자 포럼을 조정하고, 우리는 이용자가 질문하고 나서 "
+"24시간 내에 바로 대답을 올리는 것이 언제든지 가능하도록 노력하고 있습니다(월~"
+"금요일 영업시간 동안 - 우리는 태평양 시간대에 있습니다). 이것은 우리가 할 수 "
+"있는 한 제공하는 무료로 제공되는 서비스이고, 커뮤니티 이용자들이 서로의 "
+"질문에 대답하면서 더 활발해지는 것을 보기를 희망합니다. 특정 질문이 무료로 "
+"지원되는 범위를 넘어선다고 생각될 때 이용자에게 지불과 상업적인 지원을 "
+"요한다고 알릴 것입니다. 예시는 너무 깊이 있거나 조사하는 데 시간이 걸리는 "
+"질문과 지원되지 않는 도구나 플랫폼을 포함한 대답과 질문을 포함합니다. 우리가 "
+"고객 과업을 우선시 해야한다는 것을 주지하십시오. 그리하여 우리는 자금을 벌고 "
+"계속해서 무료 소프트웨어와 무료 커뮤니티 지원을 제공할 수 있습니다.</p>\n"
+"<p>Artefactual의 상업적인 지원에 흥미가 있다면, 우리가 제공하는 서비스에 "
+"대하여 <a href=\"http://www.artefactual.com/services/atom-2/\">우리 "
+"웹사이트</a>를 보십시오.</p>\n"
+"              "
 
 #: templates/pages/community/support.html:71
 msgid ""
 "\n"
 "                    <p>Subscribe to the list or <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">visit the online version</a>!</p>\n"
 "                  "
-msgstr "\n<p>토론 목록에 등록하거나 <a href=\"https://groups.google.com/forum/#!forum/ica-atom-users\">온라인 사이트에 방문하세요</a>!</p>"
+msgstr ""
+"\n"
+"                    <p>토론 목록에 등록하거나 <a href="
+"\"https://groups.google.com/forum/#!forum/ica-atom-users\">온라인 사이트에 "
+"방문하세요</a>!</p>\n"
+"                  "
 
 #: templates/pages/community/support.html:75
 msgid "Enter your e-mail address"
@@ -356,7 +441,7 @@ msgstr "이메일 주소를 입력하시오"
 
 #: templates/pages/community/support.html:77
 msgid "Subscribe"
-msgstr ""
+msgstr "구독"
 
 #: templates/pages/community/support.html:84
 msgid "Details to include in a User Forum post"
@@ -376,7 +461,27 @@ msgid ""
 "                </ul>\n"
 "                <p>We find it easiest to clearly answer posts that are <strong>complete</strong> and <strong>succinct</strong> - that is, posts that include all important details about the software environment and what led to the error, but that also trim away any details  or code snippets that aren't directly relevant to the mater at hand. Thanks for helping us to make the User Forum a vibrant and positive place!</p>\n"
 "              "
-msgstr "\n<p>당신의 사안의 성격에 따라, 여기에 당신에게 더 빨리 응답할 수 있게하고 세부적인 것을 정확하게 할 정보에 대한 몇가지 아이디어들이 있습니다:</p>\n<li>AtoM의 무슨 버전을 사용합니까?</li>\n<li>문제를 해결하기 위해 무엇을 이미 시도했습니까?</li>\n<li>AtoM이 설치되는 운영체제(리눅스, 윈도우, 애플 등)는 무엇입니까?\n<li>당신이 설치한 PHP의 버전은 무엇입니까?</li>\n<li>당신이 받은 에러 메시지 모음을 가지고 있습니까?</li>\n<li>당신의 AtoM 인스턴스를 운용하고 있습니까, 아니면 외부 호스팅 업체를 이용하고 있습니까?</li>"
+msgstr ""
+"\n"
+"                <p>당신의 사안의 성격에 따라, 여기에 당신에게 더 빨리 응답할 "
+"수 있게하고 세부적인 것을 정확하게 할 정보에 대한 몇가지 아이디어들이 "
+"있습니다:</p>\n"
+"                <ul>\n"
+"                  <li>AtoM의 무슨 버전을 사용합니까?</li>\n"
+"                  <li>문제를 해결하기 위해 무엇을 이미 시도했습니까?</li>\n"
+"                  <li>AtoM이 설치되는 운영체제(리눅스, 윈도우, 애플 등)는 "
+"무엇입니까?\n"
+"                  <li>당신이 설치한 PHP의 버전은 무엇입니까?</li>\n"
+"                  <li>당신이 받은 에러 메시지 모음을 가지고 있습니까?</li>\n"
+"                  <li>당신의 AtoM 인스턴스를 운용하고 있습니까, 아니면 외부 "
+"호스팅 업체를 이용하고 있습니까?</li>\n"
+"                </ul>\n"
+"                <p>우리는 <strong>완전하고 간결한</strong> 게시글에 가장 "
+"명확하게 답변할 수 있습니다. 즉, 소프트웨어 환경 및 오류 발생 과정과 관련된 "
+"모든 중요한 정보를 포함하면서도, 직접적으로 관련 없는 세부 사항이나 코드 "
+"조각은 생략한 게시글이 가장 적절합니다. 사용자 포럼을 활기차고 긍정적인 "
+"공간으로 만들어 주셔서 감사합니다!</p>\n"
+"              "
 
 #: templates/pages/download.html:17
 msgid "Stable releases"
@@ -423,7 +528,7 @@ msgstr "개발자 버전"
 
 #: templates/pages/download.html:52
 msgid "Unknown"
-msgstr ""
+msgstr "알 수 없음"
 
 #: templates/pages/download.html:53
 msgid "Not available yet"
@@ -435,7 +540,7 @@ msgstr "구 버전"
 
 #: templates/pages/download.html:151
 msgid "Download and install AtoM on your webserver"
-msgstr "AtoM을 다운로드하여 귀하의 웹서버에 설치하시오 "
+msgstr "AtoM을 다운로드하여 귀하의 웹서버에 설치하시오"
 
 #: templates/pages/download.html:154
 #, python-format
@@ -444,11 +549,19 @@ msgid ""
 "            <p>AtoM is web-based software. You can download and install it on your own webserver to make your copy of AtoM available to anyone with an internet connection. AtoM comes with an installer that helps you through this process.</p>\n"
 "            <p>Once you have downloaded this file, consult the online <a href=\"%(url_installation)s\">installation documentation</a>. See also the <a href=\"%(url_upgrade)s\">upgrading guide</a>.</p>\n"
 "          "
-msgstr "\n<p>AtoM은 웹 기반 소프트웨어입니다. 자신의 웹서버에 다운로드하고 설치하여 인터넷을 통해 누구에게나 AtoM을 제공할 수 있습니다. AtoM은 설치 파일을 제공합니다.</p>\n<p>설치 파일을 다운로드한 뒤, 홈페이지의 설치 매뉴얼을 참고하십시오. <a href=\"%(url_installation)s\"></a>. 또한 업그레이드 도움말 <a href=\"%(url_upgrade)s\">을 참고하십시오</a>.</p>"
+msgstr ""
+"\n"
+"            <p>AtoM은 웹 기반 소프트웨어입니다. 자신의 웹서버에 다운로드하고 "
+"설치하여 인터넷을 통해 누구에게나 AtoM을 제공할 수 있습니다. AtoM은 설치 "
+"파일을 제공합니다.</p>\n"
+"            <p>설치 파일을 다운로드한 뒤, 홈페이지의 설치 매뉴얼을 "
+"참고하십시오. <a href=\"%(url_installation)s\"></a>. 또한 업그레이드 도움말 "
+"<a href=\"%(url_upgrade)s\">을 참고하십시오</a>.</p>\n"
+"          "
 
 #: templates/pages/download.html:163
 msgid "Test AtoM locally using Vagrant"
-msgstr ""
+msgstr "Vagrant를 사용하여 로컬에서 AtoM 테스트하기"
 
 #: templates/pages/download.html:164
 msgid ""
@@ -457,6 +570,21 @@ msgid ""
 "            <p>Virtualbox is an open source, easy to use general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use, and Vagrant is an open source automation tool for building complete development environments. Artefactual has created an AtoM VM that can be easily used with Virtualbox, which will virtualize the installation environment for you so you can easily run a test instance of AtoM on your personal computer. For more information, see our <a href=\"https://www.accesstomemory.org/docs/2.1/admin-manual/installation/vagrant/#installation-vagrant\">Vagrant installation instructions</a> in the AtoM Administrator's Manual.</p>\n"
 "          "
 msgstr ""
+"\n"
+"            <p>어떤 운영체제에서도 <a href=\"https://www.virtualbox.org/\""
+">Virtualbox</a>와  <a href=\"http://www.vagrantup.com/\">Vagrant</a>를 "
+"이용하여 AtoM을 가상 머신(VM)으로 실행 하세요. 이 옵션을 사용하면 AtoM을 "
+"설치할 웹 서버에 접근할 수 없는 경우에도 개인 컴퓨터에서 AtoM을 사용해 볼 수 "
+"있습니다. 또한 개발자가 코드를 다루며 작업할 때도 유용합니다.</p>\n"
+"            <p>VirtualBox는 x86 하드웨어용으로 설계된 오픈 소스의 범용 풀 "
+"가상화 소프트웨어로, 서버, 데스크톱 및 임베디드 환경에서 쉽게 사용할 수 "
+"있습니다. Vagrant는 완전한 개발 환경을 구축하는 오픈 소스 자동화 도구입니다. "
+"Artefactual은 VirtualBox와 함께 사용할 수 있는 AtoM 가상 머신(VM)을 제공하여 "
+"설치 환경을 가상화해 줍니다. 이를 통해 개인 컴퓨터에서 손쉽게 AtoM 테스트 "
+"인스턴스를 실행할 수 있습니다. 더 자세한 정보는 AtoM의 관리자 매뉴얼에 있는 "
+"<a href=\"https://www.accesstomemory.org/docs/2.1/admin-manual/installation/"
+"vagrant/#installation-vagrant\">Vagrant 설치 가이드</a>를 참고하세요.</p>\n"
+"          "
 
 #: templates/pages/home.html:7
 msgid "Providing access to memory since 2007"
@@ -478,7 +606,13 @@ msgid ""
 "\n"
 "            Access your AtoM installation from anywhere you have an internet connection. All core AtoM functions take place via a web browser, with minimal assumptions about end-user requirements for access. No more synching multiple installations on a per-machine basis – install AtoM once, and access it from anywhere.\n"
 "          "
-msgstr "\n인터넷 접속이 가능한 어느장소에서 AtoM에 접속하십시오. AtoM의 모든 핵심 기능들은 최소한의 최종 사용자 요건을 전제로 웹 브라우저를 통해 사용 가능합니다. 한 기종에 여러 개의 AtoM을 설치하여 싱크하지 말고 하나만 설치하여 어디서든 접속하십시오. "
+msgstr ""
+"\n"
+"            인터넷 접속이 가능한 어느장소에서 AtoM에 접속하십시오. AtoM의 "
+"모든 핵심 기능들은 최소한의 최종 사용자 요건을 전제로 웹 브라우저를 통해 "
+"사용 가능합니다. 한 기종에 여러 개의 AtoM을 설치하여 싱크하지 말고 하나만 "
+"설치하여 어디서든 접속하십시오.\n"
+"          "
 
 #: templates/pages/home.html:65
 msgid "Open source"
@@ -489,7 +623,16 @@ msgid ""
 "\n"
 "            All AtoM code is released under a GNU Affero General Public License (A-GPL 3.0) – giving you the freedom to study, modify, improve, and distribute it. We believe that an important part of access is accessibility, and that everyone should have access to the tools they need to preserve cultural heritage materials. AtoM code is always freely available, and our documentation is also released under a Creative Commons Share-alike license. Check out our <a href=\"https://github.com/artefactual/atom\">code repository</a>!\n"
 "          "
-msgstr "\n모든 AtoM 코드는 GNU Affero General Public License (A-GPL 3.0)하에 배포됩니다. – 당신에게 그것을 연구, 수정, 향상 그리고 배포할 자유를 주면서. 접근을 위한 가장 중요한 부분은 접근가능성과 문화유산 자원들을 보존할 수 있는 도구에 모든 사람이 접근할 수 있어야 한다는 것입니다. AtoM 코드는 언제나 자유롭게 이용가능합니다. 그리고 우리의 기술문서는 Creative Commons Share-alike license 하에 배포됩니다. <a href=\"https://github.com/artefactual/atom\">코드 저장소</a>를 확인하십시오!"
+msgstr ""
+"\n"
+"            모든 AtoM 코드는 GNU Affero General Public License (A-GPL 3.0)"
+"하에 배포됩니다. – 당신에게 그것을 연구, 수정, 향상 그리고 배포할 자유를 "
+"주면서. 접근을 위한 가장 중요한 부분은 접근가능성과 문화유산 자원들을 보존할 "
+"수 있는 도구에 모든 사람이 접근할 수 있어야 한다는 것입니다. AtoM 코드는 "
+"언제나 자유롭게 이용가능합니다. 그리고 우리의 기술문서는 Creative Commons "
+"Share-alike license 하에 배포됩니다. <a href="
+"\"https://github.com/artefactual/atom\">코드 저장소</a>를 확인하십시오!\n"
+"          "
 
 #: templates/pages/home.html:74
 msgid "Standards-based"
@@ -500,7 +643,14 @@ msgid ""
 "\n"
 "            AtoM was originally built with support from the <a href=\"http://www.ica.org\">International Council on Archives</a>, to encourage broader international standards adoption. We've built standards-compliance into the core of AtoM, and offer easy-to-use, web-based edit templates that conform to a wide variety of international and national standards.</p>\n"
 "          "
-msgstr "\nAtoM은 원래 <a href=\"http://www.ica.org\">International Council on Archives</a>로부터의 지원으로 만들어졌습니다. 더 광범위한 국제표준 도입을 장려하기 위해서. 우리는 AtoM 핵심부로 표준-컴플라이언스를 짜넣었습니다. 또 사용하기 쉽고, 광범위한 국제·국내 표준에 따르는 웹에 기반한 편집 템플릿을 제공합니다.</p>"
+msgstr ""
+"\n"
+"            AtoM은 원래 <a href=\"http://www.ica.org\">International Council "
+"on Archives</a>로부터의 지원으로 만들어졌습니다. 더 광범위한 국제표준 도입을 "
+"장려하기 위해서. 우리는 AtoM 핵심부로 표준-컴플라이언스를 짜넣었습니다. 또 "
+"사용하기 쉽고, 광범위한 국제·국내 표준에 따르는 웹에 기반한 편집 템플릿을 "
+"제공합니다.</p>\n"
+"          "
 
 #: templates/pages/home.html:82
 msgid "Import/export friendly"
@@ -513,6 +663,22 @@ msgid ""
 "          <p>Currently AtoM supports the following import/export formats: <abbr title=\"Encoded Archival Description (EAD) – 2002 edition, for descriptions\">EAD</abbr>, <abbr title=\"Encoded Archival Context Corporate Bodies, Persons, and Families (EAC-CPF) – 2010 edition, for authority records\">EAC-CPF</abbr>, <abbr title=\"Comma Separated Values (CSV) import for accessions, descriptions, authority records, institutions, and more\">CSV</abbr> and <abbr title=\"Simple Knowledge Organization System (SKOS) - W3C Recommendation 18 August 2009, for terms and taxonomies\">SKOS</abbr>. Find out more in our <a href=\"https://www.accesstomemory.org/docs/\">user manual</a>.</p>\n"
 "        "
 msgstr ""
+"\n"
+"          <p>당신의 데이터는 AtoM에 종속되지 않습니다. 우리는 다양한 "
+"메타데이터 교환 표준을 구현하여 사용자 인터페이스를 통해 손쉽게 가져오고 "
+"내보낼 수 있도록 지원합니다.</p>\n"
+"          <p>현재 AtoM은 다음과 같은 가져오기/내보내기 형식을 지원합니다:"
+"<abbr title="
+"\"Encoded Archival Description (EAD) – 2002 edition, for descriptions\">EAD</"
+"abbr>, <abbr title=\"Encoded Archival Context Corporate Bodies, Persons, and "
+"Families (EAC-CPF) – 2010 edition, for authority records\">EAC-CPF</abbr>, "
+"<abbr title=\"Comma Separated Values (CSV) import for accessions, "
+"descriptions, authority records, institutions, and more\">CSV</abbr> and "
+"<abbr title=\"Simple Knowledge Organization System (SKOS) - W3C "
+"Recommendation 18 August 2009, for terms and taxonomies\">SKOS</abbr>. "
+"자세한 정보는 <a href=\"https://www.accesstomemory.org/docs/\">사용자 "
+"매뉴얼</a>을 참고 하세요.</p>\n"
+"        "
 
 #: templates/pages/home.html:94
 msgid "Multilingual"
@@ -523,7 +689,14 @@ msgid ""
 "\n"
 "            All user interface elements and database content can be translated into multiple languages, using our built-in translation interface. Our translations are all generously provided by volunteer translators from the AtoM User Community. Want to see AtoM available in your language? Help us translate!\n"
 "          "
-msgstr "\n모든 이용자 인터페이스 요소와 데이터베이스 내용은 다국어로 번역될 수 있습니다. 내장된 번역 인터페이스를 이용하여. 우리의 번역은 일반적으로 AtoM 이용자 커뮤니티의 번역 봉사자들로부터 공급됩니다. 당신의 언어로 이용가능한 AtoM을 보기를 원하십니까? 우리가 번역하는 것을 도와주십시오!"
+msgstr ""
+"\n"
+"            모든 이용자 인터페이스 요소와 데이터베이스 내용은 다국어로 "
+"번역될 수 있습니다. 내장된 번역 인터페이스를 이용하여. 우리의 번역은 "
+"일반적으로 AtoM 이용자 커뮤니티의 번역 봉사자들로부터 공급됩니다. 당신의 "
+"언어로 이용가능한 AtoM을 보기를 원하십니까? 우리가 번역하는 것을 "
+"도와주십시오!\n"
+"          "
 
 #: templates/pages/home.html:103
 msgid "Multirepository"
@@ -534,15 +707,29 @@ msgid ""
 "\n"
 "            Built for use by a single institution for its own descriptions, or as a multi-repository “union list” (network, portal) accepting descriptions from any number of contributing institutions, AtoM is flexible enough to accommodate your needs. See our list of community users for a better sense of all the ways AtoM is being used.\n"
 "          "
-msgstr "\n자관의 기술을 위한 단일 기관에 의하거나, 관여하는 여러 개 기관을 수용하는, 복수 저장소 \"종합 목록\"(네트워크, 포탈)로서. AtoM은 당신의 요구에 부응하기에 충분히 유연합니다. AtoM이 이용되는 모든 방식을 더 잘 인지하기 위해 커뮤니티 이용자 목록을 보십시오."
+msgstr ""
+"\n"
+"            자관의 기술을 위한 단일 기관에 의하거나, 관여하는 여러 개 기관을 "
+"수용하는, 복수 저장소 \"종합 목록\"(네트워크, 포탈)로서. AtoM은 당신의 "
+"요구에 부응하기에 충분히 유연합니다. AtoM이 이용되는 모든 방식을 더 잘 "
+"인지하기 위해 커뮤니티 이용자 목록을 보십시오.\n"
+"          "
 
 #: templates/pages/home.html:112
 msgid "Constantly improving"
-msgstr "끊임없이 향상되는"
+msgstr "끊임없이 개선하는"
 
 #: templates/pages/home.html:114
 msgid ""
 "\n"
 "            AtoM is an active, dynamic open-source project with a broad user base. We're constantly working with our community to improve the application, and all enhancements are bundled into our public releases. This means that whenever one person contributes, the entire community benefits. Find out more about how you can help improve AtoM.</p>\n"
 "          "
-msgstr "\nAtoM은 폭넓은 이용자층을 기반으로 하는 활발하고, 역동적인 오픈소스 프로젝트입니다. 우리는 애플리케이션을 향상시키기 위해서, 끊임없이 커뮤니티와 일하고 있습니다. 그리고 모든 향상은 공식 배포물에 포함될 것입니다. 이것은 한 사람이 기여할 때마다, 전체 커뮤니티가 혜택을 받는다는 것을 의미합니다. AtoM을 향상시키기위해 당신이 어떻게 도와줄 수 있을지를 찾아 보십시오.</p>"
+msgstr ""
+"\n"
+"            AtoM은 폭넓은 이용자층을 기반으로 하는 활발하고, 역동적인 "
+"오픈소스 프로젝트입니다. 우리는 애플리케이션을 향상시키기 위해서, 끊임없이 "
+"커뮤니티와 일하고 있습니다. 그리고 모든 향상은 공식 배포물에 포함될 "
+"것입니다. 이것은 한 사람이 기여할 때마다, 전체 커뮤니티가 혜택을 받는다는 "
+"것을 의미합니다. AtoM을 향상시키기위해 당신이 어떻게 도와줄 수 있을지를 찾아 "
+"보십시오.</p>\n"
+"          "
