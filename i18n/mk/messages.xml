@@ -729,11 +729,6 @@
         <target xml:space="preserve" state="final">%1% ограничувањето за прикачување од %2% GB е надминато за %3%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/actions/uploadAction.class.php</note>
       </trans-unit>
-      <trans-unit id="aa7a47d3b9df07e362e900798b498f5265ebcfc2" approved="yes">
-        <source xml:space="preserve">%1% upload limits</source>
-        <target xml:space="preserve" state="final">%1% ограничување за прикачување</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
-      </trans-unit>
       <trans-unit id="0a4d6fa2c4dab64280355e4b1dc617e015edab41" approved="yes">
         <source xml:space="preserve">%1% used of %2%</source>
         <target xml:space="preserve" state="final">%1% користен од %2%</target>
@@ -8607,11 +8602,6 @@
         <target xml:space="preserve" state="final">Серии</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="0eca63bfdf391ef97f07004d275593f93d1038d1" approved="yes">
-        <source xml:space="preserve">Server error while checking identifier availability.</source>
-        <target xml:space="preserve" state="final">Грешка на серверот при проверка на достапноста на идентификаторот/сигнатурата.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/editSuccess.php</note>
-      </trans-unit>
       <trans-unit id="3a39ea2a5aa4cc7fa456335efde394f8b3feb67e" approved="yes">
         <source xml:space="preserve">Services area</source>
         <target xml:space="preserve" state="final">Подрачје за услуги</target>
@@ -9646,10 +9636,6 @@
         <target xml:space="preserve" state="final">Ова поле е задолжително.</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/arB5WidgetFormSchemaFormatter.class.php</note>
       </trans-unit>
-      <trans-unit id="595961d78eb8666f3239d816184a6d484352ee9f" approved="yes">
-        <source xml:space="preserve">This identifier is already in use.</source>
-        <target xml:space="preserve" state="final">Овој идентификатор веќе се користи.</target>
-      </trans-unit>
       <trans-unit id="58f4434e064c3652c0df898350c598d84badac6a" approved="yes">
         <source xml:space="preserve">This is a duplicate of record %1%</source>
         <target xml:space="preserve" state="final">Ова е дупликат на записот %1%</target>
@@ -10202,11 +10188,6 @@ end dates touch or overlap the target date range will be returned.
 крај на датумите го допираат или го преклопуваат целниот опсег на датуми ќе биде вратен.
 </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_advancedSearch.php</note>
-      </trans-unit>
-      <trans-unit id="9c2301950cca7fa4df350366a40a4f07a5707576" approved="yes">
-        <source xml:space="preserve">Use these two fields to add lower levels to a collection-level description. Click Add new to add as many child levels as necessary. Identifier: enter a unique standard number or code that distinctively identifies the resource. Title: enter A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it.</source>
-        <target xml:space="preserve" state="final">Користете ги овие две полиња за да додадете пониски нивоа на опис на ниво на збирка/колекција. Кликнете Додај ново за да додадете онолку подредени/пониски нивоа колку што е потребно. Идентификатор: внесете единствен стандарден број или код што карактеристично го идентификува изворот. Наслов: внесете збор, фраза, знак или група знаци, кои обично се појавуваат во изворот, што го именува или делото содржано во него.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="6b647f96fc712dc598e4e9dea145df439f07fe84" approved="yes">
         <source xml:space="preserve">Use this interface to update the description title, slug (permalink), and/or %1% filename.</source>
@@ -11041,11 +11022,6 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve" state="final">%1%Информации за контакт%2% - Вие %3%мора% 4% да вклучите барем едно од следните полиња за локација или адреса: град, земја, поштенски број, регион или адреса на улица.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="c5586b6c10565cb9a28b2b613de13f08b530f515" approved="yes">
-        <source xml:space="preserve">%open_strong_tag%Note:%close_strong_tag% AtoM may remove export packages after aperiod of time to free up storage space. When your export is ready you should download it as soon as possible.</source>
-        <target xml:space="preserve" state="final">%open_strong_tag%Белешка:%close_strong_tag% AtoM може да ги отстрани извозните пакети по одреден временски период за да ослободи простор за складирање. Кога вашиот извоз е подготвен, треба да го преземете што е можно поскоро.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
-      </trans-unit>
       <trans-unit id="69022355817fea3ed77ff907586ee092a2845b09" approved="yes">
         <source xml:space="preserve">Allow authorized users to download a linked AIP or AIP file from the configured Archivematica Storage Service</source>
         <target xml:space="preserve" state="final">Дозволете им на овластените корисници да преземат поврзани AIP или AIP-датотека од конфигурираната Archivematica услуга за складирање</target>
@@ -11070,11 +11046,6 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <source xml:space="preserve">Choosing "Include draft records" will include those marked with a Draft publication status in the export. Note: if you do NOT choose this option, any descendants of a draft record will also be excluded, even if they are published.</source>
         <target xml:space="preserve" state="final">Изборот „Вклучи нацрт записи“ ќе ги вклучи означените записи со статус на нацрт објава во извозот. Забелешка: ако НЕ го изберете овој избор, сите поднивоа на нацрт записот исто така ќе бидат исклучени, дури и ако се објавени.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
-      </trans-unit>
-      <trans-unit id="4bbded30b10f05b74c782c11c781e5d2e392c88b" approved="yes">
-        <source xml:space="preserve">Default %1% upload limit for a new %2%.  A value of &amp;quot;0&amp;quot; (zero) disables file upload.  A value of &amp;quot;-1&amp;quot; allows unlimited uploads</source>
-        <target xml:space="preserve" state="final">Стандардно %1% ограничување на прикачување за нов %2%. Вредноста на &amp;quot;0&amp;quot; (нула) не дозволува прикачување на датотеки. Вредноста на &amp;quot;-1&amp;quot; дозволува неограничени прикачувања</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
       <trans-unit id="512425b62966d59473d4dae14d91938e7b02ce6d" approved="yes">
         <source xml:space="preserve">Diacritics</source>
@@ -11196,10 +11167,44 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/user/templates/loginSuccess.mod_ext_auth.php</note>
       </trans-unit>
-      <trans-unit id="5fa55a6001cc9852171849c95c4031c7b8464066">
-        <source xml:space="preserve">SSO</source>
+      <trans-unit id="96a056677f96828bf6f46d5b8433c2155a4ad8cb">
+        <source xml:space="preserve">%1% upload limits meter display</source>
         <target xml:space="preserve"/>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/arOidcPlugin/modules/user/templates/loginSuccess.php</note>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="f84dacf705bf94703f171f2dea4fb8808ade64a3">
+        <source xml:space="preserve">%open_strong_tag%Note:%close_strong_tag% AtoM may remove export packages after a period of time to free up storage space. When your export is ready you should download it as soon as possible.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="d7ec1112216f9e03622bcfa0a715802e0da7b172">
+        <source xml:space="preserve">Default %1% upload limit for a new %2%.  A value of &amp;quot;0&amp;quot; (zero) disables file upload.  A value of &amp;quot;-1&amp;quot; allows unlimited uploads for all %2%s, overriding limit set for individual %2%s.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="2281c3abe81774a22d70ddd2b0ef93eebcb66ec1">
+        <source xml:space="preserve">Load and view</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="af803012ca243fd377e12add0640fdbc3fa44dbd">
+        <source xml:space="preserve">Server error while checking identifier availability.</source>
+        <target xml:space="preserve">Грешка на серверот при проверка на достапноста на идентификаторот/сигнатурата.</target>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/editSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="9deb500408518ff39f2c6d17a2b041ec2e3ee231">
+        <source xml:space="preserve">This identifier is already in use.</source>
+        <target xml:space="preserve">Овој идентификатор веќе се користи.</target>
+      </trans-unit>
+      <trans-unit id="c52db9fda2375c7c1eb62e5d82f77dfc21841386">
+        <source xml:space="preserve">Use these two fields to add lower levels to a collection-level description. Click Add new to add as many child levels as necessary. Identifier: enter a unique standard number or code that distinctively identifies the resource. Title: enter A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it.</source>
+        <target xml:space="preserve">Користете ги овие две полиња за да додадете пониски нивоа на опис на ниво на збирка/колекција. Кликнете Додај ново за да додадете онолку подредени/пониски нивоа колку што е потребно. Идентификатор: внесете единствен стандарден број или код што карактеристично го идентификува изворот. Наслов: внесете збор, фраза, знак или група знаци, кои обично се појавуваат во изворот, што го именува или делото содржано во него.</target>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/editSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="d827f964611256f6e69ceba3798c43d4f6e886d4">
+        <source xml:space="preserve">Use these two fields to add lower levels to a collection-level description. Click Add new to add as many child levels as necessary. identifier: enter a unique standard number or code that distinctively identifies the resource. Title: enter A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
     </body>
   </file>
