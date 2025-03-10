@@ -22,12 +22,12 @@
       <trans-unit id="9b4d2dfc0b645efe7d3cde382a35f653f85d431a" xml:space="preserve">
         <source xml:space="preserve">"At all levels record the extent of the unit being described by giving the number of physical units in arabic numerals and the specific material designation as instructed in subrule .5B in the chapter(s) dealing with the broad class(es) of material to which the unit being described belongs." (RAD 1.5B1) Include other physical details and dimensions as specified in RAD 1.5C and 1.5D. Separate multiple entries in this field with a carriage return (i.e. press the Enter key on your keyboard).</source>
         <target xml:space="preserve" state="translated">Auf allen Ebenen ist der Umfang der beschriebenen Einheit anzugeben, indem die Anzahl der physikalischen Einheiten in arabischen Ziffern und die spezifische Materialbezeichnung gemäß Unterregel .5B im/den Kapitel(n) angegeben wird, die sich mit der/den breiten Materialklasse(n) befassen, zu der die beschriebene Einheit gehört. (RAD 1.5B1)
-
 Nehmen Sie weitere physikalische Details und Abmessungen gemäß RAD 1.5C und 1.5D auf. Trennen Sie mehrere Einträge in diesem Feld mit einem Zeilenumbruch (d. h. drücken Sie die Eingabetaste auf Ihrer Tastatur).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0">
+      <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0" xml:space="preserve">
         <source xml:space="preserve">"At the fonds, series or file levels, record coordinates for the maximum coverage provided by the materials in the unit, as long as they are reasonably contiguous." (RAD 5.3D)</source>
+        <target state="translated">Auf der Ebene der Bestände, Serien oder Akten sind die Angaben für die Erschließung durch die Materialien in der Einheit zu erfassen, sofern sie in angemessener Weise zusammenhängend sind. (RAD 5.3D)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e39858fff058c3d097605036f0d85826da7029ee">
@@ -67,36 +67,42 @@ aufzeigt." (ISAAR 5.2.7)</target>
         <target xml:space="preserve" state="final">"Die gegenwärtige Verwaltungsstruktur der Institution mit Archivbeständen ist in freier Form oder mit Hilfe eines Organigramms zu beschreiben." (ISDIAH 5.3.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="770bdba90f877683f82eef6ff5b5ea7270521ae1">
+      <trans-unit id="770bdba90f877683f82eef6ff5b5ea7270521ae1" xml:space="preserve">
         <source xml:space="preserve">"Give in English the scale in the units of measure found on the unit being described. If there is no English equivalent for the name of the unit of measure, give the name, within quotation marks, as found on the unit being described." (RAD 6.3B)</source>
+        <target state="translated">Geben Sie in deutscher Sprache die Maßeinheit an, mit der das Objekt beschrieben wird. Wenn es keine deutsche Entsprechung für die Maßeinheit gibt, geben Sie sie in Anführungszeichen so an, wie er auf dem entsprechenden Objekt steht. (RAD 6.3B)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="fa39c5d203d234d02401af14b054c22994c6cf7e">
+      <trans-unit id="fa39c5d203d234d02401af14b054c22994c6cf7e" xml:space="preserve">
         <source xml:space="preserve">"Give information about any restrictions placed on access to the unit (or parts of the unit) being described." (RAD 1.8B16a)</source>
+        <target state="translated">Machen Sie Angaben zu etwaigen Zugangsbeschränkungen zu dem beschriebenen Objekt (oder Teilen des Objekts). (RAD 1.8B16a)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="71d3593d83afa4d21d0d336a19f2f320fa178c76">
         <source xml:space="preserve">"Give information regarding the existence of any finding aids. Include appropriate administrative and/or intellectual control tools over the material in existence at the time the unit is described, such as card catalogues, box lists, series lists, inventories, indexes, etc." (RAD 1.8B17)</source>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="16da746bf4e63644bd6a4e74d2b05586319c55f1">
+      <trans-unit id="16da746bf4e63644bd6a4e74d2b05586319c55f1" xml:space="preserve">
         <source xml:space="preserve">"Give the International Standard Book Number (ISBN), International Standard Serial Number (ISSN), or any other internationally agreed standard number for the item being described. Give such numbers with the agreed abbreviation and with the standard spacing or hyphenation." (RAD 1.9B1)</source>
+        <target state="translated">„Geben Sie die Internationale Standardbuchnummer (ISBN), die Internationale Standard-Seriennummer (ISSN) oder eine andere international vereinbarte Standardnummer für den beschriebenen Gegenstand an. Geben Sie diese Nummern mit der vereinbarten Abkürzung und mit den Standardabständen oder -trennern an.“ (RAD 1.9B1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="60034fefcd624c7eab8769fa46351bb6e6deb175">
+      <trans-unit id="60034fefcd624c7eab8769fa46351bb6e6deb175" xml:space="preserve">
         <source xml:space="preserve">"Give the date(s) of creation of the unit being described either as a single date, or range of dates (for inclusive dates and/or predominant dates). Always give the inclusive dates. When providing predominant dates, specify them as such, preceded by the word predominant..." (RAD 1.4B2) Record probable and uncertain dates in square brackets, using the conventions described in 1.4B5.</source>
+        <target state="translated">„Geben Sie das Datum/die Daten der Erstellung der beschriebenen Einheit an, entweder als einzelnes Datum oder als Datumsbereich (für umfassende Daten und/oder vorherrschende Daten). Geben Sie immer die Datumsangaben inklusive Anfang und Ende an. Wenn Sie vorherrschende Daten angeben, geben Sie sie als solche an, wobei das Wort vorherrschend vorangestellt wird...“ (RAD 1.4B2) Wahrscheinliche und unsichere Daten sind in eckigen Klammern anzugeben, wobei die in 1.4B5 beschriebenen Konventionen zu beachten sind.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f6f8798c950d5bae63b63d48221e6cdce31ed8d2">
+      <trans-unit id="f6f8798c950d5bae63b63d48221e6cdce31ed8d2" xml:space="preserve">
         <source xml:space="preserve">"Give the history of the custody of the unit being described, i.e., the successive transfers of ownership and custody or control of the material, along with the dates thereof, insofar as it can be ascertained." (RAD 1.7C)</source>
+        <target state="translated">„Geben Sie die Geschichte der Verwahrung der beschriebenen Einheit an, d. h. die aufeinander folgenden Übertragungen von Eigentum und Verwahrung oder Kontrolle des Materials, zusammen mit den entsprechenden Datumsangaben, soweit diese ermittelt werden können.“ (RAD 1.7C)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="fe6d4441be4ae7ed0238c235cf2c33f7af645edb">
         <source xml:space="preserve">"Give the name of the jurisdiction (e.g., government) responsible for issuing the philatelic records." (RAD 12.3B1) "For all units possessing a denomination (e.g., postage stamps, revenue stamps, postal stationery items), give the denomination in a standardized format, recording the denomination number in arabic numerals followed by the name of the currency unit. Include a denomination statement even if the denomination is already recorded as part of the title proper or other title information." (RAD 12.3C1)</source>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1505e078afa6348f6e5b47693a786753822d6faf">
+      <trans-unit id="1505e078afa6348f6e5b47693a786753822d6faf" xml:space="preserve">
         <source xml:space="preserve">"Give the numbering of the item within a publisher's series in the terms given in the item." (RAD 1.6F1)</source>
+        <target state="translated">„Geben Sie die Nummerierung des Artikels innerhalb einer Verlagsreihe in der im Artikel angegebenen Form an.“ (RAD 1.6F1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="216ee35256579006940267760c7ee4d160cbde9a">
@@ -6657,10 +6663,10 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
       </trans-unit>
       <trans-unit id="02cca9a8cba9848bdeb2934607c1f54a85bea539" xml:space="preserve">
         <source xml:space="preserve">Record dates of creation, record-keeping activity, publication, or broadcast as appropriate to the materials being described. (DACS 2.4.3) The Date display field can be used to enter free-text date information, including typographical marks to express approximation, uncertainty, or qualification. Use the start and end fields to make the dates searchable. Do not use any qualifiers or typographical symbols. Acceptable date formats: YYYYMMDD, YYYY-MM-DD, YYYY-MM, YYYY.</source>
-        <target xml:space="preserve" state="translated">Notieren Sie hier das Datum der Erzeugung, Änderung, Freigabe oder Vteilung des hier beschriebenen Materials an. (DACS 2.4.3) 
+        <target xml:space="preserve" state="translated">Notieren Sie hier das Datum der Erzeugung, Änderung, Freigabe oder Verteilung des hier beschriebenen Materials an. (DACS 2.4.3) 
 Das Datum-Anzeigefeld kann dazu benutzt werden, um freie Text-Beschreibung anzugeben - auch Sonderzeichen, um Annäherungen, Unsicherheiten oder Betonungen auszudrücken. 
 Benutzen Sie die Start- und Ende-Eingaben, um das Datum durchsuchbar zu machen - verwenden Sie hier keine Sonderzeichen. 
-Verwenden Sie diese Datumsformate: YYYYMMDD, YYYY-MM-DD, YYYY-MM, YYYY.</target>
+Verwenden Sie diese Datumsformate: JJJJMMTT, YYYY-MM-TT, JJJJ-MM, JJJJ.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5b9fee98732ea4e9df9b773fc6325fdabe7e68b3">
@@ -7776,7 +7782,7 @@ Wählen Sieso viele Typen wie erforderlich aus dem drop-down Menue; diese Werte 
       </trans-unit>
       <trans-unit id="01f7c9c377593dcd934593002c58f648cff0833f" xml:space="preserve">
         <source xml:space="preserve">Signatures note</source>
-        <target xml:space="preserve" state="translated">Bemerkung zur Unterschrift</target>
+        <target xml:space="preserve" state="translated">Bemerkung zur Signatur</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="82f726ee8d6d55d82e66c253ac3fe8841fb23723">
@@ -8024,7 +8030,7 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="010445c9b9edbeb1cbf9c8bf56d13842b10767ae" xml:space="preserve">
         <source xml:space="preserve">Statement of responsibility relating to publisher's series</source>
-        <target xml:space="preserve" state="translated">Verantwortlichkeitserklärung zu der Serie</target>
+        <target xml:space="preserve" state="translated">Erklärung der Verantwortlichkeit zu der Serie</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="56c50c457b7682daac246da8f1eb1cbd62059155">
@@ -8559,7 +8565,7 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="0191a6141d0f117ad83678a3456c44a9900e248e" xml:space="preserve">
         <source xml:space="preserve">This feature will not work until a Google Maps API key is specified on the %1%global%2% settings page.</source>
-        <target xml:space="preserve" state="translated">Dieses Feature wird erst dann auch funktionieren, wenn ein "Google Maps API key" angegeben wurde auf der %1%globalen%2% Einstellungsseite.</target>
+        <target xml:space="preserve" state="translated">Dieses Feature wird erst dann funktionieren, wenn ein "Google Maps API key" angegeben wurde auf der %1%globalen%2% Einstellungsseite.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/pageElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="dedbaded6d5a4ed17eefa2e4ee3eee026b7d1d11" approved="yes" xml:space="preserve">
@@ -10189,7 +10195,7 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="03460faf0899aefda5737701da2cbfbadde2a0c2" xml:space="preserve">
         <source xml:space="preserve">Some files failed to upload. Press the \\'Import\\' button to continue importing anyways, or press \\'Retry\\' to re-attempt upload.</source>
-        <target xml:space="preserve" state="translated">Einige Dateien konnten nicht hochgeladen werden. Drücke die \\'Import\\' Schaltfläche, um fortzufahren, sonst \\'Retry\\' um das Hochladen zu wiederholen.</target>
+        <target xml:space="preserve" state="translated">Einige Dateien konnten nicht hochgeladen werden. Drücke die \\'Import\\'-Schaltfläche, um fortzufahren oder \\'Retry\\' um das Hochladen zu wiederholen.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="3d087d5b3fa00a41835da326d2dbe00bfeefeac7">
@@ -10294,7 +10300,7 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="04c76aff13513162ad7d4ad6d323e09e2fc81986" xml:space="preserve">
         <source xml:space="preserve">Uploading %{smart_count} file</source>
-        <target xml:space="preserve" state="translated">Lade %{smart_count} Datei hoch</target>
+        <target xml:space="preserve" state="translated">Lade %{smart_count}. Datei hoch</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="ef16d8ebd2ea2f846bd7946d9e16d6ef108d8a45">
@@ -10528,38 +10534,42 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f84dacf705bf94703f171f2dea4fb8808ade64a3">
+      <trans-unit id="f84dacf705bf94703f171f2dea4fb8808ade64a3" xml:space="preserve">
         <source xml:space="preserve">%open_strong_tag%Note:%close_strong_tag% AtoM may remove export packages after a period of time to free up storage space. When your export is ready you should download it as soon as possible.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">%open_strong_tag%Hinweis:%close_strong_tag% AtoM kann Exportpakete nach einer gewissen Zeit entfernen, um Speicherplatz freizugeben. Wenn Ihr Export fertig ist, sollten Sie ihn baldmöglichst herunterladen.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d7ec1112216f9e03622bcfa0a715802e0da7b172">
+      <trans-unit id="d7ec1112216f9e03622bcfa0a715802e0da7b172" xml:space="preserve">
         <source xml:space="preserve">Default %1% upload limit for a new %2%.  A value of &amp;quot;0&amp;quot; (zero) disables file upload.  A value of &amp;quot;-1&amp;quot; allows unlimited uploads for all %2%s, overriding limit set for individual %2%s.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Voreingestelltes %1%-Upload-Limit für ein neues %2%.  Ein Wert von &amp;quot;0&amp;quot; (Null) deaktiviert den Datei-Upload.  Ein Wert von &amp;quot;-1&amp;quot; erlaubt unbegrenzte Uploads für alle %2% und setzt das für einzelne %2% festgelegte Limit außer Kraft.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2281c3abe81774a22d70ddd2b0ef93eebcb66ec1">
+      <trans-unit id="2281c3abe81774a22d70ddd2b0ef93eebcb66ec1" xml:space="preserve">
         <source xml:space="preserve">Load and view</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Lade zum Ansehen</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="af803012ca243fd377e12add0640fdbc3fa44dbd">
+      <trans-unit id="af803012ca243fd377e12add0640fdbc3fa44dbd" xml:space="preserve">
         <source xml:space="preserve">Server error while checking identifier availability.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Fehler auf dem Server bei der Kontrolle der Signatur.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="9deb500408518ff39f2c6d17a2b041ec2e3ee231" xml:space="preserve" approved="yes">
         <source xml:space="preserve">This identifier is already in use.</source>
         <target xml:space="preserve" state="final">Diese Signatur wird schon verwendet.</target>
       </trans-unit>
-      <trans-unit id="c52db9fda2375c7c1eb62e5d82f77dfc21841386">
+      <trans-unit id="c52db9fda2375c7c1eb62e5d82f77dfc21841386" xml:space="preserve">
         <source xml:space="preserve">Use these two fields to add lower levels to a collection-level description. Click Add new to add as many child levels as necessary. Identifier: enter a unique standard number or code that distinctively identifies the resource. Title: enter A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Verwenden Sie diese beiden Felder, um einer Beschreibung einer Sammlung untergeordnete Ebenen hinzuzufügen. Klicken Sie auf "Neu hinzufügen", um so viele untergeordnete Ebenen wie nötig hinzuzufügen. 
+Signatur: Geben Sie eine eindeutige Standardnummer oder einen Code ein, der die Ressource eindeutig identifiziert. 
+Titel: Geben Sie ein Wort, eine Phrase, ein Zeichen oder eine Gruppe von Zeichen ein, die normalerweise in einer Ressource vorkommen und diese oder das darin enthaltene Werk beschreiben.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d827f964611256f6e69ceba3798c43d4f6e886d4">
+      <trans-unit id="d827f964611256f6e69ceba3798c43d4f6e886d4" xml:space="preserve">
         <source xml:space="preserve">Use these two fields to add lower levels to a collection-level description. Click Add new to add as many child levels as necessary. identifier: enter a unique standard number or code that distinctively identifies the resource. Title: enter A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Verwenden Sie diese beiden Felder, um einer Beschreibung einer Sammlung untergeordnete Ebenen hinzuzufügen. Klicken Sie auf "Neu hinzufügen", um so viele untergeordnete Ebenen wie nötig hinzuzufügen. 
+Signatur: Geben Sie eine eindeutige Standardnummer oder einen Code ein, der die Ressource eindeutig identifiziert. 
+Titel: Geben Sie ein Wort, eine Phrase, ein Zeichen oder eine Gruppe von Zeichen ein, die normalerweise in einer Ressource vorkommen und diese oder das darin enthaltene Werk beschreiben.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
     </body>
