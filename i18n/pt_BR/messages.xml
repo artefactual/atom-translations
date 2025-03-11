@@ -11167,24 +11167,24 @@ desabilitada, e o filtro 'Busca avançada &gt; Instrumentos de Pesquisa' é ocul
         <target xml:space="preserve" state="final">Conectar usando SSO</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/user/templates/loginSuccess.mod_ext_auth.php</note>
       </trans-unit>
-      <trans-unit id="96a056677f96828bf6f46d5b8433c2155a4ad8cb">
+      <trans-unit id="96a056677f96828bf6f46d5b8433c2155a4ad8cb" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1% upload limits meter display</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1% exibição do medidor de limites de upload</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f84dacf705bf94703f171f2dea4fb8808ade64a3">
+      <trans-unit id="f84dacf705bf94703f171f2dea4fb8808ade64a3" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%open_strong_tag%Note:%close_strong_tag% AtoM may remove export packages after a period of time to free up storage space. When your export is ready you should download it as soon as possible.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%open_strong_tag%Note:%close_strong_tag% o AtoM poderá remover pacotes exportados após um período de tempo para liberar espaço de armazenamento. Faça download da sua exportação assim que possível.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d7ec1112216f9e03622bcfa0a715802e0da7b172">
+      <trans-unit id="d7ec1112216f9e03622bcfa0a715802e0da7b172" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Default %1% upload limit for a new %2%.  A value of &amp;quot;0&amp;quot; (zero) disables file upload.  A value of &amp;quot;-1&amp;quot; allows unlimited uploads for all %2%s, overriding limit set for individual %2%s.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Limite de upload padrão de %1% para uma nova %2%. Um valor de &amp;quot;0&amp;quot; (zero) desabilita o upload de arquivos. Um valor de &amp;quot;-1&amp;quot; permite uploads ilimitados para todas as %2%s, sobrescrevendo o limite definido para %2%s individuais.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2281c3abe81774a22d70ddd2b0ef93eebcb66ec1">
+      <trans-unit id="2281c3abe81774a22d70ddd2b0ef93eebcb66ec1" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Load and view</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Carregar e visualizar</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="af803012ca243fd377e12add0640fdbc3fa44dbd" xml:space="preserve" approved="yes">
@@ -11201,9 +11201,9 @@ desabilitada, e o filtro 'Busca avançada &gt; Instrumentos de Pesquisa' é ocul
         <target xml:space="preserve" state="final">Use esses dois campos para adicionar níveis mais baixos de uma descrição em nível de coleção. Clique em Adicionar para adicionar novos níveis como muitas crianças, se necessário. Identificador: digite um número único padrão ou código que identifica o recurso distintamente. Título: Introduza uma palavra, frase, caractere, ou grupo de caracteres, normalmente aparecendo como um recurso, de que os nomes ou o trabalho nele contidos.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d827f964611256f6e69ceba3798c43d4f6e886d4">
+      <trans-unit id="d827f964611256f6e69ceba3798c43d4f6e886d4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Use these two fields to add lower levels to a collection-level description. Click Add new to add as many child levels as necessary. identifier: enter a unique standard number or code that distinctively identifies the resource. Title: enter A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Utilize estes dois campos para adicionar níveis inferiores à descrições em nível de coleção. Clique em Adicionar novo para adicionar tantas descrições de níveis inferiores quantas forem necessárias. identificador: insira um número ou código padrão único que identifica o recurso distintivamente. Título: insira uma palavra, frase, caractere, ou grupo de caracteres, que aparecem normalmente em um recurso, que nomeiam o recurso ou o trabalho contido nele.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
     </body>
