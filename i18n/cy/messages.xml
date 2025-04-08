@@ -11152,36 +11152,39 @@ ei analluogi, a mae hidlydd 'Chymorth Chwilio &gt; Chwilio Uwch' wedi'i guddio.
         <target xml:space="preserve" state="final">Pan fydd wedi'i alluogi, mae mesurydd Cyfyngiad lanlwytho yn cael ei arddangos ar gyfer defnyddwyr dilys ar y dudalen gweld %1%, a gall gweinyddwyr gyfyngu'r gofod disg a chaniateir i bob % 1% ar gyfer %2% llwyth</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2b107ff02c391b4c97281d7682388b3099a44095">
+      <trans-unit id="2b107ff02c391b4c97281d7682388b3099a44095" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Choosing "Include non-visible elements" will include those not marked as Visible Elements.</source>
+        <target state="final">Bydd dewis "Cynnwys elfennau anweladwy" yn cynnwys pob un sydd heb eu nodi fel Elfennau Gweladwy.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="2651a4bb5f704de3034a75d98d667868216b3c1e">
+      <trans-unit id="2651a4bb5f704de3034a75d98d667868216b3c1e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Include non-visible elements</source>
+        <target state="final">Cynnwys elfennau anweladwy</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="da1169eb3b7b70109ee0ed85b67c3a154e8a0dd6">
+      <trans-unit id="da1169eb3b7b70109ee0ed85b67c3a154e8a0dd6" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Log in with SSO</source>
+        <target state="final">Mewngofnodi gyda SSO</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/user/templates/loginSuccess.mod_ext_auth.php</note>
       </trans-unit>
-      <trans-unit id="96a056677f96828bf6f46d5b8433c2155a4ad8cb">
+      <trans-unit id="96a056677f96828bf6f46d5b8433c2155a4ad8cb" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1% upload limits meter display</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%1% arddangosiad mesurydd cyfyngiad lanlwytho</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f84dacf705bf94703f171f2dea4fb8808ade64a3">
+      <trans-unit id="f84dacf705bf94703f171f2dea4fb8808ade64a3" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%open_strong_tag%Note:%close_strong_tag% AtoM may remove export packages after a period of time to free up storage space. When your export is ready you should download it as soon as possible.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">%open_strong_tag%Nodyn:%close_strong_tag% gall AtoM waredu pecynnau allforio ar ôl amser er mwyn creu lle storio. Pan fydd eich allforyn yn barod, dylwch ei lawrlwytho cyn gynted ag sy'n bosib.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d7ec1112216f9e03622bcfa0a715802e0da7b172">
+      <trans-unit id="d7ec1112216f9e03622bcfa0a715802e0da7b172" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Default %1% upload limit for a new %2%.  A value of &amp;quot;0&amp;quot; (zero) disables file upload.  A value of &amp;quot;-1&amp;quot; allows unlimited uploads for all %2%s, overriding limit set for individual %2%s.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cyfyngiad lanlwytho %1% diofyn ar gyfer %2% newydd. Mae gwerth o &amp;quot;0&amp;quot; (sero) yn analluogi lanlwytho'r ffeil. Mae gwerth o  &amp;quot;-1&amp;quot;  yn caniatáu lanlwytho ddiddiwedd ar gyfer pob un %2%, sy'n diystyru'r cyfyngiad sydd wedi'i osod ar gyfer %2%au unigol.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="2281c3abe81774a22d70ddd2b0ef93eebcb66ec1">
+      <trans-unit id="2281c3abe81774a22d70ddd2b0ef93eebcb66ec1" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Load and view</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Llwytho a gweld</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="af803012ca243fd377e12add0640fdbc3fa44dbd" xml:space="preserve" approved="yes">
@@ -11198,9 +11201,9 @@ ei analluogi, a mae hidlydd 'Chymorth Chwilio &gt; Chwilio Uwch' wedi'i guddio.
         <target xml:space="preserve" state="final">Defnyddiwch y ddau faes i ychwanegu lefelau is i ddisgrifiad ar lefel casgliad. Cliciwch Ychwanegu newydd i ychwanegu cymaint ag sydd angen o lefelau plant. Dynodwr: rhowch rif safonol unigryw neu god sy'n dynodi'r adnodd. Teitl: rhowch Air, ymadrodd, cymeriad, neu grŵp o gymeriadau, sydd fel arfer yn ymddangos mewn adnodd, sydd yn ei enwi neu'r gwaith a gynhwysir ynddo.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d827f964611256f6e69ceba3798c43d4f6e886d4">
+      <trans-unit id="d827f964611256f6e69ceba3798c43d4f6e886d4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Use these two fields to add lower levels to a collection-level description. Click Add new to add as many child levels as necessary. identifier: enter a unique standard number or code that distinctively identifies the resource. Title: enter A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Defnyddiwch y ddau faes hyn i ychwanegu lefelau is at ddisgrifiad lefel casgliad. Cliciwch Ychwanegu newydd i ychwanegu cymaint o lefelau plentyn sydd angen. Dynodwr: Rhowch rif neu god safonol unigryw sy'n unigryw i'r adnodd. Teitl: nodwch air, ymadrodd, nod, neu grŵp o nodau, sydd fel arfer yn ymddangos mewn adnodd, sy'n enwi'r adnodd neu'r gwaith a gynhwysir ynddo.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
     </body>
