@@ -30,12 +30,16 @@ Nehmen Sie weitere physikalische Details und Abmessungen gemäß RAD 1.5C und 1.
         <target state="translated">Auf der Ebene der Bestände, Serien oder Akten sind die Angaben für die Erschließung durch die Materialien in der Einheit zu erfassen, sofern sie in angemessener Weise zusammenhängend sind. (RAD 5.3D)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e39858fff058c3d097605036f0d85826da7029ee">
+      <trans-unit id="e39858fff058c3d097605036f0d85826da7029ee" xml:space="preserve">
         <source xml:space="preserve">"At the fonds, series, and collection levels of description, and when necessary at the file and the item levels of description, indicate the level being described and give information about the scope and the internal structure of or arrangement of the records, and about their contents." (RAD 1.7D) "For the scope of the unit being described, give information about the functions and/or kinds of activities generating the records, the period of time, the subject matter, and the geographical area to which they pertain. For the content of the unit being described, give information about its internal structure by indicating its arrangement, organization, and/or enumerating its next lowest level of description. Summarize the principal documentary forms (e.g., reports, minutes, correspondence, drawings, speeches)." (RAD 1.7D1)</source>
+        <target state="translated">„Auf den Beschreibungsebenen Bestand, Serie und Sammlung und, falls erforderlich, auf den Beschreibungsebenen Akte und Einzelstück, geben Sie die zu beschreibende Ebene an und machen Sie Angaben zum Umfang und zur internen Struktur oder Anordnung der Unterlagen sowie zu deren Inhalt.“ (RAD 1.7D)
+"Für den Umfang der zu beschreibenden Einheit sind Angaben zu den Funktionen und/oder Arten von Aktivitäten zu machen, die zu den Aufzeichnungen führen, sowie zu dem Zeitraum, dem Gegenstand und dem geografischen Gebiet, auf das sich die Aufzeichnungen beziehen. 
+Geben Sie für den Inhalt der zu beschreibenden Einheit Informationen über ihre interne Struktur an, indem Sie ihre Anordnung, Organisation und/oder die nächst niedrigere Beschreibungsebene aufzählen. Fassen Sie die wichtigsten dokumentarischen Formen (z. B. Berichte, Protokolle, Korrespondenz, Zeichnungen, Reden) zusammen." (RAD 1.7D1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="59fcc3ec9ef8fed2f8021ef533dfdeb13dc18997">
+      <trans-unit id="59fcc3ec9ef8fed2f8021ef533dfdeb13dc18997" xml:space="preserve">
         <source xml:space="preserve">"At the item level of description, transcribe a title proper of the publisher's series as instructed in 1.1B1." (RAD 1.6B)</source>
+        <target state="translated">Auf der Erschließungsebene "Einzelstück" übertrage den Titel aus der Veröffentlichungsserie gemäß den Anweisungen. (RAD 1.6B)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="458b0ba2087dc44020972f3a6d1946f5314d69c4">
@@ -742,8 +746,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">%1%Identifikator der Beschreibung%2%  - Dies ist ein%3%notwendiges%4% Element.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdfPlugin/modules/sfIsdfPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="e3d1028b31fadd55009d342064c067a627b8cbc4">
+      <trans-unit id="e3d1028b31fadd55009d342064c067a627b8cbc4" xml:space="preserve">
         <source xml:space="preserve">%1%Export initiated.%2% Check %3%job management%4% page to download the results when it has completed.</source>
+        <target state="translated">%1%Export gestartet.%2% Prüfen Sie die Seite %3%Job-Übersicht%4%, um das Ergebnis zu laden, wenn es fertig ist.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/actions/holdingsReportExportAction.class.php</note>
       </trans-unit>
       <trans-unit id="a203c1f0b502d748a466bc46e95ccec9e475eedf" approved="yes" xml:space="preserve">
@@ -2591,8 +2596,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Datum (basiert auf dem Laufzeitbeginn)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/itemOrFileListAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f40b04215da44b7efbff8487752bdfb118ff634f">
+      <trans-unit id="f40b04215da44b7efbff8487752bdfb118ff634f" xml:space="preserve">
         <source xml:space="preserve">Date calculation started.</source>
+        <target state="translated">Datumsberechnung wurde gestartet.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/calculateDatesAction.class.php</note>
       </trans-unit>
       <trans-unit id="dcef8297cd84445acb4ad6b84e674163d3d9765e">
@@ -9285,8 +9291,9 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
         <target xml:space="preserve" state="final">Ihr Browser unterstützt nicht JavaScript. Vgl. %1%minimum requirements%2%.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7c6ebbcaa294e78319d052103c0780f99d305c52">
+      <trans-unit id="7c6ebbcaa294e78319d052103c0780f99d305c52" xml:space="preserve">
         <source xml:space="preserve">Your description has been updated. Lower level descriptions are being updated now – check the &lt;a href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
+        <target state="translated">Ihre Beschreibung wurde aktualisiert und die untergeordneten Beschreibungen werden jetzt nachgezogen – prüfen Sie die Seite &lt;a href="%1"&gt;Job-Übersicht&lt;/a&gt; auf Status und weitere Details.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/updatePublicationStatusAction.class.php</note>
       </trans-unit>
       <trans-unit id="3ce21b73e93a6e6184c5b82162d8d2b7a5d5b4a4">
@@ -10361,11 +10368,13 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <source xml:space="preserve">You will also be able to review and individually modify each description title on the next page after clicking "Upload."</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="433e80c4d2ce50196735d6e3fde038ad98ab3bcf">
+      <trans-unit id="433e80c4d2ce50196735d6e3fde038ad98ab3bcf" xml:space="preserve">
         <source xml:space="preserve">Your description has been updated. Its descendants are being updated asynchronously – check the &lt;a class="alert-link" href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
+        <target state="translated">Ihre Änderungen wurden gespeichert und die abhängigen Beschreibungen werden jetzt asynchron aktualisiert - prüfen Sie ggf. die &lt;a class="alert-link" href="%1"&gt;Job-Übersicht&lt;/a&gt; für Status und Details.</target>
       </trans-unit>
-      <trans-unit id="d449e5a576cfd87e8b35c9f77eab5fba5d3f3719">
+      <trans-unit id="d449e5a576cfd87e8b35c9f77eab5fba5d3f3719" xml:space="preserve">
         <source xml:space="preserve">Your term has been updated. Its related descriptions are being updated asynchronously – check the &lt;a class="alert-link" href="%1"&gt;job scheduler page&lt;/a&gt; for status and details.</source>
+        <target state="translated">Der Begriff wurde gespeichert. Die davon betroffenen Beschreibungen werden jetzt asynchron aktualisiert - prüfen Sie die &lt;a class="alert-link" href="%1"&gt;Job-Übersicht&lt;/a&gt;, wenn Sie an Status und Details interessiert sind.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="5bee69cda5e6b44e88b3bf528ec9f653c3ac9492">
