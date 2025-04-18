@@ -611,8 +611,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Einstellungen für Derivate</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/digitalObjectDerivativesSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b94c3c73d832ed9062866be05ca2dae2578c33dd">
+      <trans-unit id="b94c3c73d832ed9062866be05ca2dae2578c33dd" xml:space="preserve">
         <source xml:space="preserve">%1% draft(s) available (visit %2%newest additions%3% page to browse them)</source>
+        <target state="translated">%1% Beschreibungen sind in Arbeit (gehe zu %2%newest additions%3%, um sie zu anzusehen)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/loginAction.class.php</note>
       </trans-unit>
       <trans-unit id="894d18fa01c49de60cf24e84b9ead9a0c4ce6bc3" approved="yes" xml:space="preserve">
@@ -4554,8 +4555,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <source xml:space="preserve">Include digital objects</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="a27cc59c4c88f610ee50249c4f533677b9435ec5">
+      <trans-unit id="a27cc59c4c88f610ee50249c4f533677b9435ec5" xml:space="preserve">
         <source xml:space="preserve">Include draft records</source>
+        <target state="translated">berücksichtige Datensätze in Arbeit</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="58feb71e31d2f20331c89098a24290d9edcf4d5d" approved="yes" xml:space="preserve">
@@ -7734,8 +7736,9 @@ Wählen Sieso viele Typen wie erforderlich aus dem drop-down Menue; diese Werte 
         <target xml:space="preserve" state="final">Zeige alle</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_imageflow.php</note>
       </trans-unit>
-      <trans-unit id="8a45f7d136057785b07fe927d8f9d99fcc10b390">
+      <trans-unit id="8a45f7d136057785b07fe927d8f9d99fcc10b390" xml:space="preserve">
         <source xml:space="preserve">Show available drafts notification upon user login</source>
+        <target state="translated">Zeige nach der Anmeldung den Hinweis über noch nicht veröffentlichte Beschreibungen</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="52a870be7cc257f36e6778e4eb1b610bac4a6182">
@@ -9296,8 +9299,9 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
         <target state="translated">Ihre Beschreibung wurde aktualisiert und die untergeordneten Beschreibungen werden jetzt nachgezogen – prüfen Sie die Seite &lt;a href="%1"&gt;Job-Übersicht&lt;/a&gt; auf Status und weitere Details.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/updatePublicationStatusAction.class.php</note>
       </trans-unit>
-      <trans-unit id="3ce21b73e93a6e6184c5b82162d8d2b7a5d5b4a4">
+      <trans-unit id="3ce21b73e93a6e6184c5b82162d8d2b7a5d5b4a4" xml:space="preserve">
         <source xml:space="preserve">Your edits to this description have been saved and the description has reverted to Draft status. Please ask a user with sufficient permissions to publish the description again to make it publicly visible.</source>
+        <target state="translated">Ihr Änderungen an der Beschreibung wurden gesichert und dabei der Status wieder "in Arbeit" zurück gesetzt. Bitten Sie einen Kollegen mit ausreichender Berechtigung diese Beschreibung wieder zu veröffentlichen.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="5971e540d1db1ad60fe77b3f97b48070aea20c28" approved="yes" xml:space="preserve">
@@ -10360,8 +10364,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <source xml:space="preserve">When enabled, the copyright pop-up will be applied to every %1%, regardless of whether there is an accompanying Rights statement.</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d005ed1e246ebafdb3cc5b6b10c0a6bdab3046e1">
+      <trans-unit id="d005ed1e246ebafdb3cc5b6b10c0a6bdab3046e1" xml:space="preserve">
         <source xml:space="preserve">When set to 'yes' generated Finding Aids will exclude Drafts</source>
+        <target state="translated">Wenn dies auf 'Ja' steht, werden Entwürfe aus dem Find-Buch ausgeschlossen</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsFindingAidForm.class.php</note>
       </trans-unit>
       <trans-unit id="c467df40f109045995260e6463dab060c267a109">
@@ -10437,8 +10442,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <source xml:space="preserve">Choosing "Include descendants" will include all lower-level records beneath those currently on the clipboard in the export.</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="172a3b6a149802a62c5013526250c882f1fd74ad">
+      <trans-unit id="172a3b6a149802a62c5013526250c882f1fd74ad" xml:space="preserve">
         <source xml:space="preserve">Choosing "Include draft records" will include those marked with a Draft publication status in the export. Note: if you do NOT choose this option, any descendants of a draft record will also be excluded, even if they are published.</source>
+        <target state="translated">Die Auswahl "einschließlich Entwurfsdatensätze" lässt die nicht veröffentlichten Elemente im Export zu. Hinweis: falls Sie es NICHT setzen, werden auch alle Unter-Elemente ignoriert, auch wenn diese schon veröffentlicht sind.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
       <trans-unit id="512425b62966d59473d4dae14d91938e7b02ce6d">
