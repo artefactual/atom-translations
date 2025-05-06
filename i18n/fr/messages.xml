@@ -4981,11 +4981,6 @@
         <target xml:space="preserve" state="final">Termes de la licence</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_right.php</note>
       </trans-unit>
-      <trans-unit id="0aec43eb4c2b031ef28ef83c23dc31ce14b31192" xml:space="preserve">
-        <source xml:space="preserve">Limit administrator functionality to one or more IP addresses, separated by semicolons.</source>
-        <target xml:space="preserve" state="final">Limiter la fonction d'administrateur à une ou à plusieurs adresses IP, séparées par des virgules.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
-      </trans-unit>
       <trans-unit id="c9a63a518c70a777f5be69334e81ea8c972ca31d" xml:space="preserve">
         <source xml:space="preserve">Limit matches to:</source>
         <target xml:space="preserve" state="final">Limiter les concordances à :</target>
@@ -9886,11 +9881,6 @@
         <target xml:space="preserve" state="final">vous</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/listSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f191b2120c9efa7b0c1411d6989e325561707ddb" xml:space="preserve">
-        <source xml:space="preserve"> %1%Download%2% (%3% b)</source>
-        <target xml:space="preserve" state="final"> %1%Télécharger%2% (%3% b)</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
-      </trans-unit>
       <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf" xml:space="preserve">
         <source xml:space="preserve"> Auto refresh</source>
         <target xml:space="preserve" state="final"> Actualisation automatique</target>
@@ -11190,6 +11180,21 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <source xml:space="preserve">records added</source>
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/menu/templates/_clipboardMenu.php</note>
+      </trans-unit>
+      <trans-unit id="32e271bec7e31df1838efd94cf39df8b980c7283">
+        <source xml:space="preserve"> %1%Download%2% (%3%)</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="8cbecd540cfe5ae7ac2c6255c83a8a906fe7cd21">
+        <source xml:space="preserve">%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Unlimited&lt;/em&gt;</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/repository/templates/_uploadLimit.php</note>
+      </trans-unit>
+      <trans-unit id="31cb8ebdd8929e1a64627c0799b74b8fdf1d195d">
+        <source xml:space="preserve">Limit authenticated functionality to one or more IP addresses, separated by semicolons.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
       </trans-unit>
     </body>
   </file>
