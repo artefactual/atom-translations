@@ -4,10 +4,6 @@
   <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-10-21T23:59:11Z" product-name="messages">
     <header/>
     <body>
-      <trans-unit id="f191b2120c9efa7b0c1411d6989e325561707ddb">
-        <source xml:space="preserve"> %1%Download%2% (%3% b)</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
-      </trans-unit>
       <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf">
         <source xml:space="preserve"> Auto refresh</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
@@ -4148,10 +4144,6 @@
       <trans-unit id="d4a308b8918e79dd602ef88b50c4022f3100918c">
         <source xml:space="preserve">License terms</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_right.php</note>
-      </trans-unit>
-      <trans-unit id="0aec43eb4c2b031ef28ef83c23dc31ce14b31192">
-        <source xml:space="preserve">Limit administrator functionality to one or more IP addresses, separated by semicolons.</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
       </trans-unit>
       <trans-unit id="c9a63a518c70a777f5be69334e81ea8c972ca31d">
         <source xml:space="preserve">Limit matches to:</source>
@@ -8960,6 +8952,21 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <source xml:space="preserve">Use these two fields to add lower levels to a collection-level description. Click Add new to add as many child levels as necessary. identifier: enter a unique standard number or code that distinctively identifies the resource. Title: enter A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it.</source>
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="32e271bec7e31df1838efd94cf39df8b980c7283">
+        <source xml:space="preserve"> %1%Download%2% (%3%)</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="8cbecd540cfe5ae7ac2c6255c83a8a906fe7cd21">
+        <source xml:space="preserve">%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Unlimited&lt;/em&gt;</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/repository/templates/_uploadLimit.php</note>
+      </trans-unit>
+      <trans-unit id="31cb8ebdd8929e1a64627c0799b74b8fdf1d195d">
+        <source xml:space="preserve">Limit authenticated functionality to one or more IP addresses, separated by semicolons.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
       </trans-unit>
     </body>
   </file>
