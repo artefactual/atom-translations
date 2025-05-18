@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 10:51-0700\n"
-"PO-Revision-Date: 2025-03-05 16:44+0000\n"
+"PO-Revision-Date: 2025-05-19 11:31+0000\n"
 "Last-Translator: mjcolmenero <mjcolmenero@gmail.com>\n"
 "Language-Team: Spanish <https://translations.artefactual.com/projects/atom/"
 "website/es/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.2\n"
+"X-Generator: Weblate 5.11.3\n"
 
 #: atom/settings/base.py:76
 msgid "English"
@@ -78,15 +78,15 @@ msgstr ""
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:16
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "\n"
 "        %(project_name)s is an old release, and the documentation is in maintenance mode.\n"
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s es una versión antigua pero su documentación está "
-"en modo mantenimiento.\n"
+"        %(project_name)s es una versión antigua, y su documentación está en "
+"mantenimiento.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:21
@@ -101,7 +101,7 @@ msgstr ""
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:26
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "\n"
 "        %(project_name)s is our latest release, and its documentation is a work in progress.\n"
@@ -109,7 +109,7 @@ msgid ""
 msgstr ""
 "\n"
 "        %(project_name)s es nuestra última actualización, y su documentación "
-"está en proceso de trabajo.\n"
+"está en proceso de actualización.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:31
@@ -121,7 +121,7 @@ msgid ""
 msgstr ""
 "\n"
 "        %(project_name)s no ha sido publicado todavía, y su documentación "
-"está en proceso de trabajo.\n"
+"está en proceso de revisión.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:60
@@ -188,7 +188,7 @@ msgstr "Resultados de la búsqueda"
 #: sphinxdoc/templates/sphinxdoc/search.html:12
 #, python-format
 msgid "Showing results matching \"%(query)s\"..."
-msgstr "Mostrando resultados que coinciden con \"%(query)s\"..."
+msgstr "Mostrando resultados que coincidan con \"%(query)s\"..."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:20
 msgid "No results found."
@@ -243,7 +243,7 @@ msgstr "Demo"
 
 #: templates/base.html:110
 msgid "Try it now!"
-msgstr "¡Pruébalo ahora!"
+msgstr "¡Pruébelo ahora!"
 
 #: templates/base.html:113
 msgid "Other sites"
@@ -347,9 +347,9 @@ msgid ""
 msgstr ""
 "\n"
 "              <p>El código de AtoM's está alojado en <a href="
-"\"https://github.com/artefactual/atom\">Github</a>. Son bienvenidos los pull "
-"requests y comentarios relacionados con nuestro código. Para más "
-"información, por favor vea   <a href="
+"\"https://github.com/artefactual/atom\">Github</a>. Son bienvenidos las "
+"peticiones y comentarios relacionados con nuestro código. Para más "
+"información, por favor vea <a href="
 "\"https://wiki.accesstomemory.org/Development/Contribute_code\">Contribuir "
 "al Código.</a> </p>\n"
 "            "
