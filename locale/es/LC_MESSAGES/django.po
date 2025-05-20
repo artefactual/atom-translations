@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 10:51-0700\n"
-"PO-Revision-Date: 2025-05-19 11:31+0000\n"
+"PO-Revision-Date: 2025-05-21 08:31+0000\n"
 "Last-Translator: mjcolmenero <mjcolmenero@gmail.com>\n"
 "Language-Team: Spanish <https://translations.artefactual.com/projects/atom/"
 "website/es/>\n"
@@ -73,12 +73,12 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s es una versión descatalogada y no se realiza "
+"        %(project_name)s es una versión antigua y no se realiza "
 "mantenimiento de estos documentos.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:16
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "\n"
 "        %(project_name)s is an old release, and the documentation is in maintenance mode.\n"
@@ -101,7 +101,7 @@ msgstr ""
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:26
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "\n"
 "        %(project_name)s is our latest release, and its documentation is a work in progress.\n"
@@ -150,7 +150,7 @@ msgstr "Documentación disponible"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:108
 msgid "Edit this document"
-msgstr "Edita este documento"
+msgstr "Editar este documento"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:110
 msgid "Source code"
