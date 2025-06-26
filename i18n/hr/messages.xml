@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
   <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-10-22T00:01:35Z" product-name="messages">
@@ -10064,42 +10064,42 @@
       </trans-unit>
       <trans-unit id="253eb6dde26cee95f1397729eebfe28481c39551" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1% metadata - master file</source>
-        <target state="final">%1% metapodaci – glavna datoteka</target>
+        <target state="final" xml:space="preserve">%1% metapodaci – glavna datoteka</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="875b39bb7cec4470353fcad029056d987ea9b8f3" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1% metadata - original file</source>
-        <target state="final">%1% metapodaci – izvorna datoteka</target>
+        <target state="final" xml:space="preserve">%1% metapodaci – izvorna datoteka</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="ee0754668842b05c683e95867bed2190449705ba" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1% metadata - preservation copy</source>
-        <target state="final">%1% metapodaci – zaštićeni primjerak</target>
+        <target state="final" xml:space="preserve">%1% metapodaci – zaštićeni primjerak</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="56f3bd06c9e4705ff9b00921650ecd001440b7c2" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1% metadata - reference copy</source>
-        <target state="final">%1% metapodaci – referentna kopija</target>
+        <target state="final" xml:space="preserve">%1% metapodaci – referentna kopija</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="ada5ad5780ad4fe5d7a019bc8bd461ff28c23cbb" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1% metadata - thumbnail copy</source>
-        <target state="final">%1% metapodaci – minijaturna kopija</target>
+        <target state="final" xml:space="preserve">%1% metapodaci – minijaturna kopija</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="05f2f2376c5ced3da85c4ce70e44762215d42719" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%{complete} of %{smart_count} file uploaded</source>
-        <target state="final">%{complete} od %{smart_count} datoteke preneseno</target>
+        <target state="final" xml:space="preserve">%{complete} od %{smart_count} datoteke preneseno</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="96857442e9554e1aac2aa63c2a9a1c2979674a1d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%{complete} of %{smart_count} files uploaded</source>
-        <target state="final">%{complete} od %{smart_count} datoteka preneseno</target>
+        <target state="final" xml:space="preserve">%{complete} od %{smart_count} datoteka preneseno</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="5bf22547650f22b0163394fbe371d53803c0bed8" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%{complete} of %{total}</source>
-        <target state="final">%{complete} od %{total}</target>
+        <target state="final" xml:space="preserve">%{complete} od %{total}</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="0aafb9eacae6a6e03b7dee6048cf85eefdc2bebc" approved="yes" xml:space="preserve">
@@ -10109,17 +10109,17 @@
       </trans-unit>
       <trans-unit id="5ae89b129bbcbd9fd0aba21687e61a0fc2a02c09" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%{smart_count} file selected</source>
-        <target state="final">%{smart_count} datoteka odabrana</target>
+        <target state="final" xml:space="preserve">%{smart_count} datoteka odabrana</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="e611829addd2ccf04137d097504e506d6596e2d5" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%{smart_count} files selected</source>
-        <target state="final">%{smart_count} datoteka odabrano</target>
+        <target state="final" xml:space="preserve">%{smart_count} datoteka odabrano</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="9804a21d3aad77995dc60390e2b657bc85d02d40" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%{time} left</source>
-        <target state="final">još %{time}</target>
+        <target state="final" xml:space="preserve">još %{time}</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="71e439181d96187177030a818fa3fae65b9b8d29" xml:space="preserve" approved="yes">
@@ -10129,17 +10129,17 @@
       </trans-unit>
       <trans-unit id="fb6f7c24d375f7b302caa158d4c4790e5a8393c6" xml:space="preserve" approved="yes">
         <source xml:space="preserve">A brief site description or &amp;quot;tagline&amp;quot; for the header</source>
-        <target state="final">Kratak opis web stranice ili &amp;quot;slogan&amp;quot; za zaglavlje</target>
+        <target state="final" xml:space="preserve">Kratak opis web stranice ili &amp;quot;slogan&amp;quot; za zaglavlje</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/siteInformationSuccess.php</note>
       </trans-unit>
       <trans-unit id="45138b5a2b70c6adf288128d1e1c25b93095d8da" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Accession number(s)</source>
-        <target state="final">Broj(evi) akcesija</target>
+        <target state="final" xml:space="preserve">Broj(evi) akcesija</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/informationobject/templates/_accessions.php</note>
       </trans-unit>
       <trans-unit id="066541874179953944ef9e52f3570ca1d486e955" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Accession record</source>
-        <target state="final">Zapis o akcesiji</target>
+        <target state="final" xml:space="preserve">Zapis o akcesiji</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/deaccession/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="15e4e306330d19f16addff41e9fe5ae15f736440" approved="yes" xml:space="preserve">
@@ -10154,7 +10154,7 @@
       </trans-unit>
       <trans-unit id="a91b56583ba1e96777195318314c445a946171f4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Add your digital objects by dragging and dropping local files into the pane below, or by clicking the browse link to open your local file explorer.</source>
-        <target state="final">Dodaj svoje digitalne objekte povlačenjem i ispuštanjem lokalnih datoteka u donji okvir ili klikni na poveznicu „Pregledaj” za otvaranje tvog lokalnog preglednika datoteka.</target>
+        <target state="final" xml:space="preserve">Dodaj svoje digitalne objekte povlačenjem i ispuštanjem lokalnih datoteka u donji okvir ili klikni na poveznicu „Pregledaj” za otvaranje tvog lokalnog preglednika datoteka.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="c0ade02f2c45f074ee5d1a1033eebbb594379450" approved="yes" xml:space="preserve">
@@ -10164,27 +10164,27 @@
       </trans-unit>
       <trans-unit id="5f9caaa99a5d020d418055b0502f6612ef94fd26" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Advanced %1%</source>
-        <target state="final">Napredna %1%</target>
+        <target state="final" xml:space="preserve">Napredna %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="0d19a264b41640887176948155910231403d2ad4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Apply to every %1%</source>
-        <target state="final">Primijeni na svaki %1%</target>
+        <target state="final" xml:space="preserve">Primijeni na svaki %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="f721c73c29796e83c2e9683136e7e90a34ac678e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Archival description images carousel</source>
-        <target state="final">Galerija slika arhivskog opisa</target>
+        <target state="final" xml:space="preserve">Galerija slika arhivskog opisa</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/digitalobject/templates/_imageflow.php</note>
       </trans-unit>
       <trans-unit id="1efcc7c06dad8eb042f7ffc03a75152fd92c12e4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Archival description title link</source>
-        <target state="final">Poveznica naslova arhivskog opisa</target>
+        <target state="final" xml:space="preserve">Poveznica naslova arhivskog opisa</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/digitalobject/templates/_imageflow.php</note>
       </trans-unit>
       <trans-unit id="2061b7b8472a4dc24060bf3445c956d7c76a8891" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Are you sure you want to delete these captions/subtitles/chapters?</source>
-        <target state="final">Stvarno želiš izbrisati ove podnaslove/titlove/poglavlja?</target>
+        <target state="final" xml:space="preserve">Stvarno želiš izbrisati ove podnaslove/titlove/poglavlja?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/deleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="14fea77455345c25dec4ac5d82112d5399a2183f" approved="yes" xml:space="preserve">
@@ -10194,7 +10194,7 @@
       </trans-unit>
       <trans-unit id="b76ff4906f33c2dd97ddd929b9662ba8cac6174c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Boolean</source>
-        <target state="final">Booleovi operatori</target>
+        <target state="final" xml:space="preserve">Booleovi operatori</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="a8f4688a58212612325a864b83219dd6da37a342" approved="yes" xml:space="preserve">
@@ -10209,32 +10209,32 @@
       </trans-unit>
       <trans-unit id="bbeb83550712824699c45a72aeec149365d5f071" xml:space="preserve" approved="yes">
         <source xml:space="preserve">CSV Validation options</source>
-        <target state="final">Opcije za validaciju CSV-a</target>
+        <target state="final" xml:space="preserve">Opcije za validaciju CSV-a</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/validateCsvSuccess.php</note>
       </trans-unit>
       <trans-unit id="50972d677b42d11648fbff3f6615f549de81fe0c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">CSV Validator</source>
-        <target state="final">Validacija CSV-a</target>
+        <target state="final" xml:space="preserve">Validacija CSV-a</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
       <trans-unit id="b535755bbd76362811e002ff059e18109a4677ba" xml:space="preserve" approved="yes">
         <source xml:space="preserve">CSV Validator default behaviour when CSV Import is run</source>
-        <target state="final">Standardno ponašanje validacije CSV-a prilikom pokretanja CSV uvoza</target>
+        <target state="final" xml:space="preserve">Standardno ponašanje validacije CSV-a prilikom pokretanja CSV uvoza</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/csvValidatorSuccess.php</note>
       </trans-unit>
       <trans-unit id="59111261792a4ce6ed4e944962c291866db87173" xml:space="preserve" approved="yes">
         <source xml:space="preserve">CSV Validator settings</source>
-        <target state="final">Postavke validacije CSV-a</target>
+        <target state="final" xml:space="preserve">Postavke validacije CSV-a</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/csvValidatorSuccess.php</note>
       </trans-unit>
       <trans-unit id="556bca43ae5a851e83a44f440a05f215d6b36da0" xml:space="preserve" approved="yes">
         <source xml:space="preserve">CSV Validator settings saved.</source>
-        <target state="final">Postavke validacije CSV-a su spremljene.</target>
+        <target state="final" xml:space="preserve">Postavke validacije CSV-a su spremljene.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/csvValidatorAction.class.php</note>
       </trans-unit>
       <trans-unit id="9da35c8944601ee03b90d2b2490ada4f0456e773" xml:space="preserve" approved="yes">
         <source xml:space="preserve">CSV validation initiated. Check %1%job %2%%3% to view the results of the validation.</source>
-        <target state="final">Validacija CSV-a je pokrenuta. Označi %1%posao %2%%3% za prikaz rezultata validacije.</target>
+        <target state="final" xml:space="preserve">Validacija CSV-a je pokrenuta. Označi %1%posao %2%%3% za prikaz rezultata validacije.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/validateCsvAction.class.php</note>
       </trans-unit>
       <trans-unit id="5098426d37f45f66ca605c85963ed19fb908be8b" approved="yes" xml:space="preserve">
@@ -10244,7 +10244,7 @@
       </trans-unit>
       <trans-unit id="5b36c5a31df7ccd65152324a38d3008b45f55476" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Card view</source>
-        <target state="final">Prikaz kartice</target>
+        <target state="final" xml:space="preserve">Prikaz kartice</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_viewPicker.php</note>
       </trans-unit>
       <trans-unit id="3dd95831dd043b1461bcef703231ae2eecedd52f">
@@ -10264,10 +10264,6 @@
       <trans-unit id="f23e8dc2222583bb3fcca92cb47f16c727b8edaa">
         <source xml:space="preserve">Clicking this description title link will open the description view page for this digital object. Advancing the carousel above will update this title text.</source>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/digitalobject/templates/_imageflow.php</note>
-      </trans-unit>
-      <trans-unit id="4aac8c81a9cc1c0d965e843a066f05bb3489ca74">
-        <source xml:space="preserve">Clipboard saved with %1% items. Clipboard ID is &lt;b&gt;%2%&lt;/b&gt;. Please write this number down. When you want to reload this clipboard in the future, open the Clipboard menu, select &lt;a class="alert-link" href="%3%"&gt;Load clipboard&lt;/a&gt;, and enter this number in the Clipboard ID field.</source>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
       <trans-unit id="4f9be057f0ea5d2ba72fd2c810e8d7b9aa98b469" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Content</source>
@@ -10296,7 +10292,7 @@
       </trans-unit>
       <trans-unit id="cae093d9aabd83f44c0a879aa7beab2a3abaffa2" xml:space="preserve" approved="yes">
         <source xml:space="preserve">DIP Upload settings</source>
-        <target state="final">Postavke za prijenos DIP-a</target>
+        <target state="final" xml:space="preserve">Postavke za prijenos DIP-a</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/dipUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="19871a804bf3115afa34f54d2cca30eac6c7a7a8" approved="yes" xml:space="preserve">
@@ -10375,7 +10371,7 @@
       </trans-unit>
       <trans-unit id="8325966b87a084f48c098106ce50ca92bef25c10" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Finding Aids enabled</source>
-        <target state="final">Pronalaženje pomoći aktivirano</target>
+        <target state="final" xml:space="preserve">Pronalaženje pomoći aktivirano</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsFindingAidForm.class.php</note>
       </trans-unit>
       <trans-unit id="4ea19e87d5f73604c04e44cdb837a07445c3c765" approved="yes" xml:space="preserve">
@@ -10408,7 +10404,7 @@
       </trans-unit>
       <trans-unit id="ea70ac1cce56821ad108b1c830ba15e067938cf5" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Job error note</source>
-        <target state="final">Bilješka o grešci posla</target>
+        <target state="final" xml:space="preserve">Bilješka o grešci posla</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="db07be184479f34078cd4fc76d248dc0975720e9" approved="yes" xml:space="preserve">
@@ -10465,12 +10461,12 @@
       </trans-unit>
       <trans-unit id="7283b3fa4e512b081b4bf170285cc57ddd3f14a2" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Off - validation is not run before CSV imports</source>
-        <target state="final">Isključeno – validacija se ne pokreće prije uvoza CSV-a</target>
+        <target state="final" xml:space="preserve">Isključeno – validacija se ne pokreće prije uvoza CSV-a</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/csvValidatorAction.class.php</note>
       </trans-unit>
       <trans-unit id="4c67e263d49691257e1a5e788ba585d3e5cd2582" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Or auto-generate a new representation from master image</source>
-        <target state="final">Ili automatski generiraj novi prikaz iz glavne slike</target>
+        <target state="final" xml:space="preserve">Ili automatski generiraj novi prikaz iz glavne slike</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/digitalobject/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="cc57930f385c60aa0931865e49376be03c6fe46f" approved="yes" xml:space="preserve">
@@ -10490,22 +10486,22 @@
       </trans-unit>
       <trans-unit id="23d692f07a3fb646a8e54fcd2dc724f4ea2ed2c6" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Parent</source>
-        <target state="final">Nadređeni</target>
+        <target state="final" xml:space="preserve">Nadređeni</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/menu/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="dbd403fe181f92e05bc517db25b4ae6314e2582e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Permalinks</source>
-        <target state="final">Trajne poveznice</target>
+        <target state="final" xml:space="preserve">Trajne poveznice</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/globalSuccess.php</note>
       </trans-unit>
       <trans-unit id="09e5e53c4e6a96968c6a71f6f5e59d65acab2ed6" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Permission toggles</source>
-        <target state="final">Prekidači dozvola</target>
+        <target state="final" xml:space="preserve">Prekidači dozvola</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="21fc6c4a36c30692885de673ca68043b93edba7e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Permissive - validation is run; warnings are ignored</source>
-        <target state="final">Dozvoljeno – validacija se izvršava; upozorenja se zanemaruju</target>
+        <target state="final" xml:space="preserve">Dozvoljeno – validacija se izvršava; upozorenja se zanemaruju</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/csvValidatorAction.class.php</note>
       </trans-unit>
       <trans-unit id="24d7d551ab0043fe76c57662f8fbcf321f5b8175" approved="yes" xml:space="preserve">
@@ -10624,17 +10620,17 @@
       </trans-unit>
       <trans-unit id="8953d37661d999b65755c673da6f4c2ea074ddfc" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Select a CSV file to validate</source>
-        <target state="final">Odaberi CSV datoteku za validaciju</target>
+        <target state="final" xml:space="preserve">Odaberi CSV datoteku za validaciju</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/validateCsvSuccess.php</note>
       </trans-unit>
       <trans-unit id="5e85767b0138a35b3b92bee8a274288d754df15b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Select a file to upload (.vtt|.srt)</source>
-        <target state="final">Odaberi datoteku za prijenos (.vtt|.srt)</target>
+        <target state="final" xml:space="preserve">Odaberi datoteku za prijenos (.vtt|.srt)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="63615ace5c570c1b71917bdce5f36bc4f585ea5c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Show %1% results with digital objects</source>
-        <target state="final">Prikaži %1% rezultata s digitalnim objektima</target>
+        <target state="final" xml:space="preserve">Prikaži %1% rezultata s digitalnim objektima</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/informationobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="25911d48e023cd10fc08d378641ee620f5e39d86" approved="yes" xml:space="preserve">
@@ -10658,12 +10654,12 @@
       </trans-unit>
       <trans-unit id="03460faf0899aefda5737701da2cbfbadde2a0c2" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Some files failed to upload. Press the \\'Import\\' button to continue importing anyways, or press \\'Retry\\' to re-attempt upload.</source>
-        <target state="final">Prijenos nekih datoteka nije uspio. Pritisni gumb \\'Uvezi\\' za nastavljanje uvoza ili pritisni \\'Pokušaj ponovo\\' za ponovni pokušaj prijenosa.</target>
+        <target state="final" xml:space="preserve">Prijenos nekih datoteka nije uspio. Pritisni gumb \\'Uvezi\\' za nastavljanje uvoza ili pritisni \\'Pokušaj ponovo\\' za ponovni pokušaj prijenosa.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="3d087d5b3fa00a41835da326d2dbe00bfeefeac7" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Source Note(s)</source>
-        <target state="final">Napomene uz izvor</target>
+        <target state="final" xml:space="preserve">Napomene uz izvor</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="31a06536e1dcd6611b25701578881e939337c238">
@@ -10727,12 +10723,12 @@
       </trans-unit>
       <trans-unit id="55751877e1b30405fdb9dacce096bd22fcd541c1" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Thumb</source>
-        <target state="final">Minijatura</target>
+        <target state="final" xml:space="preserve">Minijatura</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="ee67d68a83283145a9e921c40392b7d0b808091f" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Top-level description filter</source>
-        <target state="final">Filtar opisa najviše razine</target>
+        <target state="final" xml:space="preserve">Filtar opisa najviše razine</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/informationobject/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="93b9e289e2842469d001eccf7ad5d79f3c302dc9" approved="yes" xml:space="preserve">
@@ -10837,7 +10833,7 @@ deaktivirano, a filtar „Napredna pretraga &gt; Obavijesna pomagala“ je skriv
       </trans-unit>
       <trans-unit id="5eee28c34c29accde79c9e6e57bb96d19aa66c17" xml:space="preserve" approved="yes">
         <source xml:space="preserve">When enabled the text above will appear in the %1% metadata section to describe how a user may access the original and preservation copy of the file stored in a linked digital preservation system. The text appears in the "Permissions" field. When disabled, the "Permissions" field is not displayed.</source>
-        <target state="final">Kad je aktivirano, gornji tekst će se pojaviti u odjeljku %1% metapodataka, kako bi se opisao način pristupanja originalu i zaštićenom primjerku datoteke koja je spremljena u povezanom digitalnom sustavu čuvanja. Tekst se pojavljuje u polju „Dozvole”. Kad je aktivirano, polje „Dozvole” se ne prikazuje.</target>
+        <target state="final" xml:space="preserve">Kad je aktivirano, gornji tekst će se pojaviti u odjeljku %1% metapodataka, kako bi se opisao način pristupanja originalu i zaštićenom primjerku datoteke koja je spremljena u povezanom digitalnom sustavu čuvanja. Tekst se pojavljuje u polju „Dozvole”. Kad je aktivirano, polje „Dozvole” se ne prikazuje.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="b04b422663b801286bc8fe14337c8e46b9ca2d76">
@@ -11086,6 +11082,11 @@ deaktivirano, a filtar „Napredna pretraga &gt; Obavijesna pomagala“ je skriv
         <source xml:space="preserve">Limit authenticated functionality to one or more IP addresses, separated by semicolons.</source>
         <target xml:space="preserve" state="final">Ograniči autentificiranu funkcionalnost na jednu ili više IP adresa, odvojene točka-zarezom.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="6b15a735d588300e17abdac3a7795f9ab6b5084c">
+        <source xml:space="preserve">Clipboard saved with %1% item(s). Clipboard ID is &lt;b&gt;%2%&lt;/b&gt;. Please write this number down. When you want to reload this clipboard in the future, open the Clipboard menu, select &lt;a class="alert-link" href="%3%"&gt;Load clipboard&lt;/a&gt;, and enter this number in the Clipboard ID field. Clipboards are eligible for deletion after &lt;b&gt;%4% day(s)&lt;/b&gt;.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
     </body>
   </file>
