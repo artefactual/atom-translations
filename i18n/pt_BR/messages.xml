@@ -10328,11 +10328,6 @@
         <target xml:space="preserve" state="final">Ao clicar no link deste título da descrição a página de visualização da descrição deste objeto digital será aberta. O texto deste título será atualizado ao avançar o carrossel acima.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/digitalobject/templates/_imageflow.php</note>
       </trans-unit>
-      <trans-unit id="4aac8c81a9cc1c0d965e843a066f05bb3489ca74" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Clipboard saved with %1% items. Clipboard ID is &lt;b&gt;%2%&lt;/b&gt;. Please write this number down. When you want to reload this clipboard in the future, open the Clipboard menu, select &lt;a class="alert-link" href="%3%"&gt;Load clipboard&lt;/a&gt;, and enter this number in the Clipboard ID field.</source>
-        <target xml:space="preserve" state="final">%1% itens foram salvos na área de transferência. O ID da área de transferência é &lt;b&gt;%2%&lt;/b&gt;. Por favor, registre este número. Quando você quiser recarregar esta área de transferência no futuro, abra o menu da área de transferência, selecione &lt;a class="alert-link" href="%3%"&gt;Carregar área de transferência&lt;/a&gt;, e insira este número no campo de ID da área de transferência.</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
-      </trans-unit>
       <trans-unit id="4f9be057f0ea5d2ba72fd2c810e8d7b9aa98b469" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Content</source>
         <target xml:space="preserve" state="final">Conteúdo</target>
@@ -11210,6 +11205,11 @@ desabilitada, e o filtro 'Busca avançada &gt; Instrumentos de Pesquisa' é ocul
         <source xml:space="preserve">Limit authenticated functionality to one or more IP addresses, separated by semicolons.</source>
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="6b15a735d588300e17abdac3a7795f9ab6b5084c">
+        <source xml:space="preserve">Clipboard saved with %1% item(s). Clipboard ID is &lt;b&gt;%2%&lt;/b&gt;. Please write this number down. When you want to reload this clipboard in the future, open the Clipboard menu, select &lt;a class="alert-link" href="%3%"&gt;Load clipboard&lt;/a&gt;, and enter this number in the Clipboard ID field. Clipboards are eligible for deletion after &lt;b&gt;%4% day(s)&lt;/b&gt;.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
     </body>
   </file>
