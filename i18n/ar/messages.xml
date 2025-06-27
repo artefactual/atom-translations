@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
   <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-10-22T00:04:22Z" product-name="messages">
@@ -1586,13 +1586,14 @@
         <source xml:space="preserve">Archival and other holdings</source>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b150301a22a16b28b06a076bbc50a6f04f411148">
+      <trans-unit id="b150301a22a16b28b06a076bbc50a6f04f411148" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Archival description</source>
+        <target state="final">وصف الأرشيف</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="5e8cb87d756f0e0440b2aa5bdb04e73899bac924" approved="yes" xml:space="preserve">
+      <trans-unit id="5e8cb87d756f0e0440b2aa5bdb04e73899bac924" approved="no" xml:space="preserve">
         <source xml:space="preserve">Archival description area</source>
-        <target xml:space="preserve" state="final">الوصف الأرشيفي</target>
+        <target xml:space="preserve" state="needs-translation">الوصف الأرشيفي</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="1c8567fbf710f6b6e352964b84750b6d35e6560e">
@@ -1608,8 +1609,9 @@
         <target xml:space="preserve" state="final">التاريخ الأرشيفي</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f44ffb2b7b102d2dd13907d4ec31993b68734805">
+      <trans-unit id="f44ffb2b7b102d2dd13907d4ec31993b68734805" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Archival institution</source>
+        <target state="final">مؤسسة أرشيفية</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="6f85cd17de3032efb32399dae63bf4ede0fe172c">
@@ -5953,7 +5955,7 @@
       </trans-unit>
       <trans-unit id="0cd3597453ab504a3dbeec3289e21abe922d223a" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Places</source>
-        <target xml:space="preserve" state="final">أماكن</target>
+        <target xml:space="preserve" state="final">أماكنالأماكن</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/_placeAccessPoints.php</note>
       </trans-unit>
       <trans-unit id="66c278f62abb579e90ea55e212e6e65842c53930">
