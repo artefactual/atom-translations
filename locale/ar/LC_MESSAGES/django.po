@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-24 02:09-0700\n"
-"PO-Revision-Date: 2025-03-05 16:44+0000\n"
-"Last-Translator: mahmoudmohamed145 <mahmoud55432@yahoo.com>\n"
+"PO-Revision-Date: 2025-07-11 18:34+0000\n"
+"Last-Translator: محمود محمد <mahmoudmm55432@gmail.com>\n"
 "Language-Team: Arabic <https://translations.artefactual.com/projects/atom/"
 "website/ar/>\n"
 "Language: ar\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.10.2\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #: atom/settings/base.py:76
 msgid "English"
@@ -90,7 +90,8 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s أصدار قديم، والمستندات فى طور الصيانة.\n"
+"        %(project_name)s هو إصدار قديم، ووثائق المشروع في وضع الصيانة "
+"والتطوير.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:21
@@ -101,7 +102,7 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s هو أصدرانا الاخير.\n"
+"        %(project_name)s هو إصدارنا الأخير.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:26
@@ -113,8 +114,8 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s هو أصدرانا الاخير، والمستندات ما زالت فى طور العمل."
-"\n"
+"        %(project_name)s هو إصدارنا الأخير، ووثائق المشروع ما زالت ما زالت "
+"قيد العمل والتحديث.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:31
@@ -146,8 +147,8 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"              <p>أفتح الـ<a href=\"%(genindex_url)s\">صفحة الرئيسية </a>أو "
-"أكتب ما تبحث عنه فى شريط البحث</p>\n"
+"              <p>افتح الـ <a href=\"%(genindex_url)s\">المُؤشر العام</a> أو "
+"اكتب استفسارك البحثي هُنا.</p>‭‮‭\n"
 "            "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:98
@@ -194,7 +195,7 @@ msgstr "نتائج البحث"
 #: sphinxdoc/templates/sphinxdoc/search.html:12
 #, python-format
 msgid "Showing results matching \"%(query)s\"..."
-msgstr "أظهر النتائج المشابهة \"%(query)s\"..."
+msgstr "أظهر النتائج المُشابهة ‫‮‭‭‮‭\"%(query)s\"‫‭‭‮..."
 
 #: sphinxdoc/templates/sphinxdoc/search.html:20
 msgid "No results found."
@@ -354,11 +355,11 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"              <p>تتم استضافة رمز AtoM على<a href="
-"\"https://github.com/artefactual/atom\">Github</a>. نرحب بطلبات السحب "
-"والتعليقات المتعلقة بالشفرة الخاصة بنا. لمزيد من المعلومات ، يرجى الاطلاع\n"
-"<a href=\"https://wiki.accesstomemory.org/Development/Contribute_code\">رمز "
-"المساهمة</a>.</p>\n"
+"              <p>أكواد أتوم AtoMs مُستضافة على <a href="
+"\"https://github.com/artefactual/atom\">Github</a>. نحن نُرحب بطلبات السحب "
+"والتعليقات ذات الصلة تطوير الكود. للمزيد من المعلومات، برجاء زيارة <a href="
+"\"https://wiki.accesstomemory.org/Development/Contribute_code\">صفحة المُ"
+"ساهمة في الكود</a>.</p>\n"
 "            "
 
 #: templates/pages/community/support.html:44
@@ -603,7 +604,7 @@ msgstr "أصدار عتيق"
 
 #: templates/pages/download.html:193
 msgid "Download and install AtoM on your webserver"
-msgstr "حمل وسطب AtoM  فى خادم موقعك"
+msgstr "قُم بتحميل وتثبيت نظام AtoM فى خادم موقعك"
 
 #: templates/pages/download.html:196
 #, python-format
