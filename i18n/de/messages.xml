@@ -549,8 +549,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">%1 - Kriterien für Berichte</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/storageLocationsCriteria.php</note>
       </trans-unit>
-      <trans-unit id="468b90bf601b414515a80106f456b7d70d0d1faa">
+      <trans-unit id="468b90bf601b414515a80106f456b7d70d0d1faa" xml:space="preserve">
         <source xml:space="preserve">%1 count</source>
+        <target state="translated">Anzahl %1</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="29209b378915d0821cca10cdc28f5f8939b4c883" approved="yes" xml:space="preserve">
@@ -915,8 +916,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <source xml:space="preserve">A list of special chars, separated by coma, to be escaped in string queries</source>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
-      <trans-unit id="f8610ae6f588c77e1f6d3b0de66cb784203d6305">
+      <trans-unit id="f8610ae6f588c77e1f6d3b0de66cb784203d6305" xml:space="preserve">
         <source xml:space="preserve">A slug based on this title already exists so a number has been added to pad the slug.</source>
+        <target state="translated">Eine Bezeichnung basierend auf dem Titel existiert schon, daher wurde eine Zahl angehängt.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/renameSuccess.php</note>
       </trans-unit>
       <trans-unit id="42f2a65915553e7e3703b3f13133b9db29c8fe28" approved="yes" xml:space="preserve">
@@ -1212,12 +1214,14 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Schauspielername</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_event.php</note>
       </trans-unit>
-      <trans-unit id="c2363cffaf1b7608fca0403c12d591a53e8aaa9d">
+      <trans-unit id="c2363cffaf1b7608fca0403c12d591a53e8aaa9d" xml:space="preserve">
         <source xml:space="preserve">Actor occupation note</source>
+        <target state="translated">Beruf der Person</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="eef8899c393d30c12c965ae848d496c3cc55b4bc">
+      <trans-unit id="eef8899c393d30c12c965ae848d496c3cc55b4bc" xml:space="preserve">
         <source xml:space="preserve">Actor occupations</source>
+        <target state="translated">Berufe der Person</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="61cc55aa0453184734c3fa0b621eda6fa874bd83" approved="yes" xml:space="preserve">
@@ -2588,8 +2592,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">DIP-Hochladeeinstellungen</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/dipUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="cba10501958b88d3898d4628b83793d3586deebd">
+      <trans-unit id="cba10501958b88d3898d4628b83793d3586deebd" xml:space="preserve">
         <source xml:space="preserve">DIP upload settings saved.</source>
+        <target state="translated">DIP-Lade-Einstellungen wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/dipUploadAction.class.php</note>
       </trans-unit>
       <trans-unit id="eb9a4bc1c0c153e4e4b042a79113b815b7e3021d" approved="yes" xml:space="preserve">
@@ -2897,8 +2902,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Digitales Objekt</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="1741a668553c515066042775674b3064bc022560">
+      <trans-unit id="1741a668553c515066042775674b3064bc022560" xml:space="preserve">
         <source xml:space="preserve">Digital object derivative settings saved.</source>
+        <target state="translated">Einstellung der Varianten von Digitalisaten wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/digitalObjectDerivativesAction.class.php</note>
       </trans-unit>
       <trans-unit id="0220efa7f6f7ee2f1b714ebea0cf93b5b559c8d8" xml:space="preserve">
@@ -3846,8 +3852,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Findmittel</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
-      <trans-unit id="2d48b2766a8bf798e0fbe5cc6ab3a34a3924dbf2">
+      <trans-unit id="2d48b2766a8bf798e0fbe5cc6ab3a34a3924dbf2" xml:space="preserve">
         <source xml:space="preserve">Finding aid settings saved.</source>
+        <target state="translated">Einstellungen zu Findhilfsmitteln wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/findingAidAction.class.php</note>
       </trans-unit>
       <trans-unit id="2c6e6fed8ab01635afb31ca592297498170c5e7d">
@@ -4104,8 +4111,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Allgemeine Einstellungen</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/globalSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d81513dec60d34e27cb432c8e53c98e241b76225">
+      <trans-unit id="d81513dec60d34e27cb432c8e53c98e241b76225" xml:space="preserve">
         <source xml:space="preserve">Global settings saved.</source>
+        <target state="translated">Allgemeine Einstellungen wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/globalAction.class.php</note>
       </trans-unit>
       <trans-unit id="4c864cb10a96b34f4b4cf1ea187104a657158402" approved="yes" xml:space="preserve">
@@ -4325,8 +4333,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <source xml:space="preserve">Identifier settings</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e1ccfc8c273d28eb192119e9124064818c568233">
+      <trans-unit id="e1ccfc8c273d28eb192119e9124064818c568233" xml:space="preserve">
         <source xml:space="preserve">Identifier settings saved.</source>
+        <target state="translated">Einstellungen zu Identifikatoren wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/identifierAction.class.php</note>
       </trans-unit>
       <trans-unit id="ff499f8b3f7e6956195a84807d93b3ba89140c9d" approved="yes" xml:space="preserve">
@@ -4741,8 +4750,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Inventareinstellungen</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/inventorySuccess.php</note>
       </trans-unit>
-      <trans-unit id="b34a74b83e4040fe91d34e64ddd70838deebbe4f">
+      <trans-unit id="b34a74b83e4040fe91d34e64ddd70838deebbe4f" xml:space="preserve">
         <source xml:space="preserve">Inventory settings saved.</source>
+        <target state="translated">Inventarlisten-Einstellungen wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/inventoryAction.class.php</note>
       </trans-unit>
       <trans-unit id="195414713c1fa6272fa21473f31e159cf2d0fa87">
@@ -5292,8 +5302,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <source xml:space="preserve">Markdown</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="b38564a34406cb19dbafbb09eedad8ea29c36f30">
+      <trans-unit id="b38564a34406cb19dbafbb09eedad8ea29c36f30" xml:space="preserve">
         <source xml:space="preserve">Markdown settings saved.</source>
+        <target state="translated">Markdown-Optionen wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/markdownAction.class.php</note>
       </trans-unit>
       <trans-unit id="78f3842f0201c993fec13905f2ff9ec3fdd39056" approved="yes" xml:space="preserve">
@@ -6411,8 +6422,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <source xml:space="preserve">Privacy Policy</source>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
-      <trans-unit id="6097c6cc468677650d41c74ed4c6e477f517934d">
+      <trans-unit id="6097c6cc468677650d41c74ed4c6e477f517934d" xml:space="preserve">
         <source xml:space="preserve">Privacy notification settings saved.</source>
+        <target state="translated">Einstellungen zu den Datenschutzhinweisen wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/privacyNotificationAction.class.php</note>
       </trans-unit>
       <trans-unit id="237dfa0a21c8e17a7276cf161eef7e0fba067c47" approved="yes" xml:space="preserve">
@@ -7517,8 +7529,9 @@ Wählen Sieso viele Typen wie erforderlich aus dem drop-down Menue; diese Werte 
         <target xml:space="preserve" state="final">Sicherheitseinstellungen</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/securitySuccess.php</note>
       </trans-unit>
-      <trans-unit id="d143531462d4d87047092f70571c3d3bbe146ccb">
+      <trans-unit id="d143531462d4d87047092f70571c3d3bbe146ccb" xml:space="preserve">
         <source xml:space="preserve">Security settings saved.</source>
+        <target state="translated">Sicherheitseinstellungen wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
       </trans-unit>
       <trans-unit id="71c34424882612f7c29feaf3bfa76ae4d07878b0" approved="yes" xml:space="preserve">
@@ -8142,8 +8155,9 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
         <source xml:space="preserve">Storage service</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="0f8cfff4e00a98731b3c1d5183122f5549e96544">
+      <trans-unit id="0f8cfff4e00a98731b3c1d5183122f5549e96544" xml:space="preserve">
         <source xml:space="preserve">Storage service settings saved.</source>
+        <target state="translated">Einstellungen zum Speicher-Service wurden gesichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/actions/settingsAction.class.php</note>
       </trans-unit>
       <trans-unit id="497a500af2eec4aaa0a712523fcf62eb5c987d0b" approved="yes" xml:space="preserve">
@@ -8804,8 +8818,9 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
         <target xml:space="preserve" state="final">Baumansichtseinstellungen</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/treeviewSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5e384d296d3baaf24af7d0d9f08d9f4f1900eaf8">
+      <trans-unit id="5e384d296d3baaf24af7d0d9f08d9f4f1900eaf8" xml:space="preserve">
         <source xml:space="preserve">Treeview settings saved.</source>
+        <target state="translated">Einstellungen zur Baum-Ansicht wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/treeviewAction.class.php</note>
       </trans-unit>
       <trans-unit id="3deb7456519697ecf4eefc455516c969a3681bae" approved="yes" xml:space="preserve">
@@ -9005,8 +9020,9 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
         <source xml:space="preserve">Uploads settings</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/uploadsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="31d8bf32efa40438cc303913fd96b40a74c60170">
+      <trans-unit id="31d8bf32efa40438cc303913fd96b40a74c60170" xml:space="preserve">
         <source xml:space="preserve">Uploads settings saved.</source>
+        <target state="translated">Optionen zum Hochladen wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/uploadsAction.class.php</note>
       </trans-unit>
       <trans-unit id="092d0ed59fe536042926fc15385011125304c187">
@@ -9746,8 +9762,9 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
         <target xml:space="preserve" state="translated">%{complete} erledigt von %{smart_count} Dateien hochzuladen</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="96857442e9554e1aac2aa63c2a9a1c2979674a1d">
+      <trans-unit id="96857442e9554e1aac2aa63c2a9a1c2979674a1d" xml:space="preserve">
         <source xml:space="preserve">%{complete} of %{smart_count} files uploaded</source>
+        <target state="translated">%{complete} von %{smart_count} Dateien hochzuladen</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="5bf22547650f22b0163394fbe371d53803c0bed8">
@@ -9758,12 +9775,14 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
         <source xml:space="preserve">%{maxFileSizeMessage}; %{maxPostSizeMessage}</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="5ae89b129bbcbd9fd0aba21687e61a0fc2a02c09">
+      <trans-unit id="5ae89b129bbcbd9fd0aba21687e61a0fc2a02c09" xml:space="preserve">
         <source xml:space="preserve">%{smart_count} file selected</source>
+        <target state="translated">%{smart_count} Dateien ausgewählt</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e611829addd2ccf04137d097504e506d6596e2d5">
+      <trans-unit id="e611829addd2ccf04137d097504e506d6596e2d5" xml:space="preserve">
         <source xml:space="preserve">%{smart_count} files selected</source>
+        <target state="translated">%{smart_count} Dateien ausgewählt</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="9804a21d3aad77995dc60390e2b657bc85d02d40">
@@ -9855,8 +9874,9 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
         <source xml:space="preserve">CSV Validator settings</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/csvValidatorSuccess.php</note>
       </trans-unit>
-      <trans-unit id="556bca43ae5a851e83a44f440a05f215d6b36da0">
+      <trans-unit id="556bca43ae5a851e83a44f440a05f215d6b36da0" xml:space="preserve">
         <source xml:space="preserve">CSV Validator settings saved.</source>
+        <target state="translated">Einstellungen zur CSV-Überprüfung wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/csvValidatorAction.class.php</note>
       </trans-unit>
       <trans-unit id="9da35c8944601ee03b90d2b2490ada4f0456e773">
@@ -10462,8 +10482,9 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <source xml:space="preserve">Diacritics settings</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/diacriticsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="16efb23d760a3fc39961b012ba0237efc3fe21b8">
+      <trans-unit id="16efb23d760a3fc39961b012ba0237efc3fe21b8" xml:space="preserve">
         <source xml:space="preserve">Diacritics settings saved.</source>
+        <target state="translated">Optionen zu den diakritischen Zeichen wurden gespeichert.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/diacriticsAction.class.php</note>
       </trans-unit>
       <trans-unit id="cb55663b156b907f62122b3d5a34d6653579c55b">
