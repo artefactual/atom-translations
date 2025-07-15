@@ -813,14 +813,14 @@
         <target state="translated">٪1٪ العنوان ٪2٪ – هذا عنصر ٪3٪إلزامي٪4٪.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="1290dae91dc3a3f6a16983d2b4fcd4b59d7a5369" xml:space="preserve">
+      <trans-unit id="1290dae91dc3a3f6a16983d2b4fcd4b59d7a5369" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Title%2% - This is a mandatory element.</source>
-        <target state="translated">%1%العنوان%2% - هذا عنصر إلزامي.</target>
+        <target state="final">%1%العنوان%2% - هذا العنصر أساسي.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="43c103eafee96676a89f778f91dff7053a6a66f3" xml:space="preserve">
         <source xml:space="preserve">%1%Type of entity%2% - This is a %3%mandatory%4% element.</source>
-        <target state="translated">%1%نوع الكيان%2% - هذا عنصر %3%إلزامي%4%.</target>
+        <target state="translated">%1%Type of entity%2% - هذا %3%إلزامي%4% العنصر.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsaarPlugin/modules/sfIsaarPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="93c77561f77f513fd2e3163f4b9f4c188b87136f" xml:space="preserve">
@@ -863,64 +863,49 @@
         <target xml:space="preserve" state="final">-- نشاط الاختيارات --</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="7c87294fd595a5cce42dc7eaced0ab3290f9d3ba" xml:space="preserve">
+      <trans-unit id="7c87294fd595a5cce42dc7eaced0ab3290f9d3ba" xml:space="preserve" approved="yes">
         <source xml:space="preserve">&lt;p&gt;&lt;strong&gt;Child levels&lt;/strong&gt;&lt;br/&gt;Use these two fields to add lower levels to a collection level description. Click &lt;em&gt;Add new&lt;/em&gt; to create as many child levels as necessary.&lt;/p&gt;&lt;p&gt;These fields can also be used to add any number of intermediate levels of description (e.g. series, file, etc) between the top and bottom levels in a descriptive hierarchy. Use the hierarchy treeview to re-order hierarchy levels as necessary.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Identifier&lt;/em&gt;: The unambiguous reference code used to uniquely identify the child-level resource.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Title&lt;/em&gt;: The name given to the child-level resource.&lt;/p&gt;</source>
-        <target state="translated">المستويات الفرعية
-استخدم هذين الحقلين لإضافة مستويات أدنى إلى وصف على مستوى المجموعة. انقر على إضافة جديد لإنشاء العدد المطلوب من المستويات الفرعية.
-يمكن أيضًا استخدام هذين الحقلين لإضافة أي عدد من مستويات الوصف الوسيطة (مثل: سلسلة، ملف، إلخ) بين المستويين العلوي والسفلي في التسلسل الهرمي الوصفي. استخدم عرض شجرة التسلسل لإعادة ترتيب المستويات حسب الحاجة.
-المُعرّف: هو الرمز المرجعي الواضح الذي يُستخدم لتمييز المورد في المستوى الفرعي بشكل فريد.
-العنوان: هو الاسم المُعطى للمورد في المستوى الفرعي.</target>
+        <target state="final">&lt;p&gt;&lt;strong&gt;المستويات الفرعية&lt;/strong&gt;&lt;br/&gt;استخدم هذين الحقلين لإضافة مستويات أدنى إلى وصف مستوى المجموعة. انقر &lt;em&gt;إضافة جديد&lt;/em&gt; to create as many child levels as necessary.&lt;/p&gt;&lt;p&gt;يمكن أيضًا استخدام هذه الحقول لإضافة أي عدد من مستويات الوصف الوسيطة (مثل: سلسلة، ملف، إلخ) بين المستويين العلوي والسفلي في التسلسل الهرمي الوصفي. استخدم عرض شجرة التسلسل الهرمي لإعادة ترتيب مستويات التسلسل الهرمي حسب الحاجة.&lt;/p&gt;&lt;p&gt;&lt;em&gt;المُعرف&lt;/em&gt;رمز تعريفي دقيق لا لبس فيه رمز مرجعي يستخدم لتحديد المصدر الخاص بمستوى الوصف الفرعي بشكل فريد.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Title&lt;/em&gt;:الاسم الذي يُطلق على مستوى الوصف الفرعي.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="2ae47113540460180dc4be6804b881eb4854d29b" xml:space="preserve">
         <source xml:space="preserve">&lt;p&gt;The file format, physical medium, or dimensions of the resource.&lt;/p&gt;&lt;p&gt;Please note: if this resource is linked to a digital object, the Internet Media Types (MIME) will be added automatically upon output, so don't duplicate those values here.&lt;/p&gt;</source>
-        <target state="translated">صيغة الملف، الوسط المادي، أو أبعاد المورد.
-يرجى الملاحظة: إذا كان هذا المورد مرتبطًا بكائن رقمي، فسيتم تلقائيًا إضافة أنواع وسائط الإنترنت (MIME) عند الإخراج، لذا لا تكرر هذه القيم هنا.</target>
+        <target state="translated">&lt;p&gt;تنسيق الملف، والوسيط المادي، والأبعاد لهذا المَورِد.&lt;/p&gt;&lt;p&gt;يرجى الملاحظة: إذا كان هذا المَورِد مرتبطًا بكائن رقمي، فإن أنواع وسائط الإنترنت (MIME) سيتم إضافتها تلقائيًا عند التصدير أو التحميل والعرض، لذلك لا تُكرر هذه القيم هنا.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="870c7f78d415fd403fafaca9ae0d75d250291841" xml:space="preserve">
+      <trans-unit id="870c7f78d415fd403fafaca9ae0d75d250291841" xml:space="preserve" approved="yes">
         <source xml:space="preserve">&lt;p&gt;The name of a place or geographic area which is a topic of the resource or relevant to its jurisdiction.&lt;/p&gt;&lt;p&gt;Search for an existing term in the Place taxonomy by typing the first few characters of the place name. Alternatively, type a new name to create and link to a new place.&lt;/p&gt;&lt;p&gt;Please note: if you entered a place of creation, publication or contribution that will be output automatically, so don’t repeat that place name here.&lt;/p&gt;</source>
-        <target state="translated">اسم مكان أو منطقة جغرافية تُشكّل موضوعًا للمورد أو لها علاقة باختصاصه .
-ابحث عن مصطلح موجود مسبقًا في تصنيف "الأماكن" من خلال كتابة الأحرف الأولى من اسم المكان. أو بدلاً من ذلك، اكتب اسمًا جديدًا لإنشاء مكان جديد وربطه بالمورد.
-يرجى الملاحظة: إذا كنت قد أدخلت سابقًا مكان الإنشاء أو النشر أو المساهمة، فسيتم إدراجه تلقائيًا عند الإخراج، لذا لا تُكرر اسم المكان هنا.</target>
+        <target state="final">&lt;p&gt;اسم المكان أو المنطقة الجغرافية التي تُشكل موضوعًا للموّرِد أو ذات صلة بنطاقه.&lt;/p&gt;&lt;p&gt;يمكنك البحث عن مكان موجود في ملف الأماكن بكتابة الأحرف الأولى من اسمه، أو إدخال اسم جديد لإنشاء مكان جديد وربطه بالتسجيلة.&lt;/p&gt;&lt;p&gt;ملاحظة: إذا أدخلت اسم المكان مُسبقًا من خلال إنشاء أو نشر أو مُساهمة، فسيتم عرضه تلقائيًا، فاحرص ألا تُكرره هنا&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="3c1d78b63ac6117f0115df8007417073df126191" xml:space="preserve">
         <source xml:space="preserve">&lt;p&gt;The name of the organization which has custody of the resource.&lt;/p&gt;&lt;p&gt;Search for an existing name in the organization records by typing the first few characters of the name. Alternatively, type a new name to create and link to a new organization record.&lt;/p&gt;</source>
-        <target state="translated">اسم المؤسسة التي تحتفظ بالمورد.
-ابحث عن اسم موجود مسبقًا في سجلات المؤسسة من خلال كتابة الأحرف الأولى من الاسم. أو بدلاً من ذلك، اكتب اسمًا جديدًا لإنشاء سجل جديد لمؤسسة وربطه بالمورد.</target>
+        <target state="translated">&lt;p&gt;اسم الجهة المالكة للمَورِد&lt;/p&gt;&lt;p&gt;ابحث عن الاسم لاسترجاعه إذا كان موجود مُسبقُا بكتابة الأحرف الأُولى من اسم الجهة، وفي حالة عدم تواجده يُمكن إنشاء اسم جهة جديد وإضافته بالملف الاستنادي للجهات والشخصيات كتسجيلة جديدة&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="04f22b8be8c14b96cb0c934c14f4613776a5ebc4" xml:space="preserve">
+      <trans-unit id="04f22b8be8c14b96cb0c934c14f4613776a5ebc4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">&lt;p&gt;The nature or genre of the resource.&lt;/p&gt;&lt;p&gt;Assign as many types as applicable. The &lt;em&gt;Type&lt;/em&gt; options are limited to the DCMI Type vocabulary.&lt;/p&gt;&lt;p&gt;Assign the &lt;em&gt;Collection&lt;/em&gt; value if this resource is the top-level for a set of lower-level (child) resources.&lt;/p&gt;&lt;p&gt;Please note: if this resource is linked to a digital object, the &lt;em&gt;image&lt;/em&gt;, &lt;em&gt;text&lt;/em&gt;, &lt;em&gt;sound&lt;/em&gt; or &lt;em&gt;moving image&lt;/em&gt; types are added automatically upon output, so do not duplicate those values here.&lt;/p&gt;</source>
-        <target state="translated">طبيعة المورد أو نوعه.
-قم بإسناد أكبر عدد ممكن من الأنواع حسب ما ينطبق. إن خيارات النوع تقتصر على مفردات النوع المعتمدة من DCMI.
-قم بإسناد قيمة المجموعة إذا كان هذا المورد يمثل المستوى الأعلى لمجموعة من الموارد الفرعية (المستويات الأدنى).
-يرجى الملاحظة: إذا كان هذا المورد مرتبطًا بكائن رقمي، فإن أنواع مثل صورة، نص، صوت، أو صورة متحركة ستُضاف تلقائيًا عند الإخراج، لذلك لا تُكرر هذه القيم هنا.</target>
+        <target state="final">&lt;p&gt;طبيعة المَورِد أو الفئة النوعية له .&lt;/p&gt;&lt;p&gt;تعيين أكبر عدد ممكن من الأنواع حسب الحاجة. &lt;em&gt;Type&lt;/em&gt; الخيارات مُتصلة بأنوع مُفردات ومُصطلحات مبادرة ميتاداتا دبلن كور DCMI vocabulary.&lt;/p&gt;&lt;p&gt;قم بإسناد &lt;em&gt;Collection&lt;/em&gt; القيمة إذا كان هذا المَورِد يمثل المستوى الأعلى لمجموعة من الموارد الأدنى (الفرعية).&lt;/p&gt;&lt;p&gt;يُرجى مُلاحظة أنه في حالة ارتبط هذه المَوارِد بكائنات رقمية &lt;em&gt;image&lt;/em&gt;, &lt;em&gt;text&lt;/em&gt;, &lt;em&gt;sound&lt;/em&gt; or &lt;em&gt;moving image&lt;/em&gt; الأنواع سوف تُضاف تلقائيًا عند التصدير أو العرض والتحميل، لذا لا تُكرر إدخال هذه القيم هنا.&lt;/p&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="c1cdb99c371f7dd9e81761906a3e61c0ece43606" xml:space="preserve">
+      <trans-unit id="c1cdb99c371f7dd9e81761906a3e61c0ece43606" xml:space="preserve" approved="yes">
         <source xml:space="preserve">&lt;strong&gt;Identifier&lt;/strong&gt;&lt;br /&gt;Provide a unique identifier for the materials being described in accordance with the institution’s administrative control system.&lt;br /&gt;&lt;strong&gt;Level of description&lt;/strong&gt;&lt;br /&gt;Record the level of this unit of description.&lt;br /&gt;&lt;strong&gt;Title&lt;/strong&gt;&lt;br /&gt;In the absence of a meaningful formal title, compose a brief title that uniquely identifies the material.&lt;br /&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;br /&gt;Record a date of creation.</source>
-        <target state="translated"><strong>المُعرّف</strong><br/>أدخل مُعرّفًا فريدًا للمواد الجاري وصفها وفقًا لنظام الرقابة الإدارية المعتمد في المؤسسة.<br/>
-<strong>مستوى الوصف</strong><br/>سجّل مستوى هذه الوحدة من الوصف.<br/>
-<strong>العنوان</strong><br/>في حال عدم وجود عنوان رسمي ذي معنى، أنشئ عنوانًا موجزًا يُعرّف المادة بشكل فريد.<br/>
-<strong>التاريخ</strong><br/>سجّل تاريخ الإنشاء.</target>
+        <target state="final">&lt;strong&gt;المُعرِّف&lt;/strong&gt;&lt;br /&gt;أدخل مُعرِّفًا فريدًا للمواد الجاري وصفها، وفقًا لنظام التحكم الإداري المُعتمد في المؤسسة.&lt;br /&gt;&lt;strong&gt;مستوى الوصف&lt;/strong&gt;&lt;br /&gt;قُم بتسجيل مستوى هذه الوحدة الوصفية.&lt;br /&gt;&lt;strong&gt;Title&lt;/strong&gt;&lt;br /&gt;في حالة عدم وجود عنوان رسمي ذي معنى، قم بإنشاء عنوان مُختصر يُعرِّف المادة بشكل فريد.&lt;br /&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;br /&gt;Recordقُم بتسجيل تاريخ الإنشاء.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="07c1e69f661a4419aa070bb8497aecfd199afba6" approved="yes" xml:space="preserve">
         <source xml:space="preserve">&lt;strong&gt;Label:&lt;/strong&gt; Enter a name for the alternative identifier field that indicates its purpose and usage.&lt;br/&gt;&lt;strong&gt;Identifier:&lt;/strong&gt; Enter a legacy reference code, alternative identifier, or any other alpha-numeric string associated with the record.</source>
-        <target xml:space="preserve" state="final">&lt;strong&gt;العنوان:&lt;/strong&gt; أدخل اسمًا لحقل المعرف البديل مشيرا إلى الغرض منه واستخدامه.&lt;br/&gt;&lt;strong&gt;المعرف:&lt;/strong&gt; أدخل رمز مرجع قديم أو معرف بديل أو أي مجموعة حروف أبجدية رقمية أخرى مرتبطة بالسجل.</target>
+        <target xml:space="preserve" state="final">&lt;strong&gt;العنوان:&lt;/strong&gt; أدخل اسمًا لحقل المُعِّرف البديل مُشيرًا إلى الغرض منه واستخدامه.&lt;br/&gt;&lt;strong&gt;المُعِّرف:&lt;/strong&gt; أدخل رمز مرجعي قديم أو مُعِّرف بديل أو أي مجموعة حروف أبجدية رقمية أخرى مرتبطة بالتسجيلة.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
-      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" xml:space="preserve">
+      <trans-unit id="a69c6574a89d935c91412683d4f502d23e24ac3b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">&lt;strong&gt;Type:&lt;/strong&gt; Enter a name for the alternative identifier field that indicates its purpose and usage.&lt;br/&gt;&lt;strong&gt;Identifier:&lt;/strong&gt; Enter a legacy reference code, alternative identifier, or any other alpha-numeric string associated with the record.</source>
-        <target state="translated"><strong>النوع:</strong> أدخِل اسمًا لحقل المُعرّف البديل يُوضّح الغرض منه وطريقة استخدامه.<br/>
-<strong>المُعرّف:</strong> أدخِل رمزًا مرجعيًا قديمًا، أو مُعرّفًا بديلًا، أو أي سلسلة أبجدية رقمية مرتبطة بالتسجيلة.</target>
+        <target state="final">&lt;strong&gt;النوع:&lt;/strong&gt; أدخل اسمًا لحقل المُعرِّف البديل يوضح الغرض منه وطريقة استخدامه.&lt;br/&gt;&lt;strong&gt;Identifier:&lt;/strong&gt; أدخل رمز مرجع سابق، أو مُعرِّف بديل، أو أي سلسلة أبجدية رقمية أخرى مرتبطة بالتسجيلة.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_alternativeIdentifiers.php</note>
       </trans-unit>
       <trans-unit id="39c6fe6bbe18b341f05e967d01ffa968b9c550e1" approved="yes" xml:space="preserve">
         <source xml:space="preserve">A %1%release %2%%3% upgrade is available.</source>
-        <target xml:space="preserve" state="final">النسخة %1%أطلقت %2%%3% متاحة للتحديث.</target>
+        <target xml:space="preserve" state="final">ترقية إصدار %1% %2%%3% أصبحت مُتاحة.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_updateCheck.php</note>
       </trans-unit>
       <trans-unit id="3e9664b32ca01b20a5fd36e87057ea6e742b937e" approved="yes" xml:space="preserve">
@@ -948,9 +933,9 @@
         <target state="translated">وصف للموقع المادي داخل المستودع الأرشيفي حيث يمكن العثور على الإيداع.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="609a0ee9d634702fd34b4d248cf9223333604694" xml:space="preserve">
+      <trans-unit id="609a0ee9d634702fd34b4d248cf9223333604694" xml:space="preserve" approved="yes">
         <source xml:space="preserve">A designation of the language in which the content of a resource is expressed. Select as many languages as required.</source>
-        <target state="translated">تحديد اللغة التي يتم بها عرض محتوى المورد. اختر عدد اللغات المطلوبة حسب الحاجة.</target>
+        <target state="final">تحديد اللغة التي يتم بها عرض محتوى المَورِد. اختر عدد اللغات المطلوبة حسب الحاجة.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="61b6167ae576ea47ed09f764ce5c466d052e214e" approved="yes" xml:space="preserve">
@@ -1202,9 +1187,9 @@
         <target state="translated">تاريخ الاقتناء</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/browseAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d9d155cebbb688885502285619ccafb08ccd9ed9" xml:space="preserve">
+      <trans-unit id="d9d155cebbb688885502285619ccafb08ccd9ed9" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Acquisition date - This is a mandatory element.</source>
-        <target state="translated">تاريخ الاقتناء – هذا عنصر إلزامي.</target>
+        <target state="final">تاريخ الاقتناء – هذا عنصر إلزامي.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="459c3e0c4e105aa9d41283400696dc760dc0f643" xml:space="preserve">
@@ -5161,9 +5146,9 @@
         <target state="translated">مستوى الوصف – هذا عنصر إلزامي.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d2bafa4da420378e0f96d55d985afeb7e3255698" xml:space="preserve">
+      <trans-unit id="d2bafa4da420378e0f96d55d985afeb7e3255698" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Level of description - Value "%value%" is not consistent with higher levels.</source>
-        <target state="translated">مستوى الوصف – القيمة "%القيمة%" غير متوافقة مع المستويات الأعلى.</target>
+        <target state="final">مستوى الوصف - القيمة"%value%" لا يتوافق مع المستويات الأعلى.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="8fa54be88d46f9d52c82b30c54d96d9ec16ebe3c" approved="yes" xml:space="preserve">
@@ -8470,9 +8455,9 @@
         <target state="translated">نقطة نهاية API لخدمة التخزين، مثل: "http://localhost:62081/api/v2"</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="d63c1e5ef5f6e0121b5c9d527a6ebbe7d7576665" xml:space="preserve">
+      <trans-unit id="d63c1e5ef5f6e0121b5c9d527a6ebbe7d7576665" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Storage Service API key, e.g.</source>
-        <target state="translated">مفتاح واجهة برمجة تطبيقات خدمة التخزين، مثلًا:</target>
+        <target state="final">مفتاح واجهة برمجة التطبيقات API Key لخدمة التخزين، على سبيل المثال</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arStorageServicePlugin/modules/arStorageServiceSettings/templates/settingsSuccess.php</note>
       </trans-unit>
       <trans-unit id="3147048a9e6e20462bab4f4f7906fb76dae9a3a2" xml:space="preserve">
@@ -10808,13 +10793,17 @@
         <target state="translated">هذا الحقل مطلوب.</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/arB5WidgetFormSchemaFormatter.class.php</note>
       </trans-unit>
-      <trans-unit id="c3898b2ae14ef17686fa0290b98a23ed517de89e" xml:space="preserve">
+      <trans-unit id="c3898b2ae14ef17686fa0290b98a23ed517de89e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">This is the legal entity field and provides the contact
                 information for the person(s) or the institution that donated or
                 transferred the materials. It has the option of multiple
                 instances and provides the option of creating more than one
                 contact record using the same form.</source>
-        <target state="translated">هذا الحقل مخصّص للكيان القانوني ويوفر معلومات الاتصال بالشخص أو الأشخاص أو المؤسسة التي تبرعت أو نقلت المواد. يتيح إمكانية إنشاء عدة سجلات اتصال متعددة باستخدام نفس النموذج.</target>
+        <target state="final">هذا الحقل خاص بالكيان القانوني
+                ويُستخدم لتقديم معلومات الاتصال الخاصة بالشخص أو الجهة
+                 التي تبرعت بالمواد أو نقلتها. 
+                يتيح هذا الحقل إمكانية إنشاء عدة سجلات اتصال 
+                من خلال النموذج نفسه.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_relatedDonor.php</note>
       </trans-unit>
       <trans-unit id="55751877e1b30405fdb9dacce096bd22fcd541c1" xml:space="preserve">
@@ -10887,13 +10876,16 @@
         <target state="translated">تم تعطيل التحميلات لـ<a class="alert-link" href="%1%">%2%</a>.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/object/templates/addDigitalObjectSuccess.php</note>
       </trans-unit>
-      <trans-unit id="0f554f2cd577313f87415a01f80b9ed06cd9c152" xml:space="preserve">
+      <trans-unit id="0f554f2cd577313f87415a01f80b9ed06cd9c152" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Use these options to specify how the date range returns results. "Exact" means
 that the start and end dates of descriptions returned must fall entirely within
 the date range entered. "Overlapping" means that any description whose start or
 end dates touch or overlap the target date range will be returned.
 </source>
-        <target state="translated">استخدم هذه الخيارات لتحديد كيفية إرجاع النتائج وفقًا للنطاق الزمني. تعني "مطابق" أن تواريخ البدء والانتهاء في الأوصاف المُسترجعة يجب أن تقع بالكامل ضمن النطاق الزمني المُدخل. أما "متداخل" فتعني أن أي وصف تبدأ أو تنتهي تواريخه، أو تتقاطع مع النطاق الزمني المستهدف، سيتم تضمينه في النتائج.
+        <target state="final">استخدم هذه الخيارات لتحديد كيفية مطابقة النطاق الزمني لنتائج البحث. "مطابقة تامة" تعني
+أن تواريخ البداية والنهاية في الأوصاف التي يتم استرجاعها يجب أن تقع بالكامل ضمن النطاق الزمني المُدخل.
+أما "تداخل" فتعني أن أي وصف تبدأ أو تنتهي تواريخه ضمن النطاق الزمني المُستهدف،
+أو تتقاطع معه، سيتم استرجاعها.
 </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_advancedSearch.php</note>
       </trans-unit>
