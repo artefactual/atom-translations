@@ -10780,7 +10780,7 @@
       </trans-unit>
       <trans-unit id="3fee5ac5370d662597deb5e406fc97df9745e11c" xml:space="preserve">
         <source xml:space="preserve">The upload limit of %1% GB for &lt;a class="alert-link" href="%2%"&gt;%3%&lt;/a&gt; has been reached</source>
-        <target state="translated">تم الوصول إلى حد التحميل البالغ %1% جيجابايت لـ <a class="alert-link" href="%2%">%3%</a>.</target>
+        <target state="translated">تم الوصول إلى حد التحميل البالغ %1% جيجابايت لـ ;<a class="alert-link" href="%2%">%3%</a>.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/object/templates/addDigitalObjectSuccess.php</note>
       </trans-unit>
       <trans-unit id="d6d182b0576513aab380c8f48155a7c2ea327c1b" xml:space="preserve">
@@ -11208,7 +11208,7 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
       </trans-unit>
       <trans-unit id="6b15a735d588300e17abdac3a7795f9ab6b5084c" xml:space="preserve">
         <source xml:space="preserve">Clipboard saved with %1% item(s). Clipboard ID is &lt;b&gt;%2%&lt;/b&gt;. Please write this number down. When you want to reload this clipboard in the future, open the Clipboard menu, select &lt;a class="alert-link" href="%3%"&gt;Load clipboard&lt;/a&gt;, and enter this number in the Clipboard ID field. Clipboards are eligible for deletion after &lt;b&gt;%4% day(s)&lt;/b&gt;.</source>
-        <target xml:space="preserve" state="translated">تم حفظ الحافظة مع %1% عنصر/عناصر. معرف الحافظة هو <b>%2%</b>. يرجى تدوين هذا الرقم. عندما ترغب في إعادة تحميل هذه الحافظة في المستقبل، افتح قائمة الحافظة، واختر <a class="alert-link" href="%3%">تحميل الحافظة</a>، وأدخل هذا الرقم في حقل معرف الحافظة. تكون الحافظات قابلة للحذف بعد <b>%4% يومًا</b>.</target>
+        <target xml:space="preserve" state="translated">تم حفظ الحافظة مع %1% عنصر/عناصر. معرف الحافظة هو &lt;b&gt;%2%&lt;/b&gt;. يرجى تدوين هذا الرقم. عندما ترغب في إعادة تحميل هذه الحافظة في المستقبل، افتح قائمة الحافظة، واختر &lt;a class="alert-link" href="%3%"&gt;تحميل الحافظةg&amp;&lt;/a&gt;، وأدخل هذا الرقم في حقل معرف الحافظة. تكون الحافظات قابلة للحذف بعد &lt;b&gt;%4% يومًا&lt;/b&gt;.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
     </body>
