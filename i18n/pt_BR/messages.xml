@@ -10028,7 +10028,7 @@
       </trans-unit>
       <trans-unit id="42d9d2622f862cd803d4395be2c1edd362213525" approved="yes" xml:space="preserve">
         <source xml:space="preserve">temporal</source>
-        <target xml:space="preserve" state="final">temporal</target>
+        <target xml:space="preserve" state="final">cronológica</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="372ea08cab33e71c02c651dbc83a474d32c676ea" approved="yes" xml:space="preserve">
@@ -10555,7 +10555,7 @@
       </trans-unit>
       <trans-unit id="3731cf264a2ba6a06fc130ad5d33bc91ed47aad4" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Pagination limit reached. To avoid using vast amounts of memory,</source>
-        <target xml:space="preserve" state="final">Limite de paginação atingido. Para evitar o uso de uma vasta quantidade de memória, o AtoM limita a paginação para %1% registros. Por favor, restrinja os seus resultados.</target>
+        <target xml:space="preserve" state="final">Limite de paginação atingido. Para evitar a utilização de grandes quantidades de memória,</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arRestApiPlugin/modules/api/actions/informationobjectsBrowseAction.class.php</note>
       </trans-unit>
       <trans-unit id="23d692f07a3fb646a8e54fcd2dc724f4ea2ed2c6" approved="yes" xml:space="preserve">
@@ -10725,7 +10725,7 @@
       </trans-unit>
       <trans-unit id="4a022cd9e053eafed83bd9c151265ba28a7577ab" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Slug was adjusted to remove special characters or</source>
-        <target xml:space="preserve" state="final">O slug foi ajustado para remover caracteres especiais ou porque ele já foi utilizado por outra descrição.</target>
+        <target xml:space="preserve" state="final">O slug foi ajustado para remover caracteres especiais ou porque ele já foi utilizado por outra descrição</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/renameAction.class.php</note>
       </trans-unit>
       <trans-unit id="03460faf0899aefda5737701da2cbfbadde2a0c2" approved="yes" xml:space="preserve">
@@ -11206,9 +11206,9 @@ desabilitada, e o filtro 'Busca avançada &gt; Instrumentos de Pesquisa' é ocul
         <target xml:space="preserve" state="final">Limitar as funcionalidades de autenticados para um ou mais endereços de IP, separados por ponto e vírgula.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
       </trans-unit>
-      <trans-unit id="6b15a735d588300e17abdac3a7795f9ab6b5084c" xml:space="preserve">
+      <trans-unit id="6b15a735d588300e17abdac3a7795f9ab6b5084c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clipboard saved with %1% item(s). Clipboard ID is &lt;b&gt;%2%&lt;/b&gt;. Please write this number down. When you want to reload this clipboard in the future, open the Clipboard menu, select &lt;a class="alert-link" href="%3%"&gt;Load clipboard&lt;/a&gt;, and enter this number in the Clipboard ID field. Clipboards are eligible for deletion after &lt;b&gt;%4% day(s)&lt;/b&gt;.</source>
-        <target xml:space="preserve" state="translated">Área de transferência salva com %1% item(s). O ID da Área de Transferência é &lt;b&gt;%2%&lt;/b&gt;. Por favor, anote este número. Quando quiser acessar essa área de transferência no futuro, abra o menu da Área de Transfeência, selecione &lt;a class="alert-link" href="%3%"&gt;Carregar Área de Transferência&lt;/a&gt;, e insira este número no campo de ID da Área de Transferência. As Áreas de Transferência são elegíveis a serem deletadas após &lt;b&gt;%4% dia(s)&lt;/b&gt;.</target>
+        <target xml:space="preserve" state="final">Área de transferência salva com %1% item(s). O ID da Área de Transferência é &lt;b&gt;%2%&lt;/b&gt;. Por favor, anote este número. Quando quiser acessar essa área de transferência no futuro, abra o menu da Área de Transferência, selecione &lt;a class="alert-link" href="%3%"&gt;Carregar Área de Transferência&lt;/a&gt;, e insira este número no campo de ID da Área de Transferência. As Áreas de Transferência são elegíveis a serem deletadas após &lt;b&gt;%4% dia(s)&lt;/b&gt;.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
     </body>
