@@ -11206,9 +11206,9 @@ desabilitada, e o filtro 'Busca avançada &gt; Instrumentos de Pesquisa' é ocul
         <target xml:space="preserve" state="final">Limitar as funcionalidades de autenticados para um ou mais endereços de IP, separados por ponto e vírgula.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
       </trans-unit>
-      <trans-unit id="6b15a735d588300e17abdac3a7795f9ab6b5084c">
+      <trans-unit id="6b15a735d588300e17abdac3a7795f9ab6b5084c" xml:space="preserve">
         <source xml:space="preserve">Clipboard saved with %1% item(s). Clipboard ID is &lt;b&gt;%2%&lt;/b&gt;. Please write this number down. When you want to reload this clipboard in the future, open the Clipboard menu, select &lt;a class="alert-link" href="%3%"&gt;Load clipboard&lt;/a&gt;, and enter this number in the Clipboard ID field. Clipboards are eligible for deletion after &lt;b&gt;%4% day(s)&lt;/b&gt;.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Área de transferência salva com %1% item(s). O ID da Área de Transferência é &lt;b&gt;%2%&lt;/b&gt;. Por favor, anote este número. Quando quiser acessar essa área de transferência no futuro, abra o menu da Área de Transfeência, selecione &lt;a class="alert-link" href="%3%"&gt;Carregar Área de Transferência&lt;/a&gt;, e insira este número no campo de ID da Área de Transferência. As Áreas de Transferência são elegíveis a serem deletadas após &lt;b&gt;%4% dia(s)&lt;/b&gt;.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
     </body>
