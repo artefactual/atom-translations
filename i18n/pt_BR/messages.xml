@@ -7392,12 +7392,12 @@
       </trans-unit>
       <trans-unit id="a75dfe6efd6ee90b0cf31c7b23fb02f3c77ca7dd" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Require SSL for all administrator funcionality</source>
-        <target xml:space="preserve" state="final">Requer SSL para todas as funcionalidades de administrador</target>
+        <target xml:space="preserve" state="final">Exigir SSL para todas as funcionalidades de administrador</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="96d0b83c87240246f808996e2cdc5bdee63b4cd8" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Require SSL for all administrator functionality</source>
-        <target xml:space="preserve" state="final">Requer SSL para todas as funcionalidades de administrador</target>
+        <target xml:space="preserve" state="final">Exigir SSL para todas as funcionalidades de administrador</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
       </trans-unit>
       <trans-unit id="2f7513657ba7cafee5dfd8e46b81cd9002e5bcc0" approved="yes" xml:space="preserve">
@@ -11191,19 +11191,19 @@ desabilitada, e o filtro 'Busca avançada &gt; Instrumentos de Pesquisa' é ocul
         <target xml:space="preserve" state="final">Utilize estes dois campos para adicionar níveis inferiores à descrições em nível de coleção. Clique em Adicionar novo para adicionar tantas descrições de níveis inferiores quantas forem necessárias. identificador: insira um número ou código padrão único que identifica o recurso distintivamente. Título: insira uma palavra, frase, caractere, ou grupo de caracteres, que aparecem normalmente em um recurso, que nomeiam o recurso ou o trabalho contido nele.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="32e271bec7e31df1838efd94cf39df8b980c7283" xml:space="preserve">
+      <trans-unit id="32e271bec7e31df1838efd94cf39df8b980c7283" xml:space="preserve" approved="yes">
         <source xml:space="preserve"> %1%Download%2% (%3%)</source>
-        <target xml:space="preserve" state="translated"> %1%Baixar%2% (%3%)</target>
+        <target xml:space="preserve" state="final"> .%1%Baixar%2% (%3%)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
-      <trans-unit id="8cbecd540cfe5ae7ac2c6255c83a8a906fe7cd21" xml:space="preserve">
+      <trans-unit id="8cbecd540cfe5ae7ac2c6255c83a8a906fe7cd21" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Unlimited&lt;/em&gt;</source>
-        <target xml:space="preserve" state="translated">%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; de &lt;em&gt;Ilimitado&lt;/em&gt;</target>
+        <target xml:space="preserve" state="final">%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; de &lt;em&gt;Ilimitado&lt;/em&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
-      <trans-unit id="31cb8ebdd8929e1a64627c0799b74b8fdf1d195d" xml:space="preserve">
+      <trans-unit id="31cb8ebdd8929e1a64627c0799b74b8fdf1d195d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Limit authenticated functionality to one or more IP addresses, separated by semicolons.</source>
-        <target xml:space="preserve" state="translated">Limitar funcionalidades de autenticados para um ou mais endereços de IP, separados por ponto e vírgula.</target>
+        <target xml:space="preserve" state="final">Limitar as funcionalidades de autenticados para um ou mais endereços de IP, separados por ponto e vírgula.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
       </trans-unit>
       <trans-unit id="6b15a735d588300e17abdac3a7795f9ab6b5084c">
