@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: AtoM\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-24 02:09-0700\n"
-"PO-Revision-Date: 2025-07-23 19:34+0000\n"
+"PO-Revision-Date: 2025-07-27 09:34+0000\n"
 "Last-Translator: محمود محمد <mahmoudmm55432@gmail.com>\n"
 "Language-Team: Arabic <https://translations.artefactual.com/projects/atom/"
 "website/ar/>\n"
@@ -67,7 +67,7 @@ msgstr "الهنغارية"
 #: sphinxdoc/templates/sphinxdoc/search.html:4 templates/base.html:67
 #: templates/footer.html:36
 msgid "Documentation"
-msgstr "المستندات"
+msgstr "مُستندات التوثيق"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:11
 #, python-format
@@ -78,7 +78,7 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s هو اصدار عتيق، وهذه المستندات لم تُجدد.\n"
+"        %(project_name)s هو اصدار قديم، وهذه المستندات لم تُجدد.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:16
@@ -90,8 +90,8 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s هو إصدار قديم، ووثائق المشروع في وضع الصيانة "
-"والتطوير.\n"
+"        %(project_name)s هو إصدار قديم، ومُستندات توثيق المشروع في وضع "
+"الصيانة والتطوير.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:21
@@ -114,7 +114,7 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s هو إصدارنا الأخير، ووثائق المشروع ما زالت ما زالت "
+"        %(project_name)s هو إصدارنا الأخير، ومُستندات توثيق المشروع ما زالت "
 "قيد العمل والتحديث.\n"
 "      "
 
@@ -127,7 +127,8 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        %(project_name)s لم يصدر بعد، والمستندات ما زالت فى طور العمل.\n"
+"        %(project_name)s لم يُصدر بعد، ومُستندات توثيق المشروع ما زالت فى طور "
+"العمل.\n"
 "      "
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:60
@@ -147,7 +148,7 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"              <p>افتح الـ <a href=\"%(genindex_url)s\">المُؤشر العام</a> أو "
+"              <p>افتح الـ <a href=\"%(genindex_url)s\"> المُؤشر العام </a> أو "
 "اكتب استفسارك البحثي هُنا.</p>‭‮‭\n"
 "            "
 
@@ -157,7 +158,7 @@ msgstr "المستندات المتوفرة"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:108
 msgid "Edit this document"
-msgstr "عدل هذا المستند"
+msgstr "عدل هذا المُستند"
 
 #: sphinxdoc/templates/sphinxdoc/documentation.html:110
 msgid "Source code"
