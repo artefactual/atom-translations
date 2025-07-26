@@ -6,7 +6,7 @@
     <body>
       <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf" approved="yes" xml:space="preserve">
         <source xml:space="preserve"> Auto refresh</source>
-        <target xml:space="preserve" state="final"> التحديث التلقائي</target>
+        <target xml:space="preserve" state="final"> تحديث تلقائي</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="c283db127dc03106098aff291505eaf3c767d1af" approved="yes" xml:space="preserve">
@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="9b4d2dfc0b645efe7d3cde382a35f653f85d431a" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"At all levels record the extent of the unit being described by giving the number of physical units in arabic numerals and the specific material designation as instructed in subrule .5B in the chapter(s) dealing with the broad class(es) of material to which the unit being described belongs." (RAD 1.5B1) Include other physical details and dimensions as specified in RAD 1.5C and 1.5D. Separate multiple entries in this field with a carriage return (i.e. press the Enter key on your keyboard).</source>
-        <target xml:space="preserve" state="final">"سجل على جميع المستويات مدى وصف الوحدة بإعطاء عدد الوحدات المادية بالأرقام العربية وتسمية المادة المحددة كما هو موضح في القاعدة الفرعية .5B في الفصل (الفصول) الذي يتعامل مع فئة (فئات) واسعة من المواد إلى التي تنتمي إليها الوحدة الموصوفة ". (RAD 1.5B1) قم بتضمين التفاصيل المادية الأخرى والأبعاد كما هو محدد في RAD 1.5C و 1.5D. افصل بين الإدخالات المتعددة في هذا الحقل بالضغط على زر رجوع (على سبيل المثال ، اضغط على مفتاح Enter بلوحة المفاتيح).</target>
+        <target xml:space="preserve" state="final">"سَجِّل على جميع مستويات الوصف مدى وصف الوحدة بإعطاء عدد الوحدات المادية بالأرقام العربية وتسمية المادة المحددة كما هو موضح في القاعدة الفرعية .5B في الفصل (الفصول) الذي يتعامل مع فئة (فئات) واسعة من المواد إلى التي تنتمي إليها الوحدة الموصوفة ". (RAD 1.5B1) قم بتضمين التفاصيل المادية الأخرى والأبعاد كما هو محدد في RAD 1.5C و 1.5D. افصل بين الإدخالات المتعددة في هذا الحقل بالضغط على زر رجوع (على سبيل المثال ، اضغط على مفتاح Enter بلوحة المفاتيح).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0" approved="yes" xml:space="preserve">
@@ -46,7 +46,7 @@
       </trans-unit>
       <trans-unit id="e8ea0c576b98d7c7dbab79b32cd27e453ba71ee9" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Describe access policies, including any restrictions and/or regulations for the use of materials and facilities. Record information about registration, appointments, readers’ tickets, letters of introduction, admission fees, etc. Where appropriate, make reference to the relevant legislation." (ISDIAH 5.4.2)</source>
-        <target xml:space="preserve" state="final">وصف سياسات الوصول ، بما في ذلك أي قيود و / أو لوائح لاستخدام المواد والمُرفقات. سجل معلومات حول التسجيل والمواعيد وتذاكر القراء وخطابات التعريف ورسوم القبول وما إلى ذلك ، عند الحاجة ، قم بالإشارة إلى التشريعات ذات الصلة. " (ISDIAH 5.4.2)</target>
+        <target xml:space="preserve" state="final">وصف سياسات الوصول ، بما في ذلك أي قيود و / أو لوائح لاستخدام المواد والمُرفقات. سَجِّل معلومات حول التسجيل والمواعيد وتذاكر القُراء وخطابات التعريف ورسوم القبول وما إلى ذلك ، عند الحاجة ، قم بالإشارة إلى التشريعات ذات الصلة. " (ISDIAH 5.4.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="65f3abd8a2aebd05fa257cab8863af114902845c" approved="yes" xml:space="preserve">
@@ -116,12 +116,12 @@
       </trans-unit>
       <trans-unit id="dc68fed162f0faefeea9e375eadf4b9bc7a48784" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Identify and record the date(s) of the unit of description. Identify the type of date given. Record as a single date or a range of dates as appropriate.” (ISAD 3.1.3). The Date display field can be used to enter free-text date information, including typographical marks to express approximation, uncertainty, or qualification. Use the start and end fields to make the dates searchable. Do not use any qualifiers or typographical symbols to express uncertainty. Acceptable date formats: YYYYMMDD, YYYY-MM-DD, YYYY-MM, YYYY.</source>
-        <target xml:space="preserve" state="final">"حدد وسجل تاريخ (تواريخ) وحدة الوصف. حدد نوع التاريخ المقدم. سجل كتاريخ واحد أو نطاق من التواريخ حسب الاقتضاء." (ISAD 3.1.3). يمكن استخدام حقل عرض التاريخ لإدخال معلومات التاريخ بالنص الحر ، بما في ذلك العلامات المطبعية للتعبير عن التقريب أو عدم التأكد من التاريخ. استخدم حقلي البداية والنهاية لجعل التواريخ قابلة للبحث. لا تستخدم الأشكال أو الرموز المطبعية للتعبير عن عدم التأكد من التاريخ. تنسيقات التاريخ المقبولة: YYYYMMDD ، YYYY-MM-DD ، YYYY-MM ، YYYY.</target>
+        <target xml:space="preserve" state="final">"حدد وسَجِّل تاريخ (تواريخ) وحدة الوصف. حدد نوع التاريخ المقدم. سَجِّل كتاريخ واحد أو نطاق من التواريخ حسب الاقتضاء." (ISAD 3.1.3). يمكن استخدام حقل عرض التاريخ لإدخال معلومات التاريخ بالنص الحر ، بما في ذلك العلامات المطبعية للتعبير عن التقريب أو عدم التأكد من التاريخ. استخدم حقلي البداية والنهاية لجعل التواريخ قابلة للبحث. لا تستخدم الأشكال أو الرموز المطبعية للتعبير عن عدم التأكد من التاريخ. تنسيقات التاريخ المقبولة: YYYYMMDD ، YYYY-MM-DD ، YYYY-MM ، YYYY.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="36ddf9b510c2bc89b2e9bd29f5d188ff655acce1" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Identify the geographical area the institution belongs to. Record any other relevant information about the cultural context of the institution." (ISDIAH 5.3.2)</source>
-        <target xml:space="preserve" state="final">"حدد المنطقة الجغرافية التي تنتمي إليها المؤسسة. سجل أي معلومات أخرى ذات صلة حول السياق الثقافي للمؤسسة." (ISDIAH 5.3.2)</target>
+        <target xml:space="preserve" state="final">"حدد المنطقة الجغرافية التي تنتمي إليها المؤسسة. سَجِّل أي معلومات أخرى ذات صلة حول السياق الثقافي للمؤسسة." (ISDIAH 5.3.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="2206345ab7fa0daf4cca1b31e3e2dd2776a5037f" approved="yes" xml:space="preserve">
