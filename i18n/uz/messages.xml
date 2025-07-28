@@ -676,11 +676,6 @@
         <target xml:space="preserve" state="final">%1%Kod%2% - Bu %3%majburiy%4% element.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="e7a0ed0861ed3cafcd69a76e040321da501e9e7a" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">%1%Identifier%2% - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">%1%Kod%2% - Bu majburiy element.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
-      </trans-unit>
       <trans-unit id="1b796481921290f4b070bff37797bb269e6c0b89" approved="yes" xml:space="preserve">
         <source xml:space="preserve">%1%Level of description%2% - This is a %3%mandatory%4% element.</source>
         <target xml:space="preserve" state="final">%1%Tavsif darajasi%2% - Bu %3%majburiy%4% element.</target>
@@ -708,11 +703,6 @@
         <source xml:space="preserve">%1%Title%2% - This is a %3%mandatory%4% element.</source>
         <target xml:space="preserve" state="final">%1%Sarlavha%2% - Bu %3%majburiy%4% element.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsadPlugin/modules/sfIsadPlugin/actions/indexAction.class.php</note>
-      </trans-unit>
-      <trans-unit id="1290dae91dc3a3f6a16983d2b4fcd4b59d7a5369" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">%1%Title%2% - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">%1%Sarlavha%2% - Bu majburiy element.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="43c103eafee96676a89f778f91dff7053a6a66f3" approved="yes" xml:space="preserve">
         <source xml:space="preserve">%1%Type of entity%2% - This is a %3%mandatory%4% element.</source>
@@ -1067,11 +1057,6 @@
         <source xml:space="preserve">Acquisition date</source>
         <target xml:space="preserve" state="final">Jamlash sanasi</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/browseAction.class.php</note>
-      </trans-unit>
-      <trans-unit id="d9d155cebbb688885502285619ccafb08ccd9ed9" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Acquisition date - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">Jamlash sanasi - Bu majburiy element.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="459c3e0c4e105aa9d41283400696dc760dc0f643" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Acquisition type</source>
@@ -2445,11 +2430,6 @@
         <target xml:space="preserve" state="final">Sana</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_updatesSearch.php</note>
       </trans-unit>
-      <trans-unit id="ace76c4c758f39701d405a96ced699ff75361ec7" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Date of acquisition - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">Ro`yxatga olish sanasi - Bu majburiy element.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
-      </trans-unit>
       <trans-unit id="a3df46d69c5a94a13fd231ad16a4fb3cdbb8cf2c" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Date of deaccession</source>
         <target xml:space="preserve" state="final">Hujjatni o`chirish sanasi</target>
@@ -2463,11 +2443,6 @@
         <source xml:space="preserve">Date(s)</source>
         <target xml:space="preserve" state="final">Sanalar</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/boxListSuccess.php</note>
-      </trans-unit>
-      <trans-unit id="fcc00646c0c7d529b49c959459b324880b033e21" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Date(s) - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">Sana(lar) - Bu majburiy element.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="01e4f7e18ccc5eb2d1a25aed358f6c6c3f14f859" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Date(s) - are not consistent with %1%higher levels%2%.</source>
@@ -2631,11 +2606,6 @@
         <source xml:space="preserve">Description</source>
         <target xml:space="preserve" state="final">Tavsif</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/editThemeSuccess.php</note>
-      </trans-unit>
-      <trans-unit id="3abd2c5d023c5b19ef18d318bc587e8dbc61b5f9" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Description - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">Qisqa mazmuni - Bu majburiy element.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="47c60b64dc2a82d260de02c14794796cfc71ce85" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Description Detail Levels</source>
@@ -3399,10 +3369,6 @@
         <source xml:space="preserve">Extent</source>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b08e49a7fec2502f0bb1f9de78c5caa937abbdfc">
-        <source xml:space="preserve">Extent - This is a mandatory element.</source>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
-      </trans-unit>
       <trans-unit id="0e8881271ff69b83f18ee1284fadbbaa3351dd18" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Extent and medium</source>
         <target xml:space="preserve" state="final">Hajm va tashuvchi</target>
@@ -3916,10 +3882,6 @@
         <source xml:space="preserve">Identifier</source>
         <target xml:space="preserve" state="final">Kod</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/browseSuccess.php</note>
-      </trans-unit>
-      <trans-unit id="ed21cd4d3b964c83cdd09c07643d4b0ec6c74f36">
-        <source xml:space="preserve">Identifier - This is a mandatory element.</source>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="2e4536c13e1d6e2f27ac180d2111a18d8ebe67ea">
         <source xml:space="preserve">Identifier - Title</source>
@@ -4483,10 +4445,6 @@
         <target xml:space="preserve" state="final">Tavsif darajasi</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
       </trans-unit>
-      <trans-unit id="ba973e76a4daae40affb18dd6219d9e65ae988ce">
-        <source xml:space="preserve">Level of description - This is a mandatory element.</source>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
-      </trans-unit>
       <trans-unit id="d2bafa4da420378e0f96d55d985afeb7e3255698" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Level of description - Value "%value%" is not consistent with higher levels.</source>
         <target xml:space="preserve" state="final">Tavsif darajasi - "%value%" qiymati yuqori darajadagi yozuvlar bilan mos emas.</target>
@@ -4616,10 +4574,6 @@
       <trans-unit id="828eb52fa9a5d7fea9c7f7b8669999f58e5d4bd0">
         <source xml:space="preserve">Location information</source>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
-      </trans-unit>
-      <trans-unit id="88c43f19b0fb8afa6519d908e57fb227153817d5">
-        <source xml:space="preserve">Location information - This is a mandatory element.</source>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="0b72d9bb7f785056a5dd70bdf756aed4d8760f16">
         <source xml:space="preserve">Location of originals</source>
@@ -5051,11 +5005,6 @@
         <source xml:space="preserve">Name and location of repository</source>
         <target xml:space="preserve" state="final">Arxiv muassasasining nomi va markazi</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
-      </trans-unit>
-      <trans-unit id="33d34a420639e6ace988d39ceb329965e5dda1c5" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Name and location of repository - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">Arxiv muassasasi nomi va manzili - Bu majburiy element.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="41e610ea3f6a08f1de55d8da43d82bb1df35d3c0" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Name of creator</source>
@@ -5702,11 +5651,6 @@
         <source xml:space="preserve">Physical description</source>
         <target xml:space="preserve" state="final">Fizik tavsifi</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
-      </trans-unit>
-      <trans-unit id="fea9674c19aad27dcaa3954bcbede517d15d72fd" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Physical description - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">Fizik tavsifi - Bu majburiy element.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="2f01d850244ab353ee824046bc93b917816b3638" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Physical description area</source>
@@ -6872,20 +6816,10 @@
         <target xml:space="preserve" state="final">Qamrov</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="6bd38107f07ac622166989a34c920684795179ae" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Scope - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">Qamrov - Bu majburiy element.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
-      </trans-unit>
       <trans-unit id="ea2e6e20f4f7538609fcd6718e80dbb14019b0e1" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Scope and content</source>
         <target xml:space="preserve" state="final">Qamrov va mazmun</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
-      </trans-unit>
-      <trans-unit id="2a18058e955d9bfb25e48a388bf2d94316413429" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Scope and content - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">Qamrov va mazmun - Bu majburiy element.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="2fb66c4d30b5f337a2ca3b2257642a8e20ef1dc7" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Scope note</source>
@@ -7423,11 +7357,6 @@
         <source xml:space="preserve">Source note(s)</source>
         <target xml:space="preserve" state="final">Manba izoh(lar)i</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/editSuccess.php</note>
-      </trans-unit>
-      <trans-unit id="98c05cc017ae9a4d858bf9b42a2110ffd8b4c8e5" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Source of acquisition - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">Ro`yxatga olish manbasi - Bu majburiy element.</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="2fca7dc59f08552a47cb16b319ca1a5ed66dc37e" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Source of title proper</source>
@@ -8159,11 +8088,6 @@
         <source xml:space="preserve">Title</source>
         <target xml:space="preserve" state="final">Sarlavha</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/boxListSuccess.php</note>
-      </trans-unit>
-      <trans-unit id="4db64975a678afa49ab5ba80f2baf7999b5ebd78" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Title - This is a mandatory element.</source>
-        <target xml:space="preserve" state="final">Sarlavha - majburiy element</target>
-        <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="6be3badbbba74654b102c5a1056bacdf926b8570" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Title and statement of responsibility area</source>
@@ -10075,6 +9999,101 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
         <source xml:space="preserve">Clipboard saved with %1% item(s). Clipboard ID is &lt;b&gt;%2%&lt;/b&gt;. Please write this number down. When you want to reload this clipboard in the future, open the Clipboard menu, select &lt;a class="alert-link" href="%3%"&gt;Load clipboard&lt;/a&gt;, and enter this number in the Clipboard ID field. Clipboards are eligible for deletion after &lt;b&gt;%4% day(s)&lt;/b&gt;.</source>
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="125d8aa6b348d7c1906ce440798c3f13646b16cf">
+        <source xml:space="preserve">%1%Identifier%2% - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="383d898d01df0f4d4b470026ea0a55423de31eb8">
+        <source xml:space="preserve">%1%Title%2% - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="f46c96967052c110064d18c2b28afc8570d77eeb">
+        <source xml:space="preserve">Acquisition date - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="2103e6e0f4978ec7b42a5e93d000c6c2fa14655d">
+        <source xml:space="preserve">Authorized form of name - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/donor/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="9b364e177b078c84e3da63de9bfdc3217cdffe75">
+        <source xml:space="preserve">Date of acquisition - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="c68f1605d5148df6214e6c795701b2efc7f17799">
+        <source xml:space="preserve">Date(s) - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="c6701e5b3307ca8140b7b982ae4721541a461a5e">
+        <source xml:space="preserve">Description - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="42315c340e6c6162b423612ebb6bb66ef88bff18">
+        <source xml:space="preserve">Extent - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="38f3fbd305c6e7200083e8c0e9ac7afbea4bfb09">
+        <source xml:space="preserve">Identifier - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="d55f5739060aa85c91eac38ab695787814b832d7">
+        <source xml:space="preserve">Level of description - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="f58417afa3d329bac5551b7228eeeb93af97e30f">
+        <source xml:space="preserve">Location information - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="d61cfa63b4185ef490f5b390c9cc9b4541e3c18c">
+        <source xml:space="preserve">Name and location of repository - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="826328af3e26da316a83790aa7d3208b79a8e01d">
+        <source xml:space="preserve">Physical description - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="d8d7a9e452462a1d5612876aea2dc5d3e0697b57">
+        <source xml:space="preserve">Scope - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="afecf64b03fbf15166b98ad7338cc3d3c89b0a9b">
+        <source xml:space="preserve">Scope and content - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="ed65c626cdffa34caeebceac1f0a07c3623ee5d2">
+        <source xml:space="preserve">Source of acquisition - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="8cbfad6d2fe6d97da911e7f6452394403ce64511">
+        <source xml:space="preserve">This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/donor/templates/editSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="a7046d09479709b1e812d61ccaf591908320147c">
+        <source xml:space="preserve">This field is marked as mandatory in the relevant descriptive standard.&lt;/span&gt;</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="b679e280f7e5d6ae7358530c85416a1f8ff091cd">
+        <source xml:space="preserve">Title - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
     </body>
   </file>
