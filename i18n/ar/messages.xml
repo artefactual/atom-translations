@@ -828,9 +828,9 @@
         <target xml:space="preserve" state="final">%du%&amp;lt;abbr title="1 GB = 1 000 000 000 bytes"&amp;gt;GB&amp;lt;/abbr&amp;gt;of&amp;lt;em&amp;gt;Unlimited&amp;lt;/em&amp;gt;&amp;amp;&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
-      <trans-unit id="06fa8301c9a6972b241494929371df4b8d8a0c73" approved="yes" xml:space="preserve">
+      <trans-unit id="06fa8301c9a6972b241494929371df4b8d8a0c73" approved="no" xml:space="preserve">
         <source xml:space="preserve">%du% of %limit% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; (%percent%%)</source>
-        <target xml:space="preserve" state="final">%du%limit%الحدود%&lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;جيجا بايت (%percent%%)</target>
+        <target xml:space="preserve" state="translated">%du%limit%الحدود%&lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;جيجا بايت (%percent%%)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
       <trans-unit id="9035831d1f7c1828b559a65c20bf5051e9bd2e18" xml:space="preserve" approved="yes">
