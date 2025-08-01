@@ -908,7 +908,7 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
       </trans-unit>
       <trans-unit id="f8610ae6f588c77e1f6d3b0de66cb784203d6305" xml:space="preserve">
         <source xml:space="preserve">A slug based on this title already exists so a number has been added to pad the slug.</source>
-        <target state="translated" xml:space="preserve">Eine Bezeichnung basierend auf dem Titel existiert schon, daher wurde eine Zahl angehängt.</target>
+        <target state="translated" xml:space="preserve">Ein Bezeichner basierend auf dem Titel existiert schon, daher wurde eine Zahl angehängt.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/renameSuccess.php</note>
       </trans-unit>
       <trans-unit id="42f2a65915553e7e3703b3f13133b9db29c8fe28" approved="yes" xml:space="preserve">
@@ -2879,7 +2879,7 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
       </trans-unit>
       <trans-unit id="0220efa7f6f7ee2f1b714ebea0cf93b5b559c8d8" xml:space="preserve">
         <source xml:space="preserve">Digital object derivatives</source>
-        <target xml:space="preserve" state="translated">Varianten des Digitalen Objektes</target>
+        <target xml:space="preserve" state="translated">Varianten des Digitalisats</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
       <trans-unit id="366a5a96a43c0e2df8f86f1651a25cea0d5578fd">
@@ -6631,7 +6631,7 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="translated">Notieren Sie hier das Datum der Erzeugung, Änderung, Freigabe oder Verteilung des hier beschriebenen Materials an. (DACS 2.4.3) 
 Das Datum-Anzeigefeld kann dazu benutzt werden, um freie Text-Beschreibung anzugeben - auch Sonderzeichen, um Annäherungen, Unsicherheiten oder Betonungen auszudrücken. 
 Benutzen Sie die Start- und Ende-Eingaben, um das Datum durchsuchbar zu machen - verwenden Sie hier keine Sonderzeichen. 
-Verwenden Sie diese Datumsformate: JJJJMMTT, YYYY-MM-TT, JJJJ-MM, JJJJ.</target>
+Verwenden Sie diese Datumsformate: JJJJMMTT, JJJJ-MM-TT, JJJJ-MM, JJJJ.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5b9fee98732ea4e9df9b773fc6325fdabe7e68b3">
@@ -10148,7 +10148,7 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
       </trans-unit>
       <trans-unit id="03460faf0899aefda5737701da2cbfbadde2a0c2" xml:space="preserve">
         <source xml:space="preserve">Some files failed to upload. Press the \\'Import\\' button to continue importing anyways, or press \\'Retry\\' to re-attempt upload.</source>
-        <target xml:space="preserve" state="translated">Einige Dateien konnten nicht hochgeladen werden. Drücke die \\'Import\\'-Schaltfläche, um fortzufahren oder \\'Retry\\' um das Hochladen zu wiederholen.</target>
+        <target xml:space="preserve" state="translated">Einige Dateien konnten nicht hochgeladen werden. Drücke die \\'Import\\'-Schaltfläche, um fortzufahren oder \\'Wiederholen\\' um das Hochladen zu wiederholen.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="3d087d5b3fa00a41835da326d2dbe00bfeefeac7">
