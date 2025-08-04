@@ -14,9 +14,9 @@
         <target xml:space="preserve" state="final"> تقرير</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
       </trans-unit>
-      <trans-unit id="9b4d2dfc0b645efe7d3cde382a35f653f85d431a" approved="no" xml:space="preserve">
+      <trans-unit id="9b4d2dfc0b645efe7d3cde382a35f653f85d431a" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"At all levels record the extent of the unit being described by giving the number of physical units in arabic numerals and the specific material designation as instructed in subrule .5B in the chapter(s) dealing with the broad class(es) of material to which the unit being described belongs." (RAD 1.5B1) Include other physical details and dimensions as specified in RAD 1.5C and 1.5D. Separate multiple entries in this field with a carriage return (i.e. press the Enter key on your keyboard).</source>
-        <target xml:space="preserve" state="translated">"سَجِّل على جميع مستويات الوصف مدى وصف الوحدة بإعطاء عدد الوحدات المادية بالأرقام العربية وتسمية المادة المحددة كما هو موضح في القاعدة الفرعية .5B في الفصل (الفصول) الذي يتعامل مع فئة (فئات) واسعة من المواد إلى التي تنتمي إليها الوحدة الموصوفة ". (RAD 1.5B1) قم بتضمين التفاصيل المادية الأخرى والأبعاد كما هو محدد في RAD 1.5C و 1.5D. افصل بين الإدخالات المتعددة في هذا الحقل بالضغط على زر رجوع (على سبيل المثال ، اضغط على مفتاح Enter بلوحة المفاتيح).</target>
+        <target xml:space="preserve" state="final">"سَجِّل في جميع مستويات الوصف المدى بإعطاء عدد الوحدات المادية بالأرقام العربية، وتسمية وتمييِّز فئة المادة المُحددة بمداها كما هو موضح في القاعدة الفرعية .5B في الفصل (الفصول) الذي يتعامل مع فئة (فئات) واسعة من المواد التي تنتمي إليها الوحدة الموصوفة ". (RAD 1.5B1) قم بتضمين التفاصيل المادية الأخرى والأبعاد كما هو مُحدد في RAD 1.5C, 1.5D. افصل بين المُدخلات المُتعددة في هذا الحقل بالضغط على زر رجوع (على سبيل المثال ، اضغط على مفتاح Enter بلوحة المفاتيح).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="ed1af83aafcea6854f13edeb8cdc37eb5d8af9b0" approved="yes" xml:space="preserve">
@@ -828,9 +828,9 @@
         <target xml:space="preserve" state="final">%du%&amp;lt;abbr title="1 GB = 1 000 000 000 bytes"&amp;gt;GB&amp;lt;/abbr&amp;gt;of&amp;lt;em&amp;gt;Unlimited&amp;lt;/em&amp;gt;&amp;amp;&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
-      <trans-unit id="06fa8301c9a6972b241494929371df4b8d8a0c73" approved="no" xml:space="preserve">
+      <trans-unit id="06fa8301c9a6972b241494929371df4b8d8a0c73" approved="yes" xml:space="preserve">
         <source xml:space="preserve">%du% of %limit% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; (%percent%%)</source>
-        <target xml:space="preserve" state="translated">%du%limit%الحدود%&lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;جيجا بايت (%percent%%)</target>
+        <target xml:space="preserve" state="final">%du% من %limit% جيجابايت مُستخدمة (%percent%%)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
       <trans-unit id="9035831d1f7c1828b559a65c20bf5051e9bd2e18" xml:space="preserve" approved="yes">
@@ -4661,9 +4661,9 @@
         <target xml:space="preserve" state="final">في تقدم</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/findingAidComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="46ac7d4191ce56511942267ed3fddd6d980fe7a6" approved="no" xml:space="preserve">
+      <trans-unit id="46ac7d4191ce56511942267ed3fddd6d980fe7a6" approved="yes" xml:space="preserve">
         <source xml:space="preserve">In the "Action" selector, indicate whether you want to &lt;strong&gt;merge&lt;/strong&gt; the saved clipboard with the entries on the current clipboard or &lt;strong&gt;replace&lt;/strong&gt; (overwrite) the current clipboard with the saved one.</source>
-        <target xml:space="preserve" state="translated">تريد &lt; strong &gt; merge &lt; /strong &gt; الحافظة المحفوظة بالإدخالات الموجودة في الحافظة الحالية أو &lt; strong &gt; replace &lt; /strong &gt; (استبدال) الحافظة الحالية بالحافظة المحفوظة.</target>
+        <target xml:space="preserve" state="final">في محدد "Action"، حدّد ما إذا كنت تريد &lt;strong&gt;دمج&lt;/strong&gt; الحافظة المحفوظة مع العناصر الموجودة في الحافظة الحالية أو &lt;strong&gt;استبدال&lt;/strong&gt; (الكتابة فوق) الحافظة الحالية بالمحفوظة.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/templates/loadSuccess.php</note>
       </trans-unit>
       <trans-unit id="7a63007efa8922530549ff1fa9159c9cd6a8ded3" xml:space="preserve" approved="yes">
@@ -11133,97 +11133,97 @@ disabled, and the 'Advanced Search &gt; Finding Aid' filter is hidden.
       </trans-unit>
       <trans-unit id="125d8aa6b348d7c1906ce440798c3f13646b16cf" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Identifier%2% - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">%1% المُعرِّف %2% - هذا الحقل تم تحديده كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">%1% المُعرِّف الفريد %2% – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="383d898d01df0f4d4b470026ea0a55423de31eb8" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Title%2% - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">%1% العنوان %2% - هذا الحقل تم تحديده كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">%1% العنوان %2% – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="f46c96967052c110064d18c2b28afc8570d77eeb" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Acquisition date - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">تاريخ الاقتناء (التزويد) – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">تاريخ الاقتناء (التزويد) – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="2103e6e0f4978ec7b42a5e93d000c6c2fa14655d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Authorized form of name - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">الشكل الرسمي للإسم – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">الشكل الرسمي للإسم – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/donor/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="9b364e177b078c84e3da63de9bfdc3217cdffe75" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Date of acquisition - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">تاريخ الاقتناء (تاريخ التزويد) – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">تاريخ الاقتناء (تاريخ التزويد) – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="c68f1605d5148df6214e6c795701b2efc7f17799" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Date(s) - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">التاريخ (التواريخ) – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">التاريخ (التواريخ) – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="c6701e5b3307ca8140b7b982ae4721541a461a5e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Description - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">الوصف – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">الوصف – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="42315c340e6c6162b423612ebb6bb66ef88bff18" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Extent - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">المدى – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">المدى – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="38f3fbd305c6e7200083e8c0e9ac7afbea4bfb09" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Identifier - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">المُعرِّف – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">المُعرِّف الفريد – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="d55f5739060aa85c91eac38ab695787814b832d7" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Level of description - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">مستوى الوصف – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">مستوى الوصف – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="f58417afa3d329bac5551b7228eeeb93af97e30f" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Location information - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">معلومات الموقع – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">معلومات الموقع – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="d61cfa63b4185ef490f5b390c9cc9b4541e3c18c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Name and location of repository - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">موقع ومُسمى المستودع الأرشيفي – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">موقع ومُسمى المستودع الأرشيفي – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="826328af3e26da316a83790aa7d3208b79a8e01d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Physical description - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">الوصف المادي – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">الوصف المادي – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="d8d7a9e452462a1d5612876aea2dc5d3e0697b57" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Scope - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">النطاق – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">النطاق – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="afecf64b03fbf15166b98ad7338cc3d3c89b0a9b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Scope and content - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">المحتوى والنطاق – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">المحتوى والنطاق – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="ed65c626cdffa34caeebceac1f0a07c3623ee5d2" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Source of acquisition - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">مصدر الاقتناء – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">مصدر الاقتناء – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="8cbfad6d2fe6d97da911e7f6452394403ce64511" xml:space="preserve" approved="yes">
         <source xml:space="preserve">This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/donor/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="a7046d09479709b1e812d61ccaf591908320147c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">This field is marked as mandatory in the relevant descriptive standard.&lt;/span&gt;</source>
-        <target xml:space="preserve" state="final">تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة &lt;/span&gt;</target>
+        <target xml:space="preserve" state="final">هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني. &lt;/span&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="b679e280f7e5d6ae7358530c85416a1f8ff091cd" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Title - This field is marked as mandatory in the relevant descriptive standard.</source>
-        <target xml:space="preserve" state="final">العنوان – تم تحديد هذا الحقل كحقل إلزامي في المعيار الوصفي ذو العلاقة.</target>
+        <target xml:space="preserve" state="final">العنوان – هذا الحقل مُحدد كحقل إلزامي في المعيار الوصفي المعني.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
     </body>
