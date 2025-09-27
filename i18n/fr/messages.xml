@@ -9796,14 +9796,14 @@
         <target xml:space="preserve" state="translated">Parcourir les dons</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/donor/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="bbeb83550712824699c45a72aeec149365d5f071" xml:space="preserve">
+      <trans-unit id="bbeb83550712824699c45a72aeec149365d5f071" xml:space="preserve" approved="yes">
         <source xml:space="preserve">CSV Validation options</source>
-        <target xml:space="preserve" state="translated">Options de validation CSV</target>
+        <target xml:space="preserve" state="final">Options de validation de fichier CSV</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/validateCsvSuccess.php</note>
       </trans-unit>
       <trans-unit id="50972d677b42d11648fbff3f6615f549de81fe0c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">CSV Validator</source>
-        <target xml:space="preserve" state="final">Validateur CSV</target>
+        <target xml:space="preserve" state="final">Validation de fichier CSV</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
       <trans-unit id="b535755bbd76362811e002ff059e18109a4677ba" xml:space="preserve" approved="yes">
@@ -9823,7 +9823,7 @@
       </trans-unit>
       <trans-unit id="9da35c8944601ee03b90d2b2490ada4f0456e773" xml:space="preserve">
         <source xml:space="preserve">CSV validation initiated. Check %1%job %2%%3% to view the results of the validation.</source>
-        <target xml:space="preserve" state="translated">Initialisation de la validation du CSV. Consultez la %1%tâche %2%%3% pour les résultats.</target>
+        <target xml:space="preserve" state="translated">Initialisation de la validation de CSV. Consultez la %1%job %2%%3% pour les résultats.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/actions/validateCsvAction.class.php</note>
       </trans-unit>
       <trans-unit id="5098426d37f45f66ca605c85963ed19fb908be8b" approved="yes" xml:space="preserve">
