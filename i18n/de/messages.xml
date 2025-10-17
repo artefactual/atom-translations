@@ -717,8 +717,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">%1%: %2%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qbAclPlugin/modules/aclGroup/templates/indexTermAclSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8">
+      <trans-unit id="f095d9bb844c708ad6b2b8055936d82f1f55c5b8" xml:space="preserve">
         <source xml:space="preserve">%1%Agent:%2% Enter the agent associated with the event.%3%</source>
+        <target state="translated">%1%Bearbeiter:%2% Geben Sie den mit dem Ereignis verbundenen Bearbeiter ein.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="85ff680a8907d82fa780e7780ab3737c953acb7f" approved="yes" xml:space="preserve">
@@ -940,8 +941,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Ein Begriff der die Charakteristik und den allgemeinen Typ des Inhalts der Ressource bestimmt. Ordnen Sie so viele Typen wie sinnvoll zu. Die Optionen "Typ der Ressource" sind auf die Werte des MODS-Elementes "typeOfResource" auf der obersten Ebene  beschränkt.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="8d7edde92282d7549c9c92d1d6808bd5a71c5043">
+      <trans-unit id="8d7edde92282d7549c9c92d1d6808bd5a71c5043" xml:space="preserve">
         <source xml:space="preserve">A total of %1% concepts have been processed so far.</source>
+        <target state="translated">Bisher wurden insgesamt %1% Konzepte verarbeitet.</target>
       </trans-unit>
       <trans-unit id="11539fd6f9415e19226121f4e0e8a604abc9a332" xml:space="preserve">
         <source xml:space="preserve">A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it. Choice and format of titles should be governed by a content standard such as the Anglo-American Cataloging Rules, 2nd edition (AACR2), Cataloguing Cultural Objects (CCO), or Describing Archives: A Content Standard (DACS). Details such as capitalization, choosing among the forms of titles presented on an item, and use of abbreviations should be determined based on the rules in a content standard. One standard should be chosen and used consistently for all records in a set.</source>
@@ -1468,8 +1470,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Werbebotschaften</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="5ce2e6f40299204d94dfc0abf19fa8ab52d6c211">
+      <trans-unit id="5ce2e6f40299204d94dfc0abf19fa8ab52d6c211" xml:space="preserve">
         <source xml:space="preserve">Agent</source>
+        <target state="translated">Bearbeiter</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="ee68d3496bb455d50d1b8a9987c710dd56818065" approved="yes" xml:space="preserve">
@@ -1892,8 +1895,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Banner</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/actions/editThemeAction.class.php</note>
       </trans-unit>
-      <trans-unit id="caeef13930f0be27ce1a2f747aeafa3dee338d8a">
+      <trans-unit id="caeef13930f0be27ce1a2f747aeafa3dee338d8a" xml:space="preserve">
         <source xml:space="preserve">Base DN</source>
+        <target state="translated">Basis DN</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/ldapSuccess.php</note>
       </trans-unit>
       <trans-unit id="3ecb5ba01e3c3b1b8e4bc1cf1d7f66708803d22c" approved="yes" xml:space="preserve">
@@ -2095,8 +2099,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Kartografisches Material</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="fc609852a379e25583ec4570b5135f5d79bc6b89">
+      <trans-unit id="fc609852a379e25583ec4570b5135f5d79bc6b89" xml:space="preserve">
         <source xml:space="preserve">Cartoons (Commentary)</source>
+        <target state="translated">Cartoons (Kommentar)</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="5317c270f39510ab8b713b59624b7f28d7678f5f" xml:space="preserve">
@@ -2545,8 +2550,9 @@ Regel: Für jeden wichtigen Ort und jeden Bezirke ist der Name zusammen mit der 
         <target xml:space="preserve" state="final">Urheber/Bestandsbildner</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="cada31f65b75f66872da62dddd342c640d98c0dd">
+      <trans-unit id="cada31f65b75f66872da62dddd342c640d98c0dd" xml:space="preserve">
         <source xml:space="preserve">Credits note</source>
+        <target state="translated">Quellenangabe</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="e285982eddd75f4045c8e219e2a6d32db342065d" xml:space="preserve">
@@ -4272,8 +4278,9 @@ Titel: Geben Sie den eigentlichen Titel ein, entweder transkribiert oder bereitg
         <target state="translated">Handelt es sich bei dem Findmittel um eine hochgeladene PDF-Datei, wird auch das Transkript gelöscht.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/deleteFindingAidSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b44801c66a54fd64a38ab9a52bea93b31a2ee928">
+      <trans-unit id="b44801c66a54fd64a38ab9a52bea93b31a2ee928" xml:space="preserve">
         <source xml:space="preserve">If the materials being described are reproductions and the originals are located elsewhere, give the location of the originals (DACS 6.1.4). Record any identifying numbers that may help in locating the originals in the cited location (DACS 6.1.6).</source>
+        <target state="translated">Wenn es sich bei den beschriebenen Materialien um Reproduktionen handelt und sich die Originale an einem anderen Ort befinden, geben Sie den Standort der Originale an (DACS 6.1.4). Notieren Sie alle Identifikationsnummern, die bei der Lokalisierung der Originale am angegebenen Standort hilfreich sein könnten (DACS 6.1.6).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="cab2fd73bf51f6c91cf997af8e877c6179767231" approved="yes" xml:space="preserve">
@@ -4480,8 +4487,9 @@ Titel: Geben Sie den eigentlichen Titel ein, entweder transkribiert oder bereitg
         <target xml:space="preserve" state="final">Info</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="824d705ac0866b097de5f0595ab3c2e9d42421c1">
+      <trans-unit id="824d705ac0866b097de5f0595ab3c2e9d42421c1" xml:space="preserve">
         <source xml:space="preserve">Information about restrictions imposed on access to a resource. See MODS accessCondition top-level element for more information on how to use this field.</source>
+        <target state="translated">Informationen zu Einschränkungen beim Zugriff auf eine Ressource. Weitere Informationen zur Verwendung dieses Feldes finden Sie unter "MODS accessCondition top-level element".</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfModsPlugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5ac12da5534fd6aebb3f0ac237a3733e4f8787b0" approved="yes" xml:space="preserve">
@@ -8337,8 +8345,9 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
         <source xml:space="preserve">The following languages are used in the dataset imported but not supported by AtoM: %1%</source>
         <target state="translated">Folgende Sprachen werden im importierten Datensatz verwendet, aber nicht von AtoM unterstützt: %1%</target>
       </trans-unit>
-      <trans-unit id="81ebfcf6e5f03376174a456321e2ab8ab46137b7">
+      <trans-unit id="81ebfcf6e5f03376174a456321e2ab8ab46137b7" xml:space="preserve">
         <source xml:space="preserve">The graph contains %1% concepts.</source>
+        <target state="translated">Die Grafik enthält %1% Konzepte.</target>
       </trans-unit>
       <trans-unit id="28df63151a90e093de6ddfbe7b007009ecfc95de" approved="yes" xml:space="preserve">
         <source xml:space="preserve">The graph is empty.</source>
@@ -8549,8 +8558,9 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
         <target state="translated">Dies ist eine automatisch generierte Einstellung, die eine OAI-konforme Repository-Kennung erzeugt, die den OAI-Repository-Code-Wert enthält, sofern dieser festgelegt ist.</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
-      <trans-unit id="15040c2127a65f3987da8ec91b6b7350962a9fa7">
+      <trans-unit id="15040c2127a65f3987da8ec91b6b7350962a9fa7" xml:space="preserve">
         <source xml:space="preserve">This is an example of the auto-generated, OAI compliant identifier which is created for each item in this particular OAI repository</source>
+        <target state="translated">Dies ist ein Beispiel für die automatisch generierte, OAI-konforme Kennung, die für jedes Element in diesem speziellen OAI-konformen Archiv erstellt wird</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
       <trans-unit id="2b37cb2739e8dc25c25668fcfbaa12df488aaf43" approved="yes" xml:space="preserve">
@@ -8777,8 +8787,9 @@ Für elektronische Akten ist festzuhalten oder zu verweisen auf Informationen zu
         <target xml:space="preserve" state="final">Unterliegt dem Urheberrecht</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
-      <trans-unit id="dc6b589e7f72d4211a3b73e707fae2b6bb60b14a">
+      <trans-unit id="dc6b589e7f72d4211a3b73e707fae2b6bb60b14a" xml:space="preserve">
         <source xml:space="preserve">Unexpected concept, type received: %1%.</source>
+        <target state="translated">Unerwartetes Konzept, empfangener Typ: %1%.</target>
       </trans-unit>
       <trans-unit id="643362fb29023a8944451d93d031c135d317e58c" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Unique records</source>
@@ -9775,8 +9786,9 @@ Alternativ können Sie einen neuen Namen eingeben, um einen neuen Normdatensatz 
         <target state="translated">Automatisch aktualisieren</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/jobs/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b76ff4906f33c2dd97ddd929b9662ba8cac6174c">
+      <trans-unit id="b76ff4906f33c2dd97ddd929b9662ba8cac6174c" xml:space="preserve">
         <source xml:space="preserve">Boolean</source>
+        <target state="translated">Schalter</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/actor/templates/_advancedSearch.php</note>
       </trans-unit>
       <trans-unit id="a8f4688a58212612325a864b83219dd6da37a342" xml:space="preserve">
@@ -10176,16 +10188,19 @@ Alternativ können Sie einen neuen Namen eingeben, um einen neuen Normdatensatz 
         <target state="translated">Spender suchen</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/donor/templates/browseSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7e82fe79eede60993c7110faf177304f7ec67226">
+      <trans-unit id="7e82fe79eede60993c7110faf177304f7ec67226" xml:space="preserve">
         <source xml:space="preserve">Search error.</source>
+        <target state="translated">Fehler beim Suchen.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/term/templates/_treeView.php</note>
       </trans-unit>
-      <trans-unit id="bfa2f6a71c0439a846674614b31ea85b3788e909">
+      <trans-unit id="bfa2f6a71c0439a846674614b31ea85b3788e909" xml:space="preserve">
         <source xml:space="preserve">Search hierarchy</source>
+        <target state="translated">Such-Hierarchie</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_treeView.php</note>
       </trans-unit>
-      <trans-unit id="4550708669beb1c5bc877e218985556e4c8d855a">
+      <trans-unit id="4550708669beb1c5bc877e218985556e4c8d855a" xml:space="preserve">
         <source xml:space="preserve">Search in browse page</source>
+        <target state="translated">Suche in der Seite im Browser</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/search/templates/_box.php</note>
       </trans-unit>
       <trans-unit id="5616c8722256385e28abb27ee4233728e13a8882" xml:space="preserve">
@@ -10475,8 +10490,9 @@ Alternativ können Sie einen neuen Namen eingeben, um einen neuen Normdatensatz 
         <target state="translated">Bootstrap 2-Themes sind veraltet und werden in einer zukünftigen Version entfernt. Bitte ziehen Sie einen Wechsel zu einem Bootstrap 5-Theme in Erwägung. %1%Weitere Informationen.%2%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_bs2DeprecationMessage.php</note>
       </trans-unit>
-      <trans-unit id="ef0eeccb9dd3abebabf37f9761e460be1b443cd7">
+      <trans-unit id="ef0eeccb9dd3abebabf37f9761e460be1b443cd7" xml:space="preserve">
         <source xml:space="preserve">CSV Mapping YAML</source>
+        <target state="translated">CSV-Zuordnung-YAML</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/diacriticsSuccess.php</note>
       </trans-unit>
       <trans-unit id="bc9b74855acc332d9879627ce1312c1d1ca22958" xml:space="preserve">
