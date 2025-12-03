@@ -1567,11 +1567,6 @@
         <target xml:space="preserve" state="final">முந்தைய பக்கத்துக்குச் செல்</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/readOnlySuccess.php</note>
       </trans-unit>
-      <trans-unit id="aa98926049679386ccb311e11a2c620586b7b531" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Back to previous page.</source>
-        <target xml:space="preserve" state="final">முந்தைய பக்கத்துக்குச் செல்</target>
-        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/errorSuccess.php</note>
-      </trans-unit>
       <trans-unit id="70437a30a79f0032756805765a65aa52d05281d2">
         <source xml:space="preserve">Bad request</source>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtSwordPlugin/modules/qtSwordPlugin/actions/depositAction.class.php</note>
@@ -3300,11 +3295,6 @@
         <source xml:space="preserve">Generate</source>
         <target xml:space="preserve" state="final">தோற்றுவி</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_findingAid.php</note>
-      </trans-unit>
-      <trans-unit id="83943099c04cc659ec521820d9365f061042921d" approved="yes" xml:space="preserve">
-        <source xml:space="preserve">Generate archival description reports as public user</source>
-        <target xml:space="preserve" state="final">பொதுப் பயனராக ஆவண விவரிப்பு அறிக்கைகள் தோற்றுவி</target>
-        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="fe30ba52b3b4d528aebf46574a8063e20b51e8d5" approved="yes" xml:space="preserve">
         <source xml:space="preserve">Generate description permalinks from</source>
@@ -9434,6 +9424,36 @@ hidden elements
         <source xml:space="preserve">Your current password is required to confirm your identity before making changes to this user's account</source>
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.mod_standard.php</note>
+      </trans-unit>
+      <trans-unit id="c7cd998c98d24812e49666e83724f19b40a86564">
+        <source xml:space="preserve">Add accessions to clipboard</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="e9dc580aa5fbcb42ff8b654f2ff6d973472f70f7">
+        <source xml:space="preserve">Add archival descriptions to clipboard</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="317813951dbfacaaf8e2a6a1e7ceff661a3147ab">
+        <source xml:space="preserve">Added %1% items to the clipboard</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="cc8bc026f24a5101aaa97187baa4b8c741b2a96d">
+        <source xml:space="preserve">Added 1 item to the clipboard</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="4243b52707219318327792c180d76ceccccd0b10">
+        <source xml:space="preserve">All items are already on the clipboard</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="ff97ccf0859bbfdda31069b5b532c4a6b0e132dd">
+        <source xml:space="preserve">Generate archival description reports from public records</source>
+        <target xml:space="preserve"/>
+        <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
     </body>
   </file>
