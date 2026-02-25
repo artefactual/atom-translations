@@ -10478,28 +10478,33 @@
         <source xml:space="preserve">Choosing "Include draft records" will include those marked with a Draft publication status in the export. Note: if you do NOT choose this option, any descendants of a draft record will also be excluded, even if they are published.</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="512425b62966d59473d4dae14d91938e7b02ce6d">
+      <trans-unit id="512425b62966d59473d4dae14d91938e7b02ce6d" xml:space="preserve">
         <source xml:space="preserve">Diacritics</source>
+        <target state="translated">Diacríticos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="60e8cbd9065d72574e0875d81526336d0f980a55">
+      <trans-unit id="60e8cbd9065d72574e0875d81526336d0f980a55" xml:space="preserve">
         <source xml:space="preserve">Diacritics Settings</source>
+        <target state="translated">Configuración de diacríticos</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/diacriticsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="7a97b479c05d86959d0597a793718a30791a89d5">
+      <trans-unit id="7a97b479c05d86959d0597a793718a30791a89d5" xml:space="preserve">
         <source xml:space="preserve">Diacritics settings</source>
+        <target state="translated">Configuración de diacríticos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/diacriticsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="16efb23d760a3fc39961b012ba0237efc3fe21b8">
+      <trans-unit id="16efb23d760a3fc39961b012ba0237efc3fe21b8" xml:space="preserve">
         <source xml:space="preserve">Diacritics settings saved.</source>
+        <target state="translated">La configuración de diacríticos ha sido guardada.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/diacriticsAction.class.php</note>
       </trans-unit>
       <trans-unit id="cb55663b156b907f62122b3d5a34d6653579c55b">
         <source xml:space="preserve">Digital objects with restricted access or copyright will not be exported.</source>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportAction.class.php</note>
       </trans-unit>
-      <trans-unit id="e327291ee8d3846fda4569b1de675a6cd3262d30">
+      <trans-unit id="e327291ee8d3846fda4569b1de675a6cd3262d30" xml:space="preserve">
         <source xml:space="preserve">Example CSV:</source>
+        <target state="translated">Ejemplo CSV:</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/diacriticsSuccess.php</note>
       </trans-unit>
       <trans-unit id="ca3a7a0ff5963769223cf46a6bf3a6860db3fa88" xml:space="preserve">
@@ -10748,14 +10753,14 @@
         <target xml:space="preserve" state="translated">Confirmar nueva contraseña</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.mod_standard.php</note>
       </trans-unit>
-      <trans-unit id="e5dc321e3ec8422bb4bd467787ea1332300b8ac4">
+      <trans-unit id="e5dc321e3ec8422bb4bd467787ea1332300b8ac4" xml:space="preserve">
         <source xml:space="preserve">Default favicon not found.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">El icono (Favicon) predeterminado no ha sido encontrado.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/headerAction.class.php</note>
       </trans-unit>
-      <trans-unit id="b507167fa8662f821b6a7f84306ae2d78b545380">
+      <trans-unit id="b507167fa8662f821b6a7f84306ae2d78b545380" xml:space="preserve">
         <source xml:space="preserve">Default logo not found.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">El logo predeterminado no ha sido encontrado.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/headerAction.class.php</note>
       </trans-unit>
       <trans-unit id="476bf2a66a81f62a9b7efb38647e734d1c7a788c">
@@ -10763,9 +10768,9 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsFindingAidForm.class.php</note>
       </trans-unit>
-      <trans-unit id="c3c077aeb696c854a122a908eb15eab65064d7b4">
+      <trans-unit id="c3c077aeb696c854a122a908eb15eab65064d7b4" xml:space="preserve">
         <source xml:space="preserve">Google Analytics tracking ID</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">ID de seguimiento de Google Analytics</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/analyticsAction.class.php</note>
       </trans-unit>
       <trans-unit id="06c1973f88d29053095bf89ceb8aa1c3fd6610bc">
@@ -10773,19 +10778,19 @@
         <target xml:space="preserve"/>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/analyticsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="74da81ea1f43e93e6220293a89e83a38ac6db759">
+      <trans-unit id="74da81ea1f43e93e6220293a89e83a38ac6db759" xml:space="preserve">
         <source xml:space="preserve">Header customizations</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Personalizaciones del encabezado</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="4a42d31bf9699aeccf6405846146b7cdd10a6b9e">
+      <trans-unit id="4a42d31bf9699aeccf6405846146b7cdd10a6b9e" xml:space="preserve">
         <source xml:space="preserve">Header customizations settings saved.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Configuración del "Personalización del encabezado" ha sido guardado.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/headerAction.class.php</note>
       </trans-unit>
-      <trans-unit id="efd197f3fce450112a4bdd0c3db3118a46b8002c">
+      <trans-unit id="efd197f3fce450112a4bdd0c3db3118a46b8002c" xml:space="preserve">
         <source xml:space="preserve">Main navigation</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="translated">Navegación principal</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/templates/_header.php</note>
       </trans-unit>
       <trans-unit id="19781d1e35ffa4b56c2d77533fa113d14e79465e">
