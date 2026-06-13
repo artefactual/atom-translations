@@ -10268,8 +10268,9 @@
         <target state="translated" xml:space="preserve">Vista de tabla</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_viewPicker.php</note>
       </trans-unit>
-      <trans-unit id="906116b1dd3e40cf3c978815d31c78ba03e1f034">
+      <trans-unit id="906116b1dd3e40cf3c978815d31c78ba03e1f034" xml:space="preserve">
         <source xml:space="preserve">The Title and Level of description values entered on this page will be applied to each child description created for the associated digital objects - '%dd%' represents an incrementing 2-value number, so by default descriptions created via this uploader will be named image 01, image 02, etc.</source>
+        <target state="translated">Los valores de Título y Nivel de descripción introducidos en esta página se aplicarán a cada descripción subordinada creada para los objetos digitales asociados. '%dd%' representa un número secuencial de 2 dígitos; por defecto, las descripciones creadas mediante este cargador se denominarán imagen 01, imagen 02, etc.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="51a22867f6efaef995457a64cb9c6d3fb40aef90" xml:space="preserve">
@@ -10287,8 +10288,9 @@
         <target state="translated" xml:space="preserve">El nombre del sitio web que se mostrará en la cabecera</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/siteInformationSuccess.php</note>
       </trans-unit>
-      <trans-unit id="3fee5ac5370d662597deb5e406fc97df9745e11c">
+      <trans-unit id="3fee5ac5370d662597deb5e406fc97df9745e11c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">The upload limit of %1% GB for &lt;a class="alert-link" href="%2%"&gt;%3%&lt;/a&gt; has been reached</source>
+        <target state="final">Se ha alcanzado el límite de carga de %1% GB para &lt;a class="alert-link" href="%2%"&gt;%3%&lt;/a&gt;.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/object/templates/addDigitalObjectSuccess.php</note>
       </trans-unit>
       <trans-unit id="ab90d9d736f9e0909b62d0922e0482e4b827449f" xml:space="preserve">
@@ -10351,16 +10353,19 @@
         <target state="translated">Cargando</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="04c76aff13513162ad7d4ad6d323e09e2fc81986">
+      <trans-unit id="04c76aff13513162ad7d4ad6d323e09e2fc81986" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Uploading %{smart_count} file</source>
+        <target state="final">Cargando %{smart_count} archivo</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ef16d8ebd2ea2f846bd7946d9e16d6ef108d8a45">
+      <trans-unit id="ef16d8ebd2ea2f846bd7946d9e16d6ef108d8a45" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Uploading %{smart_count} files</source>
+        <target state="final">Cargando %{smart_count} archivos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
-      <trans-unit id="27d309dc1e6b949b0575766ac1577cbe8888efa4">
+      <trans-unit id="27d309dc1e6b949b0575766ac1577cbe8888efa4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Uploads for &lt;a class="alert-link" href="%1%"&gt;%2%&lt;/a&gt; are disabled</source>
+        <target state="final">Las cargas para &lt;a class="alert-link" href="%1%"&gt;%2%&lt;/a&gt; están deshabilitadas.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/object/templates/addDigitalObjectSuccess.php</note>
       </trans-unit>
       <trans-unit id="92e03ff1b889abb086d29b7aa5e82549cdd0696b" xml:space="preserve">
@@ -10388,12 +10393,14 @@
         <target state="translated" xml:space="preserve">Opciones de visualización</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/default/templates/_viewPicker.php</note>
       </trans-unit>
-      <trans-unit id="5eee28c34c29accde79c9e6e57bb96d19aa66c17">
+      <trans-unit id="5eee28c34c29accde79c9e6e57bb96d19aa66c17" xml:space="preserve" approved="yes">
         <source xml:space="preserve">When enabled the text above will appear in the %1% metadata section to describe how a user may access the original and preservation copy of the file stored in a linked digital preservation system. The text appears in the "Permissions" field. When disabled, the "Permissions" field is not displayed.</source>
+        <target state="final">Cuando esta opción está habilitada, el texto anterior aparecerá en la sección de metadatos %1% para describir cómo un usuario puede acceder a la copia original y a la copia de preservación del archivo almacenado en un sistema de preservación digital vinculado. El texto aparece en el campo «Permisos». Cuando esta opción está deshabilitada, el campo «Permisos» no se muestra.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="b04b422663b801286bc8fe14337c8e46b9ca2d76">
+      <trans-unit id="b04b422663b801286bc8fe14337c8e46b9ca2d76" xml:space="preserve" approved="yes">
         <source xml:space="preserve">When enabled, the copyright pop-up will be applied to every %1%, regardless of whether there is an accompanying Rights statement.</source>
+        <target state="final">Cuando esta opción está habilitada, la ventana emergente de derechos de autor se aplicará a cada %1%, independientemente de que exista o no una declaración de derechos asociada.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/permissionsSuccess.php</note>
       </trans-unit>
       <trans-unit id="c467df40f109045995260e6463dab060c267a109" xml:space="preserve">
@@ -10410,8 +10417,9 @@
         <target state="translated" xml:space="preserve">Su término ha sido actualizado. Sus descripciones relacionadas se están actualizando de forma asíncrona - compruebe la &lt;a class="alert-link" href="%1"&gt;página del programador de procesos&lt;/a&gt; para conocer su estado y detalles del mismo.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="5bee69cda5e6b44e88b3bf528ec9f653c3ac9492">
+      <trans-unit id="5bee69cda5e6b44e88b3bf528ec9f653c3ac9492" xml:space="preserve" approved="yes">
         <source xml:space="preserve">i18n language settings</source>
+        <target state="final">Configuración de idioma (i18n)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/settings/templates/languageSuccess.php</note>
       </trans-unit>
       <trans-unit id="afd10ecd0b0e625f95983d8a12ae9c46a6e7bddb" approved="yes" xml:space="preserve">
