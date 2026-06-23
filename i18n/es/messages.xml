@@ -7140,9 +7140,9 @@
         <target xml:space="preserve" state="translated">Volver al listado de grupos</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qbAclPlugin/modules/aclGroup/templates/_showActions.php</note>
       </trans-unit>
-      <trans-unit id="0a419de40e98c320a4eefff8953fce4fdfb651f4" xml:space="preserve">
+      <trans-unit id="0a419de40e98c320a4eefff8953fce4fdfb651f4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Return to jobs management page</source>
-        <target xml:space="preserve" state="needs-translation">Volver a la página de gestión de procesos</target>
+        <target xml:space="preserve" state="final">Volver a la página de gestión de procesos</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/reportSuccess.php</note>
       </trans-unit>
       <trans-unit id="328d8069dc190f42a30ec62b9ee09e13d9d0c03f" xml:space="preserve">
@@ -10696,60 +10696,74 @@
         <target state="final">Fecha de adquisición - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="c68f1605d5148df6214e6c795701b2efc7f17799">
+      <trans-unit id="c68f1605d5148df6214e6c795701b2efc7f17799" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Date(s) - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Fecha(s) - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="c6701e5b3307ca8140b7b982ae4721541a461a5e">
+      <trans-unit id="c6701e5b3307ca8140b7b982ae4721541a461a5e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Description - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Descripción - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="42315c340e6c6162b423612ebb6bb66ef88bff18">
+      <trans-unit id="42315c340e6c6162b423612ebb6bb66ef88bff18" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Extent - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Volumen y soporte - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="38f3fbd305c6e7200083e8c0e9ac7afbea4bfb09">
+      <trans-unit id="38f3fbd305c6e7200083e8c0e9ac7afbea4bfb09" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Identifier - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Identificador - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d55f5739060aa85c91eac38ab695787814b832d7">
+      <trans-unit id="d55f5739060aa85c91eac38ab695787814b832d7" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Level of description - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Nivel de descripción - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f58417afa3d329bac5551b7228eeeb93af97e30f">
+      <trans-unit id="f58417afa3d329bac5551b7228eeeb93af97e30f" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Location information - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Información de localización - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d61cfa63b4185ef490f5b390c9cc9b4541e3c18c">
+      <trans-unit id="d61cfa63b4185ef490f5b390c9cc9b4541e3c18c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Name and location of repository - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Nombre y localización de la entidad custodiante - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="826328af3e26da316a83790aa7d3208b79a8e01d">
+      <trans-unit id="826328af3e26da316a83790aa7d3208b79a8e01d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Physical description - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Descripción física - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d8d7a9e452462a1d5612876aea2dc5d3e0697b57">
+      <trans-unit id="d8d7a9e452462a1d5612876aea2dc5d3e0697b57" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Scope - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Alcance - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="afecf64b03fbf15166b98ad7338cc3d3c89b0a9b">
+      <trans-unit id="afecf64b03fbf15166b98ad7338cc3d3c89b0a9b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Scope and content - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Alcance y contenido - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="ed65c626cdffa34caeebceac1f0a07c3623ee5d2">
+      <trans-unit id="ed65c626cdffa34caeebceac1f0a07c3623ee5d2" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Source of acquisition - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Fuente de adquisición - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="8cbfad6d2fe6d97da911e7f6452394403ce64511">
+      <trans-unit id="8cbfad6d2fe6d97da911e7f6452394403ce64511" xml:space="preserve" approved="yes">
         <source xml:space="preserve">This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/donor/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a7046d09479709b1e812d61ccaf591908320147c">
+      <trans-unit id="a7046d09479709b1e812d61ccaf591908320147c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">This field is marked as mandatory in the relevant descriptive standard.&lt;/span&gt;</source>
+        <target state="final">Este campo está marcado como obligatorio en la norma de descripción correspondiente.&lt;/span&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="b679e280f7e5d6ae7358530c85416a1f8ff091cd">
+      <trans-unit id="b679e280f7e5d6ae7358530c85416a1f8ff091cd" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Title - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Título - Este campo está marcado como obligatorio en la norma de descripción correspondiente.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="46609ae6fb26e88741bf4379c10034d5d59961fa" xml:space="preserve">
@@ -10762,19 +10776,19 @@
         <target xml:space="preserve" state="translated">%1%'s la contraseña actual no coincide con nuestros registros</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="73209f25c8dc913c9158bc289d1669b58d54442a">
+      <trans-unit id="73209f25c8dc913c9158bc289d1669b58d54442a" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Accession count:&amp;nbsp;</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cantidad de ingresos:&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="e8cab60d2e9e30b07f83d116d35e499644caafff">
+      <trans-unit id="e8cab60d2e9e30b07f83d116d35e499644caafff" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Archival description count:&amp;nbsp;</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cantidad de descripciones archivísticas:&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="a6464d8f1cce22cfab1e7f06b1526e513deecb04">
+      <trans-unit id="a6464d8f1cce22cfab1e7f06b1526e513deecb04" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Archival institution count:&amp;nbsp;</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cantidad de instituciones archivísticas:&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="53d3e39ade1b019a862014f9bfff2a6e173f0ef4" xml:space="preserve">
@@ -10782,9 +10796,9 @@
         <target xml:space="preserve" state="translated">AteM logo</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/templates/_header.php</note>
       </trans-unit>
-      <trans-unit id="36e2a0feac6249a66bfa4ad81a3bf7a9170ee698">
+      <trans-unit id="36e2a0feac6249a66bfa4ad81a3bf7a9170ee698" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Authority record count:&amp;nbsp;</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cantidad de registros de autoridad:&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
       <trans-unit id="1876e37786789aa4b7027f9a4e134181f7ee89f9" xml:space="preserve">
@@ -10792,9 +10806,9 @@
         <target xml:space="preserve" state="translated">Color de fondo</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/headerAction.class.php</note>
       </trans-unit>
-      <trans-unit id="54ab1a1a7ac7695b43ca94bdd65db5ff4872bb9b">
+      <trans-unit id="54ab1a1a7ac7695b43ca94bdd65db5ff4872bb9b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Change header background colour</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cambiar el color de fondo del encabezado</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
       <trans-unit id="f85039fd8e49f782229c7c4e0f1b3b2a0f95e9e4" xml:space="preserve">
@@ -10812,9 +10826,9 @@
         <target xml:space="preserve" state="translated">El logo predeterminado no ha sido encontrado.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/headerAction.class.php</note>
       </trans-unit>
-      <trans-unit id="476bf2a66a81f62a9b7efb38647e734d1c7a788c">
+      <trans-unit id="476bf2a66a81f62a9b7efb38647e734d1c7a788c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Generate Finding Aid from public records</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Generar instrumento de descripción a partir de registros públicos</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsFindingAidForm.class.php</note>
       </trans-unit>
       <trans-unit id="c3c077aeb696c854a122a908eb15eab65064d7b4" xml:space="preserve">
@@ -10822,9 +10836,9 @@
         <target xml:space="preserve" state="translated">ID de seguimiento de Google Analytics</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/analyticsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="06c1973f88d29053095bf89ceb8aa1c3fd6610bc">
+      <trans-unit id="06c1973f88d29053095bf89ceb8aa1c3fd6610bc" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Google analytics is currently set in the app.yml.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Google Analytics está configurado actualmente en el archivo app.yml.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/analyticsSuccess.php</note>
       </trans-unit>
       <trans-unit id="74da81ea1f43e93e6220293a89e83a38ac6db759" xml:space="preserve">
@@ -10842,29 +10856,29 @@
         <target xml:space="preserve" state="translated">Navegación principal</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/templates/_header.php</note>
       </trans-unit>
-      <trans-unit id="19781d1e35ffa4b56c2d77533fa113d14e79465e">
+      <trans-unit id="19781d1e35ffa4b56c2d77533fa113d14e79465e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Note that browser cache may need to be cleared after uploading a new favicon.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Tenga en cuenta que puede ser necesario borrar la caché del navegador después de cargar un nuevo favicon.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ac20b9ed086261468a3da599da1eb2393480586c">
+      <trans-unit id="ac20b9ed086261468a3da599da1eb2393480586c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Note that browser cache may need to be cleared after uploading a new logo.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Tenga en cuenta que puede ser necesario borrar la caché del navegador después de cargar un nuevo logotipo.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e3a20e3db7c385a6396740ed9ff105ac954713bb">
+      <trans-unit id="e3a20e3db7c385a6396740ed9ff105ac954713bb" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Please clear the cache and restart PHP-FPM after adding tracking ID.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Por favor, borre la caché y reinicie PHP-FPM después de añadir el ID de seguimiento.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/analyticsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="70f27f591a759dc8a686ab8906731fe563bcf45b">
+      <trans-unit id="70f27f591a759dc8a686ab8906731fe563bcf45b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Restore favicon</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Restaurar favicon</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1aebdac37222f847fe5573f559eaf818a7173d05">
+      <trans-unit id="1aebdac37222f847fe5573f559eaf818a7173d05" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Restore logo</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Restaurar logotipo</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
       <trans-unit id="be504f616fd1d37b2a0143949516a1f34b40e9cf" xml:space="preserve">
@@ -10935,24 +10949,24 @@ los elementos ocultos.
         <target xml:space="preserve" state="translated">Se requiere su contraseña actual para confirmar su identidad antes de realizar cambios en la cuenta de este usuario.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.mod_standard.php</note>
       </trans-unit>
-      <trans-unit id="c7cd998c98d24812e49666e83724f19b40a86564">
+      <trans-unit id="c7cd998c98d24812e49666e83724f19b40a86564" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Add accessions to clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Añadir ingresos al portapapeles</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e9dc580aa5fbcb42ff8b654f2ff6d973472f70f7">
+      <trans-unit id="e9dc580aa5fbcb42ff8b654f2ff6d973472f70f7" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Add archival descriptions to clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Añadir descripciones archivísticas al portapapeles</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="317813951dbfacaaf8e2a6a1e7ceff661a3147ab">
+      <trans-unit id="317813951dbfacaaf8e2a6a1e7ceff661a3147ab" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Added %1% items to the clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Se añadieron %1% elementos al portapapeles</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="cc8bc026f24a5101aaa97187baa4b8c741b2a96d">
+      <trans-unit id="cc8bc026f24a5101aaa97187baa4b8c741b2a96d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Added 1 item to the clipboard</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Se añadió 1 elemento al portapapeles</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="4243b52707219318327792c180d76ceccccd0b10" xml:space="preserve">
@@ -10960,9 +10974,9 @@ los elementos ocultos.
         <target xml:space="preserve" state="translated">Todos los elementos ya están en el portapapeles</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ff97ccf0859bbfdda31069b5b532c4a6b0e132dd">
+      <trans-unit id="ff97ccf0859bbfdda31069b5b532c4a6b0e132dd" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Generate archival description reports from public records</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Generar informes de descripciones archivísticas a partir de registros públicos</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
     </body>
