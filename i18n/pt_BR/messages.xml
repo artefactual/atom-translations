@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="e2e719ee155ed54c4b313ad0f1c67be4edf7ed6e" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Describe, in narrative form or using organisational charts, the current administrative structure of the institution." (ISDIAH 5.3.4)</source>
-        <target xml:space="preserve" state="final">"Descreva, usando uma forma narrativa ou organogramas, a atual estrutura administrativa da instituição com acervo arquivístico." (ISDIAH 5.3.4)</target>
+        <target xml:space="preserve" state="final">"Descreva, em forma narrativa ou utilizando organogramas, a estrutura administrativa atual da instituição." (ISDIAH 5.3.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="770bdba90f877683f82eef6ff5b5ea7270521ae1" approved="yes" xml:space="preserve">
@@ -111,7 +111,7 @@
       </trans-unit>
       <trans-unit id="36ddf9b510c2bc89b2e9bd29f5d188ff655acce1" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Identify the geographical area the institution belongs to. Record any other relevant information about the cultural context of the institution." (ISDIAH 5.3.2)</source>
-        <target xml:space="preserve" state="final">"Identifique a área geográfica à qual pertence a instituição com acervo arquivístico. Registre quaisquer outras informações relevantes sobre o contexto cultural." (ISDIAH 5.3.2)</target>
+        <target xml:space="preserve" state="final">"Identifique a área geográfica à qual a instituição pertence. Registre quaisquer outras informações relevantes sobre o contexto cultural da instituição." (ISDIAH 5.3.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="2206345ab7fa0daf4cca1b31e3e2dd2776a5037f" approved="yes" xml:space="preserve">
@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit id="a2beb2c73ac629d29b867e0d06ec1080d38c9ddd" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Purpose: To indicate the various forms in which the authorised form of name of an institution occurs in other languages or script form(s). Rule: Record the parallel form(s) of name of the institution in accordance with any relevant national or international conventions or rules applied by the agency that created the description, including any necessary sub elements and/or qualifiers required by those conventions or rules. Specify in the Rules and/or conventions used element (5.6.3) which rules have been applied." (ISDIAH 5.1.3)</source>
-        <target xml:space="preserve" state="final">"Registre a(s) forma(s) paralela(s) do nome da instituição com acervo arquivístico de acordo com quaisquer convenções ou regras nacionais ou internacionais relevantes aplicadas pela instituição que criou a descrição, incluindo quaisquer subelementos e/ou qualificadores necessários, requeridos por essas convenções ou regras. Especifique no elemento Regras e/ou convenções utilizadas (5.6.3) as regras aplicadas." (ISDIAH 5.1.3)</target>
+        <target xml:space="preserve" state="final">"Objetivo: Indicar as diversas formas pelas quais a forma autorizada do nome da instituição ocorre em outros idiomas ou sistemas de escrita. Regra: Registre a(s) forma(s) paralela(s) do nome da instituição de acordo com quaisquer convenções ou normas nacionais ou internacionais pertinentes adotadas pela instituição responsável pela elaboração da descrição, incluindo todos os subelementos e/ou qualificadores exigidos por essas convenções ou normas. Especifique, no elemento Regras e/ou convenções utilizadas (5.6.3), quais normas foram aplicadas." (ISDIAH 5.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e7e21651fa1aeaf087f693b08ab6f2fc3be11ad8" approved="yes" xml:space="preserve">
@@ -306,12 +306,12 @@
       </trans-unit>
       <trans-unit id="db53deef0ae0aacea72e37581125584cce1678b6" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record information about the onsite services provided by the institution such as languages spoken by staff, research and consultation rooms, enquiry services, internal libraries, map, microfiches, audio-visual, computer rooms, etc. Record as well any relevant information about research services, such as research undertaken by the institution, and the fee charge if applicable." (ISDIAH 5.5.1)</source>
-        <target xml:space="preserve" state="final">"Registre informação sobre os serviços oferecidos no local pela instituição com acervo arquivístico, tais como idiomas falados pela equipe, salas de pesquisa e consulta, serviços de informação, bibliotecas próprias, salas de mapas, de microfichas, de audiovisual, de computadores, etc. Registre também qualquer informação relevante sobre os serviços de pesquisa à distância realizados pela instituição arquivística e, se for o caso, as taxas aplicáveis." (ISDIAH 5.5.1)</target>
+        <target xml:space="preserve" state="final">"Registre informações sobre os serviços presenciais prestados pela instituição, tais como os idiomas falados pela equipe, salas de pesquisa e consulta, serviços de referência, bibliotecas internas, mapotecas, coleções de microfichas, recursos audiovisuais, salas de informática etc. Registre também quaisquer informações relevantes sobre os serviços de pesquisa, como as pesquisas realizadas pela instituição e, quando aplicável, os valores cobrados pelos serviços." (ISDIAH 5.5.1)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="844bfbebb65773fcb66595fdddb89924d023f226" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record information about the records management and collecting policies of the institution. Define the scope and nature of material which the institution accessions. Indicate whether the repository seeks to acquire archival materials by transfer, gift, purchase and/or loan. If the policy includes active survey and/or rescue work, this might be spelt out." (ISDIAH 5.3.5)</source>
-        <target xml:space="preserve" state="final">"Registre informação sobre as políticas de gestão e de entrada de documentos da instituição com acervo arquivístico. Defina o âmbito e a natureza do material que a instituição com acervo arquivístico recebe. Indique se a instituição procura adquirir materiais arquivísticos por transferência, doação, compra e/ou comodato. Se a política incluir pesquisa aplicada e/ou ações de salvamento, isso deve ser afirmado." (ISDIAH 5.3.5)</target>
+        <target xml:space="preserve" state="final">"Registre informações sobre as políticas de gestão de documentos e de aquisição de acervo da instituição. Defina o escopo e a natureza dos materiais incorporados ao acervo pela instituição. Indique se o repositório busca adquirir materiais arquivísticos por transferência, doação, compra e/ou empréstimo. Caso a política inclua ações ativas de levantamento e/ou resgate de acervos, isso deverá ser explicitado." (ISDIAH 5.3.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b3241618a27ecff4f4e560d3945a58a621053dcf" approved="yes" xml:space="preserve">
@@ -321,7 +321,7 @@
       </trans-unit>
       <trans-unit id="1a716df241ec13cc746bbd07b71b96b668001182" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record information on the building(s) of the institution (general and architectural characteristics of the building, capacity of storage areas, etc). Where possible, provide information which can be used for generating statistics." (ISDIAH 5.3.6)</source>
-        <target xml:space="preserve" state="final">"Registre informação sobre o(s) prédio(s) da instituição com acervo arquivístico (características gerais e arquitetônicas do prédio, capacidade das áreas de armazenamento, etc). Quando possível, forneça informação que possa ser usada para gerar estatísticas." (ISDIAH 5.3.6)</target>
+        <target xml:space="preserve" state="final">"Registre informações sobre o(s) edifício(s) da instituição (características gerais e arquitetônicas do(s) edifício(s), capacidade das áreas de armazenamento etc.). Sempre que possível, forneça informações que possam ser utilizadas para a geração de estatísticas." (ISDIAH 5.3.6)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="54867318861de9866c4697130c43e3c2a2dfb770" approved="yes" xml:space="preserve">
@@ -436,7 +436,7 @@
       </trans-unit>
       <trans-unit id="00e08c8bd346677c58477e7cd8c6c1c285da1485" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the sources consulted in establishing the description of the institution." (ISDIAH 5.6.8)</source>
-        <target xml:space="preserve" state="final">"Registre as fontes consultadas para o estabelecimento da descrição da instituição com acervo arquivístico." (ISDIAH 5.6.8)</target>
+        <target xml:space="preserve" state="final">"Registre as fontes consultadas para a elaboração da descrição da instituição." (ISDIAH 5.6.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d7256d3cc6330fe3d928e525c003a03bd7bc7877" approved="yes" xml:space="preserve">
@@ -446,7 +446,7 @@
       </trans-unit>
       <trans-unit id="2f18bb4e9038d9fab8c0a1c4e89936897f8c73af" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the standardised form of name of the institution, adding appropriate qualifiers (for instance dates, place, etc.), if necessary. Specify separately in the Rules and/or conventions used element (5.6.3) which set of rules has been applied for this element." (ISDIAH 5.1.2)</source>
-        <target xml:space="preserve" state="final">"Registre a forma normalizada do nome da instituição com acervo arquivístico, acrescentando, se necessário, os qualificadores apropriados (por exemplo, datas, local, etc.). Especifique, separadamente, no elemento Regras e/ou convenções utilizadas (5.6.3), o conjunto de regras aplicado neste elemento." (ISDIAH 5.1.2)</target>
+        <target xml:space="preserve" state="final">"Registre a forma padronizada do nome da instituição, acrescentando, se necessário, os qualificadores apropriados (por exemplo, datas, localidade etc.). Especifique separadamente, no elemento Regras e/ou convenções utilizadas (5.6.3), o conjunto de normas aplicado a este elemento." (ISDIAH 5.1.2)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="c7ffd80055f6378a2468229164be45b0617650ae" approved="yes" xml:space="preserve">
@@ -461,7 +461,7 @@
       </trans-unit>
       <trans-unit id="59d2adcb935a03faf6d6cc14d68545ed8b3f95ff" approved="yes" xml:space="preserve">
         <source xml:space="preserve">"Record the title and other pertinent details of the published and/or unpublished finding aids and guides prepared by the institution and of any other relevant publications. Use ISO 690 Information and documentation – Bibliographic references and other national or international cataloguing rules." (ISDIAH 5.3.8)</source>
-        <target xml:space="preserve" state="final">"Registre o título e os outros dados pertinentes dos instrumentos de pesquisa, impressos ou não, e guias preparados pela instituição com acervo arquivístico, bem como quaisquer outras publicações relevantes. Use a ISO 690: Informação e Documentação – Referências bibliográficas ou outras regras, nacionais ou internacionais, de catalogação." (ISDIAH 5.3.8)</target>
+        <target xml:space="preserve" state="final">"Registre o título e outros detalhes pertinentes dos instrumentos de pesquisa e guias, publicados e/ou não publicados, elaborados pela instituição, bem como de quaisquer outras publicações relevantes. Utilize a ISO 690 – Informação e documentação — Referências bibliográficas ou outras normas nacionais ou internacionais de catalogação." (ISDIAH 5.3.8)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5ec7f5e4f7d5ef80be07aa136d2cc6487111acd1" approved="yes" xml:space="preserve">
