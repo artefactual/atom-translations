@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
   <file source-language="en" target-language="" datatype="plaintext" original="messages" date="2020-10-21T23:58:52Z" product-name="messages">
@@ -10651,226 +10651,249 @@
         <target xml:space="preserve" state="final">Defnyddiwch y ddau faes i ychwanegu lefelau is i ddisgrifiad ar lefel casgliad. Cliciwch Ychwanegu newydd i ychwanegu cymaint ag sydd angen o lefelau plant. Dynodwr: rhowch rif safonol unigryw neu god sy'n dynodi'r adnodd. Teitl: rhowch Air, ymadrodd, cymeriad, neu grŵp o gymeriadau, sydd fel arfer yn ymddangos mewn adnodd, sydd yn ei enwi neu'r gwaith a gynhwysir ynddo.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/sfModsPlugin/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="32e271bec7e31df1838efd94cf39df8b980c7283">
+      <trans-unit id="32e271bec7e31df1838efd94cf39df8b980c7283" xml:space="preserve" approved="yes">
         <source xml:space="preserve"> %1%Download%2% (%3%)</source>
+        <target state="final"> %1%Lawrlwytho%2% (%3%)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
-      <trans-unit id="8cbecd540cfe5ae7ac2c6255c83a8a906fe7cd21">
+      <trans-unit id="8cbecd540cfe5ae7ac2c6255c83a8a906fe7cd21" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%du% &lt;abbr title="1 GB = 1 000 000 000 bytes"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Unlimited&lt;/em&gt;</source>
+        <target state="final">%du% &lt;abbr title="1 GB = 1 000 000 000 beit"&gt;GB&lt;/abbr&gt; of &lt;em&gt;Diderfyn&lt;/em&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
-      <trans-unit id="31cb8ebdd8929e1a64627c0799b74b8fdf1d195d">
+      <trans-unit id="31cb8ebdd8929e1a64627c0799b74b8fdf1d195d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Limit authenticated functionality to one or more IP addresses, separated by semicolons.</source>
+        <target state="final">Cyfyngwch ffwythiant dilys i un neu fwy o gyfeiriadau IP, wedi'u gwahanu gan hanner colon.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/securityAction.class.php</note>
       </trans-unit>
-      <trans-unit id="6b15a735d588300e17abdac3a7795f9ab6b5084c">
+      <trans-unit id="6b15a735d588300e17abdac3a7795f9ab6b5084c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Clipboard saved with %1% item(s). Clipboard ID is &lt;b&gt;%2%&lt;/b&gt;. Please write this number down. When you want to reload this clipboard in the future, open the Clipboard menu, select &lt;a class="alert-link" href="%3%"&gt;Load clipboard&lt;/a&gt;, and enter this number in the Clipboard ID field. Clipboards are eligible for deletion after &lt;b&gt;%4% day(s)&lt;/b&gt;.</source>
+        <target state="final">Clipfwrdd wedi'i gadw gyda %1% eitem. ID y Clipfwrdd yw &lt;b&gt;%2%&lt;/b&gt;. Ysgrifennwch y rhif hwn i lawr. Pan fyddwch chi eisiau ail-lwytho'r clipfwrdd hwn yn y dyfodol, agorwch y ddewislen Clipfwrdd, dewiswch &lt;a class="alert-link" href="%3%"&gt;Llwytho'r clipfwrdd&lt;/a&gt;, a rhowch y rhif hwn yn y maes ID Clipfwrdd. Mae clipfyrddau yn gymwys i'w dileu ar ôl &lt;b&gt;%4% diwrnod&lt;/b&gt;.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/saveAction.class.php</note>
       </trans-unit>
-      <trans-unit id="125d8aa6b348d7c1906ce440798c3f13646b16cf">
+      <trans-unit id="125d8aa6b348d7c1906ce440798c3f13646b16cf" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Identifier%2% - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">%1%Dynodwr%2% - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="383d898d01df0f4d4b470026ea0a55423de31eb8">
+      <trans-unit id="383d898d01df0f4d4b470026ea0a55423de31eb8" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%Title%2% - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">%1%Teitl%2% - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f46c96967052c110064d18c2b28afc8570d77eeb">
+      <trans-unit id="f46c96967052c110064d18c2b28afc8570d77eeb" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Acquisition date - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Dyddiad derbyn - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="2103e6e0f4978ec7b42a5e93d000c6c2fa14655d">
+      <trans-unit id="2103e6e0f4978ec7b42a5e93d000c6c2fa14655d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Authorized form of name - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Ffurf awdurdodedig o enw - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/donor/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="9b364e177b078c84e3da63de9bfdc3217cdffe75">
+      <trans-unit id="9b364e177b078c84e3da63de9bfdc3217cdffe75" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Date of acquisition - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Dyddiad y derbyn - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="c68f1605d5148df6214e6c795701b2efc7f17799">
+      <trans-unit id="c68f1605d5148df6214e6c795701b2efc7f17799" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Date(s) - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Dyddiad(au) - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="c6701e5b3307ca8140b7b982ae4721541a461a5e">
+      <trans-unit id="c6701e5b3307ca8140b7b982ae4721541a461a5e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Description - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Disgrifiad - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="42315c340e6c6162b423612ebb6bb66ef88bff18">
+      <trans-unit id="42315c340e6c6162b423612ebb6bb66ef88bff18" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Extent - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Maint - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="38f3fbd305c6e7200083e8c0e9ac7afbea4bfb09">
+      <trans-unit id="38f3fbd305c6e7200083e8c0e9ac7afbea4bfb09" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Identifier - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Dynodwr - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d55f5739060aa85c91eac38ab695787814b832d7">
+      <trans-unit id="d55f5739060aa85c91eac38ab695787814b832d7" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Level of description - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Lefel y disgrifiad - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="f58417afa3d329bac5551b7228eeeb93af97e30f">
+      <trans-unit id="f58417afa3d329bac5551b7228eeeb93af97e30f" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Location information - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Gwybodaeth lleoliad - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d61cfa63b4185ef490f5b390c9cc9b4541e3c18c">
+      <trans-unit id="d61cfa63b4185ef490f5b390c9cc9b4541e3c18c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Name and location of repository - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Enw a lleoliad y gadwrfa - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="826328af3e26da316a83790aa7d3208b79a8e01d">
+      <trans-unit id="826328af3e26da316a83790aa7d3208b79a8e01d" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Physical description - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Disgrifiad ffisegol - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfRadPlugin/modules/sfRadPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="d8d7a9e452462a1d5612876aea2dc5d3e0697b57">
+      <trans-unit id="d8d7a9e452462a1d5612876aea2dc5d3e0697b57" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Scope - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Cwmpas - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/deaccession/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="afecf64b03fbf15166b98ad7338cc3d3c89b0a9b">
+      <trans-unit id="afecf64b03fbf15166b98ad7338cc3d3c89b0a9b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Scope and content - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Cwmpas a chynnwys - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="ed65c626cdffa34caeebceac1f0a07c3623ee5d2">
+      <trans-unit id="ed65c626cdffa34caeebceac1f0a07c3623ee5d2" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Source of acquisition - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Ffynhonnell y derbyniad - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="8cbfad6d2fe6d97da911e7f6452394403ce64511">
+      <trans-unit id="8cbfad6d2fe6d97da911e7f6452394403ce64511" xml:space="preserve" approved="yes">
         <source xml:space="preserve">This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDominionB5Plugin/modules/donor/templates/editSuccess.php</note>
       </trans-unit>
-      <trans-unit id="a7046d09479709b1e812d61ccaf591908320147c">
+      <trans-unit id="a7046d09479709b1e812d61ccaf591908320147c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">This field is marked as mandatory in the relevant descriptive standard.&lt;/span&gt;</source>
+        <target state="final">Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.&lt;/span&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="b679e280f7e5d6ae7358530c85416a1f8ff091cd">
+      <trans-unit id="b679e280f7e5d6ae7358530c85416a1f8ff091cd" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Title - This field is marked as mandatory in the relevant descriptive standard.</source>
+        <target state="final">Teitl - Mae'r maes hwn wedi'i farcio fel un gorfodol yn y safon ddisgrifiol berthnasol.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/actions/indexAction.class.php</note>
       </trans-unit>
-      <trans-unit id="46609ae6fb26e88741bf4379c10034d5d59961fa">
+      <trans-unit id="46609ae6fb26e88741bf4379c10034d5d59961fa" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%'s current password</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cyfrinair cyfredol %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.mod_standard.php</note>
       </trans-unit>
-      <trans-unit id="595a621ce02ef3060e316a2028107c872b4acb5f">
+      <trans-unit id="595a621ce02ef3060e316a2028107c872b4acb5f" xml:space="preserve" approved="yes">
         <source xml:space="preserve">%1%'s current password does not match our records</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Nid yw cyfrinair cyfredol %1% yn cyfateb â'n cofnodion</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/editAction.class.php</note>
       </trans-unit>
-      <trans-unit id="73209f25c8dc913c9158bc289d1669b58d54442a">
+      <trans-unit id="73209f25c8dc913c9158bc289d1669b58d54442a" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Accession count:&amp;nbsp;</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cyfrif derbyn:&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="e8cab60d2e9e30b07f83d116d35e499644caafff">
+      <trans-unit id="e8cab60d2e9e30b07f83d116d35e499644caafff" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Archival description count:&amp;nbsp;</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cyfrif disgrifiad archifol:&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="a6464d8f1cce22cfab1e7f06b1526e513deecb04">
+      <trans-unit id="a6464d8f1cce22cfab1e7f06b1526e513deecb04" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Archival institution count:&amp;nbsp;</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cyfrif sefydliad archifol:&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="53d3e39ade1b019a862014f9bfff2a6e173f0ef4">
+      <trans-unit id="53d3e39ade1b019a862014f9bfff2a6e173f0ef4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">AtoM logo</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Logo AtoM</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/templates/_header.php</note>
       </trans-unit>
-      <trans-unit id="36e2a0feac6249a66bfa4ad81a3bf7a9170ee698">
+      <trans-unit id="36e2a0feac6249a66bfa4ad81a3bf7a9170ee698" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Authority record count:&amp;nbsp;</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cyfrif cofnod awdurdod:&amp;nbsp;</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/settings.yml</note>
       </trans-unit>
-      <trans-unit id="1876e37786789aa4b7027f9a4e134181f7ee89f9">
+      <trans-unit id="1876e37786789aa4b7027f9a4e134181f7ee89f9" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Background colour</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Lliw y cefndir</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/headerAction.class.php</note>
       </trans-unit>
-      <trans-unit id="54ab1a1a7ac7695b43ca94bdd65db5ff4872bb9b">
+      <trans-unit id="54ab1a1a7ac7695b43ca94bdd65db5ff4872bb9b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Change header background colour</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Newid lliw cefndir y pennawd</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
-      <trans-unit id="f85039fd8e49f782229c7c4e0f1b3b2a0f95e9e4">
+      <trans-unit id="f85039fd8e49f782229c7c4e0f1b3b2a0f95e9e4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Confirm new password</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cadarnhewch y cyfrinair newydd</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.mod_standard.php</note>
       </trans-unit>
-      <trans-unit id="e5dc321e3ec8422bb4bd467787ea1332300b8ac4">
+      <trans-unit id="e5dc321e3ec8422bb4bd467787ea1332300b8ac4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Default favicon not found.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Methu darganfod yr hoff eicon rhagosodedig.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/headerAction.class.php</note>
       </trans-unit>
-      <trans-unit id="b507167fa8662f821b6a7f84306ae2d78b545380">
+      <trans-unit id="b507167fa8662f821b6a7f84306ae2d78b545380" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Default logo not found.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Methu darganfod y logo rhagosodedig.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/headerAction.class.php</note>
       </trans-unit>
-      <trans-unit id="476bf2a66a81f62a9b7efb38647e734d1c7a788c">
+      <trans-unit id="476bf2a66a81f62a9b7efb38647e734d1c7a788c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Generate Finding Aid from public records</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cynhyrchu Cymorth Chwilio o gofnodion cyhoeddus</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsFindingAidForm.class.php</note>
       </trans-unit>
-      <trans-unit id="c3c077aeb696c854a122a908eb15eab65064d7b4">
+      <trans-unit id="c3c077aeb696c854a122a908eb15eab65064d7b4" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Google Analytics tracking ID</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">ID tracio Google Analytics</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/analyticsAction.class.php</note>
       </trans-unit>
-      <trans-unit id="06c1973f88d29053095bf89ceb8aa1c3fd6610bc">
+      <trans-unit id="06c1973f88d29053095bf89ceb8aa1c3fd6610bc" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Google analytics is currently set in the app.yml.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Mae Google analytics wedi'i osod yn app.yml ar hyn o bryd.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/analyticsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="74da81ea1f43e93e6220293a89e83a38ac6db759">
+      <trans-unit id="74da81ea1f43e93e6220293a89e83a38ac6db759" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Header customizations</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Addasiadau pennawd</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
       </trans-unit>
-      <trans-unit id="4a42d31bf9699aeccf6405846146b7cdd10a6b9e">
+      <trans-unit id="4a42d31bf9699aeccf6405846146b7cdd10a6b9e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Header customizations settings saved.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Gosodiadau addasiadau pennawd wedi'u cadw.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/headerAction.class.php</note>
       </trans-unit>
-      <trans-unit id="efd197f3fce450112a4bdd0c3db3118a46b8002c">
+      <trans-unit id="efd197f3fce450112a4bdd0c3db3118a46b8002c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Main navigation</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Prif lywio</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/templates/_header.php</note>
       </trans-unit>
-      <trans-unit id="19781d1e35ffa4b56c2d77533fa113d14e79465e">
+      <trans-unit id="19781d1e35ffa4b56c2d77533fa113d14e79465e" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Note that browser cache may need to be cleared after uploading a new favicon.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Nodwch y gallai fod angen clirio storfa’r porwr ar ôl llwytho hoff eicon newydd.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
-      <trans-unit id="ac20b9ed086261468a3da599da1eb2393480586c">
+      <trans-unit id="ac20b9ed086261468a3da599da1eb2393480586c" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Note that browser cache may need to be cleared after uploading a new logo.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Nodwch y gallai fod angen clirio storfa’r porwr ar ôl llwytho logo newydd.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
-      <trans-unit id="e3a20e3db7c385a6396740ed9ff105ac954713bb">
+      <trans-unit id="e3a20e3db7c385a6396740ed9ff105ac954713bb" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Please clear the cache and restart PHP-FPM after adding tracking ID.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Cliriwch y storfa ac ailgychwynwch PHP-FPM ar ôl ychwanegu'r ID tracio.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/analyticsSuccess.php</note>
       </trans-unit>
-      <trans-unit id="70f27f591a759dc8a686ab8906731fe563bcf45b">
+      <trans-unit id="70f27f591a759dc8a686ab8906731fe563bcf45b" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Restore favicon</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Adfer hoff eicon</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
-      <trans-unit id="1aebdac37222f847fe5573f559eaf818a7173d05">
+      <trans-unit id="1aebdac37222f847fe5573f559eaf818a7173d05" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Restore logo</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Adfer logo</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
-      <trans-unit id="be504f616fd1d37b2a0143949516a1f34b40e9cf">
+      <trans-unit id="be504f616fd1d37b2a0143949516a1f34b40e9cf" xml:space="preserve" approved="yes">
         <source xml:space="preserve">Skip to main content</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Hepgor i'r prif gynnwys</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/templates/_header.php</note>
       </trans-unit>
-      <trans-unit id="1309b7df06ebc414b48c54ec0af510ed53b5c363">
+      <trans-unit id="1309b7df06ebc414b48c54ec0af510ed53b5c363" xml:space="preserve" approved="yes">
         <source xml:space="preserve">The favicon file must be in ICO file format.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Rhaid i ffeil yr hoff eicon fod mewn fformat ffeil ICO.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
-      <trans-unit id="367992df825b198f1e003402edc6d35b42a2b663">
+      <trans-unit id="367992df825b198f1e003402edc6d35b42a2b663" xml:space="preserve" approved="yes">
         <source xml:space="preserve">The logo file must be in “Portable Network Graphics” (PNG) format and the maximum height recommendation for a logo is 50px.</source>
-        <target xml:space="preserve"/>
+        <target xml:space="preserve" state="final">Rhaid i ffeil y logo fod mewn fformat “Portable Network Graphics” (PNG) a’r uchder uchaf a argymhellir ar gyfer logo yw 50px.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/headerSuccess.php</note>
       </trans-unit>
       <trans-unit id="1ec0b00d7e4a7ebd7e91c21e91a99ece12fa858a">
