@@ -5842,7 +5842,7 @@
       </trans-unit>
       <trans-unit id="0efc2e6be4c23b9a513d7ce0dcff8ed80e8912e7" xml:space="preserve">
         <source xml:space="preserve">Overview</source>
-        <target xml:space="preserve" state="translated">Panorámica</target>
+        <target xml:space="preserve" state="translated">Vista general</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/reportSuccess.php</note>
       </trans-unit>
       <trans-unit id="e8f69d8c3390504ae19e36dfe9f800f98eacf6fe" approved="yes" xml:space="preserve">
@@ -6567,12 +6567,12 @@
       </trans-unit>
       <trans-unit id="5b9fee98732ea4e9df9b773fc6325fdabe7e68b3" xml:space="preserve">
         <source xml:space="preserve">Record group</source>
-        <target state="translated" xml:space="preserve">Grupo de registro</target>
+        <target state="translated" xml:space="preserve">Agrupamiento documental</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="4e639f1c0c21b3ca508a668c9fb8f92b8d66e0a3" xml:space="preserve">
         <source xml:space="preserve">Record information about any distinctive alphabets, scripts, symbol systems, or abbreviations employed (DACS 4.5.3). If there is no language content, record “no linguistic content.” (DACS 4.5.4)</source>
-        <target xml:space="preserve" state="translated">Registre información sobre cualquier alfabeto, escritura, sistema de símbolos o abreviaturas diferente empleado (DACS 4.5.3). Si no hay contenido lingüístico, registre "sin contenido lingüístico". (DACS 4.5.4)</target>
+        <target xml:space="preserve" state="translated">Registre información sobre cualquier alfabeto, escritura, sistema de símbolos o abreviaturas empleado (DACS 4.5.3). Si no hay contenido lingüístico, registre "sin contenido lingüístico". (DACS 4.5.4)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="e5a1da565668827cc753f8de6c05d1acd7635ebf" xml:space="preserve">
@@ -6707,7 +6707,7 @@
       </trans-unit>
       <trans-unit id="23a092ff00759529806b89b4066a63210faf2126" xml:space="preserve">
         <source xml:space="preserve">Record the successive transfers of ownership, responsibility, or custody or control of the unit being described from the time it left the possession of the creator until its acquisition by the repository, along with the dates thereof, insofar as this information can be ascertained and is significant to the user’s understanding of the authenticity. (DACS 5.1.3)</source>
-        <target xml:space="preserve" state="translated">Registre las sucesivas transferencias de propiedad, responsabilidad, custodia o control de la unidad que se describe desde el momento en que el creador dejo de poseerlo hasta su adquisición por el depósito, junto con las fechas de las mismas, en la medida en que esta información pueda determinarse y sea significativa para la comprensión de la autenticidad por parte del usuario. (DACS 5.1.3)</target>
+        <target xml:space="preserve" state="translated">Registre las sucesivas transferencias de propiedad, responsabilidad, custodia o control de la unidad descrita, desde el momento en que salió de la posesión del productor hasta su adquisición por la entidad custodiante, junto con las fechas correspondientes, en la medida en que esta información pueda determinarse y sea significativa para la comprensión del usuario sobre su autenticidad. (DACS 5.1.3)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/arDacsPlugin/modules/arDacsPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="6dbe4e1030176424044e6b36f22b861acdbdb345" approved="yes" xml:space="preserve">
@@ -6762,7 +6762,7 @@
       </trans-unit>
       <trans-unit id="061c816bc55f7fe588d9caa212fa7beb84495368" xml:space="preserve">
         <source xml:space="preserve">Reference copy</source>
-        <target xml:space="preserve" state="translated">Copia de referencia</target>
+        <target xml:space="preserve" state="translated">Copia de consulta</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="56e3badc4e6c5cc95e0ea5a9a878b9bd09f319d4" approved="yes" xml:space="preserve">
@@ -6892,7 +6892,7 @@
       </trans-unit>
       <trans-unit id="261802c20356caa2d9d01a918c516f7cc62a6352" xml:space="preserve">
         <source xml:space="preserve">Related materials area</source>
-        <target xml:space="preserve" state="translated">Área de materiales relacionados</target>
+        <target xml:space="preserve" state="translated">Área de documentación asociada</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="eec37cb147e03396540984ebce49a03799bd1f75" approved="yes" xml:space="preserve">
@@ -7012,7 +7012,7 @@
       </trans-unit>
       <trans-unit id="6acb16803398b7de29fa6648c822e2108ac3cbe5" xml:space="preserve">
         <source xml:space="preserve">Replace existing clipboard results with saved clipboard</source>
-        <target xml:space="preserve" state="translated">Sustituir los resultados del portapapeles existente con el portapapeles guardado</target>
+        <target xml:space="preserve" state="translated">Reemplazar los resultados del portapapeles con el portapapeles guardado</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/loadAction.class.php</note>
       </trans-unit>
       <trans-unit id="16462c5c970a03afa087f3d8dc3253607857ea08" approved="yes" xml:space="preserve">
@@ -7137,7 +7137,7 @@
       </trans-unit>
       <trans-unit id="9d5a7a672ef75f7716a2d61f48eb8a5b7f5b3850" xml:space="preserve">
         <source xml:space="preserve">Return to group list</source>
-        <target xml:space="preserve" state="translated">Volver al listado de grupos</target>
+        <target xml:space="preserve" state="translated">Volver a la lista de grupos</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qbAclPlugin/modules/aclGroup/templates/_showActions.php</note>
       </trans-unit>
       <trans-unit id="0a419de40e98c320a4eefff8953fce4fdfb651f4" xml:space="preserve" approved="yes">
@@ -7147,7 +7147,7 @@
       </trans-unit>
       <trans-unit id="328d8069dc190f42a30ec62b9ee09e13d9d0c03f" xml:space="preserve">
         <source xml:space="preserve">Return to user list</source>
-        <target xml:space="preserve" state="translated">Volver a la lista de usuario</target>
+        <target xml:space="preserve" state="translated">Volver a la lista de usuarios</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/_showActions.php</note>
       </trans-unit>
       <trans-unit id="1037a93521b529431fc4829133e4d92635856d2c" approved="yes" xml:space="preserve">
@@ -7247,7 +7247,7 @@
       </trans-unit>
       <trans-unit id="e658b2249d48c4f427a38fd312d7f97bcdccc88d" xml:space="preserve">
         <source xml:space="preserve">SWORD plugin setting changed: the AtoM worker must be restarted for this change to take effect.</source>
-        <target state="translated" xml:space="preserve">Se ha modificado la configuración del complemento SWORD: el motor de AtoM debe reiniciarse para que este cambio surta efecto.</target>
+        <target state="translated" xml:space="preserve">Se ha cambiado la configuración del complemento SWORD: es necesario reiniciar el worker de AtoM para que este cambio surta efecto.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfPluginAdminPlugin/modules/sfPluginAdminPlugin/actions/pluginsAction.class.php</note>
       </trans-unit>
       <trans-unit id="6df74794c02a082a6a784cde86a2b95263645e31" approved="yes" xml:space="preserve">
@@ -7262,7 +7262,7 @@
       </trans-unit>
       <trans-unit id="a8cc93be254c25a50ec105adc97e01b94a32d6df" xml:space="preserve">
         <source xml:space="preserve">Save clipboard</source>
-        <target xml:space="preserve" state="translated">Salvar el portapapeles</target>
+        <target xml:space="preserve" state="translated">Guardar portapapeles</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/menus.yml</note>
       </trans-unit>
       <trans-unit id="d75e3c618d00b000ad2fc6f803bbf02abba350c0" approved="yes" xml:space="preserve">
@@ -7272,7 +7272,7 @@
       </trans-unit>
       <trans-unit id="1a41058b2f5f7be2a263699df0fe0049b749d666" xml:space="preserve">
         <source xml:space="preserve">Saved clipboard maximum age (in days)</source>
-        <target xml:space="preserve" state="translated">Guardar el portapapeles (en días)</target>
+        <target xml:space="preserve" state="translated">Antigüedad máxima (en días) del portapapeles guardado</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/clipboardSuccess.php</note>
       </trans-unit>
       <trans-unit id="81127dba75eb6295f28eedc763e0a098aeccf82f" approved="yes" xml:space="preserve">
