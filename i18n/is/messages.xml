@@ -288,6 +288,7 @@
       </trans-unit>
       <trans-unit id="844bfbebb65773fcb66595fdddb89924d023f226">
         <source xml:space="preserve">"Record information about the records management and collecting policies of the institution. Define the scope and nature of material which the institution accessions. Indicate whether the repository seeks to acquire archival materials by transfer, gift, purchase and/or loan. If the policy includes active survey and/or rescue work, this might be spelt out." (ISDIAH 5.3.5)</source>
+        <target state="translated">„Skráið upplýsingar um stefnu stofnunarinnar varðandi skjalastjórn og söfnun. Skilgreinið umfang og eðli þess efnis sem stofnunin tekur við. Tilgreinið hvort safnið leitast við að afla skjalasafnsgagna með tilfærslu, gjöf, kaupum og/eða láni. Ef stefnan felur í sér virka könnun og/eða björgunarstarf mætti tilgreina það sérstaklega.“ (ISDIAH 5.3.5)</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfIsdiahPlugin/modules/sfIsdiahPlugin/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="b3241618a27ecff4f4e560d3945a58a621053dcf">
@@ -706,14 +707,17 @@
       </trans-unit>
       <trans-unit id="1b1e4988501ebd3c49e084a0cd85d54561703f8e">
         <source xml:space="preserve">%1%Note:%2% Enter notes associated with the event.%3%</source>
+        <target state="translated">%1%Athugasemd:%2% Sláðu inn athugasemdir sem tengjast atburðinum.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="9fd6ed84039dd69491d9afb8d3770bf847b323fd">
         <source xml:space="preserve">%1%Refresh the page%2% for progress updates.</source>
+        <target state="translated">%1%Endurhladdu síðuna%2% til að sjá stöðu framvindu.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/clipboard/actions/exportCheckAction.class.php</note>
       </trans-unit>
       <trans-unit id="60a6eff30d40a00da53e674f8fe4ad7a54e94c2c">
         <source xml:space="preserve">%1%Relation%2% (%3%isLocatedAt%4%) - This is a mandatory element for this resource or one of its higher descriptive levels (if part of a collection hierarchy).</source>
+        <target state="translated">%1%Relation%2% (%3%isLocatedAt%4%) – Þetta er skyldubundinn skráningarþáttur fyrir þetta efni eða eitt af hærri skráningarstigum hennar (ef hún er hluti af stigveldi safns).</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/sfDcPlugin/modules/sfDcPlugin/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="1400b0b793d9e20117f146e4778506a17c7d1066" approved="yes" xml:space="preserve">
@@ -733,6 +737,7 @@
       </trans-unit>
       <trans-unit id="7c6d52017a474fb9b5e769163ec15941a50bb26f">
         <source xml:space="preserve">%1%Type:%2% Select the type of the event.%3%</source>
+        <target state="translated">%1%Tegund:%2% Veldu tegund atburðar.%3%</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/_events.php</note>
       </trans-unit>
       <trans-unit id="06fa8301c9a6972b241494929371df4b8d8a0c73" approved="yes" xml:space="preserve">
@@ -808,6 +813,7 @@
       </trans-unit>
       <trans-unit id="71905778df195331f3b1407669dae3e55830c71e">
         <source xml:space="preserve">A description of the physical condition of the accession and if any preservation or special handling is required.</source>
+        <target state="translated">Lýsing á efnislegu ástandi afhendingarinnar og hvort þörf sé á forvörsluaðgerðum eða sérstakri meðhöndlun.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="29b217c09a653b7e3130341d7993577cfecd3c99" approved="yes" xml:space="preserve">
@@ -934,10 +940,12 @@
       </trans-unit>
       <trans-unit id="8f690053c5a934ec3d22a8c4db84e1c7c1db52ef">
         <source xml:space="preserve">Accession alternative identifier</source>
+        <target state="translated">Annað auðkenni afhendingar</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="b0444ca6a89ac9ede54e88c692f1c0059562f0b2">
         <source xml:space="preserve">Accession alternative identifier type</source>
+        <target state="translated">Tegund viðbótar-auðkennis afhendingar</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="c9df8646e368f45d8085a69e9a3a50e584fb623d" approved="yes" xml:space="preserve">
@@ -947,10 +955,12 @@
       </trans-unit>
       <trans-unit id="377e7551fae8a7c156e47224e07b4560f6ddd2c7">
         <source xml:space="preserve">Accession counter</source>
+        <target state="translated">Afhendingar teljari</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/identifierSuccess.php</note>
       </trans-unit>
       <trans-unit id="99808828e01bc6dfcda928cb8fe25828bf5b3471">
         <source xml:space="preserve">Accession date represents the date of receipt of the materials and is added during the donation process.</source>
+        <target state="translated">Dagsetning afhendingar táknar dagsetninguna þegar gögnin bárust og er skráð meðan á afhendingarferlinu stendur.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="68b5c50fbfb0eed47fded7af59ee5e8d17b214ff">
@@ -959,6 +969,7 @@
       </trans-unit>
       <trans-unit id="2c1dd1ab41428e1a671da8179efc58765565b2b1">
         <source xml:space="preserve">Accession event type</source>
+        <target state="translated">Afhendingar atburðategund</target>
         <note>https://github.com/artefactual/atom/blob/master/data/fixtures/taxonomyTerms.yml</note>
       </trans-unit>
       <trans-unit id="dc94c7dd428fc7f45da026ba9b3c16e8b0a2cbb9">
@@ -976,6 +987,7 @@
       </trans-unit>
       <trans-unit id="bdead2012720d6152aa18f95ffff4c4cd9d300a5">
         <source xml:space="preserve">Accession number should be a combination of values recorded in the field and should be a unique accession number for the repository</source>
+        <target state="translated">Afhendingarnúmer ætti að vera samsetning gilda sem skráð eru í reitinn og ætti að vera einkvæmt afhendingarnúmer fyrir varðveislustofnunina</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="5deb4f1bd5b5437f680e0d6c2bfd937d94b41658" approved="yes" xml:space="preserve">
@@ -1429,6 +1441,7 @@
       </trans-unit>
       <trans-unit id="0093803350debbacf4123534c36189f86bcd43d6">
         <source xml:space="preserve">An indicator of the accessioning process.</source>
+        <target state="translated">Vísir um afhendingarferlið.</target>
         <note>https://github.com/artefactual/atom/blob/master/plugins/qtAccessionPlugin/modules/accession/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="a01e33f4dcdb6ba1ae9f34a97cf8f6deeedf1a8d" approved="yes" xml:space="preserve">
